@@ -47,11 +47,17 @@ Daily one-command workflow (generate feeds, then start local server):
 ./refresh_zotero_feed.sh
 ```
 
+By default, this script refreshes all existing feed targets already present in `feeds/`
+(matching `*_Xd_feed.xml`).
+
 Optional overrides:
 
 ```bash
 CONFIG=Heavy-Ion LOOKBACK_DAYS=30 MAX_RESULTS=400 PORT=8000 ./refresh_zotero_feed.sh
 ```
+
+Override behavior note:
+- If no matching feed files are found in `feeds/`, it falls back to `CONFIG` + `LOOKBACK_DAYS`.
 
 Useful options:
 - `--search`: run scraping/export flow
