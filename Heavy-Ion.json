@@ -1,0 +1,20 @@
+{
+    "config_tag": "Heavy-IonConfig",
+    "source": "arxiv",
+    "list_authors" : [],
+    "list_categories" : ["nucl-th", "nucl-ex"],
+    "list_keywords_exclude" : [],
+    "list_keywords_include" : [
+            ["quark-gluon","plasma"],
+            ["heavy-ion","collisions"],
+            ["hydrodynamics"],
+            ["relativistic","hydrodynamics"],
+            ["transport","model"], ["smash"], ["UrQMD"], ["hadron", "resonance", "gas"],
+            ["initial","conditions"],
+            ["collective","flow"],
+            ["hadronization"],["particlization"],["grad's"],["freeze-out"],
+            ["color","glass","condensate"] 
+    ],
+    "user_prompt": "FSOCuserPrompt.txt",
+    "system_prompt": "systemPrompt.txt"
+}

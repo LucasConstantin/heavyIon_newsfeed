@@ -1,0 +1,17 @@
+{
+  "config_tag": "BioRxivExample",
+  "source": "biorxiv",
+  "biorxiv_search_engine": "rxivist",
+  "list_authors": [],
+  "list_categories": [],
+  "list_keywords_exclude": [
+    "plant",
+    "yeast",
+    "zebrafish"
+  ],
+  "list_keywords_include": [
+    ["electron", "microscopy"]
+  ],
+  "user_prompt": "FSOCuserPrompt.txt",
+  "system_prompt": "systemPrompt.txt"
+}

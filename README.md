@@ -29,9 +29,15 @@ Default config name:
 - `Heavy-Ion.json`
 
 Config fields used:
+- `source`: data source, either `arxiv` or `biorxiv` (default `arxiv`)
+- `biorxiv_search_engine`: `rxivist` (recommended default) or `biorxiv`
 - `list_categories`: arXiv categories to query (for example `nucl-th`)
 - `list_keywords_include`: OR-of-groups include filter
 - `list_keywords_exclude`: exclude filter
+
+Notes:
+- When `source` is `arxiv`, `list_categories` is used.
+- When `source` is `biorxiv`, keyword groups are converted into text queries via `biorxiv_retriever`.
 
 ## Usage
 
