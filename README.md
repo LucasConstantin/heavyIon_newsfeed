@@ -1,5 +1,16 @@
 # arXiv Heavy-Ion Newsfeed
 
+## Live Feeds
+
+Updated every Monday. Subscribe directly in Zotero or any RSS reader:
+
+| Feed | Link |
+|------|------|
+| Heavy-Ion — last 7 days | [Heavy-Ion_7d_feed.xml](https://lucasconstantin.github.io/heavyIon_newsfeed/feeds/Heavy-Ion_7d_feed.xml) |
+| Heavy-Ion — last 100 days | [Heavy-Ion_100d_feed.xml](https://lucasconstantin.github.io/heavyIon_newsfeed/feeds/Heavy-Ion_100d_feed.xml) |
+
+---
+
 Minimal arXiv scraper that:
 1. Searches arXiv using keyword filters from a JSON config.
 2. Exports an RSS feed XML file.
