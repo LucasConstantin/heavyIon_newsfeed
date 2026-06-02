@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>arXiv Search - Heavy-Ion (7d)</title>
+    <dateCreated>2026-06-02T20:05:56.434079</dateCreated>
+    <ownerName>arXiv Scraper</ownerName>
+  </head>
+  <body>
+    <outline type="rss" text="Heavy-Ion (7d) Feed" title="Heavy-Ion (7d) Feed" xmlUrl="https://lucasconstantin.github.io/heavyIon_newsfeed/feeds/Heavy-Ion_7d_feed.xml"/>
+  </body>
+</opml>

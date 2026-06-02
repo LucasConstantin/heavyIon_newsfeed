@@ -2,10 +2,10 @@
 <opml version="2.0">
   <head>
     <title>arXiv Search - Heavy-Ion (100d)</title>
-    <dateCreated>2026-04-11T22:29:48.581184</dateCreated>
+    <dateCreated>2026-06-02T20:06:05.912106</dateCreated>
     <ownerName>arXiv Scraper</ownerName>
   </head>
   <body>
-    <outline type="rss" text="Heavy-Ion (100d) Feed" title="Heavy-Ion (100d) Feed" xmlUrl="http://127.0.0.1:8000/feeds/Heavy-Ion_100d_feed.xml"/>
+    <outline type="rss" text="Heavy-Ion (100d) Feed" title="Heavy-Ion (100d) Feed" xmlUrl="https://lucasconstantin.github.io/heavyIon_newsfeed/feeds/Heavy-Ion_100d_feed.xml"/>
   </body>
 </opml>
