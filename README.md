@@ -8,8 +8,8 @@ Minimal arXiv scraper that:
 ## Installation
 
 ```bash
-git clone https://github.com/LucasConstantin/zotero_heavyIon_newsfeed.git
-cd zotero_heavyIon_newsfeed
+git clone https://github.com/LucasConstantin/heavyIon_newsfeed.git
+cd heavyIon_newsfeed
 python -m pip install -r requirements.txt
 ```
 

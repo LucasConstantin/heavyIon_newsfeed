@@ -1,0 +1,61 @@
+name: Refresh Heavy-Ion Feed
+
+on:
+  schedule:
+    # Every Monday at 07:00 UTC (= 09:00 CEST / 08:00 CET)
+    - cron: "0 7 * * 1"
+  workflow_dispatch: # allow manual runs from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate 7-day feed
+        run: |
+          python create_arxiv_feed.py --search \
+            -c Heavy-Ion \
+            --lookback_days 7 \
+            --base_feed_url https://lucasconstantin.github.io/heavyIon_newsfeed/feeds
+
+      - name: Generate 100-day feed
+        run: |
+          python create_arxiv_feed.py --search \
+            -c Heavy-Ion \
+            --lookback_days 100 \
+            --base_feed_url https://lucasconstantin.github.io/heavyIon_newsfeed/feeds
+
+      - name: Deploy feeds to gh-pages branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin gh-pages || true
+
+          if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+            git worktree add /tmp/gh-pages origin/gh-pages
+          else
+            git worktree add --orphan -b gh-pages /tmp/gh-pages
+          fi
+
+          mkdir -p /tmp/gh-pages/feeds
+          cp -r feeds/. /tmp/gh-pages/feeds/
+
+          cd /tmp/gh-pages
+          git add feeds/
+          git diff --cached --quiet || git commit -m "chore: refresh feeds [skip ci]"
+          git push origin HEAD:gh-pages
