@@ -9,6 +9,7 @@ import re
 from pathlib import Path
 from xml.dom import minidom
 from xml.etree.ElementTree import Element, SubElement, tostring
+import xml.etree.ElementTree as ET
 
 import arxiv
 import rfeed
@@ -63,6 +64,8 @@ def createRSSFeed(list_article_dicts, config_name="ArxivSearch", lookback_days=N
       pubDate     = pub_date,
       guid        = rfeed.Guid(dict_article["paper_id"], isPermaLink=False)
     )
+    # Store authors list for later processing
+    item.authors = dict_article.get("authors", [])
     items.append(item)
   
   lookback_suffix = f" ({lookback_days}d)" if lookback_days is not None else ""
@@ -83,16 +86,49 @@ def createRSSFeed(list_article_dicts, config_name="ArxivSearch", lookback_days=N
 
 def saveRSSFeed(feed, output_filepath):
   """
-  Save an RSS feed to an XML file.
+  Save an RSS feed to an XML file with dc:creator tags for authors.
   
   Args:
     feed: rfeed.Feed object
     output_filepath: Path where the RSS XML file should be saved
   """
+  # Generate RSS string
   rss_str = feed.rss()
+  
+  # Parse the XML
+  ET.register_namespace('dc', 'http://purl.org/dc/elements/1.1/')
+  root = ET.fromstring(rss_str)
+  
+  # Find the channel element
+  channel = root.find('channel')
+  if channel is not None:
+    # Iterate through items
+    items = channel.findall('item')
+    feed_items = feed.items
+    
+    for i, (item_elem, feed_item) in enumerate(zip(items, feed_items)):
+      # Add dc:creator elements for each author if available
+      if hasattr(feed_item, 'authors') and feed_item.authors:
+        for author in feed_item.authors:
+          dc_creator = ET.Element('{http://purl.org/dc/elements/1.1/}creator')
+          dc_creator.text = author
+          item_elem.append(dc_creator)
+  
+  # Convert back to string
+  xml_str = ET.tostring(root, encoding='unicode', method='xml')
+  
+  # Pretty print using minidom
+  dom = minidom.parseString(xml_str)
+  pretty_xml = dom.toprettyxml(indent="  ")
+  
+  # Remove extra blank lines and XML declaration duplication
+  lines = [line for line in pretty_xml.split('\n') if line.strip()]
+  pretty_xml = '\n'.join(lines)
+  
   with open(output_filepath, 'w', encoding='utf-8') as f:
-    f.write(rss_str)
+    f.write(pretty_xml)
   print(f"RSS feed saved to: {output_filepath}")
+
 
 
 def createOPMLFile(config_name, rss_file_url, output_filepath, lookback_days=None, source="arxiv"):
