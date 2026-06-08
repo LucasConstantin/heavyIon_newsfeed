@@ -2,8 +2,8 @@ name: Refresh Heavy-Ion Feed
 
 on:
   schedule:
-    # Every Monday at 00:30 UTC (when arXiv publishes new papers)
-    - cron: "30 0 * * 1"
+    # Every 5 minutes for testing (Europe/Berlin timezone: UTC+1 CET / UTC+2 CEST)
+    - cron: "*/5 * * * *"
   workflow_dispatch: # allow manual runs from the Actions tab
 
 permissions:
