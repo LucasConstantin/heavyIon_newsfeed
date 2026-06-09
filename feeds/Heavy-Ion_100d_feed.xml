@@ -5,9 +5,29 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 01:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:25:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Effective QCD model with consistent quasi-gluon treatment : formulation and application</title>
+      <link>http://arxiv.org/abs/2606.09633v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chowdhury Aminul Islam, Munshi G. Mustafa, Rajarshi Ray, Pracheta Singha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Polyakov loop enhanced Nambu-Jona-Lasinio model is reformulated in terms of the gluon quasi-particles in addition to the already existing quark quasi-particles. The formulation goes beyond the saddle point approximation for the gluon sector. The framework provides a physically consistent quasiparticle model for QCD thermodynamics. The ensuing advantages of this formulation is discussed using transport coefficients in the light quark sector.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:31:12 GMT</pubDate>
+      <guid isPermaLink="false">2606.09633v1</guid>
+      <dc:creator>Chowdhury Aminul Islam</dc:creator>
+      <dc:creator>Munshi G. Mustafa</dc:creator>
+      <dc:creator>Rajarshi Ray</dc:creator>
+      <dc:creator>Pracheta Singha</dc:creator>
+    </item>
+    <item>
+      <title>Nuclear parton distributions and nuclear shadowing</title>
+      <link>http://arxiv.org/abs/2606.08830v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Petja Paakkinen, Vadim Guzey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this contribution, we review the physics and phenomenology of nuclear parton distribution functions (PDFs), with a particular focus on the small-x region of nuclear shadowing. We summarise experimental evidence for nuclear modifications of PDFs and discuss their theoretical explanations; in particular, we contrast different models of nuclear shadowing. We also overview model-agnostic extractions of nuclear PDFs from global data on hard processes with nuclei, emphasizing the validity of collinear factorization and the dominance of leading-twist nuclear PDFs. Finally, we discuss perspectives for present and future precision studies of nuclear PDFs and small-x QCD dynamics, including photonuclear reactions in heavy-ion ultraperipheral collisions at the Large Hadron Collider and lepton-nucleus deep inelastic scattering at the future Electron-Ion Collider.&lt;/p&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 20:50:47 GMT</pubDate>
+      <guid isPermaLink="false">2606.08830v1</guid>
+      <dc:creator>Petja Paakkinen</dc:creator>
+      <dc:creator>Vadim Guzey</dc:creator>
+    </item>
     <item>
       <title>Measurements of jet quenching with semi-inclusive hadron-jet correlations in Ru+Ru and Zr+Zr collisions at $\sqrt{s_\mathrm{NN}}=200$ GeV</title>
       <link>http://arxiv.org/abs/2606.00973v2</link>
@@ -1854,27 +1874,6 @@
       <dc:creator>Xin-Nian Wang</dc:creator>
     </item>
     <item>
-      <title>Nonlinear response of the chiral magnetic effect in the D3/D7 holographic model</title>
-      <link>http://arxiv.org/abs/2605.16931v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Masataka Matsumoto, Mirmani Mirjalali, Ali Vahedi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the nonlinear response of the chiral magnetic current to an external magnetic field in a holographic setup. Using the D3/D7 brane system, where the chiral magnetic effect (CME) can be realized by considering rotating probe D7-branes, corresponding to introducing an axial chemical potential, we analyze the current-magnetic field relation beyond the linear regime. Focusing on the vicinity of the phase boundary between the insulating phase and the CME phase, we find that the chiral magnetic current exhibits a multi-valued dependence on the magnetic field, indicating a highly nonlinear response characteristic of this model. We further study the dynamical stability of the insulating phase near the transition point, and show that the presence of both an axial chemical potential and an external magnetic field cooperatively stabilize the system. Our results clarify the interplay between the axial chemical potential and the magnetic field in determining the phase structure and stability of the system, and reveal new nonlinear aspects of chiral transport in holographic gauge theories.&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 10:56:06 GMT</pubDate>
-      <guid isPermaLink="false">2605.16931v1</guid>
-      <dc:creator>Masataka Matsumoto</dc:creator>
-      <dc:creator>Mirmani Mirjalali</dc:creator>
-      <dc:creator>Ali Vahedi</dc:creator>
-    </item>
-    <item>
-      <title>3D Initial-State Dynamics across scales: A Comparative Study of saturation and string-based descriptions</title>
-      <link>http://arxiv.org/abs/2605.16914v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lucas Constantin, Oscar Garcia-Montero, Niklas Götz, Hannah Elfner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compare the longitudinal deposition of various conserved quantities in the initial condition models of a string based (SMASH) and a saturation based (McDipper) approach. SMASH has been shown to work reasonably well at lower collision energies as an initial condition for the SMASH-vHLLE hybrid approach, while McDipper, based on the color-glass-condensate (CGC), works well in the regime of perturbative QCD. The two models are capable of providing longitudinally resolved initial conditions, which is essential for 3D hydrodynamical simulations. The goal of this study is to interface the different regions of applicability of the two models, to investigate the initial state dynamics in the intermediate energy regime. We analyze the deposition of transverse energy, charge and baryon number across a large range of collision energies (62.4 GeV to 5.02 TeV) and find that, while they are good agreement at lower energies, their energy and baryon deposition differs substantially at higher center of mass energies.&lt;/p&gt;</description>
-      <pubDate>Sat, 16 May 2026 10:03:53 GMT</pubDate>
-      <guid isPermaLink="false">2605.16914v1</guid>
-      <dc:creator>Lucas Constantin</dc:creator>
-      <dc:creator>Oscar Garcia-Montero</dc:creator>
-      <dc:creator>Niklas Götz</dc:creator>
-      <dc:creator>Hannah Elfner</dc:creator>
-    </item>
-    <item>
       <title>Pion emission source shape in UrQMD Au+Au collisions at STAR energies</title>
       <link>http://arxiv.org/abs/2605.15717v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Matyas Molnar, Daniel Kincses, Mate Csanad&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Femtoscopic measurements of two-pion Bose--Einstein correlations have established that particle-emitting sources in heavy-ion collisions are well described by Lévy $α$-stable distributions, motivating systematic studies across a wide range of collision energies. In this work, we present a three-dimensional femtoscopic analysis of pion pairs in Au+Au collisions simulated with the UrQMD model for collision energies $\sqrt{s_{NN}}=3$--$27\,\mathrm{GeV}$, taking the RHIC BES-II range of collider and fixed target experiment energies for reference. Using Lévy-type source parameterisations, we extract the pair multiplicity parameter $λ^{*}$ (related to the correlation strength $λ$), Lévy index $α$, and three-dimensional radii $R_\mathrm{out}$, $R_\mathrm{side}$, and $R_\mathrm{long}$. We investigate their dependence on the transverse mass ($m_T$) and collision energy, along with derived quantities such as the radius difference $R_{\mathrm{diff}}^2=R_{\mathrm{out}}^2-R_\mathrm{side}^2$ and the ratio $R_\mathrm{out}/R_\mathrm{side}$. We find that $R_\mathrm{out,side,long}$ all decrease with increasing $m_T$ and increase with collision energy, consistent with collective expansion, $R_\mathrm{long}$ showing the strongest and $R_\mathrm{side}$ the weakest energy dependence. The Lévy index $α$ decreases with collision energy, with a larger $m_T$-dependence towards higher energies. The $λ^{*}$ parameter is consistent with a constant close to unity in the absence of pions from long-lived resonances. These results provide a baseline for future comparisons with experimental measurements from the STAR Collaboration, contributing to constraints on the QCD phase diagram.&lt;/p&gt;</description>
@@ -2175,224 +2174,6 @@
       <pubDate>Mon, 20 Apr 2026 12:59:08 GMT</pubDate>
       <guid isPermaLink="false">2604.18214v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Production of Λ hyperons in 4.0A GeV and 4.5A GeV carbon-nucleus interactions at the Nuclotron</title>
-      <link>http://arxiv.org/abs/2604.13299v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Afanasiev, G. Agakishiev, A. Aleksandrov, E. Aleksandrov, I. Aleksandrov, P. Alekseev, K. Alishina, V. Astakhov, T. Aushev, V. Azorskiy, V. Babkin, N. Balashov, R. Barak, A. Baranov, D. Baranov, N. Baranova, N. Barbashina, S. Bazylev, M. Belov, D. Blau, V. Bocharnikov, G. Bogdanova, E. Bondar, E. Boos, E. Bozorov, M. Buryakov, S. Buzin, A. Chebotov, D. Chemezov, J. H. Chen, A. Demanov, D. Dementev, A. Dmitriev, J. Drnoyan, D. Dryablov, B. Dubinchik, P. Dulov, A. Egorov, D. Egorov, V. Elsha, A. Eviev, A. Fediunin, A. Fedosimova, I. Filippov, I. Filozova, D. Finogeev, I. Gabdrakhmanov, O. Gavrischuk, K. Gertsenberger, S. Gertsenberger, O. Golosov, V. Golovatyuk, P. Grigoriev, M. Golubeva, F. Guber, S. Ibraimova, D. Idrisov, T. Idrissova, A. Iusupova, A. Ivashkin, A. Izvestnyy, V. Kabadzhov, A. Kakhorova, Sh. Kanokova, M. Kapishin, V. Karjavin, D. Karmanov, N. Karpushkin, R. Kattabekov, V. Kekelidze, S. Khabarov, P. Kharlamov, G. Khudaiberdyev, Yu. Kiryushin, P. Klimai, V. Kolesnikov, A. Kolozhvari, V. Kondratiev, Yu. Kopylov, M. Korolev, L. Kovachev, I. Kovalev, I. Kruglova, V. Kozlov, S. Kuklin, E. Kulish, A. Kurganov, V. Kutergina, A. Kuznetsov, E. Ladygin, D. Lanskoy, N. Lashmanov, I. Lebedev, V. Lenivenko, R. Lednicky, V. Leontiev, E. Litvinenko, D. Lyapin, Y. G. Ma, A. Makankin, A. Makhnev, A. Malakhov, M. Mamaev, A. Martemianov, M. Merkin, S. Merts, S. Morozov, Yu. Murin, K. Musaev, G. Musulmanbekov, D. Myktybekov, R. Nagdasev, S. Nemnyugin, D. Nikitin, R. Nizamov, S. Novozhilov, A. Olimov, Kh. Olimov, K. Olimov, I. Osokin, V. Palichik, P. Parfenov, I. Pelevanyuk, D. Peresunko, S. Piyadin, M. Platonova, V. Plotnikov, D. Podgainy, I. Polev, I. Pshenichnov, N. Pukhaeva, F. Ratnikov, S. Reshetova, V. Rogov, I. Romanov, I. Rufanov, P. Rukoyatkin, M. Rumyantsev, T. Rybakov, D. Sakulin, S. Sedykh, S. Savenkov, D. Serebryakov, A. Shabanov, S. Sergeev, A. Serikkanov, A. Sheremetev, A. Sheremeteva, A. Shchipunov, M. Shitenkov, M. Shodmonov, M. Shopova, A. Shutov, V. Shutov, I. Slepnev, V. Slepnev, I. Slepov, A. Smirnov, A. Solomin, A. Sorin, V. Spaskov, A. Stavinskiy, V. Stekhanov, Yu. Stepanenko, E. Streletskaya, O. Streltsova, M. Strikhanov, E. Sukhov, D. Suvarieva, A. Svetlichnyi, G. Taer, A. Taranenko, N. Tarasov, O. Tarasov, P. Teremkov, A. Terletsky, O. Teryaev, V. Tcholakov, V. Tikhomirov, A. Timoshenko, O. Tojiboev, N. Topilin, T. Tretyakova, V. Troshin, A. Truttse, I. Tserruya, V. Tskhay, I. Tyapkin, V. Ustinov, V. Vasendina, V. Velichkov, K. Vitanov, N. Vitanov, V. Volkov, A. Voronin, A. Voronin, N. Voytishin, B. Yuldashev, V. Yurevich, N. Zamiatin, M. Zavertyaev, S. Zhang, I. Zhavoronkova, V. Zhezher, N. Zhigareva, I. Zhironkin, A. Zinchenko, R. Zinchenko, A. Zubankov, E. Zubarev, M. Zuev&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The BM@N experiment (Baryonic Matter at the Nuclotron) is the first fixed-target experiment at the JINR NICA accelerator complex. In this work, data on the interactions of a carbon-ion beam with kinetic energies of 4.0A~GeV and 4.5A~GeV with C, Al, Cu, and Pb targets are used to measure transverse momentum spectra and rapidity distributions of $Λ$ hyperon yields. The results are compared with the predictions of DCM-SMM, UrQMD, and PHSD transport models and with the $Λ$ yield measurements in other experiments at similar collision energies.&lt;/p&gt;</description>
-      <pubDate>Sun, 19 Apr 2026 21:31:28 GMT</pubDate>
-      <guid isPermaLink="false">2604.13299v2</guid>
-      <dc:creator>S. Afanasiev</dc:creator>
-      <dc:creator>G. Agakishiev</dc:creator>
-      <dc:creator>A. Aleksandrov</dc:creator>
-      <dc:creator>E. Aleksandrov</dc:creator>
-      <dc:creator>I. Aleksandrov</dc:creator>
-      <dc:creator>P. Alekseev</dc:creator>
-      <dc:creator>K. Alishina</dc:creator>
-      <dc:creator>V. Astakhov</dc:creator>
-      <dc:creator>T. Aushev</dc:creator>
-      <dc:creator>V. Azorskiy</dc:creator>
-      <dc:creator>V. Babkin</dc:creator>
-      <dc:creator>N. Balashov</dc:creator>
-      <dc:creator>R. Barak</dc:creator>
-      <dc:creator>A. Baranov</dc:creator>
-      <dc:creator>D. Baranov</dc:creator>
-      <dc:creator>N. Baranova</dc:creator>
-      <dc:creator>N. Barbashina</dc:creator>
-      <dc:creator>S. Bazylev</dc:creator>
-      <dc:creator>M. Belov</dc:creator>
-      <dc:creator>D. Blau</dc:creator>
-      <dc:creator>V. Bocharnikov</dc:creator>
-      <dc:creator>G. Bogdanova</dc:creator>
-      <dc:creator>E. Bondar</dc:creator>
-      <dc:creator>E. Boos</dc:creator>
-      <dc:creator>E. Bozorov</dc:creator>
-      <dc:creator>M. Buryakov</dc:creator>
-      <dc:creator>S. Buzin</dc:creator>
-      <dc:creator>A. Chebotov</dc:creator>
-      <dc:creator>D. Chemezov</dc:creator>
-      <dc:creator>J. H. Chen</dc:creator>
-      <dc:creator>A. Demanov</dc:creator>
-      <dc:creator>D. Dementev</dc:creator>
-      <dc:creator>A. Dmitriev</dc:creator>
-      <dc:creator>J. Drnoyan</dc:creator>
-      <dc:creator>D. Dryablov</dc:creator>
-      <dc:creator>B. Dubinchik</dc:creator>
-      <dc:creator>P. Dulov</dc:creator>
-      <dc:creator>A. Egorov</dc:creator>
-      <dc:creator>D. Egorov</dc:creator>
-      <dc:creator>V. Elsha</dc:creator>
-      <dc:creator>A. Eviev</dc:creator>
-      <dc:creator>A. Fediunin</dc:creator>
-      <dc:creator>A. Fedosimova</dc:creator>
-      <dc:creator>I. Filippov</dc:creator>
-      <dc:creator>I. Filozova</dc:creator>
-      <dc:creator>D. Finogeev</dc:creator>
-      <dc:creator>I. Gabdrakhmanov</dc:creator>
-      <dc:creator>O. Gavrischuk</dc:creator>
-      <dc:creator>K. Gertsenberger</dc:creator>
-      <dc:creator>S. Gertsenberger</dc:creator>
-      <dc:creator>O. Golosov</dc:creator>
-      <dc:creator>V. Golovatyuk</dc:creator>
-      <dc:creator>P. Grigoriev</dc:creator>
-      <dc:creator>M. Golubeva</dc:creator>
-      <dc:creator>F. Guber</dc:creator>
-      <dc:creator>S. Ibraimova</dc:creator>
-      <dc:creator>D. Idrisov</dc:creator>
-      <dc:creator>T. Idrissova</dc:creator>
-      <dc:creator>A. Iusupova</dc:creator>
-      <dc:creator>A. Ivashkin</dc:creator>
-      <dc:creator>A. Izvestnyy</dc:creator>
-      <dc:creator>V. Kabadzhov</dc:creator>
-      <dc:creator>A. Kakhorova</dc:creator>
-      <dc:creator>Sh. Kanokova</dc:creator>
-      <dc:creator>M. Kapishin</dc:creator>
-      <dc:creator>V. Karjavin</dc:creator>
-      <dc:creator>D. Karmanov</dc:creator>
-      <dc:creator>N. Karpushkin</dc:creator>
-      <dc:creator>R. Kattabekov</dc:creator>
-      <dc:creator>V. Kekelidze</dc:creator>
-      <dc:creator>S. Khabarov</dc:creator>
-      <dc:creator>P. Kharlamov</dc:creator>
-      <dc:creator>G. Khudaiberdyev</dc:creator>
-      <dc:creator>Yu. Kiryushin</dc:creator>
-      <dc:creator>P. Klimai</dc:creator>
-      <dc:creator>V. Kolesnikov</dc:creator>
-      <dc:creator>A. Kolozhvari</dc:creator>
-      <dc:creator>V. Kondratiev</dc:creator>
-      <dc:creator>Yu. Kopylov</dc:creator>
-      <dc:creator>M. Korolev</dc:creator>
-      <dc:creator>L. Kovachev</dc:creator>
-      <dc:creator>I. Kovalev</dc:creator>
-      <dc:creator>I. Kruglova</dc:creator>
-      <dc:creator>V. Kozlov</dc:creator>
-      <dc:creator>S. Kuklin</dc:creator>
-      <dc:creator>E. Kulish</dc:creator>
-      <dc:creator>A. Kurganov</dc:creator>
-      <dc:creator>V. Kutergina</dc:creator>
-      <dc:creator>A. Kuznetsov</dc:creator>
-      <dc:creator>E. Ladygin</dc:creator>
-      <dc:creator>D. Lanskoy</dc:creator>
-      <dc:creator>N. Lashmanov</dc:creator>
-      <dc:creator>I. Lebedev</dc:creator>
-      <dc:creator>V. Lenivenko</dc:creator>
-      <dc:creator>R. Lednicky</dc:creator>
-      <dc:creator>V. Leontiev</dc:creator>
-      <dc:creator>E. Litvinenko</dc:creator>
-      <dc:creator>D. Lyapin</dc:creator>
-      <dc:creator>Y. G. Ma</dc:creator>
-      <dc:creator>A. Makankin</dc:creator>
-      <dc:creator>A. Makhnev</dc:creator>
-      <dc:creator>A. Malakhov</dc:creator>
-      <dc:creator>M. Mamaev</dc:creator>
-      <dc:creator>A. Martemianov</dc:creator>
-      <dc:creator>M. Merkin</dc:creator>
-      <dc:creator>S. Merts</dc:creator>
-      <dc:creator>S. Morozov</dc:creator>
-      <dc:creator>Yu. Murin</dc:creator>
-      <dc:creator>K. Musaev</dc:creator>
-      <dc:creator>G. Musulmanbekov</dc:creator>
-      <dc:creator>D. Myktybekov</dc:creator>
-      <dc:creator>R. Nagdasev</dc:creator>
-      <dc:creator>S. Nemnyugin</dc:creator>
-      <dc:creator>D. Nikitin</dc:creator>
-      <dc:creator>R. Nizamov</dc:creator>
-      <dc:creator>S. Novozhilov</dc:creator>
-      <dc:creator>A. Olimov</dc:creator>
-      <dc:creator>Kh. Olimov</dc:creator>
-      <dc:creator>K. Olimov</dc:creator>
-      <dc:creator>I. Osokin</dc:creator>
-      <dc:creator>V. Palichik</dc:creator>
-      <dc:creator>P. Parfenov</dc:creator>
-      <dc:creator>I. Pelevanyuk</dc:creator>
-      <dc:creator>D. Peresunko</dc:creator>
-      <dc:creator>S. Piyadin</dc:creator>
-      <dc:creator>M. Platonova</dc:creator>
-      <dc:creator>V. Plotnikov</dc:creator>
-      <dc:creator>D. Podgainy</dc:creator>
-      <dc:creator>I. Polev</dc:creator>
-      <dc:creator>I. Pshenichnov</dc:creator>
-      <dc:creator>N. Pukhaeva</dc:creator>
-      <dc:creator>F. Ratnikov</dc:creator>
-      <dc:creator>S. Reshetova</dc:creator>
-      <dc:creator>V. Rogov</dc:creator>
-      <dc:creator>I. Romanov</dc:creator>
-      <dc:creator>I. Rufanov</dc:creator>
-      <dc:creator>P. Rukoyatkin</dc:creator>
-      <dc:creator>M. Rumyantsev</dc:creator>
-      <dc:creator>T. Rybakov</dc:creator>
-      <dc:creator>D. Sakulin</dc:creator>
-      <dc:creator>S. Sedykh</dc:creator>
-      <dc:creator>S. Savenkov</dc:creator>
-      <dc:creator>D. Serebryakov</dc:creator>
-      <dc:creator>A. Shabanov</dc:creator>
-      <dc:creator>S. Sergeev</dc:creator>
-      <dc:creator>A. Serikkanov</dc:creator>
-      <dc:creator>A. Sheremetev</dc:creator>
-      <dc:creator>A. Sheremeteva</dc:creator>
-      <dc:creator>A. Shchipunov</dc:creator>
-      <dc:creator>M. Shitenkov</dc:creator>
-      <dc:creator>M. Shodmonov</dc:creator>
-      <dc:creator>M. Shopova</dc:creator>
-      <dc:creator>A. Shutov</dc:creator>
-      <dc:creator>V. Shutov</dc:creator>
-      <dc:creator>I. Slepnev</dc:creator>
-      <dc:creator>V. Slepnev</dc:creator>
-      <dc:creator>I. Slepov</dc:creator>
-      <dc:creator>A. Smirnov</dc:creator>
-      <dc:creator>A. Solomin</dc:creator>
-      <dc:creator>A. Sorin</dc:creator>
-      <dc:creator>V. Spaskov</dc:creator>
-      <dc:creator>A. Stavinskiy</dc:creator>
-      <dc:creator>V. Stekhanov</dc:creator>
-      <dc:creator>Yu. Stepanenko</dc:creator>
-      <dc:creator>E. Streletskaya</dc:creator>
-      <dc:creator>O. Streltsova</dc:creator>
-      <dc:creator>M. Strikhanov</dc:creator>
-      <dc:creator>E. Sukhov</dc:creator>
-      <dc:creator>D. Suvarieva</dc:creator>
-      <dc:creator>A. Svetlichnyi</dc:creator>
-      <dc:creator>G. Taer</dc:creator>
-      <dc:creator>A. Taranenko</dc:creator>
-      <dc:creator>N. Tarasov</dc:creator>
-      <dc:creator>O. Tarasov</dc:creator>
-      <dc:creator>P. Teremkov</dc:creator>
-      <dc:creator>A. Terletsky</dc:creator>
-      <dc:creator>O. Teryaev</dc:creator>
-      <dc:creator>V. Tcholakov</dc:creator>
-      <dc:creator>V. Tikhomirov</dc:creator>
-      <dc:creator>A. Timoshenko</dc:creator>
-      <dc:creator>O. Tojiboev</dc:creator>
-      <dc:creator>N. Topilin</dc:creator>
-      <dc:creator>T. Tretyakova</dc:creator>
-      <dc:creator>V. Troshin</dc:creator>
-      <dc:creator>A. Truttse</dc:creator>
-      <dc:creator>I. Tserruya</dc:creator>
-      <dc:creator>V. Tskhay</dc:creator>
-      <dc:creator>I. Tyapkin</dc:creator>
-      <dc:creator>V. Ustinov</dc:creator>
-      <dc:creator>V. Vasendina</dc:creator>
-      <dc:creator>V. Velichkov</dc:creator>
-      <dc:creator>K. Vitanov</dc:creator>
-      <dc:creator>N. Vitanov</dc:creator>
-      <dc:creator>V. Volkov</dc:creator>
-      <dc:creator>A. Voronin</dc:creator>
-      <dc:creator>A. Voronin</dc:creator>
-      <dc:creator>N. Voytishin</dc:creator>
-      <dc:creator>B. Yuldashev</dc:creator>
-      <dc:creator>V. Yurevich</dc:creator>
-      <dc:creator>N. Zamiatin</dc:creator>
-      <dc:creator>M. Zavertyaev</dc:creator>
-      <dc:creator>S. Zhang</dc:creator>
-      <dc:creator>I. Zhavoronkova</dc:creator>
-      <dc:creator>V. Zhezher</dc:creator>
-      <dc:creator>N. Zhigareva</dc:creator>
-      <dc:creator>I. Zhironkin</dc:creator>
-      <dc:creator>A. Zinchenko</dc:creator>
-      <dc:creator>R. Zinchenko</dc:creator>
-      <dc:creator>A. Zubankov</dc:creator>
-      <dc:creator>E. Zubarev</dc:creator>
-      <dc:creator>M. Zuev</dc:creator>
     </item>
     <item>
       <title>PHENIX Measurements of Light Hadron and Vector Meson Production at RHIC</title>

@@ -5,9 +5,29 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 01:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:25:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Effective QCD model with consistent quasi-gluon treatment : formulation and application</title>
+      <link>http://arxiv.org/abs/2606.09633v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chowdhury Aminul Islam, Munshi G. Mustafa, Rajarshi Ray, Pracheta Singha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Polyakov loop enhanced Nambu-Jona-Lasinio model is reformulated in terms of the gluon quasi-particles in addition to the already existing quark quasi-particles. The formulation goes beyond the saddle point approximation for the gluon sector. The framework provides a physically consistent quasiparticle model for QCD thermodynamics. The ensuing advantages of this formulation is discussed using transport coefficients in the light quark sector.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:31:12 GMT</pubDate>
+      <guid isPermaLink="false">2606.09633v1</guid>
+      <dc:creator>Chowdhury Aminul Islam</dc:creator>
+      <dc:creator>Munshi G. Mustafa</dc:creator>
+      <dc:creator>Rajarshi Ray</dc:creator>
+      <dc:creator>Pracheta Singha</dc:creator>
+    </item>
+    <item>
+      <title>Nuclear parton distributions and nuclear shadowing</title>
+      <link>http://arxiv.org/abs/2606.08830v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Petja Paakkinen, Vadim Guzey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this contribution, we review the physics and phenomenology of nuclear parton distribution functions (PDFs), with a particular focus on the small-x region of nuclear shadowing. We summarise experimental evidence for nuclear modifications of PDFs and discuss their theoretical explanations; in particular, we contrast different models of nuclear shadowing. We also overview model-agnostic extractions of nuclear PDFs from global data on hard processes with nuclei, emphasizing the validity of collinear factorization and the dominance of leading-twist nuclear PDFs. Finally, we discuss perspectives for present and future precision studies of nuclear PDFs and small-x QCD dynamics, including photonuclear reactions in heavy-ion ultraperipheral collisions at the Large Hadron Collider and lepton-nucleus deep inelastic scattering at the future Electron-Ion Collider.&lt;/p&gt;</description>
+      <pubDate>Sun, 07 Jun 2026 20:50:47 GMT</pubDate>
+      <guid isPermaLink="false">2606.08830v1</guid>
+      <dc:creator>Petja Paakkinen</dc:creator>
+      <dc:creator>Vadim Guzey</dc:creator>
+    </item>
     <item>
       <title>GPU optical photon Monte Carlo for noble liquid detectors: validation against Geant4 in a large liquid argon TPC benchmark</title>
       <link>http://arxiv.org/abs/2606.05385v2</link>
