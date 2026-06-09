@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 23:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:40:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -363,89 +363,6 @@
       <guid isPermaLink="false">2606.03058v1</guid>
       <dc:creator>Cendikia Abdi</dc:creator>
       <dc:creator>Chiho Nonaka</dc:creator>
-    </item>
-    <item>
-      <title>Magnetized bottom-up thermalization in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.02723v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ritesh Ghosh, Igor A. Shovkovy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate how a strong magnetic field generated in noncentral heavy-ion collisions may modify the bottom-up equilibration scenario. In the conventional weak-coupling picture, the earliest stages of the evolution are dominated by overoccupied gluons, while quark production is parametrically delayed. In a background magnetic field, however, additional inelastic channels become kinematically allowed or enhanced, most notably gluon decay into quark-antiquark pairs, $g\to q+\bar q$. Using parametric estimates, we show that for sufficiently strong fields, with $|eB|$ approaching the saturation scale squared, $Q_s^2$, magnetic-field-induced quark production can become important during the earliest stages of bottom-up evolution. This mechanism can populate the hard quark sector, modify the chemical composition of the pre-equilibrium matter, and provide an additional pathway toward chemical equilibration. We also discuss possible back-reaction effects, including quark-antiquark annihilation, depletion of the hard-gluon sector, and the potential feedback of early quark production on the electromagnetic conductivity of the medium. This exploratory study of a magnetically assisted bottom-up scenario provides a natural extension of the standard framework, with qualitative predictions that depend sensitively on the lifetime and spacetime profile of the magnetic field.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 18:00:08 GMT</pubDate>
-      <guid isPermaLink="false">2606.02723v1</guid>
-      <dc:creator>Ritesh Ghosh</dc:creator>
-      <dc:creator>Igor A. Shovkovy</dc:creator>
-    </item>
-    <item>
-      <title>Stochastic Dynamics of Heavy Quarks in Strongly Coupled Plasma</title>
-      <link>http://arxiv.org/abs/2606.02693v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Krishna Rajagopal, Bruno Scheihing-Hitschfeld, Urs Achim Wiedemann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the stochastic dynamics of heavy quarks propagating through the strongly coupled plasma of $\mathcal{N}=4$ supersymmetric Yang-Mills (SYM) theory at nonzero temperature in terms of the corresponding Kolmogorov equation, which correctly describes their kinetic equilibration and the non-Gaussian fluctuations in their momenta without having to restrict their velocity to the non-relativistic regime. Leveraging the heavy quark limit, we show that the evolution of the momentum space distribution function can be reformulated as a Hamilton-Jacobi problem, and therefore can be solved in terms of first-order ordinary differential equations. We solve these evolution equations in an infinite thermal plasma with a constant temperature for initial conditions specified by spherically symmetric heavy quark momentum distributions with a phenomenologically motivated shape that is steeply falling at large momentum. To highlight the distinctive features of the kinetic equilibration process, we compare their solutions with Fokker-Planck dynamics with the same drag coefficient and fluctuations chosen by hand to guarantee equilibration. We find qualitatively similar dynamics at small momentum, and very different dynamics at large momentum, where, much like in jet quenching phenomena, the steepness of the momentum distribution gives a larger relevance to unlikely events in which a heavy quark loses little momentum in a given time step. Such events are much less unlikely in the Kolmogorov evolution than in Fokker-Planck evolution with the same mean energy loss, meaning that equilibration at large momentum is significantly delayed. Our results provide a systematic description of heavy quarks propagating through strongly coupled plasma from the ultra-relativistic to the non-relativistic regime and point the way towards implementation in phenomenological studies.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2606.02693v1</guid>
-      <dc:creator>Krishna Rajagopal</dc:creator>
-      <dc:creator>Bruno Scheihing-Hitschfeld</dc:creator>
-      <dc:creator>Urs Achim Wiedemann</dc:creator>
-    </item>
-    <item>
-      <title>Probing Pair Correlations in QCD Matter with Photon Spectra</title>
-      <link>http://arxiv.org/abs/2606.02414v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xingjian Lu, Shuzhe Shi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Correlations in the phase-space distribution of partons play an important role in the initial stage of relativistic heavy-ion collisions, where the matter is dense and far from equilibrium. Photons produced in the hot medium, which predominantly originate from two-parton initial states, are sensitive to two-particle correlations in the phase-space distribution. In this work, we study how pair correlations in non-equilibrium QCD matter affect in-medium photon production. We decompose the two-particle distribution as $\mathcal F_{ab}=f_a f_b+g_{ab}$, where $g_{ab}$ is the pair correlation. Focusing on the $2\to2$ quark--antiquark annihilation and Compton channels, we compute the leading-logarithmic photon spectrum by expanding the single-particle distribution and pair correlation in a spectral basis, thereby accommodating a broad class of two-particle distributions. For a rotationally invariant medium, we find that relative-angle modes of the pair correlation generate sign-changing modifications to the photon spectrum, with magnitudes that can be comparable to the factorized contribution. Thus, photon spectra, although single-particle observables, can measure the momentum correlations of the emitting medium and therefore probe the early-time hydrodynamization.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 15:57:10 GMT</pubDate>
-      <guid isPermaLink="false">2606.02414v1</guid>
-      <dc:creator>Xingjian Lu</dc:creator>
-      <dc:creator>Shuzhe Shi</dc:creator>
-    </item>
-    <item>
-      <title>Quantum Symmetry Restoration and Emergent Effective Deformation in Relativistic Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2606.02412v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hao-jie Xu, Qun Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Classically deformed nuclear geometries are commonly employed in standard descriptions of relativistic collisions between two even-even nuclei, despite the fact that their exact ground states are rotationally invariant $0^+$ states. In this paper, we formulate the collision geometry directly from the eikonal scattering matrix based on a nonorthogonal Generator Coordinate Method construction of rotationally invariant ground states. In the optical limit, using a localized transported-density approximation for the collision-channel one-body response, rotational overlap localization generates an effective one-body density associated with the scattering process. Within this approximation, using the Gaussian Overlap Approximation and its heat-kernel representation, we show that rotational symmetry restoration acts as a geometric low-pass filter which exponentially suppresses effective deformation modes. The classical rigid-rotor limit is recovered for large intrinsic angular momentum fluctuations. We establish a microscopic framework connecting rotational symmetry restoration, collective overlap localization, and the effective deformation geometries of nuclei in high energy collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 15:55:01 GMT</pubDate>
-      <guid isPermaLink="false">2606.02412v1</guid>
-      <dc:creator>Hao-jie Xu</dc:creator>
-      <dc:creator>Qun Wang</dc:creator>
-    </item>
-    <item>
-      <title>Azimuthal decorrelation in diffractive dijet production</title>
-      <link>http://arxiv.org/abs/2606.02230v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ding Yu Shao, Yu Shi, Cheng Zhang, Jian Zhou, Ya-jin Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We calculate the azimuthal angular decorrelation of diffractive dijets in ultra-peripheral heavy-ion, $ep$, and $eA$ collisions to probe non-perturbative diffractive transverse momentum-dependent distributions. Focusing on the dominant semi-inclusive channel with an unobserved semi-hard gluon, we perform an all-order resummation of soft gluon emissions for the transverse energy-energy correlator observable, accounting for both initial and final state radiation. We also analyze heavy-quark pair production and demonstrate the sensitivity of the decorrelation to the jet axis definition. Finally, we provide numerical predictions for relevant kinematics at LHC UPCs, HERA, and the future EIC. Our results demonstrate that the acoplanarity of diffractive dijet production could serve as a promising probe of diffractive transverse momentum-dependent distributions.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 13:25:53 GMT</pubDate>
-      <guid isPermaLink="false">2606.02230v1</guid>
-      <dc:creator>Ding Yu Shao</dc:creator>
-      <dc:creator>Yu Shi</dc:creator>
-      <dc:creator>Cheng Zhang</dc:creator>
-      <dc:creator>Jian Zhou</dc:creator>
-      <dc:creator>Ya-jin Zhou</dc:creator>
-    </item>
-    <item>
-      <title>Hypernucleus production in p+Au reactions at the FAIR facility</title>
-      <link>http://arxiv.org/abs/2606.02191v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nitikorn Jaingarm, Pornrad Srisawad, Christoph Herold, Ayut Limphirat, Jan Steinheimer, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We explore the production of hypernuclei in p+Au reactions using the UrQMD model accompanied by a standard phase space coalescence model. We focus on the proton beam energy range of $E_{\rm lab}= 5 - 30$ GeV as this energy range will be investigated by the CBM-experiment at the upcoming FAIR facility. Starting from proton, $Λ$, $Σ$, $Ξ$ and $Ω$ production, we predict the yields, rapidity and transverse momentum distributions of $^{3}_ΛH$, $^{4}_ΛH$, $Ξ$N and $Ξ$NN hypernuclei. We conclude that the production rates of novel multi-strange hypernuclei are well within the reach of the CBM-experiment.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 12:46:29 GMT</pubDate>
-      <guid isPermaLink="false">2606.02191v1</guid>
-      <dc:creator>Nitikorn Jaingarm</dc:creator>
-      <dc:creator>Pornrad Srisawad</dc:creator>
-      <dc:creator>Christoph Herold</dc:creator>
-      <dc:creator>Ayut Limphirat</dc:creator>
-      <dc:creator>Jan Steinheimer</dc:creator>
-      <dc:creator>Marcus Bleicher</dc:creator>
-    </item>
-    <item>
-      <title>Hydrodynamics without a relaxation gap: memory effects, nonlocality, and superdiffusion</title>
-      <link>http://arxiv.org/abs/2606.01805v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lorenzo Gavassino, Sukanya Mitra, Rajeev Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;By studying a simple model of relativistic particles propagating through a background medium with an energy-dependent relaxation time that is unbounded from above, we investigate how long-term memory obstructs the emergence of local hydrodynamics in systems with a gapless non-hydrodynamic sector. In the RTA matching frame, we show that the full gradient expansion is generically divergent in most flows, even for Fourier modes, and that any resummation necessarily retains an infinite set of slow non-hydrodynamic degrees of freedom. The divergence of the gradient expansion therefore reflects a more fundamental breakdown of hydrodynamic locality caused by persistent non-hydrodynamic memory. We finally show that sufficiently singular relaxation spectra can invalidate ordinary diffusion itself. In these regimes, the diffusivity diverges, and the late-time dynamics become superdiffusive, governed by intrinsically nonlocal constitutive relations.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 07:24:08 GMT</pubDate>
-      <guid isPermaLink="false">2606.01805v1</guid>
-      <dc:creator>Lorenzo Gavassino</dc:creator>
-      <dc:creator>Sukanya Mitra</dc:creator>
-      <dc:creator>Rajeev Singh</dc:creator>
-    </item>
-    <item>
-      <title>Quantum dominance of coherent bremsstrahlung in $^{124}$Sn + $^{124}$Sn scattering at 25 MeV/u</title>
-      <link>http://arxiv.org/abs/2606.01623v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sergei P. Maydanyuk, Ju-Jun Xie, Peng-Ming Zhang, Li-Ping Zou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present quantum-mechanical calculations of bremsstrahlung in the $^{124}$Sn + $^{124}$Sn at 25 MeV/u reproducing the measured photon spectrum over the full energy range. For the first time, we quantitatively determine the incoherent-to-coherent ratio in the photon spectrum. This ratio is extremely small, ranging from $10^{-11}$ to $10^{-4}$, which demonstrates that coherent emission dominates throughout the measured energy range. This behavior is in sharp contrast to proton-nucleus scattering, where incoherent emission dominates because of the leading role of nucleon magnetic moments. This contrast is illustrated by the TAPS Collaboration data for $p + ^{197}{\rm Au}$ collisions at a proton beam energy of 190 MeV, where the corresponding ratio reaches $10^{3}$-$10^{5}$. We find that incoherent-to-coherent ratios explain the difference between the two spectra in unified picture: (1) In proton--nucleus scattering, the spectrum contains a pronounced hump, (2) In $^{124}$Sn + $^{124}$Sn scattering, the spectrum decreases monotonically and has a nearly logarithmic shape. Our results identify a previously unexplored quantum regime of bremsstrahlung emission in nuclear reactions and open a new route for studying coherent effects in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 03:15:08 GMT</pubDate>
-      <guid isPermaLink="false">2606.01623v1</guid>
-      <dc:creator>Sergei P. Maydanyuk</dc:creator>
-      <dc:creator>Ju-Jun Xie</dc:creator>
-      <dc:creator>Peng-Ming Zhang</dc:creator>
-      <dc:creator>Li-Ping Zou</dc:creator>
     </item>
   </channel>
 </rss>
