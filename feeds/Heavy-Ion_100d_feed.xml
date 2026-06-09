@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:27:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -1905,18 +1905,6 @@
       <dc:creator>STAR Collaboration</dc:creator>
     </item>
     <item>
-      <title>Matching collinear factorization with color-glass condensate for inclusive and exclusive deep inelastic scattering</title>
-      <link>http://arxiv.org/abs/2605.14092v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shohini Bhattacharya, Chuan-Qi He, Zhong-Bo Kang, Diego Padilla, Jani Penttala&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Collinear factorization and color-glass condensate (CGC) effective field theory are generally treated as separate approaches for calculating scattering amplitudes, valid in different kinematic regimes. For deep inelastic scattering at high photon virtuality and high center-of-mass energy, however, both of these approaches should be applicable. By expressing collinear parton distributions and generalized parton distributions in the shockwave approximation, we show that the resulting collinear-factorization amplitudes exactly reproduce the large-$Q^2$ expansion of CGC amplitudes for inclusive deep inelastic scattering, deeply virtual Compton scattering, and deeply virtual meson production. The matching holds directly at the amplitude level and includes both logarithmically enhanced and finite contributions. Our results establish the consistency between collinear factorization and the CGC in their common region of validity, clarify the origin of large momentum logarithms within the CGC framework, and provide a path toward combining high-energy and collinear evolution in a unified description of hadronic structure at small $x$ and large momentum scales.&lt;/p&gt;</description>
-      <pubDate>Wed, 13 May 2026 20:21:01 GMT</pubDate>
-      <guid isPermaLink="false">2605.14092v1</guid>
-      <dc:creator>Shohini Bhattacharya</dc:creator>
-      <dc:creator>Chuan-Qi He</dc:creator>
-      <dc:creator>Zhong-Bo Kang</dc:creator>
-      <dc:creator>Diego Padilla</dc:creator>
-      <dc:creator>Jani Penttala</dc:creator>
-    </item>
-    <item>
       <title>The ICESPICE demonstrator for particle/$γ$-$e^{-}$ coincidence experiments at Florida State University</title>
       <link>http://arxiv.org/abs/2605.11000v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. L. Conley, M. Spieker, R. Aggarwal, L. T. Baby, J. Davis, J. Esparza, I. Hay, B. Kelly, T. Kirk, M. I. Khawaja, R. Mahajan, S. T. Marley, M. Mestayer, A. B. Morelock, A. Peters, A. M. Ring, J. Sheridan, V. Sitaraman, T. Stuck, I. Wiedenhöver&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Internal Conversion Electron SPectrometer In Coincidence Experiments (ICESPICE) demonstrator has been developed at Florida State University to enable particle/gamma-electron coincidence measurements in low-energy nuclear structure studies. ICESPICE is based on the mini-orange spectrometer concept and features a modular design using commercially available permanent magnets arranged in toroidal configurations to transport internal conversion electrons to room-temperature PIPS detectors while suppressing background from undesired particles. The system was optimized through SolidWorks modeling, COMSOL magnetic field simulations, and Geant4 particle tracking to maximize the magnetic transmission probability for electrons around 1 MeV. Commissioning tests using a calibrated 207Bi source demonstrated the performance of multiple spectrometer-detector configurations. Coincidence measurements between CeBr3 detectors from the CeBrA array and PIPS detectors revealed clear gamma-electron correlations. The first in-beam particle-electron measurements using ICESPICE were performed with the Super-Enge Split-Pole Spectrograph (SE-SPS) in the 208Pb(d,t)207Pb reaction. Prompt coincidences between tritons detected with the SE-SPS and electrons detected with ICESPICE were observed. The presented results show that ICESPICE is a promising ancillary detector system for in-beam internal conversion electron spectroscopy at the FSU SE-SPS.&lt;/p&gt;</description>
@@ -2439,17 +2427,6 @@
       <dc:creator>Bhagyarathi Sahoo</dc:creator>
       <dc:creator>Captain R. Singh</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>Nonlinear response of flow harmonics in Gubser flow with participant-reaction planes mismatch</title>
-      <link>http://arxiv.org/abs/2604.11058v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiang Ren, Jin-Yu Hu, Hao-jie Xu, Shi Pu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the nonlinear response of flow harmonics $v_2,v_4$ to initial-state eccentricities $ε_2,ε_4$ within the Gubser-flow framework. By extending the perturbative solutions of Gubser flow, we derive analytic nonlinear response relations connecting the eccentricities $ε_2,ε_4$ to the flow harmonics $v_2,v_4$. Our results reproduce the well-known result $v_4/v_2^2 \to 1/2$ in large transverse momentum $p_T$ limit. Furthermore, we study the effects of a mismatch between the participant and reaction planes. We find that the conventional nonlinear response coefficients acquire an additional factor determined by the participant-plane angles, which is often approximated as statistical noise driven by event-by-event fluctuations. This factor can modify both the strength but even the sign of the effective nonlinear response coefficient, making it sensitive to the initial configuration of the colliding nuclei. Our study provides new analytical insight into the origin of collective phenomena in relativistic heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 13 Apr 2026 06:35:06 GMT</pubDate>
-      <guid isPermaLink="false">2604.11058v1</guid>
-      <dc:creator>Xiang Ren</dc:creator>
-      <dc:creator>Jin-Yu Hu</dc:creator>
-      <dc:creator>Hao-jie Xu</dc:creator>
-      <dc:creator>Shi Pu</dc:creator>
     </item>
   </channel>
 </rss>
