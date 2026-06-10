@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 23:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:05:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -374,37 +374,6 @@
       <dc:creator>Xing Wu</dc:creator>
       <dc:creator>Guannan Xie</dc:creator>
       <dc:creator>Yapeng Zhang</dc:creator>
-    </item>
-    <item>
-      <title>$D^0$-$D_s^+$ Elliptic-Flow Splitting under Event-Shape Engineering: A Probe of Sequential Charm Hadronization</title>
-      <link>http://arxiv.org/abs/2606.03552v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Jie Huang, Wei Dai, Jiaxing Zhao, Tan Luo, Ben-Wei Zhang, Enke Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent work has proposed sequential hadronization of open-charm hadrons in the quark-gluon plasma, wherein more tightly bound species such as $D_s^+$ form earlier near $1.2 T_c$ and $D^0$ forms later at $T_c$. That work showed that this mechanism naturally reverses the sign of the $D^0-D_s^+$ elliptic-flow splitting relative to the conventional simultaneous baseline. In this work, we demonstrate that event-shape engineering (ESE) provides a sharper discrimination between the two pictures than inclusive measurements alone. By selecting large-$q_2$ and small-$q_2$ events in 0--10\% and 30--50\% centrality classes in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$ TeV, we show that the geometry-driven enhancement of charm-meson $v_2$ can be separated from the hadronization-time response: the positive $Δv_2(D^0-D_s^+)$ in the sequential scenario grows systematically with $q_2$, while the corresponding response slope $χ$ reveals a species-dependent hierarchy $χ(D^0) &gt; χ(D_s^+)$ that is robust against the overall flow normalization and absent in the simultaneous baseline. In the simultaneous case, the splitting is near zero or negative and does not follow the same geometry scaling. Notably, the semi-central 30--50\% class emerges as the optimal window, because the non-monotonic interplay between QGP lifetime and initial eccentricity maximizes the late-stage flow conversion. The $q_2$ ratios of the $D_s^+/D^0$ yield ratio remain close to unity, confirming that the splitting is a dynamical flow effect rather than a chemical yield modification. These results establish $Δv_2(D^0-D_s^+)$ and the response slope $χ$ under ESE as complementary differential probes of the space-time structure of charm hadronization near the QCD transition temperature.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 12:14:11 GMT</pubDate>
-      <guid isPermaLink="false">2606.03552v1</guid>
-      <dc:creator>Yu-Jie Huang</dc:creator>
-      <dc:creator>Wei Dai</dc:creator>
-      <dc:creator>Jiaxing Zhao</dc:creator>
-      <dc:creator>Tan Luo</dc:creator>
-      <dc:creator>Ben-Wei Zhang</dc:creator>
-      <dc:creator>Enke Wang</dc:creator>
-    </item>
-    <item>
-      <title>How long can an atomic nucleus remain standing ? -- a fundamental quantum question</title>
-      <link>http://arxiv.org/abs/2606.03272v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Takaharu Otsuka, Yusuke Tsunoda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The shape of an object is of fundamental interest and high importance, but is not a straightforward subject if the object is on quantum scale. We here discuss how a shaped micro-object can be looked at within quantum mechanics. For this purpose, atomic nuclei are suitable, because they are tiny shaped objects. The majority of atomic nuclei are shaped like ellipsoids. Although an ellipsoid is oriented in a direction classically, such a nucleus is pointing in all directions with certain probabilities in quantum eigenstates, fulfilling rotational symmetry. This makes the direct observation of shapes formidably difficult. Here, we show, including examples, that the ellipsoidal nucleus is basically standing in a fixed direction for finite time \sim some 10^{-23} sec, as a robust consequence of time-dependent Schrodinger equation in quantum mechanics and a well-known rotational feature of nuclei. This consequence not only provides Relativistic Heavy-Ion Collisions9 with experimental feasibilities, but also leads to a deeper general understanding of stationary states with restored broken symmetry: time-dependent symmetry-breaking (e.g., ellipsoid shape) properties arise from stationary states with symmetry. This work depicts direct relevance to fusion and fission reactions in terms of time evolution, including applications to the synthesis of superheavy elements.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 07:37:05 GMT</pubDate>
-      <guid isPermaLink="false">2606.03272v1</guid>
-      <dc:creator>Takaharu Otsuka</dc:creator>
-      <dc:creator>Yusuke Tsunoda</dc:creator>
-    </item>
-    <item>
-      <title>Chemical Equilibration and Thermalization of Quark-Gluon Plasma in a Parton Cascade Model with 2-to-3 Quark Interactions</title>
-      <link>http://arxiv.org/abs/2606.03058v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cendikia Abdi, Chiho Nonaka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the thermalization, chemical equilibration, and hydrodynamization behavior of the far-from-equilibrium, gluon-dominated quark gluon plasma (QGP) produced in Au+Au collisions at $\sqrt{s_{\text{NN}}} = 200$ GeV using the hadronic transport model SMASH extended to simulate partonic interactions. The initial conditions are prepared using the mini-jet model with nuclear parton distribution functions. We first validate the model in a box simulation with the periodic boundary condition to establish indicators for thermalization, chemical equilibration, and hydrodynamization by analyzing energy spectrum and momentum anisotropy. We observe that the additional inelastic channels accelerate thermalization and chemical equilibration compared to the gluon-only scheme. Applying the same framework to the expanding medium, we find that the energy spectrum converges toward the Boltzmann distribution at $t \sim 0.2$ fm while momentum isotropization is achieved at $t \sim 2$ fm, but chemical equilibration is not clearly established even after 5 fm. The Knudsen number rises above unity after $\sim 4$ fm, indicating a breakdown of the hydrodynamic regime at later times consistent with other kinetic theory approaches.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 02:45:43 GMT</pubDate>
-      <guid isPermaLink="false">2606.03058v1</guid>
-      <dc:creator>Cendikia Abdi</dc:creator>
-      <dc:creator>Chiho Nonaka</dc:creator>
     </item>
   </channel>
 </rss>
