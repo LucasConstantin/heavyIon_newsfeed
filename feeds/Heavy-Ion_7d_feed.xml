@@ -5,9 +5,68 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 00:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 01:20:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena</title>
+      <link>http://arxiv.org/abs/2606.10689v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Michael Lublinsky, Hadas Tzarfati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chiral plasma appears in several areas of physics, historically starting from primordial plasma in the early Universe, then in quark-gluon plasma produced in heavy ion collisions, and, more recently, in Dirac and Weyl semimetals. The major signature of the plasma is the non-conservation of the axial current due to the chiral anomaly and the emergence of new, anomaly-induced transport phenomena. In this paper, we study the plasma exposed to arbitrarily strong constant magnetic and weak electric fields. Employing all-order gradient resummation, we write down constitutive relations for electric and axial currents parameterized by thirteen momentum- and magnetic- field-dependent transport coefficient functions. The latter are computed utilizing a theoretical lab for a realistic plasma, namely a holographic $U(1)_V \times U(1)_A$ Maxwell--Chern--Simons theory in Schwarzschild--AdS$_5$, in the probe limit. As an application, we revisit the phenomena of negative magnetoresistance and chiral magnetic waves, beyond the naive hydrodynamic limit.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 10:48:17 GMT</pubDate>
+      <guid isPermaLink="false">2606.10689v1</guid>
+      <dc:creator>Michael Lublinsky</dc:creator>
+      <dc:creator>Hadas Tzarfati</dc:creator>
+    </item>
+    <item>
+      <title>Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</title>
+      <link>http://arxiv.org/abs/2606.10441v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junyi Han, Yue-Hang Leung, Jiaxing Zhao, Yingjie Zhou, Norbert Hermann, Yaping Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the formation of light nuclei and hypernuclei in Au+Au collisions at $\sqrt{s_{NN}}=3~\mathrm{GeV}$ within a coalescence framework embedded in the microscopic N-body Parton-Hadron-Quantum-Molecular Dynamics (PHQMD) transport model. The Wigner phase-space distributions employed in the coalescence calculation are constructed from realistic $N$-body wave functions obtained by solving the Schrödinger equation in the hyperspherical harmonics formalism, providing a solid and parameter-free description of nuclear clusters and hypernuclei. By comparing calculated rapidity distributions with STAR data, we extract species-dependent coalescence times, revealing a non-universal formation pattern among different clusters. The resulting yields and kinematic distributions of light nuclei and hypernuclei are systematically analyzed and shown to be sensitive to the underlying wave-function structure and formation time. In addition, we explore cluster-nucleon formation channels for $A=4$ systems. These additional channels improve the description of ${}^{4}\mathrm{He}$ and ${}^{4}_Λ\mathrm{H}$ yields and help address the underestimation of $A=4$ cluster production in theoretical approaches. Finally, we provide predictions for heavier hypernuclei, including ${}^{5}_Λ\mathrm{He}$ and ${}^{5}_{ΛΛ}\mathrm{He}$, which are of interest for future experimental measurements.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 05:37:33 GMT</pubDate>
+      <guid isPermaLink="false">2606.10441v1</guid>
+      <dc:creator>Junyi Han</dc:creator>
+      <dc:creator>Yue-Hang Leung</dc:creator>
+      <dc:creator>Jiaxing Zhao</dc:creator>
+      <dc:creator>Yingjie Zhou</dc:creator>
+      <dc:creator>Norbert Hermann</dc:creator>
+      <dc:creator>Yaping Wang</dc:creator>
+    </item>
+    <item>
+      <title>Global polarization of $Λ$, $Ξ^{-}$, and $Ω^{-}$ hyperons in Au+Au collisions at RHIC BES-II energies</title>
+      <link>http://arxiv.org/abs/2606.10341v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gen-Hui Li, Cong Yi, Xiang-Yu Wu, Shi Pu, Guang-You Qin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the global spin polarization of $Λ$ hyperons and the multi-strange hyperons $Ξ^{-}$ and $Ω^{-}$ in Au+Au collisions across the RHIC Beam Energy Scan II (BES-II) energy range, $\sqrt{s_{NN}}=7.7$--$27$ GeV. The polarization is computed using the modified Cooper--Frye formula, which includes contributions from thermal vorticity, the thermal shear tensor, and the gradient of the baryon chemical potential, combined with the (3+1)-dimensional viscous hydrodynamic framework CLVisc with SMASH initial conditions. We present the global polarization as a function of collision energy, centrality, transverse momentum, and rapidity. We find that the global polarization of $Ω^{-}$ is systematically larger than those of $Λ$ and $Ξ^{-}$ because of its larger spin quantum number, but it remains below the central value of the recent STAR measurement. This discrepancy may suggest that additional mechanisms, such as spin correlations among strange quarks inside the $Ω^{-}$, could contribute to the observed $Ω^{-}$ polarization. We also find that the global-polarization splitting between hyperons and anti-hyperons increases toward lower collision energies and is dominated by the chemical-potential-gradient contribution.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 02:47:51 GMT</pubDate>
+      <guid isPermaLink="false">2606.10341v1</guid>
+      <dc:creator>Gen-Hui Li</dc:creator>
+      <dc:creator>Cong Yi</dc:creator>
+      <dc:creator>Xiang-Yu Wu</dc:creator>
+      <dc:creator>Shi Pu</dc:creator>
+      <dc:creator>Guang-You Qin</dc:creator>
+    </item>
+    <item>
+      <title>Nonflow Subtraction Beyond Two-Particle Correlations</title>
+      <link>http://arxiv.org/abs/2606.10258v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zaining Wang, Jiangyong Jia, Jinhui Chen, Shengli Huang, Chunjian Zhang, Zhengxi Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Establishing collective flow in small collision systems is crucial for pinning down the minimum conditions for quark-gluon plasma (QGP) formation. In two-particle correlations, nonflow has been subtracted with good control, pushing the reach of flow measurements down to very small particle multiplicities $N$. However, the multi-particle nature of collectivity has not been established in the same $N$ regime, because the residual nonflow surviving the subevent procedure in multi-particle cumulants has never been quantified. We develop a general nonflow subtraction framework for $m$-particle cumulants, built around the approximate $1/N^{m-1}$ scaling of nonflow in the independent-source picture. Correlators containing $v_1$ serve as clean nonflow estimators, since the $p_{\rm T}$-integrated dipolar flow nearly vanishes. Using \HIJING{} as a controlled nonflow-only environment, we test the subtraction for three target observables ($\langle v_2^2\rangle$, $\langle v_2^2δp_{\rm T}\rangle$, and $c_2\{4\}$) in O+O and $d$+Au at $\sqrt{s_{\rm NN}} = 5.36$ TeV and 200 GeV. Most of the nonflow is removed, with residual fractions typically within 20--30% when converted to the two-particle level, though the best estimator differs across the three targets. We identify a multiplicity-reweighting correction, previously overlooked in two-particle correlations, that explains the long-standing undersubtraction of the naive $1/N$-scaling method; its impact grows as a power of the correlator order. The framework gives a systematic route to nonflow subtraction beyond two-particle correlations, broadening the class of multi-particle observables accessible to the small-system flow program.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 23:57:35 GMT</pubDate>
+      <guid isPermaLink="false">2606.10258v1</guid>
+      <dc:creator>Zaining Wang</dc:creator>
+      <dc:creator>Jiangyong Jia</dc:creator>
+      <dc:creator>Jinhui Chen</dc:creator>
+      <dc:creator>Shengli Huang</dc:creator>
+      <dc:creator>Chunjian Zhang</dc:creator>
+      <dc:creator>Zhengxi Yan</dc:creator>
+    </item>
+    <item>
+      <title>Charm quark production in heavy-ion collisions as a signature of pre-equilibrium</title>
+      <link>http://arxiv.org/abs/2606.10206v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maurice Coquet, Thomas Faure, Sören Schlichting, Mika Spier, Michael Winn&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The relative abundances and kinematic distributions of hadrons containing (anti)charm quarks are key observables for deconfinement, heavy-quark diffusion and hadronization in heavy-ion collisions. The production of (anti)charm quarks is commonly associated to the initial hard scatterings in hadronic collisions. Based on previous studies on dilepton production, we evaluate the (anti)charm quark production from the pre-equilibrium phase. A non-negligible contribution to the overall charm quark production is found albeit large theoretical uncertainties are limiting factors. We conclude that precise total charm production measurements combined with progress on charm production calculations from the initial hard scatterings can be used to infer information on the pre-equilibrium stage.&lt;/p&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 21:56:03 GMT</pubDate>
+      <guid isPermaLink="false">2606.10206v1</guid>
+      <dc:creator>Maurice Coquet</dc:creator>
+      <dc:creator>Thomas Faure</dc:creator>
+      <dc:creator>Sören Schlichting</dc:creator>
+      <dc:creator>Mika Spier</dc:creator>
+      <dc:creator>Michael Winn</dc:creator>
+    </item>
     <item>
       <title>Einstein-de Haas effect and induced rotation in an evolving magnetized QCD matter</title>
       <link>http://arxiv.org/abs/2606.09760v1</link>
