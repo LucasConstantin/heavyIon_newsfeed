@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jun 2026 23:51:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:24:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -108,18 +108,6 @@
       <guid isPermaLink="false">2606.08830v1</guid>
       <dc:creator>Petja Paakkinen</dc:creator>
       <dc:creator>Vadim Guzey</dc:creator>
-    </item>
-    <item>
-      <title>GPU optical photon Monte Carlo for noble liquid detectors: validation against Geant4 in a large liquid argon TPC benchmark</title>
-      <link>http://arxiv.org/abs/2606.05385v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gabor Galgoczi, Xuyang Ning, Dmitri Smirnov, Brett Viren, Chao Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Optical photon Monte Carlo simulation is a computational bottleneck for noble liquid Time Projection Chambers. Design studies require repeated, geometry dependent simulations of timing, wavelength shifting, and optical response, while reconstruction and particle identification workflows need labeled optical datasets. We present Simphony, a GPU optical simulation tool, formerly EIC-Opticks, built on Opticks with CUDA and NVIDIA OptiX. Simphony implements a GPU version of the Geant4 G4OpWLS wavelength-shifting model and returns Monte Carlo truth for detected hits with low per-photon overhead. We validate Simphony against Geant4 11.3.2 in a simplified 14.7 kt liquid argon Time Projection Chamber benchmark with a two-stage wavelength-shifting shell and idealized photon counting detector. For three paired 2.5 GeV electron simulations, each producing about 61 M optical photons, the integrated detected-photon ratio agrees with Geant at the subpercent level. The detected arrival time and wavelength spectra give $χ^2/\mathrm{ndf}$ values of 0.98 and 1.08. Contained muon and near-Cerenkov-threshold proton samples give $R_N=1.0017\pm0.0008$ and $R_N=1.0005\pm0.0014$, confirming agreement for distinct source topologies. On an NVIDIA RTX 4090, a stacked launch of four 2.5 GeV electron events transports 243 M optical photons in $3.03\pm0.06$ s, giving $80.2\pm1.6$ M photons s$^{-1}$. Relative to a single-thread Geant reference and including GPU overheads and host-device transfers, the optical transport speedup is $1053\pm55$; the end-to-end wall time acceleration is $89\pm5$. These results show that Simphony can make explicit optical photon Monte Carlo practical for detector development studies and for generating machine learning optical response datasets.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 14:24:03 GMT</pubDate>
-      <guid isPermaLink="false">2606.05385v2</guid>
-      <dc:creator>Gabor Galgoczi</dc:creator>
-      <dc:creator>Xuyang Ning</dc:creator>
-      <dc:creator>Dmitri Smirnov</dc:creator>
-      <dc:creator>Brett Viren</dc:creator>
-      <dc:creator>Chao Zhang</dc:creator>
     </item>
     <item>
       <title>When positive and negative pairs differ in femtoscopy: residual Coulomb and isospin effects</title>
@@ -406,33 +394,6 @@
       <pubDate>Thu, 04 Jun 2026 04:21:39 GMT</pubDate>
       <guid isPermaLink="false">2606.05694v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Thermodiffusive coupled-transport phenomena in dense quark matter</title>
-      <link>http://arxiv.org/abs/2606.04539v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kamaljeet Singh, Kangkan Goswami, Raghunath Sahoo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coupled-transport phenomena reveal that heat, charge, and particle flows are intrinsically interconnected, providing deeper insight into the microscopic dynamics of a medium than independent transport processes. We study the behavior of the coupled-transport coefficients in hot and dense quark matter within the framework of the 2+1 flavor Nambu--Jona--Lasinio model at finite temperature and quark chemical potential. These coefficients characterize coupled-transport phenomena, where particle diffusion is driven by temperature gradients (Soret effect) and heat flow is induced by gradients in chemical potential (Dufour effect). These coefficients are estimated by solving the relativistic Boltzmann transport equation using the relaxation time approximation with temperature-dependent cross sections. We study the scaled Soret and Dufour coefficients as functions of temperature and quark chemical potential across the QCD phase diagram. We aim to understand the intricate behavior of the coupled-transport coefficients near the chiral symmetry restoration region. Our results indicate that coupled-transport coefficients are sensitive to the chiral phase transition and provide the first systematic insight into the cross-coupled-transport properties in dense quark matter.&lt;/p&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 07:22:47 GMT</pubDate>
-      <guid isPermaLink="false">2606.04539v1</guid>
-      <dc:creator>Kamaljeet Singh</dc:creator>
-      <dc:creator>Kangkan Goswami</dc:creator>
-      <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>A practical methodology for $Λ$ global polarization extraction in fixed-target experiments</title>
-      <link>http://arxiv.org/abs/2606.04441v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tan Lu, Chengdong Han, Chenlu Hu, Xionghong He, Diyu Shen, Subhash Singha, Shusu Shi, Xing Wu, Guannan Xie, Yapeng Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.data-an&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Non-central heavy-ion collisions generate large orbital angular momentum in the created medium, which leads to polarization of final-state particles via spin-orbit coupling, known as global spin polarization. The observation of significant global polarization of $Λ$ hyperon in heavy-ion collisions indicates that the quark-gluon plasma is the most vortical fluid known in nature. Exploring $Λ$ global polarization at lower energies is important for understanding spin dynamics across different regions of the quantum chromodynamics (QCD) phase diagram. Low-energy nuclear experiments are typically conducted with asymmetric detector acceptance, as in fixed-target collisions at RHIC-STAR, and at facilities such as FAIR, NICA, HIAF and HIRFL-CSR. The asymmetric rapidity coverage in these experiments enhances the coupling between directed flow and detector inefficiencies, creating significant bias in $Λ$ global polarization measurements. In this paper, we propose a methodology to eliminate such bias arising from asymmetric detector acceptance. The method is validated using realistic detector simulations based on the STAR fixed-target configuration.&lt;/p&gt;</description>
-      <pubDate>Wed, 03 Jun 2026 04:42:10 GMT</pubDate>
-      <guid isPermaLink="false">2606.04441v1</guid>
-      <dc:creator>Tan Lu</dc:creator>
-      <dc:creator>Chengdong Han</dc:creator>
-      <dc:creator>Chenlu Hu</dc:creator>
-      <dc:creator>Xionghong He</dc:creator>
-      <dc:creator>Diyu Shen</dc:creator>
-      <dc:creator>Subhash Singha</dc:creator>
-      <dc:creator>Shusu Shi</dc:creator>
-      <dc:creator>Xing Wu</dc:creator>
-      <dc:creator>Guannan Xie</dc:creator>
-      <dc:creator>Yapeng Zhang</dc:creator>
     </item>
   </channel>
 </rss>
