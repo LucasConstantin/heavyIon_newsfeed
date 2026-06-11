@@ -5,9 +5,19 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 01:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:29:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Jet Radius Dependence of Energy Loss in Pb+Pb Collisions: A Comparative Analysis of the Ratio of Nuclear Modification Factors and Fractional Energy Loss</title>
+      <link>http://arxiv.org/abs/2606.12276v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rafet Kavak, Riccardo Longo, Anne M. Sickles&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The quark-gluon plasma (QGP) is a deconfined state of strongly interacting matter formed at extreme temperature and energy density in ultra-relativistic nucleus-nucleus collisions at RHIC and the LHC. High transverse momentum jets, produced in initial hard scatterings, traverse the QGP and lose energy via elastic and radiative processes, an effect known as jet quenching. The nuclear modification factor, $R_{\mathrm{AA}}$, defined as the ratio of the Pb+Pb jet yield to the $pp$ cross section scaled by the nuclear thickness function, is widely used to quantify jet quenching. However, its value depends strongly on both the $pp$ jet spectral shape and the strength of the quenching, complicating comparisons across jet selections. The fractional energy loss, $S_{\text{loss}}$, quantifying the average medium-induced momentum shift of jets, is designed to mitigate this dependence. In central Pb+Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02~\mathrm{TeV}$, we compile and compare published ATLAS and ALICE measurements of jet suppression for inclusive single-jet and dijet selections across multiple jet radii, considering (i) the ratio of the nuclear modification factor at a given radius to that at a reference radius of 0.2, and (ii) the fractional energy loss. The radius dependence of this ratio differs between single-jet and dijet measurements, and between ATLAS calorimeter jets and ALICE charged-particle jets, reflecting differences in kinematic event selections and jet constituents. Expressing the results in terms of $S_{\text{loss}}$ allows direct, radius-differential comparisons across experiments with reduced sensitivity to the $pp$ spectral slope. Combining these approaches enables constraints on the radius dependence of jet modification that account for selection biases, and facilitates cross-experiment benchmarking of jet quenching models.&lt;/p&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 16:17:42 GMT</pubDate>
+      <guid isPermaLink="false">2606.12276v1</guid>
+      <dc:creator>Rafet Kavak</dc:creator>
+      <dc:creator>Riccardo Longo</dc:creator>
+      <dc:creator>Anne M. Sickles</dc:creator>
+    </item>
     <item>
       <title>Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena</title>
       <link>http://arxiv.org/abs/2606.10689v1</link>
@@ -1905,14 +1915,6 @@
       <pubDate>Thu, 21 May 2026 09:03:18 GMT</pubDate>
       <guid isPermaLink="false">2605.22199v1</guid>
       <dc:creator>Musfer Adzhymambetov</dc:creator>
-    </item>
-    <item>
-      <title>Causal UV completions of relativistic hydrodynamics</title>
-      <link>http://arxiv.org/abs/2605.21377v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Robbe Brants&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic hydrodynamics successfully provides an effective field theory description for the low energy regime of many out-of-equilibrium systems. On the other hand, in this paper we proof that any stand-alone hydrodynamic EFT is inherently acausal and therefore requires the addition of transient UV modes in order to restore causality. This is made possible by the exponential decay of dissipative hydrodynamics in a majority of the lightcone, allowing the possibility of a causal description that still reduces to the hydrodynamic one at late timescales. We then investigate the emergence and possible restrictions of the non-hydrodynamic modes in these causal UV completions.&lt;/p&gt;</description>
-      <pubDate>Wed, 20 May 2026 16:39:51 GMT</pubDate>
-      <guid isPermaLink="false">2605.21377v1</guid>
-      <dc:creator>Robbe Brants</dc:creator>
     </item>
     <item>
       <title>Study of the thermodynamic properties of hot QCD matter with the CMS experiment</title>
