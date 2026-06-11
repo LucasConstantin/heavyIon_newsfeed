@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 00:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 01:30:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,15 @@
       <guid isPermaLink="false">2606.10689v1</guid>
       <dc:creator>Michael Lublinsky</dc:creator>
       <dc:creator>Hadas Tzarfati</dc:creator>
+    </item>
+    <item>
+      <title>Post-Merger Gravitational-Wave Uncertainties of Binary Neutron Stars under Multi-Messenger EOS Constraints</title>
+      <link>http://arxiv.org/abs/2606.08522v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yong-Jia Huang, Luca Baiotti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The high-frequency gravitational waves emitted by a binary neutron star merger remnant carry information on matter at densities and temperatures beyond those reached in isolated neutron stars. We quantify how tightly current multi-messenger constraints already determine the dominant post-merger frequency $f_{2,\rm mean}$. Adopting a set of cold equations of state (EOSs) constrained jointly by gravitational-wave tidal deformability, NICER mass--radius measurements, massive-pulsar masses, chiral effective field theory at low density, and perturbative QCD at asymptotically high density, for each binary mass we select the softest and stiffest models of the multi-messenger posterior and follow their coalescence with fully general-relativistic hydrodynamics simulations. Together with a broad set of EOSs drawn from the literature ($82$ models in total), these simulations show that, once the binary mass and a single measure of the stellar compactness ($Λ$ or $R$) are held fixed, the residual spread of $f_{2,\rm mean}$ is only $\sim 100\,{\rm Hz}$, a factor of several below the $\gtrsim 500\,{\rm Hz}$ range spanned by an EOSs set including those already disfavored by the data. This tight calibration of the cold-matter prediction implies that a future high-frequency detection departing from it would point directly to additional physics, such as a hadron--quark transition occurring at finite temperature. We further confirm the quasi-universal relation $(f_1+f_3)/2 \approx f_{2,\rm mean}$ to within $\sim 116\,{\rm Hz}$, which provides a model-independent estimate of $f_{2,\rm mean}$ from the secondary spectral peaks.&lt;/p&gt;</description>
+      <pubDate>Tue, 09 Jun 2026 06:13:00 GMT</pubDate>
+      <guid isPermaLink="false">2606.08522v2</guid>
+      <dc:creator>Yong-Jia Huang</dc:creator>
+      <dc:creator>Luca Baiotti</dc:creator>
     </item>
     <item>
       <title>Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</title>
@@ -2233,14 +2242,6 @@
       <pubDate>Sat, 18 Apr 2026 17:27:16 GMT</pubDate>
       <guid isPermaLink="false">2604.17075v1</guid>
       <dc:creator>Murad Sarsour</dc:creator>
-    </item>
-    <item>
-      <title>sPHENIX measurement of Open-Charm Baryon-to-Meson Ratios in $p$+$p$ collisions at RHIC</title>
-      <link>http://arxiv.org/abs/2604.15667v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xudong Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;sPHENIX is a state-of-the-art experiment at the Relativistic Heavy Ion Collider (RHIC), dedicated to the study of heavy-flavor and jet physics. Its precision tracking system, combined with streaming readout, enables heavy-flavor measurements with high-statistics and essentially unbiased data samples. During the 2024 run, sPHENIX was fully commissioned and recorded a sample of 100 billion unbiased $p$+$p$ collisions, together with a minimum-bias Au+Au dataset. The 2025 run further expanded the sPHENIX dataset with high-statistics $p$+$p$, O+O and Au+Au collisions. This extensive $p$+$p$ sample opens the door to heavy-flavor measurements with orders of magnitude more statistics than previously available at RHIC. Notably, there has been no prior measurement of the $Λ_c^+ / D^0$ baseline in $p$+$p$ collisions at RHIC energies. The large sPHENIX dataset now enables the first exploration of key open questions, such as the hadronization mechanism of baryons and the strange-to-light flavor meson ratio.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Apr 2026 03:43:10 GMT</pubDate>
-      <guid isPermaLink="false">2604.15667v1</guid>
-      <dc:creator>Xudong Yu</dc:creator>
     </item>
   </channel>
 </rss>
