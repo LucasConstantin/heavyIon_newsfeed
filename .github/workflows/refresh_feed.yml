@@ -3,7 +3,7 @@ name: Refresh Heavy-Ion Feed
 on:
   schedule:
     # Every 5 minutes for testing (Europe/Berlin timezone: UTC+1 CET / UTC+2 CEST)
-    - cron: "*/5 * * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch: # allow manual runs from the Actions tab
 
 permissions:
