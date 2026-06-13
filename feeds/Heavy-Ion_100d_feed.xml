@@ -5,9 +5,63 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:49:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Observable Dependence of Viscous Corrections in QGP: Heavy Quarks and Dileptons in Chapman--Enskog Theory</title>
+      <link>http://arxiv.org/abs/2606.13646v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lakshmi J. Naik, P. Parvathi, Nachiketa Sarkar, V. Sreekanth&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We calculate, for the first time, heavy quark transport and thermal dilepton production from QGP using viscous correction up to second order in gradients. We use the form of viscous correction obtained from Chapman-Enskog like expansion of the Boltzmann transport equation in relaxation time approximation, and compare our results with that of Grad's 14-moment approximation. By employing the temperature and shear stress evolution profiles of QGP obtained from second-order causal relativistic viscous hydrodynamics, we study the heavy quark transport coefficients and thermal dilepton production from an evolving QGP. In the case of HQ transport, the CE corrections suppress the drag force substantially, induce a non-trivial momentum dependence in transverse momentum diffusion, and result in a comparatively less modification in longitudinal momentum diffusion. Whereas, for thermal dileptons, the CE corrections result in an enhanced early-time contribution which decreases and become converging to the first-order CE correction with the evolution of QGP, and remain well behaved compared to that of Grad's correction. Our results indicate that the modification of the observable due to viscous corrections is governed by the magnitude of the corrections as well as the interplay between their momentum dependence and momentum weighting of the transport and emission kernels. We demonstrate that the momentum structure of the various viscous corrections at the level of distribution function is not directly translated to the observables since the different observables are sensitive to distinct regions of momentum space.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 17:49:05 GMT</pubDate>
+      <guid isPermaLink="false">2606.13646v1</guid>
+      <dc:creator>Lakshmi J. Naik</dc:creator>
+      <dc:creator>P. Parvathi</dc:creator>
+      <dc:creator>Nachiketa Sarkar</dc:creator>
+      <dc:creator>V. Sreekanth</dc:creator>
+    </item>
+    <item>
+      <title>Transport simulations with a constrained momentum-dependent Chiral Mean Field EoS at different iso-spin fractions</title>
+      <link>http://arxiv.org/abs/2606.13415v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jan Steinheimer, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a comparison of the UrQMD model using a chiral mean field EoS (CMF) with flow and pion production data in heavy ion collisions at low beam energies $E_{\mathrm{lab}}=0.2-2.0 A$ GeV and varying iso-spin fraction. The CMF model parameters are constrained by known properties of the high density equation of state of QCD at varying iso-spin fractions. This allows us to calculate the equation of state as well as nuclear interactions for different physical systems like neutron stars and heavy ion collisions in a consistent way. It is found that heavy ion reactions at the upcoming FAIR facility will only have marginal sensitivity on the iso-spin dependence of the high-density equation of state. At lower beam energies, comparing to FOPI, HADES and S$π$rit data, the sensitivity is higher but the observed deviations and systematic uncertainties of the existing data are larger than the sensitivity to the symmetry energy.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 14:45:22 GMT</pubDate>
+      <guid isPermaLink="false">2606.13415v1</guid>
+      <dc:creator>Jan Steinheimer</dc:creator>
+      <dc:creator>Marcus Bleicher</dc:creator>
+    </item>
+    <item>
+      <title>Transport coefficients of strongly interacting quark-gluon plasma including elastic and inelastic scattering within the dynamical quasiparticle model</title>
+      <link>http://arxiv.org/abs/2606.13363v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gaia Ingrosso, Olga Soloveva, Ilia Grishmanovskii, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the impact of inelastic gluon-radiation processes on the transport coefficients of the quark-gluon plasma within the dynamical quasiparticle model (DQPM) in the temperature-baryon-chemical-potential plane $(T,μ_B)$. Extending the elastic baseline established in previous DQPM calculations, we include radiative $2\to3$ scattering channels with massive partons and effective DQPM propagators and vertices. The corresponding momentum-dependent interaction rates and relaxation times are used within the relaxation-time approximation to calculate the shear viscosity, bulk viscosity, electric conductivity, and baryon diffusion coefficient as functions of temperature $T$ and baryon chemical potential $μ_B$. We find that radiative channels systematically reduce all considered transport coefficients relative to the elastic-only results, in accordance with the decrease of the relaxation times. In the thermal regime explored here, however, this reduction remains moderate, since the inelastic rates stay below the elastic ones over the considered $(T,μ_B)$ range. The radiative channels become more relevant mainly for partonic scatterings at large momenta, which are thermally suppressed in the strongly interacting QGP. At $μ_B=0$, the resulting $η/s$, $ζ/s$, and $σ_Q/T$ are compatible with available lattice-QCD estimates within uncertainties. At finite $μ_B$, our results provide predictions for the transport properties of QCD matter relevant for beam-energy-scan programs.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 13:48:56 GMT</pubDate>
+      <guid isPermaLink="false">2606.13363v1</guid>
+      <dc:creator>Gaia Ingrosso</dc:creator>
+      <dc:creator>Olga Soloveva</dc:creator>
+      <dc:creator>Ilia Grishmanovskii</dc:creator>
+      <dc:creator>Elena Bratkovskaya</dc:creator>
+    </item>
+    <item>
+      <title>Hadron polarization and equation of state at FAIR/RHIC-BES energies</title>
+      <link>http://arxiv.org/abs/2606.13333v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dai-Neng Liu, Jan Steinheimer, Kai-Jia Sun, Jin-Hui Chen, Yu-Gang Ma, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The $Λ$ global polarization indicates that hot and dense matter created in non-central heavy-ion collisions carries large orbital angular momentum. However, the relation between hadronic polarization and the medium's collective rotation remains to be validated. Using the UrQMD transport model, we calculate the thermal vorticity-induced polarization of $Λ$s in Ag+Ag and Au+Au collisions from $\sqrt{s_{\rm NN}}=2.24$--$7.7$~GeV and a range of centralities. Two different equations of state used in the UrQMD simulation are compared: one resembles a hadron resonance gas, while the other is based on the chiral mean field (CMF) model, providing a more realistic description of dense nuclear matter including a chiral transition that is consistent with lattice QCD expectations. The polarization is sensitive to the equation of state and a softer EoS leads to smaller values. In addition, we show that the $Λ$ polarization in the experimental acceptance and centrality selection does not decrease for even lower beam energies. Our results indicate that the process leading to the large vorticity is a result of the large shear in the baryon current created by its stopping.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 13:25:01 GMT</pubDate>
+      <guid isPermaLink="false">2606.13333v1</guid>
+      <dc:creator>Dai-Neng Liu</dc:creator>
+      <dc:creator>Jan Steinheimer</dc:creator>
+      <dc:creator>Kai-Jia Sun</dc:creator>
+      <dc:creator>Jin-Hui Chen</dc:creator>
+      <dc:creator>Yu-Gang Ma</dc:creator>
+      <dc:creator>Marcus Bleicher</dc:creator>
+    </item>
+    <item>
+      <title>Constraining the Low-$p_T$ $η/π^0$ Ratio for Direct-Photon Analyses with Blast-Wave Fits to $π$, $K$, and $p$ Spectra</title>
+      <link>http://arxiv.org/abs/2606.12619v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Klaus Reygers, Andreas Kirchner, Aleksas Mazeliauskas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We predict the $η/π^0$ ratio at low $p_T$ ($p_T \lesssim 3~\mathrm{GeV}/c$) using the measured charged $K/π$ ratio and model input from a blast-wave framework with feeddown contributions. This approach can provide improved, data-constrained background estimates for direct-photon and dilepton measurements in heavy-ion collisions. In this approach, the explicit modeling of radial flow and hadronic feeddown enables an uncertainty estimate for the low-$p_T$ extrapolation of the $η/π^0$ ratio. Using central Pb-Pb collisions at $\sqrt{s_{NN}}=2.76$ TeV as an example, we find that the $η$-related decay-photon uncertainty at $p_T \approx 1~\mathrm{GeV}/c$ is of order 10\% of the expected direct-photon signal.&lt;/p&gt;</description>
+      <pubDate>Wed, 10 Jun 2026 19:21:17 GMT</pubDate>
+      <guid isPermaLink="false">2606.12619v1</guid>
+      <dc:creator>Klaus Reygers</dc:creator>
+      <dc:creator>Andreas Kirchner</dc:creator>
+      <dc:creator>Aleksas Mazeliauskas</dc:creator>
+    </item>
     <item>
       <title>Jet Radius Dependence of Energy Loss in Pb+Pb Collisions: A Comparative Analysis of the Ratio of Nuclear Modification Factors and Fractional Energy Loss</title>
       <link>http://arxiv.org/abs/2606.12276v1</link>
@@ -1909,14 +1963,6 @@
       <dc:creator>The STAR Collaboration</dc:creator>
     </item>
     <item>
-      <title>Equation of State at High Baryon Densities from a Thermodynamically Informed Neural Network</title>
-      <link>http://arxiv.org/abs/2605.22199v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Musfer Adzhymambetov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a four-dimensional equation of state for strongly interacting matter at finite temperature and conserved charge densities, constructed using a deep neural network. It is designed for direct use in hybrid models of relativistic heavy-ion collisions: it reproduces hadron resonance gas thermodynamics at typical particlization scales, is consistent with lattice QCD at low baryon chemical potential, and extrapolates into the high-density region inaccessible to either approach, which is precisely the regime targeted by RHIC BES, FAIR, HADES, and CBM. Thermodynamic consistency throughout the full phase space is enforced via a physics-informed loss function. We demonstrate the developed equation of state by implementing it at zero net strangeness and fixed electric-to-baryon charge ratio within the integrated hydrokinetic model.&lt;/p&gt;</description>
-      <pubDate>Thu, 21 May 2026 09:03:18 GMT</pubDate>
-      <guid isPermaLink="false">2605.22199v1</guid>
-      <dc:creator>Musfer Adzhymambetov</dc:creator>
-    </item>
-    <item>
       <title>Study of the thermodynamic properties of hot QCD matter with the CMS experiment</title>
       <link>http://arxiv.org/abs/2605.21052v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cesar A. Bernardes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These proceedings summarize recent CMS measurements at the LHC that extract the squared speed of sound, $c_s^2$, of strongly interacting matter at extreme temperatures from the multiplicity dependence of the mean transverse momentum in ultra-central lead-lead (PbPb) collisions at $\sqrt{s_{\mathrm{NN}}} = 5.02\ \mathrm{TeV}$. The analysis yields $c_s^2 = 0.241 \pm 0.002\, (\mathrm{stat}) \pm 0.016\, (\mathrm{syst})$ at an effective temperature of $T_{\mathrm{eff}} = 219 \pm 8\, (\mathrm{syst})\,\mathrm{MeV}$, in good agreement with lattice-QCD calculations. Complementary studies in proton-lead (pPb) collisions are also presented to investigate possible quark-gluon plasma signatures in smaller systems.&lt;/p&gt;</description>
@@ -2236,14 +2282,6 @@
       <pubDate>Mon, 20 Apr 2026 12:59:08 GMT</pubDate>
       <guid isPermaLink="false">2604.18214v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>PHENIX Measurements of Light Hadron and Vector Meson Production at RHIC</title>
-      <link>http://arxiv.org/abs/2604.17075v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Murad Sarsour&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Measurements of light hadron production in ultrarelativistic nuclear collisions provide essential insight into final-state effects arising from both hot and cold nuclear matter. They probe collective behavior, hadronization via recombination, and baryon and strangeness enhancement, while their system-size and centrality dependence constrain the role of initial-state geometry and nuclear parton distribution functions. In this talk, we present recent PHENIX measurements of identified charged hadrons ($π/K/p$) at midrapidity ($|y| &lt; 0.35$) and low-mass vector mesons, including $ω$, $ρ$, and $φ$, at forward rapidity ($1.2 &lt; |y| &lt; 2.2$) in $p+p$, $p+$Al, $p/d/^{3}$He+Cu+Au, and Au+Au collisions at $\sqrt{s_{NN}} = 200$ GeV, as well as U+U collisions at $\sqrt{s_{NN}} = 193$ GeV. Tests of various empirical scaling behaviors, together with comparisons to previous measurements and theoretical model calculations, are discussed.&lt;/p&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 17:27:16 GMT</pubDate>
-      <guid isPermaLink="false">2604.17075v1</guid>
-      <dc:creator>Murad Sarsour</dc:creator>
     </item>
   </channel>
 </rss>
