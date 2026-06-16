@@ -5,9 +5,55 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:55:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>How long can an atomic nucleus remain standing ? -- a fundamental quantum question</title>
+      <link>http://arxiv.org/abs/2606.03272v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Takaharu Otsuka, Yusuke Tsunoda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The shape of an object is of fundamental interest and high importance, but is not a straightforward subject if the object is on quantum scale. We here discuss how a shaped micro-object can be looked at within quantum mechanics. For this purpose, atomic nuclei are suitable, because they are tiny shaped objects. The majority of atomic nuclei are shaped like ellipsoids. Although an ellipsoid is oriented in a direction classically, such a nucleus is pointing in all directions with certain probabilities in quantum eigenstates, fulfilling rotational symmetry. This makes the direct observation of shapes formidably difficult. Here, we show, including examples, that the ellipsoidal nucleus is basically standing in a fixed direction for finite time \sim some 10^{-23} sec, as a robust consequence of time-dependent Schrodinger equation in quantum mechanics and a well-known rotational feature of nuclei. This consequence not only provides Relativistic Heavy-Ion Collisions9 with experimental feasibilities, but also leads to a deeper general understanding of stationary states with restored broken symmetry: time-dependent symmetry-breaking (e.g., ellipsoid shape) properties arise from stationary states with symmetry. This work depicts direct relevance to fusion, fission and $α$ decay/emission in terms of time evolution, including applications to the synthesis of superheavy elements.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 15:24:53 GMT</pubDate>
+      <guid isPermaLink="false">2606.03272v2</guid>
+      <dc:creator>Takaharu Otsuka</dc:creator>
+      <dc:creator>Yusuke Tsunoda</dc:creator>
+    </item>
+    <item>
+      <title>Electric charge fluctuations from lattice QCD in the continuum limit</title>
+      <link>http://arxiv.org/abs/2606.14491v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Szabolcs Borsányi, Zoltán Fodor, Jana N. Guenther, Paolo Parotto, Attila Pásztor, Claudia Ratti, Volodymyr Vovchenko, Chik Him Wong&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:27:40 GMT</pubDate>
+      <guid isPermaLink="false">2606.14491v1</guid>
+      <dc:creator>Szabolcs Borsányi</dc:creator>
+      <dc:creator>Zoltán Fodor</dc:creator>
+      <dc:creator>Jana N. Guenther</dc:creator>
+      <dc:creator>Paolo Parotto</dc:creator>
+      <dc:creator>Attila Pásztor</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+      <dc:creator>Chik Him Wong</dc:creator>
+    </item>
+    <item>
+      <title>Thermal dileptons to probe the baryon-rich QCD matter in the forward region of LHC energy heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2606.14166v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Motomi Oya, Nicholas J. Benoit, Chiho Nonaka, Azumi Sakai, Yorito Yamaguchi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate thermal dilepton production from a quark-gluon plasma (QGP) with finite baryon chemical potential ($μ_{\text{B}}$) in central Pb-Pb collisions at $\sqrt{s_{\text{NN}}}=5.02~\text{TeV}$. Recent studies suggest that sizable baryon densities can be achieved at forward rapidity even at LHC energies. We incorporate finite $μ_{\text{B}}$ into a (3+1)-dimensional hydrodynamic framework and find that $μ_{\text{B}}$ exceeds 500 MeV around $η_\text{s} = 6$ during the medium evolution. Using this framework, we calculate thermal dilepton spectra over a wide rapidity range and evaluate the impact of finite $μ_{\text{B}}$ on dilepton production. A suppression of 3-4% is observed in the forward-rapidity region $5.2 &lt; y &lt; 7.2$ due to the reduced quark-antiquark abundance at finite baryon density. We further examine the effective temperature extracted from dilepton mass spectra in the intermediate-mass region $1.2 &lt; M_{\ell \ell} &lt; 2.6~\text{GeV}$ . The effective temperature remains strongly correlated with the underlying hydrodynamic temperature and retains sensitivity to the early high-temperature stage of the QGP evolution. These results demonstrate that forward-rapidity dileptons remain effective thermometers while providing sensitivity to finite baryon density at the LHC.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 06:44:14 GMT</pubDate>
+      <guid isPermaLink="false">2606.14166v1</guid>
+      <dc:creator>Motomi Oya</dc:creator>
+      <dc:creator>Nicholas J. Benoit</dc:creator>
+      <dc:creator>Chiho Nonaka</dc:creator>
+      <dc:creator>Azumi Sakai</dc:creator>
+      <dc:creator>Yorito Yamaguchi</dc:creator>
+    </item>
+    <item>
+      <title>Energy and centrality dependence of thermodynamical observables from multiplicity in Pb+Pb and Au+Au collisions</title>
+      <link>http://arxiv.org/abs/2606.14018v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francisco Reyes Rodríguez, Eleazar Cuautle&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Using a statistical model, we analyze published multiplicity distributions for identified hadrons produced in heavy ion collisions in the energy range from 2.7-200 \gev. Our analysis enables the prediction of the multiplicity distributions for multi-strangeness hadrons that have not yet been measured in lower-energy experiments. Furthermore, we obtain freeze-out parameters, including temperature, baryon chemical and strangeness potentials, the strangeness suppression factor, and the system radius, as functions of centrality and collision energy.
+  Additionally, we computed and discussed the Skewness and its behavior at lower collision energies, highlighting the importance of the freeze-out parameters in determining the liquid-gas phase transition in nuclear matter.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 01:37:16 GMT</pubDate>
+      <guid isPermaLink="false">2606.14018v1</guid>
+      <dc:creator>Francisco Reyes Rodríguez</dc:creator>
+      <dc:creator>Eleazar Cuautle</dc:creator>
+    </item>
     <item>
       <title>Observable Dependence of Viscous Corrections in QGP: Heavy Quarks and Dileptons in Chapman--Enskog Theory</title>
       <link>http://arxiv.org/abs/2606.13646v1</link>
@@ -527,15 +573,6 @@
       <dc:creator>Tan Luo</dc:creator>
       <dc:creator>Ben-Wei Zhang</dc:creator>
       <dc:creator>Enke Wang</dc:creator>
-    </item>
-    <item>
-      <title>How long can an atomic nucleus remain standing ? -- a fundamental quantum question</title>
-      <link>http://arxiv.org/abs/2606.03272v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Takaharu Otsuka, Yusuke Tsunoda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The shape of an object is of fundamental interest and high importance, but is not a straightforward subject if the object is on quantum scale. We here discuss how a shaped micro-object can be looked at within quantum mechanics. For this purpose, atomic nuclei are suitable, because they are tiny shaped objects. The majority of atomic nuclei are shaped like ellipsoids. Although an ellipsoid is oriented in a direction classically, such a nucleus is pointing in all directions with certain probabilities in quantum eigenstates, fulfilling rotational symmetry. This makes the direct observation of shapes formidably difficult. Here, we show, including examples, that the ellipsoidal nucleus is basically standing in a fixed direction for finite time \sim some 10^{-23} sec, as a robust consequence of time-dependent Schrodinger equation in quantum mechanics and a well-known rotational feature of nuclei. This consequence not only provides Relativistic Heavy-Ion Collisions9 with experimental feasibilities, but also leads to a deeper general understanding of stationary states with restored broken symmetry: time-dependent symmetry-breaking (e.g., ellipsoid shape) properties arise from stationary states with symmetry. This work depicts direct relevance to fusion and fission reactions in terms of time evolution, including applications to the synthesis of superheavy elements.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 07:37:05 GMT</pubDate>
-      <guid isPermaLink="false">2606.03272v1</guid>
-      <dc:creator>Takaharu Otsuka</dc:creator>
-      <dc:creator>Yusuke Tsunoda</dc:creator>
     </item>
     <item>
       <title>Chemical Equilibration and Thermalization of Quark-Gluon Plasma in a Parton Cascade Model with 2-to-3 Quark Interactions</title>
@@ -1934,14 +1971,6 @@
       <dc:creator>Salman Khurshid Malik</dc:creator>
       <dc:creator>Balwan Singh</dc:creator>
       <dc:creator>Zarina Banoo</dc:creator>
-    </item>
-    <item>
-      <title>Superfluid fraction and effective ion mass in the crystalline crust of a neutron star: role of interband response</title>
-      <link>http://arxiv.org/abs/2605.25600v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicolas Chamel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neutron superfluidity in the inner crust of a neutron star is further investigated, focusing on the role of the interband response in the superfluid fraction and the effective mass of crustal ions induced by their motion through the superfluid. Calculations are performed within the linear response theory of the self-consistent time-dependent Hartree-Fock-Bogoliubov equations with Skyrme nuclear energy density functionals in the Bardeen-Cooper-Schrieffer approximation. The absence of interband response in previous analyses is clarified. The neutron superfluid density is formally shown to be consistent with the entrainment matrix derived earlier in homogeneous neutron-proton superfluid mixture, thus providing a unified description of entrainment effects in the inner crust and outer core of a neutron star within the same microscopic framework. The relative importance of the intraband and interband responses in different regions of the crust is numerically assessed from three-dimensional band-structure calculations, taking into account quantum zero-point motion of ions about their equilibrium position. The neutron superfluid fraction is found to be enhanced by the interband response, resulting in effective ion masses that remain close to the mass of quantum mechanically bound nucleons for realistic neutron pairing gaps. Results are compared to predictions from classical hydrodynamics with different prescriptions for the permeability of ions to superfluidity.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 May 2026 08:53:50 GMT</pubDate>
-      <guid isPermaLink="false">2605.25600v1</guid>
-      <dc:creator>Nicolas Chamel</dc:creator>
     </item>
     <item>
       <title>A higher-harmonic observable for the chiral magnetic effect in heavy-ion collisions</title>

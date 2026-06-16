@@ -5,9 +5,46 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:55:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Electric charge fluctuations from lattice QCD in the continuum limit</title>
+      <link>http://arxiv.org/abs/2606.14491v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Szabolcs Borsányi, Zoltán Fodor, Jana N. Guenther, Paolo Parotto, Attila Pásztor, Claudia Ratti, Volodymyr Vovchenko, Chik Him Wong&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Electric charge fluctuations $χ_n^Q$ allow comparisons between theory and experiment, but are elusive on the lattice due to severe cutoff effects. We use a 4HEX action to obtain $χ_2^Q$ and, for the first time ever, $χ_4^Q$ in the continuum limit. We find disagreement with the hadron resonance gas (HRG) model, which we cannot explain with finite volume effects. We include light meson interactions in the HRG model via the S-matrix, reducing the tension for $χ_4^Q$, but worsening the agreement for $χ_2^Q$. We propose measuring the ratio $χ_4^Q/χ_2^Q$ at the LHC to investigate this tension.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 14:27:40 GMT</pubDate>
+      <guid isPermaLink="false">2606.14491v1</guid>
+      <dc:creator>Szabolcs Borsányi</dc:creator>
+      <dc:creator>Zoltán Fodor</dc:creator>
+      <dc:creator>Jana N. Guenther</dc:creator>
+      <dc:creator>Paolo Parotto</dc:creator>
+      <dc:creator>Attila Pásztor</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+      <dc:creator>Chik Him Wong</dc:creator>
+    </item>
+    <item>
+      <title>Thermal dileptons to probe the baryon-rich QCD matter in the forward region of LHC energy heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2606.14166v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Motomi Oya, Nicholas J. Benoit, Chiho Nonaka, Azumi Sakai, Yorito Yamaguchi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate thermal dilepton production from a quark-gluon plasma (QGP) with finite baryon chemical potential ($μ_{\text{B}}$) in central Pb-Pb collisions at $\sqrt{s_{\text{NN}}}=5.02~\text{TeV}$. Recent studies suggest that sizable baryon densities can be achieved at forward rapidity even at LHC energies. We incorporate finite $μ_{\text{B}}$ into a (3+1)-dimensional hydrodynamic framework and find that $μ_{\text{B}}$ exceeds 500 MeV around $η_\text{s} = 6$ during the medium evolution. Using this framework, we calculate thermal dilepton spectra over a wide rapidity range and evaluate the impact of finite $μ_{\text{B}}$ on dilepton production. A suppression of 3-4% is observed in the forward-rapidity region $5.2 &lt; y &lt; 7.2$ due to the reduced quark-antiquark abundance at finite baryon density. We further examine the effective temperature extracted from dilepton mass spectra in the intermediate-mass region $1.2 &lt; M_{\ell \ell} &lt; 2.6~\text{GeV}$ . The effective temperature remains strongly correlated with the underlying hydrodynamic temperature and retains sensitivity to the early high-temperature stage of the QGP evolution. These results demonstrate that forward-rapidity dileptons remain effective thermometers while providing sensitivity to finite baryon density at the LHC.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 06:44:14 GMT</pubDate>
+      <guid isPermaLink="false">2606.14166v1</guid>
+      <dc:creator>Motomi Oya</dc:creator>
+      <dc:creator>Nicholas J. Benoit</dc:creator>
+      <dc:creator>Chiho Nonaka</dc:creator>
+      <dc:creator>Azumi Sakai</dc:creator>
+      <dc:creator>Yorito Yamaguchi</dc:creator>
+    </item>
+    <item>
+      <title>Energy and centrality dependence of thermodynamical observables from multiplicity in Pb+Pb and Au+Au collisions</title>
+      <link>http://arxiv.org/abs/2606.14018v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francisco Reyes Rodríguez, Eleazar Cuautle&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Using a statistical model, we analyze published multiplicity distributions for identified hadrons produced in heavy ion collisions in the energy range from 2.7-200 \gev. Our analysis enables the prediction of the multiplicity distributions for multi-strangeness hadrons that have not yet been measured in lower-energy experiments. Furthermore, we obtain freeze-out parameters, including temperature, baryon chemical and strangeness potentials, the strangeness suppression factor, and the system radius, as functions of centrality and collision energy.
+  Additionally, we computed and discussed the Skewness and its behavior at lower collision energies, highlighting the importance of the freeze-out parameters in determining the liquid-gas phase transition in nuclear matter.&lt;/p&gt;</description>
+      <pubDate>Fri, 12 Jun 2026 01:37:16 GMT</pubDate>
+      <guid isPermaLink="false">2606.14018v1</guid>
+      <dc:creator>Francisco Reyes Rodríguez</dc:creator>
+      <dc:creator>Eleazar Cuautle</dc:creator>
+    </item>
     <item>
       <title>Observable Dependence of Viscous Corrections in QGP: Heavy Quarks and Dileptons in Chapman--Enskog Theory</title>
       <link>http://arxiv.org/abs/2606.13646v1</link>
@@ -105,64 +142,6 @@
       <dc:creator>Xiang-Yu Wu</dc:creator>
       <dc:creator>Shi Pu</dc:creator>
       <dc:creator>Guang-You Qin</dc:creator>
-    </item>
-    <item>
-      <title>Nonflow Subtraction Beyond Two-Particle Correlations</title>
-      <link>http://arxiv.org/abs/2606.10258v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zaining Wang, Jiangyong Jia, Jinhui Chen, Shengli Huang, Chunjian Zhang, Zhengxi Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Establishing collective flow in small collision systems is crucial for pinning down the minimum conditions for quark-gluon plasma (QGP) formation. In two-particle correlations, nonflow has been subtracted with good control, pushing the reach of flow measurements down to very small particle multiplicities $N$. However, the multi-particle nature of collectivity has not been established in the same $N$ regime, because the residual nonflow surviving the subevent procedure in multi-particle cumulants has never been quantified. We develop a general nonflow subtraction framework for $m$-particle cumulants, built around the approximate $1/N^{m-1}$ scaling of nonflow in the independent-source picture. Correlators containing $v_1$ serve as clean nonflow estimators, since the $p_{\rm T}$-integrated dipolar flow nearly vanishes. Using \HIJING{} as a controlled nonflow-only environment, we test the subtraction for three target observables ($\langle v_2^2\rangle$, $\langle v_2^2δp_{\rm T}\rangle$, and $c_2\{4\}$) in O+O and $d$+Au at $\sqrt{s_{\rm NN}} = 5.36$ TeV and 200 GeV. Most of the nonflow is removed, with residual fractions typically within 20--30% when converted to the two-particle level, though the best estimator differs across the three targets. We identify a multiplicity-reweighting correction, previously overlooked in two-particle correlations, that explains the long-standing undersubtraction of the naive $1/N$-scaling method; its impact grows as a power of the correlator order. The framework gives a systematic route to nonflow subtraction beyond two-particle correlations, broadening the class of multi-particle observables accessible to the small-system flow program.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 23:57:35 GMT</pubDate>
-      <guid isPermaLink="false">2606.10258v1</guid>
-      <dc:creator>Zaining Wang</dc:creator>
-      <dc:creator>Jiangyong Jia</dc:creator>
-      <dc:creator>Jinhui Chen</dc:creator>
-      <dc:creator>Shengli Huang</dc:creator>
-      <dc:creator>Chunjian Zhang</dc:creator>
-      <dc:creator>Zhengxi Yan</dc:creator>
-    </item>
-    <item>
-      <title>Charm quark production in heavy-ion collisions as a signature of pre-equilibrium</title>
-      <link>http://arxiv.org/abs/2606.10206v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maurice Coquet, Thomas Faure, Sören Schlichting, Mika Spier, Michael Winn&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The relative abundances and kinematic distributions of hadrons containing (anti)charm quarks are key observables for deconfinement, heavy-quark diffusion and hadronization in heavy-ion collisions. The production of (anti)charm quarks is commonly associated to the initial hard scatterings in hadronic collisions. Based on previous studies on dilepton production, we evaluate the (anti)charm quark production from the pre-equilibrium phase. A non-negligible contribution to the overall charm quark production is found albeit large theoretical uncertainties are limiting factors. We conclude that precise total charm production measurements combined with progress on charm production calculations from the initial hard scatterings can be used to infer information on the pre-equilibrium stage.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 21:56:03 GMT</pubDate>
-      <guid isPermaLink="false">2606.10206v1</guid>
-      <dc:creator>Maurice Coquet</dc:creator>
-      <dc:creator>Thomas Faure</dc:creator>
-      <dc:creator>Sören Schlichting</dc:creator>
-      <dc:creator>Mika Spier</dc:creator>
-      <dc:creator>Michael Winn</dc:creator>
-    </item>
-    <item>
-      <title>Einstein-de Haas effect and induced rotation in an evolving magnetized QCD matter</title>
-      <link>http://arxiv.org/abs/2606.09760v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dushmanta Sahu, Captain R. Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Einstein-de Haas (EdH) effect describes the emergence of collective rotation driven by spin alignment under an external magnetic field. We investigate this effect in a dynamically expanding quark-gluon plasma (QGP) using a quasiparticle model (QPM). We compute the EdH-induced angular velocity $ω_{\mathrm{EdH}}$ as a function of temperature, proper time, and fireball radius. Our results show that $ω_{\mathrm{EdH}}$ grows with proper time and is consequently suppressed at higher temperatures. Near the QGP crossover temperature, $ω_{\mathrm{EdH}}$ attains a substantial, non-negligible magnitude. We identify a nontrivial crossing between the strong and weak magnetic field regimes that reflects the competition between spin alignment and the energy required to sustain orbital motion. This nontrivial crossing temperature separates a spin-dominated regime from an inertia-dominated regime of magnetic field-induced rotation. These findings establish the EdH effect as a manifestation of angular momentum conservation in magnetized QCD matter.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 17:22:24 GMT</pubDate>
-      <guid isPermaLink="false">2606.09760v1</guid>
-      <dc:creator>Dushmanta Sahu</dc:creator>
-      <dc:creator>Captain R. Singh</dc:creator>
-    </item>
-    <item>
-      <title>Partial Pressure Contributions of Hadron Families to the QCD Equation of State</title>
-      <link>http://arxiv.org/abs/2606.09757v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jonathan Gonzales, Alejandro Florez, Johannes Jahan, Angel R. Nava Acuna, Naman Mehndiratta, Claudia Ratti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 17:17:05 GMT</pubDate>
-      <guid isPermaLink="false">2606.09757v1</guid>
-      <dc:creator>Jonathan Gonzales</dc:creator>
-      <dc:creator>Alejandro Florez</dc:creator>
-      <dc:creator>Johannes Jahan</dc:creator>
-      <dc:creator>Angel R. Nava Acuna</dc:creator>
-      <dc:creator>Naman Mehndiratta</dc:creator>
-      <dc:creator>Claudia Ratti</dc:creator>
-    </item>
-    <item>
-      <title>Effective QCD model with consistent quasi-gluon treatment : formulation and application</title>
-      <link>http://arxiv.org/abs/2606.09633v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chowdhury Aminul Islam, Munshi G. Mustafa, Rajarshi Ray, Pracheta Singha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Polyakov loop enhanced Nambu-Jona-Lasinio model is reformulated in terms of the gluon quasi-particles in addition to the already existing quark quasi-particles. The formulation goes beyond the saddle point approximation for the gluon sector. The framework provides a physically consistent quasiparticle model for QCD thermodynamics. The ensuing advantages of this formulation is discussed using transport coefficients in the light quark sector.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 15:31:12 GMT</pubDate>
-      <guid isPermaLink="false">2606.09633v1</guid>
-      <dc:creator>Chowdhury Aminul Islam</dc:creator>
-      <dc:creator>Munshi G. Mustafa</dc:creator>
-      <dc:creator>Rajarshi Ray</dc:creator>
-      <dc:creator>Pracheta Singha</dc:creator>
     </item>
   </channel>
 </rss>
