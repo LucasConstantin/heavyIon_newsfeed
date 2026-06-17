@@ -5,9 +5,39 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:49:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Spin-Selective Hadron Spectroscopy via Azimuthal Anisotropies from Entanglement-Enabled Spin Interference</title>
+      <link>http://arxiv.org/abs/2606.16966v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Samuel Corey, James Daniel Brandenburg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The $π^+π^-$ invariant mass spectrum above the $ρ^0(770)$ is rich with broad, overlapping resonances. Disentangling them, whether in photoproduction, ultra-peripheral heavy-ion collisions, or electroproduction, is a longstanding challenge for conventional partial-wave analysis. We show that the recently observed entanglement-enabled spin-interference effect in ultra-peripheral collisions provides a quantum-mechanical filter that resolves this ambiguity: the angular harmonics $A_n$ of the $\cos(nΔφ)$ asymmetry, which are governed by selection rules in the spin of the interfering states. Specifically, overlap between two distinct spin-1 amplitudes leads to interference that populate $A_2$ alone, while overlap of a spin-1 amplitude with a spin-2 one generates $A_1$ and $A_3$. Utilizing ALICE data in the $1.0$--$1.4\,\mathrm{GeV} \; c^{-2}$ region, we demonstrate that two physically distinct hypotheses -- an additional spin-1 $ρ'(1450)$ (produced via photonuclear interactions) versus a spin-2 (photon-photon) $f_2(1270)$ state -- fit the invariant mass spectrum equally well but predict different $A_n$: identically zero $A_1$ and $A_3$ in the spin-1 case, versus pronounced peaks in the spin-2 case. This selection rule provides a new tool for hadronic spectroscopy in ultra-peripheral collisions and the first viable route to isolating the $γγ\toπ^+π^-$ continuum from the dominant photonuclear background, revealing a clean low-energy probe of non-perturbative QCD.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 17:03:33 GMT</pubDate>
+      <guid isPermaLink="false">2606.16966v1</guid>
+      <dc:creator>Samuel Corey</dc:creator>
+      <dc:creator>James Daniel Brandenburg</dc:creator>
+    </item>
+    <item>
+      <title>CBM physics program and recent experimental developments</title>
+      <link>http://arxiv.org/abs/2606.16395v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CBM Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Compressed Baryonic Matter (CBM) fixed-target experiment is under construction at the Facility for Antiproton and Ion Research. It aims to explore the phase structure of strong interaction (QCD) matter at high net-baryon densities and moderate temperatures using heavy-ion collisions in the center-of-mass energy range per nucleon pair $\sqrt{s_{\mathrm{NN}}} =$ 2.7--4.9\,GeV. Equipped with fast and radiation-hard detector systems and an advanced triggerless data acquisition scheme, CBM will collect data at interaction rates of up to 10 MHz by performing online reconstruction and event selection. This will facilitate measurements of rare probes not accessible so far in this energy range, including multi-strange hadron production and their flow coefficients, high-order net-baryon cumulants, dileptons, as well as production of double-strange hypernuclei. The CBM detector is outlined and selected physics performance results based on realistic simulations are discussed.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 08:31:50 GMT</pubDate>
+      <guid isPermaLink="false">2606.16395v1</guid>
+      <dc:creator>CBM Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Static linear response of hot and dense QCD matter to electromagnetic fields: Leading hard and soft QCD corrections</title>
+      <link>http://arxiv.org/abs/2606.16377v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Osvaldo Ferreira, Eduardo S. Fraga, Tyler Gorda, Risto Paatelainen, Leon Sandbote, Kaapo Seppänen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compute the static electromagnetic susceptibilities of a hot and dense quark-gluon plasma using perturbative Quantum Chromodynamics (QCD). Our evaluation includes the leading $\mathcal{O}(α_s)$ correction as well as the leading soft, resummed contribution of $\mathcal{O}(α_s^{3/2})$ within electrostatic QCD. By matching to Lattice QCD at vanishing baryon chemical potential through Lattice perturbation theory, we establish a connection between perturbative results and Lattice simulations and assess the size of higher-order corrections. This extends the electromagnetic susceptibilities to finite baryon chemical potential, where Lattice methods are not applicable and establishes first-principle constraints on the quark-gluon plasma's electromagnetic response at temperatures and densities relevant for intermediate-energy heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 08:12:20 GMT</pubDate>
+      <guid isPermaLink="false">2606.16377v1</guid>
+      <dc:creator>Osvaldo Ferreira</dc:creator>
+      <dc:creator>Eduardo S. Fraga</dc:creator>
+      <dc:creator>Tyler Gorda</dc:creator>
+      <dc:creator>Risto Paatelainen</dc:creator>
+      <dc:creator>Leon Sandbote</dc:creator>
+      <dc:creator>Kaapo Seppänen</dc:creator>
+    </item>
     <item>
       <title>How long can an atomic nucleus remain standing ? -- a fundamental quantum question</title>
       <link>http://arxiv.org/abs/2606.03272v2</link>
@@ -64,6 +94,17 @@
       <dc:creator>P. Parvathi</dc:creator>
       <dc:creator>Nachiketa Sarkar</dc:creator>
       <dc:creator>V. Sreekanth</dc:creator>
+    </item>
+    <item>
+      <title>Experimental exploration of the QCD phase diagram</title>
+      <link>http://arxiv.org/abs/2606.14799v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. Andronic, P. Braun-Munzinger, K. Redlich, J. Stachel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The different phases of strongly interacting matter are governed by Quantum Chromodynamics (QCD). At high temperature and/or density a deconfined, chirally symmetric phase of quarks and gluons is expected to govern the nature of strongly interacting matter, the so-called quark-gluon plasma. Here we review what is known about the existence of this exotic form of matter from an experimental point of view and confront the results with QCD predictions based on 'Lattice QCD', where QCD is discretized on a space-time lattice and solved numerically in a Monte Carlo approach. The form of the presentation is explicitly pedagogical but the results include even very recent developments. Our research is based on the interpretation of hadron production data from relativistic nucleus--nucleus collisions over a wide energy range, with the aim to make progress in the understanding of the QCD phase, and of phenomena like deconfinement and hadronization.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2026 17:01:31 GMT</pubDate>
+      <guid isPermaLink="false">2606.14799v1</guid>
+      <dc:creator>A. Andronic</dc:creator>
+      <dc:creator>P. Braun-Munzinger</dc:creator>
+      <dc:creator>K. Redlich</dc:creator>
+      <dc:creator>J. Stachel</dc:creator>
     </item>
     <item>
       <title>Transport simulations with a constrained momentum-dependent Chiral Mean Field EoS at different iso-spin fractions</title>
@@ -1950,29 +1991,6 @@
       <dc:creator>Alexis C. Villas-Bôas</dc:creator>
     </item>
     <item>
-      <title>CNN-Based Online Trigger for QGP Event Selection</title>
-      <link>http://arxiv.org/abs/2605.26280v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Olga Soloveva, Artemiy Belousov, Ivan Kisel, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Modern high-rate experiments require rare physics signatures to be identified in real time from continuous streams of reconstructed events under stringent data-throughput and storage constraints. We present a convolutional-neural-network-based trigger concept for selecting events associated with quark-gluon plasma (QGP) formation. Events are encoded as compact multidimensional histograms of reconstructed particle content, including particle species, momentum magnitude, and angular information. The method is first evaluated within the Parton-Hadron-String Dynamics (PHSD) framework, where microscopic QGP-related labels are available. As an independent validation, the same event representation and network architecture are applied to Ultra-relativistic Quantum Molecular Dynamics (UrQMD) simulations, providing a distinct description of the collision dynamics. Cross-checks between PHSD and UrQMD are used to assess the stability of the learned response against generator-dependent effects and to quantify model-transfer robustness. For realistic deployment, a lightweight C++ inference package, ANN4FLES, is employed at the physics-analysis stage after tracking and topology reconstruction. For Au+Au collisions at 30 AGeV, the classification accuracy decreases from 95.1% on generator-level PHSD events to 83.7% after full reconstruction, while retaining practical separation power for online event selection. SHAP-based interpretability analysis is used to identify the dominant particle-species contributions to the network decision.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 May 2026 19:05:39 GMT</pubDate>
-      <guid isPermaLink="false">2605.26280v1</guid>
-      <dc:creator>Olga Soloveva</dc:creator>
-      <dc:creator>Artemiy Belousov</dc:creator>
-      <dc:creator>Ivan Kisel</dc:creator>
-      <dc:creator>Elena Bratkovskaya</dc:creator>
-    </item>
-    <item>
-      <title>Intermittency and fractal behaviour of charged particles generated using EPOS4 and PYTHIA8 at LHC energies</title>
-      <link>http://arxiv.org/abs/2605.25675v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fakhar Ul Haider, Ramni Gupta, Salman Khurshid Malik, Balwan Singh, Zarina Banoo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Large density fluctuations of charged particles are the promising signatures for exploring the QCD phase transition and critical point in heavy ion collisions. These fluctuations are expected to exhibit fractal and scale invariant behaviour, which is probed using intermittency methodology. Intermittency is the phenomenon of power law growth of the normalized factorial moments ($F_{\rm{q}}$) of the number density distributions over decreasing bin size. This is studied for the charged particles simulated using PYTHIAN and EPOS4 (UrQMD ON/OFF) for Pb Pb collisions at $\sqrt{s_{\text{NN}}}$ = 5.02 TeV. Scaling behaviour of $F_{\rm{q}}$ are studied as a function of phase space partitioning and second order moments to quantify the particle production nature within the default constraints of the two models. The scaling exponent related to the phase transition and parameters connected to fractal nature obtained for these models are also reported.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 May 2026 10:24:32 GMT</pubDate>
-      <guid isPermaLink="false">2605.25675v1</guid>
-      <dc:creator>Fakhar Ul Haider</dc:creator>
-      <dc:creator>Ramni Gupta</dc:creator>
-      <dc:creator>Salman Khurshid Malik</dc:creator>
-      <dc:creator>Balwan Singh</dc:creator>
-      <dc:creator>Zarina Banoo</dc:creator>
-    </item>
-    <item>
       <title>A higher-harmonic observable for the chiral magnetic effect in heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2605.25487v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Han-Sheng Li, Yu-Shan Chang, Yi Yang, Fuqiang Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The chiral magnetic effect (CME) is a phenomenon in which electric charge is separated by a strong magnetic field from local domains of chirality imbalance in quantum chromodynamics. The CME-sensitive azimuthal correlator difference $Δγ$ between opposite- and same-sign charged hadron pairs is designed to detect charge separation along the magnetic field, on average perpendicular to the reaction plane. However, the search for the CME is hindered by large background contributions to $Δγ$ from particle correlations coupled with elliptic flow. In this work, we explore higher-harmonic components in differential $Δγ(φ_{\rm pair})$ as a function of the pair azimuthal angle. Such components could arise from event-by-event fluctuations of the magnetic fields throughout the collision zone, in both direction and magnitude. We show by using heavy-ion physics models that the hexadecapole component of $Δγ(φ_{\rm pair})$ is sensitive to the CME and insensitive to physics backgrounds. This could offer a unique observable for the CME that is robust against background contributions.&lt;/p&gt;</description>
@@ -2253,64 +2271,6 @@
       <pubDate>Mon, 27 Apr 2026 01:59:16 GMT</pubDate>
       <guid isPermaLink="false">2604.23955v1</guid>
       <dc:creator>Krista Smith</dc:creator>
-    </item>
-    <item>
-      <title>Observation of impact parameter dependent modifications of nuclear parton distributions in photonuclear Pb+Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.02$ TeV with the ATLAS detector</title>
-      <link>http://arxiv.org/abs/2604.20559v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ATLAS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;High-energy photonuclear ($γ+A$) scattering in ultra-peripheral heavy-ion collisions provides a unique probe of nuclear structure. This Letter studies the dependence of $γ+A$ jet production in ultra-peripheral Pb+Pb collisions at $\sqrt{s_{_\text{NN}}} = 5.02$ TeV on the presence of forward neutron emission from either nucleus. The data was taken in 2018 with the ATLAS detector at the LHC and corresponds to an integrated luminosity of $1.72$ nb$^{-1}$. The kinematics of the hard $γ+A$ processes, expressed via the particle-level photon ($z_{-}$) or nuclear parton ($x_{+}$) momentum fractions, are determined from $R = 0.4$ jets reconstructed using the anti-$k_t$ algorithm. At lower $z_{-}$, where the non-diffractive component dominates, the nuclear parton distribution can be cleanly probed in collisions that leave the struck nucleus essentially intact. Such collisions are expected to probe larger impact parameters ($b_\text{A}$) within the target. The shape of the $γ+A$ cross-section as a function of $x_{+}$ in such collisions is found to differ from that in $γ+A$ collisions accompanied by forward neutron emission, with an observed significance of $6.0σ$. These results are consistent at large $x_{+}$ with large $b_\text{A}$ collisions exhibiting no modifications to the parton distributions that are usually observed in hard scattering processes involving nuclei, relative to collisions with smaller $b_\text{A}$. Thus, these measurements provide an experimental observation that the modifications to nuclear parton distributions vary with impact parameter.&lt;/p&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 13:41:19 GMT</pubDate>
-      <guid isPermaLink="false">2604.20559v1</guid>
-      <dc:creator>ATLAS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Investigation of Nonlinear Collective Dynamics in Relativistic Heavy-Ion Collisions Using A Multi-Phase Transport Model</title>
-      <link>http://arxiv.org/abs/2604.20493v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhi-Jie Yang, Hao-jie Xu, Jie Zhao, Hanlin Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The nonlinear response coefficient, $χ_{4,22}$, is a crucial observable for probing the dynamical properties of the quark-gluon plasma (QGP). While traditionally understood as a signature of medium response, recent studies suggest that $χ_{4,22}$ also encapsulates critical information regarding the intrinsic initial-state configuration of the colliding nuclei. In this study, we utilize A Multi-Phase Transport (AMPT) model to investigate the microscopic origin and stage-by-stage development of $χ_{4,22}$ in $^{238}$U+$^{238}$U and $^{197}$Au+$^{197}$Au collisions at $\sqrt{s_{\rm NN}} = 200$ GeV. By tracking the flow observables through the partonic cascade, quark coalescence, and hadronic rescattering phases, we map the translation of initial geometric eccentricities into final-state momentum anisotropies. Our results demonstrate that the absolute magnitude of $χ_{4,22}$ increases continuously during the collective expansion, confirming its nature as a dynamically generated medium response. However, the comparative ratio of this coefficient between the U+U and Au+Au systems is stable across all evolutionary stages within statistical uncertainties. This indicates that the ratio approximately cancels complex evolutionary dynamics to isolate intrinsic geometric correlations present at the initial state. These findings provide compelling theoretical support and crucial insights for recent experimental efforts aiming to extract high-order nuclear structure, such as hexadecapole deformation, using nonlinear flow observables.&lt;/p&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 12:25:53 GMT</pubDate>
-      <guid isPermaLink="false">2604.20493v1</guid>
-      <dc:creator>Zhi-Jie Yang</dc:creator>
-      <dc:creator>Hao-jie Xu</dc:creator>
-      <dc:creator>Jie Zhao</dc:creator>
-      <dc:creator>Hanlin Li</dc:creator>
-    </item>
-    <item>
-      <title>Nuclear geometry driven symmetry plane correlations in OO and Ne--Ne collisions at the Large Hadron Collider</title>
-      <link>http://arxiv.org/abs/2605.00866v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Suraj Prasad, Raghunath Sahoo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Symmetry-plane correlations (SPCs) are key observables sensitive to the medium's transport properties and are driven by participant-plane correlations (PPCs) in the nuclear overlap region. This study explores the possibility of nuclear-geometry-driven SPCs in Oxygen--Oxygen (OO) and Neon--Neon (Ne--Ne) collisions at $\sqrt{s_{\rm NN}}=5.36$ TeV using nuclear geometry simulations based on Nuclear Lattice Effective Field Theory (NLEFT) and Projected Generator Coordinate Method (PGCM) configurations. We investigate $\langle \cos[4(ψ_2 - ψ_4)]\rangle_{\rm GE}$ and $\langle \cos[6(ψ_3 - ψ_6)]\rangle_{\rm GE}$ in OO and Ne--Ne collisions at $\sqrt{s_{\rm NN}}=5.36$ TeV using the A Multi-Phase Transport (AMPT) model. We find that Ne--Ne collisions exhibit larger $\langle \cos[4(ψ_2 - ψ_4)]\rangle_{\rm GE}$ values than OO collisions, whereas $\langle \cos[6(ψ_3 - ψ_6)]\rangle_{\rm GE}$ is larger in OO than in Ne--Ne collisions. This behavior indicates a strongly deformed shape of the $^{20}$Ne nucleus and a tetrahedral structure of the $^{16}$O nucleus. We also explore SPCs for events with tip-tip and body-body collision configurations, which further support these findings.&lt;/p&gt;</description>
-      <pubDate>Wed, 22 Apr 2026 12:15:36 GMT</pubDate>
-      <guid isPermaLink="false">2605.00866v1</guid>
-      <dc:creator>Suraj Prasad</dc:creator>
-      <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>Probing the neutron-skin thickness through $J/ψ$ photoproduction in ultra-peripheral collisions</title>
-      <link>http://arxiv.org/abs/2604.19650v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Haoyuan Li, Lu-Meng Liu, Jinhui Chen, Yu-Gang Ma, Chunjian Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the impact of neutron-skin thickness on $J/ψ$ photoproduction in ultra-peripheral $^{208}\mathrm{Pb}+{}^{208}\mathrm{Pb}$ collisions. Within the Color Glass Condensate framework, we calculate coherent and incoherent cross sections and examine their dependence on the momentum transfer $|t|$ for different neutron-skin thicknesses. We find a clear imprint of the neutron skin on the $|t|$ spectra: a larger neutron skin leads to a smoother and more extended color-density profile, suppressing the coherent cross section at large $|t|$ while enhancing the incoherent cross section through increased event-by-event configurational fluctuations in the nuclear periphery. We further show that the ratio of incoherent to coherent integrated cross sections provides a particularly sensitive and robust observable, with reduced theoretical uncertainties. These results establish diffractive vector-meson photoproduction in ultra-peripheral collisions as a powerful tomographic tool to constrain the neutron-skin thickness and the transverse gluon distribution at the LHC and future Electron-Ion Colliders.&lt;/p&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 16:39:48 GMT</pubDate>
-      <guid isPermaLink="false">2604.19650v1</guid>
-      <dc:creator>Haoyuan Li</dc:creator>
-      <dc:creator>Lu-Meng Liu</dc:creator>
-      <dc:creator>Jinhui Chen</dc:creator>
-      <dc:creator>Yu-Gang Ma</dc:creator>
-      <dc:creator>Chunjian Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Geometric bias and centrality dependence of jet quenching in high-energy nuclear collisions</title>
-      <link>http://arxiv.org/abs/2604.19288v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Changle Sun, Yichao Dang, Shanshan Cao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jet quenching provides a valuable measure of the opacity of the quark-gluon plasma (QGP) produced in high-energy heavy-ion collisions. However, substantial suppression of charged hadron spectra is observed in highly peripheral collisions, despite the expectation of negligible jet-QGP interactions in this regime. To address this, we develop a HIJING-based initial condition model that accounts for the impact parameter dependence of both inelastic nucleon-nucleon (NN) collisions and the number of hard partonic scatterings per inelastic NN collision. This dependence introduces a geometric bias effect on the jet yield within a given centrality class of nucleus-nucleus (AA) collisions, suppressing the high transverse momentum hadron spectrum in peripheral collisions due to dilute nucleon overlap at large AA impact parameters. By combining this improved initial condition model with a linear Boltzmann transport model for jet-QGP interactions, we obtain a satisfactory description of the centrality dependence of charged hadron suppression in Pb+Pb collisions at $\sqrt{s_\mathrm{NN}}=5.02$ TeV.&lt;/p&gt;</description>
-      <pubDate>Tue, 21 Apr 2026 09:53:54 GMT</pubDate>
-      <guid isPermaLink="false">2604.19288v1</guid>
-      <dc:creator>Changle Sun</dc:creator>
-      <dc:creator>Yichao Dang</dc:creator>
-      <dc:creator>Shanshan Cao</dc:creator>
-    </item>
-    <item>
-      <title>Collision Energy Dependence of Hypertriton Production in Au+Au Collisions at RHIC</title>
-      <link>http://arxiv.org/abs/2604.18214v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The STAR Collaboration reports measurements of the collision energy dependence of hypertriton (${}^{3}_Λ$H) transverse momentum spectra and $p_{\rm T}$-integrated yields at mid-rapidity ($|y|&lt;$0.5) in Au+Au collisions at 11 collision energies between 3.2 and 27\,GeV. The measured ${}^{3}_Λ$H yields and ${}^{3}_Λ$H/$Λ$ yields ratio in central collisions increase strongly with decreasing collision energy, and are a factor of $\sim$2 lower than thermal model predictions at this energy range. The mean $p_{\rm T}$ of ${}^{3}_Λ$H is lower than the Blast-Wave expectation using the freeze-out parameters from light hadrons. Furthermore, the observed double ratio $({}^{3}_Λ{\rm{H}}/Λ)/(t/p)$ maintains a constant value of $\sim$0.4 across the measured energy range. Within the coalescence framework, this ratio directly reflects the significantly suppressed formation probability of the weakly-bound hypertriton relative to the triton, which results from the weaker hyperon-nucleon interaction compared with the nucleon-nucleon interaction.&lt;/p&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 12:59:08 GMT</pubDate>
-      <guid isPermaLink="false">2604.18214v1</guid>
-      <dc:creator>The STAR Collaboration</dc:creator>
     </item>
   </channel>
 </rss>
