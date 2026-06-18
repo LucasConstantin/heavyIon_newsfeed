@@ -5,9 +5,413 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:51:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Energy-energy correlators in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV</title>
+      <link>http://arxiv.org/abs/2606.18143v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This paper presents the first measurement of the two-point energy-energy correlator (EEC) inside charged-particle jets in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV with the ALICE experiment. The two-point EEC, an infrared- and collinear-safe measure of angular energy flow within jets, is used to probe both perturbative and non-perturbative stages of the jet evolution. The EEC is reported in 20-80 GeV/$c$ jets in p-Pb collisions and compared to a measurement of the EEC in pp events at $\sqrt{s} = 5.02$ TeV. A modification is observed in the 20-40 GeV/$c$ interval, with an enhancement at large opening angles and a suppression at small angles relative to pp collisions. The dependence of this modification on jet transverse momentum, rapidity, and forward activity is investigated. These results provide new constraints on cold nuclear matter effects relevant for disentangling initial- and final-state contributions to jet-structure modifications. An understanding of these cold nuclear matter effects is also relevant for interpreting EEC measurements in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:42:53 GMT</pubDate>
+      <guid isPermaLink="false">2606.18143v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Probing jet evolution with charged energy correlators in small systems</title>
+      <link>http://arxiv.org/abs/2606.18093v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ALICE Collaboration presents measurements of charged energy-energy correlators (charged EECs) within charged-particle jets at $\sqrt{s_{\rm NN}} = 5.02$ Tev in proton-proton and proton-lead collisions at the LHC. Charged EECs are a class of jet substructure observables that trace the flow of energy and electric charge within a jet, and provide a tool for disentangling the energy scales involved in the jet fragmentation process through the angular separation and charges of particle pairs. The interplay between energy distribution and charge conservation enables charged EECs to provide novel constraints on hadronization mechanisms. Measurements of charged EECs in proton--proton collisions in charged-particle jets with $20 &lt; p_{\rm T,chjet} &lt; 80$ GeV/$c$ are compared to event generators to investigate different hadronization mechanisms and parton shower models. These model comparisons show that the like-sign EECs are sensitive to changes in parton shower modeling, while unlike-sign EECs are sensitive to different hadronization schemes. Measurements in proton-lead collisions indicate that cold nuclear matter effects on charged EECs are consistent with charge-independent behavior.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:58:33 GMT</pubDate>
+      <guid isPermaLink="false">2606.18093v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Hyperon ($Λ$) polarization along the beam axis in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV</title>
+      <link>http://arxiv.org/abs/2606.18070v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The measurement of hyperon ($Λ$ and $\overlineΛ$) polarization along the beam axis in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV using the ALICE detector is presented. The polarization, arising from vorticity components induced by anisotropic flow, is studied relative to the second- and third-order event planes. The measured polarization exhibits clear azimuthal sine modulations, providing the first observation of polarization along the beam direction measured relative to the third-order event plane at the Large Hadron Collider. The values of the polarization measured with respect to the second-order event plane relative to the second harmonic event plane are consistent with previous measurements at $\sqrt{s_{\rm NN}} = 5.02$ TeV and show improved statistical precision owing to the larger data sample. Comparisons with hydrodynamic calculations indicate that the measured polarization is sensitive to the bulk viscosity and the vortical structure of the quark-gluon plasma, offering new constraints on its transport properties. In particular, the polarization measured relative to the third-order event plane is expected to provide an additional and independent input to constrain both bulk and shear viscosities of the quark-gluon plasma.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:39:59 GMT</pubDate>
+      <guid isPermaLink="false">2606.18070v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Hadron polarization and equation of state at FAIR/RHIC-BES energies</title>
+      <link>http://arxiv.org/abs/2606.13333v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dai-Neng Liu, Jan Steinheimer, Kai-Jia Sun, Jin-Hui Chen, Yu-Gang Ma, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The $Λ$ global polarization indicates that hot and dense matter created in non-central heavy-ion collisions carries large orbital angular momentum. However, the relation between hadronic polarization and the medium's collective rotation remains to be validated. Using the UrQMD transport model, we calculate the thermal vorticity-induced polarization of $Λ$s in Ag+Ag and Au+Au collisions from $\sqrt{s_{\rm NN}}=2.24$-$7.7$ GeV and a range of centralities. Two different equations of state used in the UrQMD simulation are compared: one resembles a hadron resonance gas, while the other is based on the chiral mean field (CMF) model, providing a more realistic description of dense nuclear matter including a chiral transition that is consistent with lattice QCD expectations. The polarization is sensitive to the equation of state and a softer EoS leads to smaller values. In addition, we show that the $Λ$ polarization in the experimental acceptance and centrality selection does not decrease for even lower beam energies. Our results indicate that the process leading to the large vorticity is a result of the large shear in the baryon current created by its stopping.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 11:30:39 GMT</pubDate>
+      <guid isPermaLink="false">2606.13333v2</guid>
+      <dc:creator>Dai-Neng Liu</dc:creator>
+      <dc:creator>Jan Steinheimer</dc:creator>
+      <dc:creator>Kai-Jia Sun</dc:creator>
+      <dc:creator>Jin-Hui Chen</dc:creator>
+      <dc:creator>Yu-Gang Ma</dc:creator>
+      <dc:creator>Marcus Bleicher</dc:creator>
+    </item>
+    <item>
+      <title>Probing the QCD Phase Structure with Dileptons from SIS to LHC Energies</title>
+      <link>http://arxiv.org/abs/2606.17764v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Adrian William Romero Jorge, Taesoo Song, Qi Zhou, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the properties of strongly interacting matter at finite temperature and baryon chemical potential in relativistic heavy-ion collisions, with emphasis on dilepton probes of the QCD phase structure. The equilibrium QGP is described within the Dynamical QuasiParticle Model (DQPM), which reproduces the lattice-QCD equation of state and provides $μ_B$-dependent quasiparticle properties, transport coefficients, and thermal dilepton rates, including elastic and inelastic partonic processes. The dynamical evolution is modeled with the off-shell Parton--Hadron--String Dynamics (PHSD) transport approach, which consistently propagates partonic and hadronic degrees of freedom and incorporates chiral-symmetry restoration effects. We discuss the space--time evolution of heavy-ion collisions over a broad energy range and show that a small deconfined QGP core can already emerge at $\sqrt{s_{NN}}\simeq 3.5$ GeV. We present, for the first time, the baryon-chemical-potential dependence of QGP thermal dilepton radiation in PHSD and demonstrate that its influence increases toward lower collision energies. The excitation function indicates that thermal QGP radiation can exceed dileptons from correlated charm decays in central Au+Au collisions at $\sqrt{s_{NN}}\lesssim 25$--$30$ GeV, making RHIC--BES and FAIR energies particularly promising for the direct observation of QGP electromagnetic radiation after subtraction of heavy-flavor and Drell--Yan contributions.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 10:29:46 GMT</pubDate>
+      <guid isPermaLink="false">2606.17764v1</guid>
+      <dc:creator>Adrian William Romero Jorge</dc:creator>
+      <dc:creator>Taesoo Song</dc:creator>
+      <dc:creator>Qi Zhou</dc:creator>
+      <dc:creator>Elena Bratkovskaya</dc:creator>
+    </item>
+    <item>
+      <title>Quantum decoherence of hyperon spin correlations in QCD hadronization</title>
+      <link>http://arxiv.org/abs/2606.17240v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Feng Liu, Zhoudunming Tu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hadronization, the transition of quarks and gluons into hadrons, lies beyond the reach of perturbative quantum chromodynamics (QCD) and is commonly described by the semiclassical Lund string model. Yet this very success raises a fundamental question: where does the quantumness go during hadronization? In this Letter, we propose an approach inspired by quantum information science, in which (i) quark-antiquark pairs excited from the QCD vacuum inherit its quantum numbers, giving rise to spin entanglement at their creation, and (ii) subsequent string breaking generates environmental degrees of freedom that induce quantum decoherence of the spin state. This framework simultaneously describes the $Λ$ hyperon spin-correlation data measured at RHIC [Nature 650, 65-71 (2026)] and at the LHC, establishing a quantitative connection between the QCD vacuum, spin entanglement and decoherence, and hadronization.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 19:39:26 GMT</pubDate>
+      <guid isPermaLink="false">2606.17240v1</guid>
+      <dc:creator>Feng Liu</dc:creator>
+      <dc:creator>Zhoudunming Tu</dc:creator>
+    </item>
+    <item>
+      <title>Measurement of dijet transverse momentum imbalance and azimuthal acoplanarity in $p$+$p$ collisions at $\sqrt{s} = 200$ GeV with the sPHENIX detector</title>
+      <link>http://arxiv.org/abs/2606.17184v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; sPHENIX Collaboration, M. I. Abdulhamid, U. Acharya, E. R. Adams, G. Adawi, I. Ahmed, C. A. Aidala, Y. Akiba, M. Alfred, S. Ali, A. Alsayegh, S. Altaf, H. Amedi, D. M. Anderson, V. V. Andrieux, A. Angerami, N. Applegate, M. U. Ashraf, H. Aso, S. Aune, B. Azmoun, V. R. Bailey, D. Baranyai, S. Bathe, A. Bazilevsky, S. Bela, R. Belmont, J. Bennett, J. C. Bernauer, J. Bertaux, R. Bi, A. Bonenfant, S. Boose, C. Borchers, H. Bossi, R. Botsford, R. Boucher, A. Brahma, J. W. Bryan, D. Cacace, I. Cali, M. Chamizo-Llatas, S. B. Chauhan, A. Chen, D. Chen, J. Chen, K. Chen, K. Y. Chen, K. Y. Cheng, C. -Y. Chi, M. Chiu, J. Clement, E. W. Cline, M. Connors, E. Cook, R. Corliss, Y. Corrales Morales, E. Croft, N. d'Hose, A. Dabas, D. Dacosta, M. Daradkeh, S. J. Das, A. P. Dash, G. David, C. T. Dean, K. Dehmelt, X. Dong, A. Drees, J. Driebeek, J. M. Durham, A. Enokizono, H. Enyo, J. Escobar Cepero, R. Esha, B. Fadem, R. Feder, K. Finnelli, D. Firak, D. S. Fitzgerald, L. V. Flores-Sanchez, A. Francisco, J. Frantz, A. Frawley, K. Fujiki, M. Fujiwara, B. Garcia, P. Garg, G. Garmire, E. Gentry, Y. Go, C. Goblin, I. Goel, W. Goodman, Y. Goto, A. Grabas, O. Grachov, J. Granato, N. Grau, S. V. Greene, S. K. Grossberndt, R. Guidolini-Cecato, T. Hachiya, J. S. Haggerty, R. Hamilton, J. Hammond, D. A. Hangal, T. Harada, S. Hasegawa, M. Hata, W. He, X. He, T. Hemmick, A. Hodges, M. E. Hoffmann, A. Holt, B. Hong, M. Housenga, S. Howell, Y. Hu, H. Z. Huang, J. Huang, T. C. Huang, D. A. Huffman, C. Hughes, J. Hwang, T. Ichino, M. Ikemoto, D. Imagawa, H. Imai, Y. Ishigaki, D. Jah, J. James, H. -R. Jheng, Y. Ji, Z. Ji, H. Jiang, M. Kano, L. Kasper, T. Kato, Y. Kawashima, A. M. Khan, M. S. Khan, T. Kikuchi, J. Kim, B. Kimelman, H. T. Klest, A. G. Knospe, M. B. Knuesel, H. S. Ko, J. Kuczewski, N. Kumar, R. Kunnawalkam Elayavalli, C. M. Kuo, J. Kvapil, Y. Kwon, J. Lajoie, J. D. Lang, A. Lebedev, S. Lee, L. Legnosky, S. Li, X. Li, T. Lian, S. Liechty, S. Lim, D. Lis, M. X. Liu, W. J. Llope, D. A. Loomis, R. -S. Lu, C. Ma, L. Ma, W. Ma, V. Mahaut, T. Majoros, I. Mandjavidze, E. Mannel, C. Markert, T. R. Marshall, C. Martin, H. Masuda, G. Mattson, M. Mazeikis, C. McGinn, E. McLaughlin, J. Mead, Y. Mei, T. Mengel, A. S. Menon, M. Meskowitz, J. Mills, A. Milov, C. Mironov, I. Mitrankov, M. Mitrankova, G. Mitsuka, N. Morimoto, M. Morita, D. Morrison, L. W. Mwibanda, C. -J. Naïm, J. L. Nagle, I. Nakagawa, Y. Nakamura, G. Nakano, Y. Namimoto, A. Narde, C. E. Nattrass, D. Neff, S. Nelson, D. Nemoto, P. A. Nieto-Marín, R. Nouicer, G. Nukazuka, E. O'Brien, G. Odyniec, S. Oh, V. A. Okorokov, A. C. Oliveira da Silva, I. Omae, J. D. Osborn, G. J. Ottino, Y. C. Ou, J. Ouellette, D. Padrazo, T. Pani, J. Park, A. Patton, H. Pereira Da Costa, D. V. Perepelitsa, M. Peters, S. Ping, C. Pinkenburg, R. Pisani, C. Platte, C. Pontieri, T. Protzman, M. L. Purschke, J. Putschke, R. J. Reed, L. Reeves, S. Regmi, B. Rehman, E. Renner, D. Richford, C. Riedl, T. Rinn, C. Roland, G. Roland, A. Romero Hernandez, M. Rosati, D. Roy, A. Saed, T. Sakaguchi, H. Sako, S. Salur, J. Sandhu, M. Sarsour, S. Sato, B. Sayki, C. Scarlett, B. Schaefer, J. Schambach, M. Schernau, R. Seidl, B. D. Seidlitz, Y. Sekiguchi, M. Shahid, D. M. Shangase, Z. Shi, M. Shibata, C. W. Shih, K. Shiina, M. Shimomura, R. Shishikura, E. Shulga, A. Sickles, D. Silvermyr, J. Singh, R. A. Soltz, W. Sondheim, I. Sourikova, P. Steinberg, D. Stewart, M. Stojanovic, S. Stoll, Y. Sugiyama, O. Suranyi, A. Suzuki, R. Takahama, W. -C. Tang, S. Tarafdar, E. Thorsland, T. Todoroki, L. S. Tsai, H. Tsujibata, M. Tsuruta, J. Tutterow, E. Tuttle, B. Ujvari, E. N. Umaka, M. Vandenbroucke, J. Vasquez, J. Velkovska, V. Verkest, A. Vijayakumar, X. Wang, Y. Wang, Z. Wang, I. S. Ward, M. Watanabe, J. Webb, A. Wehe, A. Wils, V. Wolfe, C. Woody, W. Xie, Y. Yamaguchi, Z. Ye, K. Yip, Z. You, G. Young, C. -J. Yu, X. Yu, X. Yu, W. A. Zajc, V. Zakharov, J. Zhang, C. Zimmerli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This Letter reports on measurements of dijet transverse momentum ($p_\mathrm{T}$) imbalance and azimuthal acoplanarity in proton-proton collisions at $\sqrt{s} = 200$~GeV, using data recorded by the sPHENIX detector at the Relativistic Heavy Ion Collider corresponding to an integrated luminosity of $41$~pb$^{-1}$. Jets are reconstructed using the anti-$k_t$ algorithm with radius parameters $R = 0.3$ to $0.8$ from electromagnetic and hadronic calorimeter energy deposits. The jet $p_\mathrm{T}$ resolution is determined directly in data using two independent methods. The dijet $p_\mathrm{T}$ imbalance is characterized by the ratio $x_\mathrm{J} = p_\mathrm{T,2}/p_\mathrm{T,1}$ where $p_\mathrm{T,1(2)}$ is the highest (second-highest) jet $p_\mathrm{T}$ in the event. The dijet azimuthal acoplanarity $Δφ= |φ_1 - φ_2|$ is also reported. Results are reported for different $p_\mathrm{T,1}$ selections and jet radius parameters, normalized per dijet pair, and compared to the results of \textsc{Pythia} and \textsc{Herwig} Monte Carlo event generators. These measurements provide a stringent quantitative test of the modeling of QCD parton shower and hadronization dynamics, place important constraints on event-generator descriptions at RHIC energies, and establish a comprehensive proton-proton baseline for forthcoming measurements of jet modification in heavy ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 18:21:20 GMT</pubDate>
+      <guid isPermaLink="false">2606.17184v1</guid>
+      <dc:creator>sPHENIX Collaboration</dc:creator>
+      <dc:creator>M. I. Abdulhamid</dc:creator>
+      <dc:creator>U. Acharya</dc:creator>
+      <dc:creator>E. R. Adams</dc:creator>
+      <dc:creator>G. Adawi</dc:creator>
+      <dc:creator>I. Ahmed</dc:creator>
+      <dc:creator>C. A. Aidala</dc:creator>
+      <dc:creator>Y. Akiba</dc:creator>
+      <dc:creator>M. Alfred</dc:creator>
+      <dc:creator>S. Ali</dc:creator>
+      <dc:creator>A. Alsayegh</dc:creator>
+      <dc:creator>S. Altaf</dc:creator>
+      <dc:creator>H. Amedi</dc:creator>
+      <dc:creator>D. M. Anderson</dc:creator>
+      <dc:creator>V. V. Andrieux</dc:creator>
+      <dc:creator>A. Angerami</dc:creator>
+      <dc:creator>N. Applegate</dc:creator>
+      <dc:creator>M. U. Ashraf</dc:creator>
+      <dc:creator>H. Aso</dc:creator>
+      <dc:creator>S. Aune</dc:creator>
+      <dc:creator>B. Azmoun</dc:creator>
+      <dc:creator>V. R. Bailey</dc:creator>
+      <dc:creator>D. Baranyai</dc:creator>
+      <dc:creator>S. Bathe</dc:creator>
+      <dc:creator>A. Bazilevsky</dc:creator>
+      <dc:creator>S. Bela</dc:creator>
+      <dc:creator>R. Belmont</dc:creator>
+      <dc:creator>J. Bennett</dc:creator>
+      <dc:creator>J. C. Bernauer</dc:creator>
+      <dc:creator>J. Bertaux</dc:creator>
+      <dc:creator>R. Bi</dc:creator>
+      <dc:creator>A. Bonenfant</dc:creator>
+      <dc:creator>S. Boose</dc:creator>
+      <dc:creator>C. Borchers</dc:creator>
+      <dc:creator>H. Bossi</dc:creator>
+      <dc:creator>R. Botsford</dc:creator>
+      <dc:creator>R. Boucher</dc:creator>
+      <dc:creator>A. Brahma</dc:creator>
+      <dc:creator>J. W. Bryan</dc:creator>
+      <dc:creator>D. Cacace</dc:creator>
+      <dc:creator>I. Cali</dc:creator>
+      <dc:creator>M. Chamizo-Llatas</dc:creator>
+      <dc:creator>S. B. Chauhan</dc:creator>
+      <dc:creator>A. Chen</dc:creator>
+      <dc:creator>D. Chen</dc:creator>
+      <dc:creator>J. Chen</dc:creator>
+      <dc:creator>K. Chen</dc:creator>
+      <dc:creator>K. Y. Chen</dc:creator>
+      <dc:creator>K. Y. Cheng</dc:creator>
+      <dc:creator>C. -Y. Chi</dc:creator>
+      <dc:creator>M. Chiu</dc:creator>
+      <dc:creator>J. Clement</dc:creator>
+      <dc:creator>E. W. Cline</dc:creator>
+      <dc:creator>M. Connors</dc:creator>
+      <dc:creator>E. Cook</dc:creator>
+      <dc:creator>R. Corliss</dc:creator>
+      <dc:creator>Y. Corrales Morales</dc:creator>
+      <dc:creator>E. Croft</dc:creator>
+      <dc:creator>N. d'Hose</dc:creator>
+      <dc:creator>A. Dabas</dc:creator>
+      <dc:creator>D. Dacosta</dc:creator>
+      <dc:creator>M. Daradkeh</dc:creator>
+      <dc:creator>S. J. Das</dc:creator>
+      <dc:creator>A. P. Dash</dc:creator>
+      <dc:creator>G. David</dc:creator>
+      <dc:creator>C. T. Dean</dc:creator>
+      <dc:creator>K. Dehmelt</dc:creator>
+      <dc:creator>X. Dong</dc:creator>
+      <dc:creator>A. Drees</dc:creator>
+      <dc:creator>J. Driebeek</dc:creator>
+      <dc:creator>J. M. Durham</dc:creator>
+      <dc:creator>A. Enokizono</dc:creator>
+      <dc:creator>H. Enyo</dc:creator>
+      <dc:creator>J. Escobar Cepero</dc:creator>
+      <dc:creator>R. Esha</dc:creator>
+      <dc:creator>B. Fadem</dc:creator>
+      <dc:creator>R. Feder</dc:creator>
+      <dc:creator>K. Finnelli</dc:creator>
+      <dc:creator>D. Firak</dc:creator>
+      <dc:creator>D. S. Fitzgerald</dc:creator>
+      <dc:creator>L. V. Flores-Sanchez</dc:creator>
+      <dc:creator>A. Francisco</dc:creator>
+      <dc:creator>J. Frantz</dc:creator>
+      <dc:creator>A. Frawley</dc:creator>
+      <dc:creator>K. Fujiki</dc:creator>
+      <dc:creator>M. Fujiwara</dc:creator>
+      <dc:creator>B. Garcia</dc:creator>
+      <dc:creator>P. Garg</dc:creator>
+      <dc:creator>G. Garmire</dc:creator>
+      <dc:creator>E. Gentry</dc:creator>
+      <dc:creator>Y. Go</dc:creator>
+      <dc:creator>C. Goblin</dc:creator>
+      <dc:creator>I. Goel</dc:creator>
+      <dc:creator>W. Goodman</dc:creator>
+      <dc:creator>Y. Goto</dc:creator>
+      <dc:creator>A. Grabas</dc:creator>
+      <dc:creator>O. Grachov</dc:creator>
+      <dc:creator>J. Granato</dc:creator>
+      <dc:creator>N. Grau</dc:creator>
+      <dc:creator>S. V. Greene</dc:creator>
+      <dc:creator>S. K. Grossberndt</dc:creator>
+      <dc:creator>R. Guidolini-Cecato</dc:creator>
+      <dc:creator>T. Hachiya</dc:creator>
+      <dc:creator>J. S. Haggerty</dc:creator>
+      <dc:creator>R. Hamilton</dc:creator>
+      <dc:creator>J. Hammond</dc:creator>
+      <dc:creator>D. A. Hangal</dc:creator>
+      <dc:creator>T. Harada</dc:creator>
+      <dc:creator>S. Hasegawa</dc:creator>
+      <dc:creator>M. Hata</dc:creator>
+      <dc:creator>W. He</dc:creator>
+      <dc:creator>X. He</dc:creator>
+      <dc:creator>T. Hemmick</dc:creator>
+      <dc:creator>A. Hodges</dc:creator>
+      <dc:creator>M. E. Hoffmann</dc:creator>
+      <dc:creator>A. Holt</dc:creator>
+      <dc:creator>B. Hong</dc:creator>
+      <dc:creator>M. Housenga</dc:creator>
+      <dc:creator>S. Howell</dc:creator>
+      <dc:creator>Y. Hu</dc:creator>
+      <dc:creator>H. Z. Huang</dc:creator>
+      <dc:creator>J. Huang</dc:creator>
+      <dc:creator>T. C. Huang</dc:creator>
+      <dc:creator>D. A. Huffman</dc:creator>
+      <dc:creator>C. Hughes</dc:creator>
+      <dc:creator>J. Hwang</dc:creator>
+      <dc:creator>T. Ichino</dc:creator>
+      <dc:creator>M. Ikemoto</dc:creator>
+      <dc:creator>D. Imagawa</dc:creator>
+      <dc:creator>H. Imai</dc:creator>
+      <dc:creator>Y. Ishigaki</dc:creator>
+      <dc:creator>D. Jah</dc:creator>
+      <dc:creator>J. James</dc:creator>
+      <dc:creator>H. -R. Jheng</dc:creator>
+      <dc:creator>Y. Ji</dc:creator>
+      <dc:creator>Z. Ji</dc:creator>
+      <dc:creator>H. Jiang</dc:creator>
+      <dc:creator>M. Kano</dc:creator>
+      <dc:creator>L. Kasper</dc:creator>
+      <dc:creator>T. Kato</dc:creator>
+      <dc:creator>Y. Kawashima</dc:creator>
+      <dc:creator>A. M. Khan</dc:creator>
+      <dc:creator>M. S. Khan</dc:creator>
+      <dc:creator>T. Kikuchi</dc:creator>
+      <dc:creator>J. Kim</dc:creator>
+      <dc:creator>B. Kimelman</dc:creator>
+      <dc:creator>H. T. Klest</dc:creator>
+      <dc:creator>A. G. Knospe</dc:creator>
+      <dc:creator>M. B. Knuesel</dc:creator>
+      <dc:creator>H. S. Ko</dc:creator>
+      <dc:creator>J. Kuczewski</dc:creator>
+      <dc:creator>N. Kumar</dc:creator>
+      <dc:creator>R. Kunnawalkam Elayavalli</dc:creator>
+      <dc:creator>C. M. Kuo</dc:creator>
+      <dc:creator>J. Kvapil</dc:creator>
+      <dc:creator>Y. Kwon</dc:creator>
+      <dc:creator>J. Lajoie</dc:creator>
+      <dc:creator>J. D. Lang</dc:creator>
+      <dc:creator>A. Lebedev</dc:creator>
+      <dc:creator>S. Lee</dc:creator>
+      <dc:creator>L. Legnosky</dc:creator>
+      <dc:creator>S. Li</dc:creator>
+      <dc:creator>X. Li</dc:creator>
+      <dc:creator>T. Lian</dc:creator>
+      <dc:creator>S. Liechty</dc:creator>
+      <dc:creator>S. Lim</dc:creator>
+      <dc:creator>D. Lis</dc:creator>
+      <dc:creator>M. X. Liu</dc:creator>
+      <dc:creator>W. J. Llope</dc:creator>
+      <dc:creator>D. A. Loomis</dc:creator>
+      <dc:creator>R. -S. Lu</dc:creator>
+      <dc:creator>C. Ma</dc:creator>
+      <dc:creator>L. Ma</dc:creator>
+      <dc:creator>W. Ma</dc:creator>
+      <dc:creator>V. Mahaut</dc:creator>
+      <dc:creator>T. Majoros</dc:creator>
+      <dc:creator>I. Mandjavidze</dc:creator>
+      <dc:creator>E. Mannel</dc:creator>
+      <dc:creator>C. Markert</dc:creator>
+      <dc:creator>T. R. Marshall</dc:creator>
+      <dc:creator>C. Martin</dc:creator>
+      <dc:creator>H. Masuda</dc:creator>
+      <dc:creator>G. Mattson</dc:creator>
+      <dc:creator>M. Mazeikis</dc:creator>
+      <dc:creator>C. McGinn</dc:creator>
+      <dc:creator>E. McLaughlin</dc:creator>
+      <dc:creator>J. Mead</dc:creator>
+      <dc:creator>Y. Mei</dc:creator>
+      <dc:creator>T. Mengel</dc:creator>
+      <dc:creator>A. S. Menon</dc:creator>
+      <dc:creator>M. Meskowitz</dc:creator>
+      <dc:creator>J. Mills</dc:creator>
+      <dc:creator>A. Milov</dc:creator>
+      <dc:creator>C. Mironov</dc:creator>
+      <dc:creator>I. Mitrankov</dc:creator>
+      <dc:creator>M. Mitrankova</dc:creator>
+      <dc:creator>G. Mitsuka</dc:creator>
+      <dc:creator>N. Morimoto</dc:creator>
+      <dc:creator>M. Morita</dc:creator>
+      <dc:creator>D. Morrison</dc:creator>
+      <dc:creator>L. W. Mwibanda</dc:creator>
+      <dc:creator>C. -J. Naïm</dc:creator>
+      <dc:creator>J. L. Nagle</dc:creator>
+      <dc:creator>I. Nakagawa</dc:creator>
+      <dc:creator>Y. Nakamura</dc:creator>
+      <dc:creator>G. Nakano</dc:creator>
+      <dc:creator>Y. Namimoto</dc:creator>
+      <dc:creator>A. Narde</dc:creator>
+      <dc:creator>C. E. Nattrass</dc:creator>
+      <dc:creator>D. Neff</dc:creator>
+      <dc:creator>S. Nelson</dc:creator>
+      <dc:creator>D. Nemoto</dc:creator>
+      <dc:creator>P. A. Nieto-Marín</dc:creator>
+      <dc:creator>R. Nouicer</dc:creator>
+      <dc:creator>G. Nukazuka</dc:creator>
+      <dc:creator>E. O'Brien</dc:creator>
+      <dc:creator>G. Odyniec</dc:creator>
+      <dc:creator>S. Oh</dc:creator>
+      <dc:creator>V. A. Okorokov</dc:creator>
+      <dc:creator>A. C. Oliveira da Silva</dc:creator>
+      <dc:creator>I. Omae</dc:creator>
+      <dc:creator>J. D. Osborn</dc:creator>
+      <dc:creator>G. J. Ottino</dc:creator>
+      <dc:creator>Y. C. Ou</dc:creator>
+      <dc:creator>J. Ouellette</dc:creator>
+      <dc:creator>D. Padrazo</dc:creator>
+      <dc:creator>T. Pani</dc:creator>
+      <dc:creator>J. Park</dc:creator>
+      <dc:creator>A. Patton</dc:creator>
+      <dc:creator>H. Pereira Da Costa</dc:creator>
+      <dc:creator>D. V. Perepelitsa</dc:creator>
+      <dc:creator>M. Peters</dc:creator>
+      <dc:creator>S. Ping</dc:creator>
+      <dc:creator>C. Pinkenburg</dc:creator>
+      <dc:creator>R. Pisani</dc:creator>
+      <dc:creator>C. Platte</dc:creator>
+      <dc:creator>C. Pontieri</dc:creator>
+      <dc:creator>T. Protzman</dc:creator>
+      <dc:creator>M. L. Purschke</dc:creator>
+      <dc:creator>J. Putschke</dc:creator>
+      <dc:creator>R. J. Reed</dc:creator>
+      <dc:creator>L. Reeves</dc:creator>
+      <dc:creator>S. Regmi</dc:creator>
+      <dc:creator>B. Rehman</dc:creator>
+      <dc:creator>E. Renner</dc:creator>
+      <dc:creator>D. Richford</dc:creator>
+      <dc:creator>C. Riedl</dc:creator>
+      <dc:creator>T. Rinn</dc:creator>
+      <dc:creator>C. Roland</dc:creator>
+      <dc:creator>G. Roland</dc:creator>
+      <dc:creator>A. Romero Hernandez</dc:creator>
+      <dc:creator>M. Rosati</dc:creator>
+      <dc:creator>D. Roy</dc:creator>
+      <dc:creator>A. Saed</dc:creator>
+      <dc:creator>T. Sakaguchi</dc:creator>
+      <dc:creator>H. Sako</dc:creator>
+      <dc:creator>S. Salur</dc:creator>
+      <dc:creator>J. Sandhu</dc:creator>
+      <dc:creator>M. Sarsour</dc:creator>
+      <dc:creator>S. Sato</dc:creator>
+      <dc:creator>B. Sayki</dc:creator>
+      <dc:creator>C. Scarlett</dc:creator>
+      <dc:creator>B. Schaefer</dc:creator>
+      <dc:creator>J. Schambach</dc:creator>
+      <dc:creator>M. Schernau</dc:creator>
+      <dc:creator>R. Seidl</dc:creator>
+      <dc:creator>B. D. Seidlitz</dc:creator>
+      <dc:creator>Y. Sekiguchi</dc:creator>
+      <dc:creator>M. Shahid</dc:creator>
+      <dc:creator>D. M. Shangase</dc:creator>
+      <dc:creator>Z. Shi</dc:creator>
+      <dc:creator>M. Shibata</dc:creator>
+      <dc:creator>C. W. Shih</dc:creator>
+      <dc:creator>K. Shiina</dc:creator>
+      <dc:creator>M. Shimomura</dc:creator>
+      <dc:creator>R. Shishikura</dc:creator>
+      <dc:creator>E. Shulga</dc:creator>
+      <dc:creator>A. Sickles</dc:creator>
+      <dc:creator>D. Silvermyr</dc:creator>
+      <dc:creator>J. Singh</dc:creator>
+      <dc:creator>R. A. Soltz</dc:creator>
+      <dc:creator>W. Sondheim</dc:creator>
+      <dc:creator>I. Sourikova</dc:creator>
+      <dc:creator>P. Steinberg</dc:creator>
+      <dc:creator>D. Stewart</dc:creator>
+      <dc:creator>M. Stojanovic</dc:creator>
+      <dc:creator>S. Stoll</dc:creator>
+      <dc:creator>Y. Sugiyama</dc:creator>
+      <dc:creator>O. Suranyi</dc:creator>
+      <dc:creator>A. Suzuki</dc:creator>
+      <dc:creator>R. Takahama</dc:creator>
+      <dc:creator>W. -C. Tang</dc:creator>
+      <dc:creator>S. Tarafdar</dc:creator>
+      <dc:creator>E. Thorsland</dc:creator>
+      <dc:creator>T. Todoroki</dc:creator>
+      <dc:creator>L. S. Tsai</dc:creator>
+      <dc:creator>H. Tsujibata</dc:creator>
+      <dc:creator>M. Tsuruta</dc:creator>
+      <dc:creator>J. Tutterow</dc:creator>
+      <dc:creator>E. Tuttle</dc:creator>
+      <dc:creator>B. Ujvari</dc:creator>
+      <dc:creator>E. N. Umaka</dc:creator>
+      <dc:creator>M. Vandenbroucke</dc:creator>
+      <dc:creator>J. Vasquez</dc:creator>
+      <dc:creator>J. Velkovska</dc:creator>
+      <dc:creator>V. Verkest</dc:creator>
+      <dc:creator>A. Vijayakumar</dc:creator>
+      <dc:creator>X. Wang</dc:creator>
+      <dc:creator>Y. Wang</dc:creator>
+      <dc:creator>Z. Wang</dc:creator>
+      <dc:creator>I. S. Ward</dc:creator>
+      <dc:creator>M. Watanabe</dc:creator>
+      <dc:creator>J. Webb</dc:creator>
+      <dc:creator>A. Wehe</dc:creator>
+      <dc:creator>A. Wils</dc:creator>
+      <dc:creator>V. Wolfe</dc:creator>
+      <dc:creator>C. Woody</dc:creator>
+      <dc:creator>W. Xie</dc:creator>
+      <dc:creator>Y. Yamaguchi</dc:creator>
+      <dc:creator>Z. Ye</dc:creator>
+      <dc:creator>K. Yip</dc:creator>
+      <dc:creator>Z. You</dc:creator>
+      <dc:creator>G. Young</dc:creator>
+      <dc:creator>C. -J. Yu</dc:creator>
+      <dc:creator>X. Yu</dc:creator>
+      <dc:creator>X. Yu</dc:creator>
+      <dc:creator>W. A. Zajc</dc:creator>
+      <dc:creator>V. Zakharov</dc:creator>
+      <dc:creator>J. Zhang</dc:creator>
+      <dc:creator>C. Zimmerli</dc:creator>
+    </item>
+    <item>
+      <title>Short-Range Correlations Between Partons in a Proton</title>
+      <link>http://arxiv.org/abs/2606.17133v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jen-Chieh Peng, Krishna Rajagopal, John Terry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A principal lesson from recreating droplets of quark-gluon plasma (QGP) in heavy ion collisions is that it is a strongly coupled liquid, not a plasma of partons. The energy density and pressure of quarks and gluons confined within a proton are comparable to those of QGP at or just above the QCD transition temperature. Given this similarity between protons and QGP, we propose that the investigation of correlations between nearby partons within a proton must be a central goal for the future Electron-Ion Collider (EIC). Here, we ask how EIC measurements can discern such short-range correlations (SRCs) of quark pairs. Doing so would characterize the strongly coupled interior of a proton, augmenting the one-parton-at-a-time understanding of protons via (generalized) parton distribution functions, and could at the same time yield a key ingredient for the microscopic understanding of the liquid nature of QGP. Motivated by the experiments that have been used to demonstrate the existence of SRCs between nucleon pairs within a nucleus, we propose using EIC observables involving measurements of a jet and a pion, together with the scattered electron, to seek and quantify the possible existence of SRCs between quark pairs within a nucleon. The pronounced isospin dependence observed in the dominance of $np$ SRCs over $pp$ or $nn$ SRCs has played a central role in establishing the importance of SRCs among nucleons in nuclei. Analogously, the QCD attraction in the $ud$ diquark channel can make the $ud$ SRC stronger than the $uu$ and $dd$ SRCs, allowing a first observation of partonic SRCs.&lt;/p&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2606.17133v1</guid>
+      <dc:creator>Jen-Chieh Peng</dc:creator>
+      <dc:creator>Krishna Rajagopal</dc:creator>
+      <dc:creator>John Terry</dc:creator>
+    </item>
     <item>
       <title>Spin-Selective Hadron Spectroscopy via Azimuthal Anisotropies from Entanglement-Enabled Spin Interference</title>
       <link>http://arxiv.org/abs/2606.16966v1</link>
@@ -125,19 +529,6 @@
       <dc:creator>Olga Soloveva</dc:creator>
       <dc:creator>Ilia Grishmanovskii</dc:creator>
       <dc:creator>Elena Bratkovskaya</dc:creator>
-    </item>
-    <item>
-      <title>Hadron polarization and equation of state at FAIR/RHIC-BES energies</title>
-      <link>http://arxiv.org/abs/2606.13333v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dai-Neng Liu, Jan Steinheimer, Kai-Jia Sun, Jin-Hui Chen, Yu-Gang Ma, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The $Λ$ global polarization indicates that hot and dense matter created in non-central heavy-ion collisions carries large orbital angular momentum. However, the relation between hadronic polarization and the medium's collective rotation remains to be validated. Using the UrQMD transport model, we calculate the thermal vorticity-induced polarization of $Λ$s in Ag+Ag and Au+Au collisions from $\sqrt{s_{\rm NN}}=2.24$--$7.7$~GeV and a range of centralities. Two different equations of state used in the UrQMD simulation are compared: one resembles a hadron resonance gas, while the other is based on the chiral mean field (CMF) model, providing a more realistic description of dense nuclear matter including a chiral transition that is consistent with lattice QCD expectations. The polarization is sensitive to the equation of state and a softer EoS leads to smaller values. In addition, we show that the $Λ$ polarization in the experimental acceptance and centrality selection does not decrease for even lower beam energies. Our results indicate that the process leading to the large vorticity is a result of the large shear in the baryon current created by its stopping.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 13:25:01 GMT</pubDate>
-      <guid isPermaLink="false">2606.13333v1</guid>
-      <dc:creator>Dai-Neng Liu</dc:creator>
-      <dc:creator>Jan Steinheimer</dc:creator>
-      <dc:creator>Kai-Jia Sun</dc:creator>
-      <dc:creator>Jin-Hui Chen</dc:creator>
-      <dc:creator>Yu-Gang Ma</dc:creator>
-      <dc:creator>Marcus Bleicher</dc:creator>
     </item>
     <item>
       <title>Constraining the Low-$p_T$ $η/π^0$ Ratio for Direct-Photon Analyses with Blast-Wave Fits to $π$, $K$, and $p$ Spectra</title>
@@ -2263,14 +2654,6 @@
       <dc:creator>Y. Togano</dc:creator>
       <dc:creator>S. J. Yennello</dc:creator>
       <dc:creator>Y. Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Hard Probes in Ultraperipheral Collisions at LHCb</title>
-      <link>http://arxiv.org/abs/2604.23955v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Krista Smith&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Measurements of quarkonia production in peripheral and ultraperipheral heavy-ion collisions are sensitive to photon-photon and photon-nucleus interactions, the partonic structure of nuclei, and the mechanisms of vector-meson production. In this contribution, quarkonium measurements with the highest precision currently accessible will be compared with the latest theoretical models. Additionally, new studies of $ρ(770)$ and $φ(1020)$ vector meson production at forward rapidity will be presented and contrasted with other experimental results. Future UPC measurements with the upgraded LHCb detector in Run 3 will also be discussed.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 01:59:16 GMT</pubDate>
-      <guid isPermaLink="false">2604.23955v1</guid>
-      <dc:creator>Krista Smith</dc:creator>
     </item>
   </channel>
 </rss>
