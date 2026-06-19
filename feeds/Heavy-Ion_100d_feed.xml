@@ -5,9 +5,31 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:52:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:54:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Track and energy reconstruction algorithms for a time projection chamber with orthogonal fields</title>
+      <link>http://arxiv.org/abs/2606.18821v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Martin Vít Vavřík, Babar Ali, Hugo Natal da Luz, Olivier Rousselle, Tomáš Sýkora&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we describe the development of track- and energy-reconstruc-tion algorithms for atypical Time Projection Chambers (TPCs) that will be used at the Institute of Experimental and Applied Physics, Czech Technical University in Prague, to search for the anomalous internal pair creation reported by the ATOMKI group. These chambers operate with an inhomogeneous toroidal magnetic field oriented orthogonally to the electric field; we therefore refer to them as Orthogonal-Field TPCs (OFTPCs). Although this configuration distorts the drift of ionization electrons and complicates the resulting electron and positron trajectories, it also offers several practical advantages. We present the most effective of several tested approaches, which employs a simulated ionization-electron drift map for track reconstruction and a Runge--Kutta-based fit for energy reconstruction. Using simulations, we demonstrate that -- under idealized conditions, namely an ideal charge readout with no amplification and no noise and with known initial track positions and directions -- it is possible to achieve a fitted Gaussian width (sigma) better than 1\% in relative energy for both electrons and positrons, after applying corrections for systematic effects that depend on the track parameters.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 08:44:27 GMT</pubDate>
+      <guid isPermaLink="false">2606.18821v1</guid>
+      <dc:creator>Martin Vít Vavřík</dc:creator>
+      <dc:creator>Babar Ali</dc:creator>
+      <dc:creator>Hugo Natal da Luz</dc:creator>
+      <dc:creator>Olivier Rousselle</dc:creator>
+      <dc:creator>Tomáš Sýkora</dc:creator>
+    </item>
+    <item>
+      <title>Universality and variability of the heavy r-process element abundance pattern from a nonequilibrium approach</title>
+      <link>http://arxiv.org/abs/2606.18373v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; David Blaschke, Friedrich K. Röpke, Gerd Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A striking feature in the observed chemical composition of the majority of stars is the universality of the relative abundances of the heavy elements, although some outliers exist. We demonstrate that a nonequilibrium freeze-out approach provides a natural way of accounting for the typical abundance pattern and its variation. Here, we use a phenomenological method to characterize the coarse-grained distribution of heavy $r$-process elements in several astrophysical objects. The Lagrange parameters show only minor fluctuations when comparing different stars. Larger deviations are observed in stars with low metallicity. The variations in the Lagrange parameters for these stars are presented. The determination of the Lagrange parameters can be instrumental in identifying possible sources for the formation of heavy elements. In particular, density fluctuations are considered as a source for the production of heavy elements in the early Universe.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:19:30 GMT</pubDate>
+      <guid isPermaLink="false">2606.18373v1</guid>
+      <dc:creator>David Blaschke</dc:creator>
+      <dc:creator>Friedrich K. Röpke</dc:creator>
+      <dc:creator>Gerd Röpke</dc:creator>
+    </item>
     <item>
       <title>Energy-energy correlators in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV</title>
       <link>http://arxiv.org/abs/2606.18143v1</link>
@@ -1167,16 +1189,6 @@
       <dc:creator>Charles Gale</dc:creator>
       <dc:creator>Greg Jackson</dc:creator>
       <dc:creator>Sangyong Jeon</dc:creator>
-    </item>
-    <item>
-      <title>Bayesian constraints on the transport coefficients $η/s$ and $ζ/s$ from spin polarization in relativisitic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2605.29383v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sushant K. Singh, Eduardo Grossi, Francesco Becattini&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bayesian analyses in the context of relativistic heavy-ion collisions have so far relied almost exclusively on bulk hadronic observables constructed from momentum degrees of freedom to constrain the transport properties of the quark-gluon plasma. In this work, we perform the Bayesian inference after incorporating the longitudinal spin polarization of $Λ$ hyperons alongside conventional bulk measurements in Pb+Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV to constrain the shear and bulk viscosity to entropy density ratios, $η/s$ and $ζ/s$. We demonstrate that the inclusion of spin polarization, which provides complementary sensitivity to the space-time structure and vorticity of the medium, shifts the posterior distribution of $ζ/s$ toward larger values, although current uncertainties do not allow a statistically significant separation at the 68% credibility level. Nevertheless, the results establish spin polarization as a valuable probe in quantitative studies of QGP transport properties and indicate that it should be incorporated in comprehensive and systematically constrained Bayesian extractions of the medium's dynamical parameters.&lt;/p&gt;</description>
-      <pubDate>Thu, 28 May 2026 05:36:26 GMT</pubDate>
-      <guid isPermaLink="false">2605.29383v1</guid>
-      <dc:creator>Sushant K. Singh</dc:creator>
-      <dc:creator>Eduardo Grossi</dc:creator>
-      <dc:creator>Francesco Becattini</dc:creator>
     </item>
     <item>
       <title>Quantum effects in the quadrupole rotor picture of ultra-relativistic ion-ion collisions</title>
@@ -2580,80 +2592,6 @@
       <pubDate>Wed, 29 Apr 2026 14:33:45 GMT</pubDate>
       <guid isPermaLink="false">2604.26731v1</guid>
       <dc:creator>Rupam Samanta</dc:creator>
-    </item>
-    <item>
-      <title>Large amplification of the isospin-dependence of proton emitting source size in radioactive heavy-ion collisions: a signal of n-p correlation</title>
-      <link>http://arxiv.org/abs/2604.25107v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Y. J. Wang, C. K. Tam, Z. G. Xiao, W. G. Lynch, C. Y. Tsang, J. Barney, G. Jhang, J. Estee, M. B. Tsang, R. S. Wang, M. Kaneko, J. W. Lee, J. Park, Z. Chajęcki, G. Verde, T. Isobe, M. Kurata-Nishimura, T. Murakami, D. S. Ahn, L. Atar, T. Aumann, H. Baba, K. Boretzky, J. Brzychczyk, G. Cerizza, N. Chiga, N. Fukuda, I. Gasparic, B. Hong, A. Horvat, K. Ieki, N. Inabe, Y. J. Kim, T. Kobayashi, Y. Kondo, P. Lasko, H. S. Lee, Y. Leifels, J. Łukasik, J. Manfredi, A. B. McIntosh, P. Morfouace, T. Nakamura, N. Nakatsuka, S. Nishimura, H. Otsu, P. Pawłowski, K. Pelczar, D. Rossi, H. Sakurai, C. Santamaria, H. Sato, H. Scheit, R. Shane, Y. Shimizu, H. Simon, A. Snoch, A. Sochocka, T. Sumikama, H. Suzuki, D. Suzuki, H. Takeda, S. Tangwancharoen, H. Toernqvist, Y. Togano, S. J. Yennello, Y. Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report proton-proton correlation function measurements in central $^{132}$Sn+$^{124}$Sn and $^{108}$Sn+$^{112}$Sn collisions at 270 MeV/nucleon. The proton emitting source sizes are extracted for the systems by using femtoscopic imaging technique. The fast dynamic core radius for the neutron-rich system is found to be $2.22 \pm 0.13\ \text{(stat.)} \pm 0.07\ \text{(syst.)}$ fm, which is approximately 24\% larger than that for the neutron-deficient system, $1.74 \pm 0.08\ \text{(stat.)} \pm 0.05\ \text{(syst.)}$ fm. This difference is an order of magnitude larger than the $\sim$3\% difference in the ground-state charge radii of the projectile nuclei. Transport model simulations based on mean-field dynamics cannot reproduce this amplification. The observation reveals a beyond-mean-field mechanism associated to short-range neutron-proton correlations, which dynamically enhance the proton emitting source in the neutron-rich environment. Our results demonstrate that heavy-ion collisions induced by radioactive beam, combined with femtoscopic precision, provide a new hadronic probe of short-range correlation, and that careful treatment of the beyond-mean-field interactions are required in modeling such processes.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Apr 2026 01:28:58 GMT</pubDate>
-      <guid isPermaLink="false">2604.25107v1</guid>
-      <dc:creator>Y. J. Wang</dc:creator>
-      <dc:creator>C. K. Tam</dc:creator>
-      <dc:creator>Z. G. Xiao</dc:creator>
-      <dc:creator>W. G. Lynch</dc:creator>
-      <dc:creator>C. Y. Tsang</dc:creator>
-      <dc:creator>J. Barney</dc:creator>
-      <dc:creator>G. Jhang</dc:creator>
-      <dc:creator>J. Estee</dc:creator>
-      <dc:creator>M. B. Tsang</dc:creator>
-      <dc:creator>R. S. Wang</dc:creator>
-      <dc:creator>M. Kaneko</dc:creator>
-      <dc:creator>J. W. Lee</dc:creator>
-      <dc:creator>J. Park</dc:creator>
-      <dc:creator>Z. Chajęcki</dc:creator>
-      <dc:creator>G. Verde</dc:creator>
-      <dc:creator>T. Isobe</dc:creator>
-      <dc:creator>M. Kurata-Nishimura</dc:creator>
-      <dc:creator>T. Murakami</dc:creator>
-      <dc:creator>D. S. Ahn</dc:creator>
-      <dc:creator>L. Atar</dc:creator>
-      <dc:creator>T. Aumann</dc:creator>
-      <dc:creator>H. Baba</dc:creator>
-      <dc:creator>K. Boretzky</dc:creator>
-      <dc:creator>J. Brzychczyk</dc:creator>
-      <dc:creator>G. Cerizza</dc:creator>
-      <dc:creator>N. Chiga</dc:creator>
-      <dc:creator>N. Fukuda</dc:creator>
-      <dc:creator>I. Gasparic</dc:creator>
-      <dc:creator>B. Hong</dc:creator>
-      <dc:creator>A. Horvat</dc:creator>
-      <dc:creator>K. Ieki</dc:creator>
-      <dc:creator>N. Inabe</dc:creator>
-      <dc:creator>Y. J. Kim</dc:creator>
-      <dc:creator>T. Kobayashi</dc:creator>
-      <dc:creator>Y. Kondo</dc:creator>
-      <dc:creator>P. Lasko</dc:creator>
-      <dc:creator>H. S. Lee</dc:creator>
-      <dc:creator>Y. Leifels</dc:creator>
-      <dc:creator>J. Łukasik</dc:creator>
-      <dc:creator>J. Manfredi</dc:creator>
-      <dc:creator>A. B. McIntosh</dc:creator>
-      <dc:creator>P. Morfouace</dc:creator>
-      <dc:creator>T. Nakamura</dc:creator>
-      <dc:creator>N. Nakatsuka</dc:creator>
-      <dc:creator>S. Nishimura</dc:creator>
-      <dc:creator>H. Otsu</dc:creator>
-      <dc:creator>P. Pawłowski</dc:creator>
-      <dc:creator>K. Pelczar</dc:creator>
-      <dc:creator>D. Rossi</dc:creator>
-      <dc:creator>H. Sakurai</dc:creator>
-      <dc:creator>C. Santamaria</dc:creator>
-      <dc:creator>H. Sato</dc:creator>
-      <dc:creator>H. Scheit</dc:creator>
-      <dc:creator>R. Shane</dc:creator>
-      <dc:creator>Y. Shimizu</dc:creator>
-      <dc:creator>H. Simon</dc:creator>
-      <dc:creator>A. Snoch</dc:creator>
-      <dc:creator>A. Sochocka</dc:creator>
-      <dc:creator>T. Sumikama</dc:creator>
-      <dc:creator>H. Suzuki</dc:creator>
-      <dc:creator>D. Suzuki</dc:creator>
-      <dc:creator>H. Takeda</dc:creator>
-      <dc:creator>S. Tangwancharoen</dc:creator>
-      <dc:creator>H. Toernqvist</dc:creator>
-      <dc:creator>Y. Togano</dc:creator>
-      <dc:creator>S. J. Yennello</dc:creator>
-      <dc:creator>Y. Zhang</dc:creator>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,31 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:54:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Track and energy reconstruction algorithms for a time projection chamber with orthogonal fields</title>
+      <link>http://arxiv.org/abs/2606.18821v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Martin Vít Vavřík, Babar Ali, Hugo Natal da Luz, Olivier Rousselle, Tomáš Sýkora&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we describe the development of track- and energy-reconstruc-tion algorithms for atypical Time Projection Chambers (TPCs) that will be used at the Institute of Experimental and Applied Physics, Czech Technical University in Prague, to search for the anomalous internal pair creation reported by the ATOMKI group. These chambers operate with an inhomogeneous toroidal magnetic field oriented orthogonally to the electric field; we therefore refer to them as Orthogonal-Field TPCs (OFTPCs). Although this configuration distorts the drift of ionization electrons and complicates the resulting electron and positron trajectories, it also offers several practical advantages. We present the most effective of several tested approaches, which employs a simulated ionization-electron drift map for track reconstruction and a Runge--Kutta-based fit for energy reconstruction. Using simulations, we demonstrate that -- under idealized conditions, namely an ideal charge readout with no amplification and no noise and with known initial track positions and directions -- it is possible to achieve a fitted Gaussian width (sigma) better than 1\% in relative energy for both electrons and positrons, after applying corrections for systematic effects that depend on the track parameters.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 08:44:27 GMT</pubDate>
+      <guid isPermaLink="false">2606.18821v1</guid>
+      <dc:creator>Martin Vít Vavřík</dc:creator>
+      <dc:creator>Babar Ali</dc:creator>
+      <dc:creator>Hugo Natal da Luz</dc:creator>
+      <dc:creator>Olivier Rousselle</dc:creator>
+      <dc:creator>Tomáš Sýkora</dc:creator>
+    </item>
+    <item>
+      <title>Universality and variability of the heavy r-process element abundance pattern from a nonequilibrium approach</title>
+      <link>http://arxiv.org/abs/2606.18373v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; David Blaschke, Friedrich K. Röpke, Gerd Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A striking feature in the observed chemical composition of the majority of stars is the universality of the relative abundances of the heavy elements, although some outliers exist. We demonstrate that a nonequilibrium freeze-out approach provides a natural way of accounting for the typical abundance pattern and its variation. Here, we use a phenomenological method to characterize the coarse-grained distribution of heavy $r$-process elements in several astrophysical objects. The Lagrange parameters show only minor fluctuations when comparing different stars. Larger deviations are observed in stars with low metallicity. The variations in the Lagrange parameters for these stars are presented. The determination of the Lagrange parameters can be instrumental in identifying possible sources for the formation of heavy elements. In particular, density fluctuations are considered as a source for the production of heavy elements in the early Universe.&lt;/p&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:19:30 GMT</pubDate>
+      <guid isPermaLink="false">2606.18373v1</guid>
+      <dc:creator>David Blaschke</dc:creator>
+      <dc:creator>Friedrich K. Röpke</dc:creator>
+      <dc:creator>Gerd Röpke</dc:creator>
+    </item>
     <item>
       <title>Energy-energy correlators in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV</title>
       <link>http://arxiv.org/abs/2606.18143v1</link>
@@ -31,19 +53,6 @@
       <pubDate>Tue, 16 Jun 2026 15:39:59 GMT</pubDate>
       <guid isPermaLink="false">2606.18070v1</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Hadron polarization and equation of state at FAIR/RHIC-BES energies</title>
-      <link>http://arxiv.org/abs/2606.13333v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dai-Neng Liu, Jan Steinheimer, Kai-Jia Sun, Jin-Hui Chen, Yu-Gang Ma, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The $Λ$ global polarization indicates that hot and dense matter created in non-central heavy-ion collisions carries large orbital angular momentum. However, the relation between hadronic polarization and the medium's collective rotation remains to be validated. Using the UrQMD transport model, we calculate the thermal vorticity-induced polarization of $Λ$s in Ag+Ag and Au+Au collisions from $\sqrt{s_{\rm NN}}=2.24$-$7.7$ GeV and a range of centralities. Two different equations of state used in the UrQMD simulation are compared: one resembles a hadron resonance gas, while the other is based on the chiral mean field (CMF) model, providing a more realistic description of dense nuclear matter including a chiral transition that is consistent with lattice QCD expectations. The polarization is sensitive to the equation of state and a softer EoS leads to smaller values. In addition, we show that the $Λ$ polarization in the experimental acceptance and centrality selection does not decrease for even lower beam energies. Our results indicate that the process leading to the large vorticity is a result of the large shear in the baryon current created by its stopping.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 11:30:39 GMT</pubDate>
-      <guid isPermaLink="false">2606.13333v2</guid>
-      <dc:creator>Dai-Neng Liu</dc:creator>
-      <dc:creator>Jan Steinheimer</dc:creator>
-      <dc:creator>Kai-Jia Sun</dc:creator>
-      <dc:creator>Jin-Hui Chen</dc:creator>
-      <dc:creator>Yu-Gang Ma</dc:creator>
-      <dc:creator>Marcus Bleicher</dc:creator>
     </item>
     <item>
       <title>Probing the QCD Phase Structure with Dileptons from SIS to LHC Energies</title>
@@ -478,48 +487,6 @@
       <guid isPermaLink="false">2606.14018v1</guid>
       <dc:creator>Francisco Reyes Rodríguez</dc:creator>
       <dc:creator>Eleazar Cuautle</dc:creator>
-    </item>
-    <item>
-      <title>Observable Dependence of Viscous Corrections in QGP: Heavy Quarks and Dileptons in Chapman--Enskog Theory</title>
-      <link>http://arxiv.org/abs/2606.13646v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lakshmi J. Naik, P. Parvathi, Nachiketa Sarkar, V. Sreekanth&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We calculate, for the first time, heavy quark transport and thermal dilepton production from QGP using viscous correction up to second order in gradients. We use the form of viscous correction obtained from Chapman-Enskog like expansion of the Boltzmann transport equation in relaxation time approximation, and compare our results with that of Grad's 14-moment approximation. By employing the temperature and shear stress evolution profiles of QGP obtained from second-order causal relativistic viscous hydrodynamics, we study the heavy quark transport coefficients and thermal dilepton production from an evolving QGP. In the case of HQ transport, the CE corrections suppress the drag force substantially, induce a non-trivial momentum dependence in transverse momentum diffusion, and result in a comparatively less modification in longitudinal momentum diffusion. Whereas, for thermal dileptons, the CE corrections result in an enhanced early-time contribution which decreases and become converging to the first-order CE correction with the evolution of QGP, and remain well behaved compared to that of Grad's correction. Our results indicate that the modification of the observable due to viscous corrections is governed by the magnitude of the corrections as well as the interplay between their momentum dependence and momentum weighting of the transport and emission kernels. We demonstrate that the momentum structure of the various viscous corrections at the level of distribution function is not directly translated to the observables since the different observables are sensitive to distinct regions of momentum space.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 17:49:05 GMT</pubDate>
-      <guid isPermaLink="false">2606.13646v1</guid>
-      <dc:creator>Lakshmi J. Naik</dc:creator>
-      <dc:creator>P. Parvathi</dc:creator>
-      <dc:creator>Nachiketa Sarkar</dc:creator>
-      <dc:creator>V. Sreekanth</dc:creator>
-    </item>
-    <item>
-      <title>Experimental exploration of the QCD phase diagram</title>
-      <link>http://arxiv.org/abs/2606.14799v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. Andronic, P. Braun-Munzinger, K. Redlich, J. Stachel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The different phases of strongly interacting matter are governed by Quantum Chromodynamics (QCD). At high temperature and/or density a deconfined, chirally symmetric phase of quarks and gluons is expected to govern the nature of strongly interacting matter, the so-called quark-gluon plasma. Here we review what is known about the existence of this exotic form of matter from an experimental point of view and confront the results with QCD predictions based on 'Lattice QCD', where QCD is discretized on a space-time lattice and solved numerically in a Monte Carlo approach. The form of the presentation is explicitly pedagogical but the results include even very recent developments. Our research is based on the interpretation of hadron production data from relativistic nucleus--nucleus collisions over a wide energy range, with the aim to make progress in the understanding of the QCD phase, and of phenomena like deconfinement and hadronization.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 17:01:31 GMT</pubDate>
-      <guid isPermaLink="false">2606.14799v1</guid>
-      <dc:creator>A. Andronic</dc:creator>
-      <dc:creator>P. Braun-Munzinger</dc:creator>
-      <dc:creator>K. Redlich</dc:creator>
-      <dc:creator>J. Stachel</dc:creator>
-    </item>
-    <item>
-      <title>Transport simulations with a constrained momentum-dependent Chiral Mean Field EoS at different iso-spin fractions</title>
-      <link>http://arxiv.org/abs/2606.13415v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jan Steinheimer, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a comparison of the UrQMD model using a chiral mean field EoS (CMF) with flow and pion production data in heavy ion collisions at low beam energies $E_{\mathrm{lab}}=0.2-2.0 A$ GeV and varying iso-spin fraction. The CMF model parameters are constrained by known properties of the high density equation of state of QCD at varying iso-spin fractions. This allows us to calculate the equation of state as well as nuclear interactions for different physical systems like neutron stars and heavy ion collisions in a consistent way. It is found that heavy ion reactions at the upcoming FAIR facility will only have marginal sensitivity on the iso-spin dependence of the high-density equation of state. At lower beam energies, comparing to FOPI, HADES and S$π$rit data, the sensitivity is higher but the observed deviations and systematic uncertainties of the existing data are larger than the sensitivity to the symmetry energy.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 14:45:22 GMT</pubDate>
-      <guid isPermaLink="false">2606.13415v1</guid>
-      <dc:creator>Jan Steinheimer</dc:creator>
-      <dc:creator>Marcus Bleicher</dc:creator>
-    </item>
-    <item>
-      <title>Transport coefficients of strongly interacting quark-gluon plasma including elastic and inelastic scattering within the dynamical quasiparticle model</title>
-      <link>http://arxiv.org/abs/2606.13363v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gaia Ingrosso, Olga Soloveva, Ilia Grishmanovskii, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the impact of inelastic gluon-radiation processes on the transport coefficients of the quark-gluon plasma within the dynamical quasiparticle model (DQPM) in the temperature-baryon-chemical-potential plane $(T,μ_B)$. Extending the elastic baseline established in previous DQPM calculations, we include radiative $2\to3$ scattering channels with massive partons and effective DQPM propagators and vertices. The corresponding momentum-dependent interaction rates and relaxation times are used within the relaxation-time approximation to calculate the shear viscosity, bulk viscosity, electric conductivity, and baryon diffusion coefficient as functions of temperature $T$ and baryon chemical potential $μ_B$. We find that radiative channels systematically reduce all considered transport coefficients relative to the elastic-only results, in accordance with the decrease of the relaxation times. In the thermal regime explored here, however, this reduction remains moderate, since the inelastic rates stay below the elastic ones over the considered $(T,μ_B)$ range. The radiative channels become more relevant mainly for partonic scatterings at large momenta, which are thermally suppressed in the strongly interacting QGP. At $μ_B=0$, the resulting $η/s$, $ζ/s$, and $σ_Q/T$ are compatible with available lattice-QCD estimates within uncertainties. At finite $μ_B$, our results provide predictions for the transport properties of QCD matter relevant for beam-energy-scan programs.&lt;/p&gt;</description>
-      <pubDate>Thu, 11 Jun 2026 13:48:56 GMT</pubDate>
-      <guid isPermaLink="false">2606.13363v1</guid>
-      <dc:creator>Gaia Ingrosso</dc:creator>
-      <dc:creator>Olga Soloveva</dc:creator>
-      <dc:creator>Ilia Grishmanovskii</dc:creator>
-      <dc:creator>Elena Bratkovskaya</dc:creator>
     </item>
   </channel>
 </rss>
