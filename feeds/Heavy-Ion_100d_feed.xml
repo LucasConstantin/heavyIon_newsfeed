@@ -5,9 +5,73 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:45:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Observation of centrality-dependent dijet transverse momentum imbalance in O+O and Ne+Ne collisions at $\sqrt{s_{NN}}$ = 5.36 TeV with the ATLAS detector</title>
+      <link>http://arxiv.org/abs/2606.20463v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ATLAS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ATLAS experiment presents an observation of a centrality-dependent dijet transverse momentum imbalance in O+O and Ne+Ne collisions at a nucleon-nucleon center-of-mass energy of 5.36 TeV at the Large Hadron Collider. The measurement uses 8.0 nb$^{-1}$ of O+O and 1.0 nb$^{-1}$ of Ne+Ne data collected in 2025, together with 386 pb$^{-1}$ of \textit{pp} data at the same energy used as a reference. The dijet momentum balance is quantified using the ratio of the sub-leading jet transverse momentum to that of the leading jet, $x_J$. For dijets produced azimuthally back-to-back, the self-normalized $x_J$ distributions exhibit increasingly large deviations from the \textit{pp} reference as collisions become more central, corresponding to an increasing overlap of the colliding nuclei. The observed centrality dependence is consistent with medium-induced partonic energy loss in O+O and Ne+Ne collisions, demonstrating that such effects persist in collision systems considerably smaller than Pb+Pb and Xe+Xe. These results establish a new regime for investigating the path-length dependence of jet quenching and constrain the onset of quark-gluon plasma effects in small nuclear collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:45:40 GMT</pubDate>
+      <guid isPermaLink="false">2606.20463v1</guid>
+      <dc:creator>ATLAS Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Thermal dileptons to probe the baryon-rich QCD matter in the forward region of LHC energy heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2606.14166v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Motomi Oya, Nicholas J. Benoit, Chiho Nonaka, Azumi Sakai, Yorito Yamaguchi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate thermal dilepton production from a quark-gluon plasma (QGP) with finite baryon chemical potential ($μ_{\text{B}}$) in central Pb-Pb collisions at $\sqrt{s_{\text{NN}}}=5.02~\text{TeV}$. Recent studies suggest that sizable baryon densities can be achieved at forward rapidity even at LHC energies. We incorporate finite $μ_{\text{B}}$ into a (3+1)-dimensional hydrodynamic framework and find that $μ_{\text{B}}$ exceeds 500 MeV around $η_\text{s} = 6$ during the medium evolution. Using this framework, we calculate thermal dilepton spectra over a wide rapidity range and evaluate the impact of finite $μ_{\text{B}}$ on dilepton production. A suppression of 3-4% is observed in the forward-rapidity region $5.2 &lt; y &lt; 7.2$ due to the reduced quark-antiquark abundance at finite baryon density. We further examine the effective temperature extracted from dilepton mass spectra in the intermediate-mass region $1.2 &lt; M_{\ell \ell} &lt; 2.6~\text{GeV}$ . The effective temperature remains strongly correlated with the underlying hydrodynamic temperature and retains sensitivity to the early high-temperature stage of the QGP evolution. These results demonstrate that forward-rapidity dileptons remain effective thermometers while providing sensitivity to finite baryon density at the LHC.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 15:54:27 GMT</pubDate>
+      <guid isPermaLink="false">2606.14166v2</guid>
+      <dc:creator>Motomi Oya</dc:creator>
+      <dc:creator>Nicholas J. Benoit</dc:creator>
+      <dc:creator>Chiho Nonaka</dc:creator>
+      <dc:creator>Azumi Sakai</dc:creator>
+      <dc:creator>Yorito Yamaguchi</dc:creator>
+    </item>
+    <item>
+      <title>Revisiting the role of saturation in diffractive vector meson production</title>
+      <link>http://arxiv.org/abs/2606.20362v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Heikki Mäntysaari, Hendrik Roch, Björn Schenke, Chun Shen, Wenbin Zhao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a global Bayesian analysis of coherent and incoherent diffractive $\mathrm{J}/ψ$ photoproduction in $γ+p$ and $γ+\mathrm{Pb}$ collisions using a Color Glass Condensate (CGC)-based framework and ultraperipheral collision data from the Large Hadron Collider (LHC), corrected for the expected effect of electromagnetic dissociation (EMD). Using Gaussian-process emulators of the underlying CGC calculations, we infer model parameters from a combined set of HERA and LHC measurements. We find that the $γ+\mathrm{Pb}$ data with EMD correction substantially reduce the previously observed tension between proton and nuclear datasets, enabling a consistent simultaneous description of diffractive $\mathrm{J}/ψ$ production in $γ+p$ and $γ+\mathrm{Pb}$ collisions within the CGC framework.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 15:25:41 GMT</pubDate>
+      <guid isPermaLink="false">2606.20362v1</guid>
+      <dc:creator>Heikki Mäntysaari</dc:creator>
+      <dc:creator>Hendrik Roch</dc:creator>
+      <dc:creator>Björn Schenke</dc:creator>
+      <dc:creator>Chun Shen</dc:creator>
+      <dc:creator>Wenbin Zhao</dc:creator>
+    </item>
+    <item>
+      <title>Probing Strange-Quark Hadronization via (Multi-)Strange Hadron Multiplicity Distributions in Small Collision Systems with ALICE</title>
+      <link>http://arxiv.org/abs/2606.20213v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sara Pucillo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strangeness enhancement is defined as the increased relative production of strange hadrons in heavy-ion collisions compared to proton--proton (pp) interactions. It was originally proposed as one of the signatures of quark--gluon plasma (QGP) formation. At the LHC, the ALICE experiment observed that strange-hadron-to-pion yield ratios rise with increasing charged-particle multiplicity at midrapidity, independently of collision energy ($\sqrt{s}$) and system size, from pp to p--Pb and up to Pb--Pb collisions. To gain deeper insight into the mechanisms of strangeness production, the ALICE collaboration has measured the probability distribution of producing a given number of strange particles ($K^{0}_{S}$, $Λ$, $Ξ$, and $Ω$) of the same species per event in pp collisions at $\sqrt{s}~=~5.02$ TeV. This measurement extends the study of strangeness production beyond the mean particle yield by employing, for the first time, a technique based on event-by-event particle counting. It provides a new test bench for production mechanisms, probing events with large imbalances between strange and non-strange content. The results are compared with state-of-the-art phenomenological models implemented in commonly used Monte Carlo event generators, offering enhanced sensitivity to the underlying dynamics of strangeness production.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 13:27:04 GMT</pubDate>
+      <guid isPermaLink="false">2606.20213v1</guid>
+      <dc:creator>Sara Pucillo</dc:creator>
+    </item>
+    <item>
+      <title>Modification of jet-energy flow in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2606.20061v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ALICE Collaboration presents the first measurements of the jet-energy flow ($Δp_{\rm T}$) observable in proton-proton and heavy-ion collisions. Jets are excellent probes for the quark$-$gluon plasma, a deconfined state of matter produced in heavy-ion collisions. The jet-energy flow observable characterizes the radial distribution of energy from the jet axis in an infrared and collinear-safe way and is sensitive to medium-induced parton-shower modifications. Inclusive charged jets are measured in Pb$-$Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV for the transverse-momentum interval 60$-$80 GeV/$c$. For pp collisions at $\sqrt{s}=13$ TeV, measurements include the 40$-$60 and 60$-$80 GeV/$c$ intervals, where the latter serves as the reference for investigating medium-induced modifications. Results show that most parton energy is concentrated in the jet core, with a clear suppression of energy flow in heavy-ion collisions at larger radii (significance 3.5$-$4.5$σ$) indicating a narrowing of the energy flow. While all models -- PYTHIA 8, HERWIG, JEWEL, and JETSCAPE -- reproduce the pp results with only small deviations in the tails, the relative modification in Pb$-$Pb collisions is well described by JEWEL without recoil. Conversely, JEWEL with recoil (medium response) and JETSCAPE show significant deviations, exhibiting increasing or more constant trends with radius that are disfavored by the data.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 10:34:27 GMT</pubDate>
+      <guid isPermaLink="false">2606.20061v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Probing flavor effects in the QCD parton shower using $\mathbf{{\rm D}^0}$-tagged jet angularities in proton$-$proton collisions at $\mathbf{ \sqrt{s} = 5.02}$ TeV</title>
+      <link>http://arxiv.org/abs/2606.20028v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ALICE Collaboration presents the first measurements of ${\rm D}^0$-tagged jet angularities in proton$-$proton (pp) collisions at $\sqrt{s} = 5.02$ TeV. Jet angularities are powerful substructure observables that characterize the angular and momentum distributions of particles within jets via tunable weighting parameters. Varying the angular parameter in jet angularities allows for a systematic probe of the sensitivity to collinear and soft radiation, enabling the study of flavor-dependent fragmentation and hadronization through comparisons of jets initiated by different partons. This paper reports ${\rm D}^0$-tagged and inclusive (gluon-dominated) charged-particle jet angularities with a resolution parameter $R=0.4$ in the low jet transverse momentum range ($10 &lt; p_{\rm T}^{\rm ch. \, jet} &lt; 20$ GeV/$c$), where charm-quark mass effects are most significant. At low angular weight, which emphasizes collinear radiation, ${\rm D}^0$-tagged jets exhibit smaller angularity values than inclusive jets. This provides evidence for the radiation suppression from massive quarks -- a phenomenon known as the QCD dead-cone effect. As the angular weight increases, giving more emphasis to wide-angle radiation, the difference between ${\rm D}^0$-tagged and inclusive jet distributions decreases. This indicates that the modification is concentrated within the jet core rather than its edge. PYTHIA 8 simulations qualitatively reproduce both the angularity of ${\rm D}^0$-tagged and inclusive charged-particle jets, but reproduce the ${\rm D}^0$-tagged jet distributions better than those of inclusive jets, offering a powerful new constraint for models. These results provide insight into flavor-dependent fragmentation and establish an essential baseline for future studies of jet modifications in the quark-gluon plasma produced in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 09:59:09 GMT</pubDate>
+      <guid isPermaLink="false">2606.20028v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Evidence for parton energy loss in oxygen$-$oxygen collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.36}$ TeV</title>
+      <link>http://arxiv.org/abs/2606.19967v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultra-relativistic heavy-ion collisions create a hot and dense medium of deconfined quarks and gluons, the quark$-$gluon plasma (QGP), in which parton energy loss (&quot;jet quenching&quot;) is a key probe of hot medium properties. While parton energy loss has been firmly established in large systems such as Pb$-$Pb and Au$-$Au collisions, no unambiguous direct evidence exists in smaller systems such as high-multiplicity p$-$Pb and pp collisions. To probe the onset of parton energy loss at intermediate system size, measurements of neutral-pion production are presented in this Letter for oxygen$-$oxygen (OO) and proton$-$oxygen (pO) collisions recorded with the ALICE detector in July 2025, relative to a pp baseline. The nuclear modification factor $R_{\rm OO}$ is suppressed relative to unity with a transverse-momentum dependence similar to that observed in Pb$-$Pb collisions, consistent with a previous CMS measurement in OO collisions with charged particles. As $R_{\rm OO}$ contains contributions from both cold and hot nuclear matter effects, $R_{\rm pO}$ is also presented in order to constrain cold nuclear matter (CNM) contributions. $R_{\rm pO}$ is found to be compatible with unity, indicating that CNM effects alone cannot account for the suppression observed in $R_{\rm OO}$. Final-state effects are isolated using the measured double ratio $R_{\rm OO} \left/ R_{\rm OO}^2 \right.$, which largely cancels CNM contributions and exhibits a significant suppression relative to expectations without energy loss at a $4.9σ$ level. Theoretical models incorporating parton energy loss via different mechanisms predict a significant suppression of the $R_{\rm OO} \left/ R_{\rm OO}^2 \right.$ relative to unity, consistent with the data. These findings establish parton energy loss in OO collisions, extending experimental evidence for jet quenching to the smallest nuclear system studied to date.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 09:10:11 GMT</pubDate>
+      <guid isPermaLink="false">2606.19967v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
     <item>
       <title>Track and energy reconstruction algorithms for a time projection chamber with orthogonal fields</title>
       <link>http://arxiv.org/abs/2606.18821v1</link>
@@ -487,18 +551,6 @@
       <dc:creator>Claudia Ratti</dc:creator>
       <dc:creator>Volodymyr Vovchenko</dc:creator>
       <dc:creator>Chik Him Wong</dc:creator>
-    </item>
-    <item>
-      <title>Thermal dileptons to probe the baryon-rich QCD matter in the forward region of LHC energy heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.14166v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Motomi Oya, Nicholas J. Benoit, Chiho Nonaka, Azumi Sakai, Yorito Yamaguchi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate thermal dilepton production from a quark-gluon plasma (QGP) with finite baryon chemical potential ($μ_{\text{B}}$) in central Pb-Pb collisions at $\sqrt{s_{\text{NN}}}=5.02~\text{TeV}$. Recent studies suggest that sizable baryon densities can be achieved at forward rapidity even at LHC energies. We incorporate finite $μ_{\text{B}}$ into a (3+1)-dimensional hydrodynamic framework and find that $μ_{\text{B}}$ exceeds 500 MeV around $η_\text{s} = 6$ during the medium evolution. Using this framework, we calculate thermal dilepton spectra over a wide rapidity range and evaluate the impact of finite $μ_{\text{B}}$ on dilepton production. A suppression of 3-4% is observed in the forward-rapidity region $5.2 &lt; y &lt; 7.2$ due to the reduced quark-antiquark abundance at finite baryon density. We further examine the effective temperature extracted from dilepton mass spectra in the intermediate-mass region $1.2 &lt; M_{\ell \ell} &lt; 2.6~\text{GeV}$ . The effective temperature remains strongly correlated with the underlying hydrodynamic temperature and retains sensitivity to the early high-temperature stage of the QGP evolution. These results demonstrate that forward-rapidity dileptons remain effective thermometers while providing sensitivity to finite baryon density at the LHC.&lt;/p&gt;</description>
-      <pubDate>Fri, 12 Jun 2026 06:44:14 GMT</pubDate>
-      <guid isPermaLink="false">2606.14166v1</guid>
-      <dc:creator>Motomi Oya</dc:creator>
-      <dc:creator>Nicholas J. Benoit</dc:creator>
-      <dc:creator>Chiho Nonaka</dc:creator>
-      <dc:creator>Azumi Sakai</dc:creator>
-      <dc:creator>Yorito Yamaguchi</dc:creator>
     </item>
     <item>
       <title>Energy and centrality dependence of thermodynamical observables from multiplicity in Pb+Pb and Au+Au collisions</title>
@@ -1121,18 +1173,6 @@
       <dc:creator>Li-Ping Zou</dc:creator>
     </item>
     <item>
-      <title>Canonical statistical hadronization with local baryon conservation for higher-order cumulants</title>
-      <link>http://arxiv.org/abs/2605.30710v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mario Ciacco, Sourav Kundu, Volodymyr A. Kuznietsov, Maximiliano Puccio, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study higher-order cumulants of the conserved baryon number at the LHC within the canonical ensemble with local baryon conservation. We generalize the density correlations approach of [Phys. Rev. C 110, L061902 (2024)] to incorporate the effect of Gaussian local conservation in spatial rapidity space in cumulants up to 6th order. Gaussian local conservation improves upon the commonly employed $V_c$ approach, yielding comparable predictions at midrapidity, but marked differences for larger rapidity acceptances. Our coordinate-space results are in exact agreement with the diffusion master equation approach for all cumulant ratios up to $κ_6/κ_2$. Using the blast-wave model to apply kinematic cuts, we obtain predictions for net-proton cumulants in O--O and Pb--Pb collisions at the LHC that establish an ideal hadron gas baseline. We find that local baryon conservation alone can drive $κ_6/κ_2$ to small or even negative values in restricted acceptance, a behavior often associated with chiral criticality. The conservation baseline must therefore be carefully accounted for when interpreting upcoming LHC measurements.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 03:08:47 GMT</pubDate>
-      <guid isPermaLink="false">2605.30710v2</guid>
-      <dc:creator>Mario Ciacco</dc:creator>
-      <dc:creator>Sourav Kundu</dc:creator>
-      <dc:creator>Volodymyr A. Kuznietsov</dc:creator>
-      <dc:creator>Maximiliano Puccio</dc:creator>
-      <dc:creator>Volodymyr Vovchenko</dc:creator>
-    </item>
-    <item>
       <title>Pseudo-Gauge Stabilizers and Fibration Structure of the Cooper--Frye Map at Freeze-Out</title>
       <link>http://arxiv.org/abs/2606.01429v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiahua Tian&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the pseudo-gauge transformation (PGT) freedom at freeze-out in relativistic spin hydrodynamics. The Cooper--Frye map is shown to factor through the quotient of freeze-out data by a universal stabilizer, yielding a stratified fibration over the space of thermodynamic Lagrange multipliers. This classifies observables into base and fiber types, bounds the number of independent PGT-sensitive observables by the family-restricted fiber dimension, and implies cross-observable consistency relations. Applied to heavy-ion polarization data, the fibration structure provides a structural interpretation of the tension between $Λ$ polarization and $φ$-meson spin alignment as evidence that the vorticity-dominated response sector may need to be enlarged with local field-correlation data. We show that Weyl-anomaly-induced currents studied recently are classified as base observables and recover the known Belinfante--canonical obstruction $Ω_{ab}\neq\varpi_{ab}$ from the stabilizer condition.&lt;/p&gt;</description>
@@ -1177,18 +1217,6 @@
       <pubDate>Fri, 29 May 2026 13:12:07 GMT</pubDate>
       <guid isPermaLink="false">2606.00171v1</guid>
       <dc:creator>CMS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>The polarization of thermal dileptons emitted in high-energy heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2605.30180v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Han Gao, Xiang-Yu Wu, Charles Gale, Greg Jackson, Sangyong Jeon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This work presents calculations of thermal dilepton emission and polarization observables. It features a comprehensive framework which comprises virtual photon spectral functions complete at next-to-leading-order in the strong coupling and iEBE-MUSIC hydrodynamic simulations. The polarization of thermal lepton pairs is shown to be sensitive to in-medium properties of the quark-gluon plasma. We consider Pb+Pb collisions performed in conditions specific to the LHC and examine the magnitude and behaviour of the polarization as measured in different frames, the effects of the pre-equilibrium gluon abundance, and we derive a one-to-one mapping between dielectron and dimuon polarization.&lt;/p&gt;</description>
-      <pubDate>Thu, 28 May 2026 16:27:49 GMT</pubDate>
-      <guid isPermaLink="false">2605.30180v1</guid>
-      <dc:creator>Han Gao</dc:creator>
-      <dc:creator>Xiang-Yu Wu</dc:creator>
-      <dc:creator>Charles Gale</dc:creator>
-      <dc:creator>Greg Jackson</dc:creator>
-      <dc:creator>Sangyong Jeon</dc:creator>
     </item>
     <item>
       <title>Quantum effects in the quadrupole rotor picture of ultra-relativistic ion-ion collisions</title>
@@ -2584,14 +2612,6 @@
       <dc:creator>Gang Wang</dc:creator>
       <dc:creator>Xin-Nian Wang</dc:creator>
       <dc:creator>Zhong Yang</dc:creator>
-    </item>
-    <item>
-      <title>Thermal and geometric normal modes of spectral fluctuations in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2604.26731v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rupam Samanta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-04-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The transverse momentum spectrum of charged particles in ultra-relativistic heavy-ion collisions fluctuates event-by-event, encoding signatures of underlying collective dynamics. Such fluctuations originate from a combined effect of thermal and geometric fluctuations in the initial state. We present a direct decomposition of these spectral fluctuations through principal component analysis performed on the joint covariance structure of normalized spectrum, mean transverse momentum and elliptic flow squared. The first two leading modes explain 99.5\% of the total variance, and are orthogonally rotated by imposing physical constraints motivated by the initial state thermal and geometric response. The resulting thermal and geometric modes bear direct analogy with the vibrational normal modes of a linear triatomic molecule. The thermal mode entirely drives the experimentally measured $v_0(p_T)$, while the geometric mode contributes substantially to $v_{02}(p_T)$ in non-central collisions, providing a transparent explanation of its characteristic low-$p_T$ sign change. The study establishes the first physically motivated interpretation of principal component modes in the field of heavy-ion collisions and provides an experimental window into the thermo-geometric structure of the QGP initial state.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 Apr 2026 14:33:45 GMT</pubDate>
-      <guid isPermaLink="false">2604.26731v1</guid>
-      <dc:creator>Rupam Samanta</dc:creator>
     </item>
   </channel>
 </rss>
