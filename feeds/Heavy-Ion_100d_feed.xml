@@ -5,20 +5,9 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:37:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Geometric and Statistical Thermo Field Dynamics in de Sitter Spacetime</title>
-      <link>http://arxiv.org/abs/2606.23484v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; D. S. Cabral, L. A. S. Evangelista, J. C. R. de Souza, A. F. Santos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of a massive scalar field non-minimally coupled to gravity in an expanding de Sitter universe are investigated. It is shown that a comoving observer identifies the Bunch--Davies state as the vacuum, whereas a static observer perceives the same state as a thermal bath at the Gibbons--Hawking temperature. Motivated by this observer dependence, a thermal formulation based on Thermo Field Dynamics is developed by combining the geometric doubling associated with the cosmological horizon with the statistical doubling induced by a intrinsec thermal bath. The resulting construction reveals that the doubling procedure is not merely a mathematical artifact, but rather a manifestation of the global causal structure of spacetime together with finite-temperature effects. The temporal evolution of the Bogoliubov angle is analyzed and the corresponding particle number densities are evaluated in both comoving and static frames. In the radiation limit, the comoving number density remains conserved, providing a thermodynamic evolution consistent with that of the Cosmic Microwave Background, whereas in the static frame finite-temperature effects sti\-mulate Parker particle creation. For massive and non-minimally coupled fields, the interplay between geometric and statistical temperatures gives rise to a characteristic thermal scale and a nontrivial dependence on the initial conditions. These results provide a unified framework for describing quantum fields in de Sitter spacetime in the presence of both apparent horizon-induced and intrinsec thermal effects.&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 15:29:12 GMT</pubDate>
-      <guid isPermaLink="false">2606.23484v1</guid>
-      <dc:creator>D. S. Cabral</dc:creator>
-      <dc:creator>L. A. S. Evangelista</dc:creator>
-      <dc:creator>J. C. R. de Souza</dc:creator>
-      <dc:creator>A. F. Santos</dc:creator>
-    </item>
     <item>
       <title>Ultra-Peripheral Collisions as a Nuclear-Structure Interferometer with Interpretable Multitask Deep Learning</title>
       <link>http://arxiv.org/abs/2606.23353v1</link>
@@ -46,16 +35,6 @@
       <dc:creator>Yu-Liang Yan</dc:creator>
       <dc:creator>Zhong-Qi Wang</dc:creator>
       <dc:creator>Ben-Hao Sa</dc:creator>
-    </item>
-    <item>
-      <title>Finite-volume scheme for first-order viscoresistive relativistic magnetohydrodynamics</title>
-      <link>http://arxiv.org/abs/2606.22691v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruben Lier, Jay Armas, Oliver Porth&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a numerical implementation of dissipative relativistic magnetohydrodynamics based on Bemfica-Disconzi-Noronha-Kovtun (BDNK) theory, in which first-order corrections render the equations causal without introducing additional dynamical variables. We show how these corrections can be incorporated in a finite-volume scheme describing the coupled dissipation of energy, momentum, and magnetic field, with the latter treated as a one-form charge. While a minimal set of BDNK terms can convert diffusive equations into telegrapher-type equations, we find that in the ultra-relativistic limit an additional correction is required for the system to behave in a stable and causal manner. With this set of equations, we develop an efficient method for primitive-variable recovery and validate the implementation through an analytical benchmark and various two-dimensional simulations.&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 22:08:06 GMT</pubDate>
-      <guid isPermaLink="false">2606.22691v1</guid>
-      <dc:creator>Ruben Lier</dc:creator>
-      <dc:creator>Jay Armas</dc:creator>
-      <dc:creator>Oliver Porth</dc:creator>
     </item>
     <item>
       <title>Event-by-event fluctuations of elliptic flow in ultrarelativistic O+O collisions</title>
@@ -109,18 +88,6 @@
       <pubDate>Fri, 19 Jun 2026 12:40:53 GMT</pubDate>
       <guid isPermaLink="false">2606.19967v2</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Hydrodynamic tails in chaotic spin chains with quantum group symmetry</title>
-      <link>http://arxiv.org/abs/2606.20850v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Luca V. Delacretaz, Victor Gorbenko, Jiaozi Wang, Bernardo Zan, Aleksandr Zhabin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.stat-mech&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The interplay between symmetry and thermalization governs the late-time dynamics of local quantum and classical many-body systems at nonzero temperature. Recently, two parallel frontiers have emerged: the search for robust anomalous hydrodynamics -- such as superdiffusion -- in generic, non-integrable models, and the formal effort to generalize the fundamental concept of global symmetry. In this paper, we bridge these frontiers by demonstrating that quantum group symmetry provides a novel mechanism for anomalous hydrodynamics in chaotic systems. We study the dynamics of local operators carrying $U(1)$ charge in non-integrable lattice models that also have quantum group symmetry. One example is transverse spin in the XXZ model with integrability breaking deformations. While such excitations are expected to decay very quickly at high temperature because their charge forbids overlap with conventional hydrodynamic densities, we find that protection by the quantum group symmetry makes these modes long-lived, despite the absence of local quantum group charge density or current. Furthermore, the dynamics is superdiffusive across Hamiltonian, Floquet, and classical realizations, and exhibits unusual finite size effects at very late times. We also revisit transverse spin dynamics in the integrable XXZ model.&lt;/p&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 18:34:52 GMT</pubDate>
-      <guid isPermaLink="false">2606.20850v1</guid>
-      <dc:creator>Luca V. Delacretaz</dc:creator>
-      <dc:creator>Victor Gorbenko</dc:creator>
-      <dc:creator>Jiaozi Wang</dc:creator>
-      <dc:creator>Bernardo Zan</dc:creator>
-      <dc:creator>Aleksandr Zhabin</dc:creator>
     </item>
     <item>
       <title>Observation of centrality-dependent dijet transverse momentum imbalance in O+O and Ne+Ne collisions at $\sqrt{s_{NN}}$ = 5.36 TeV with the ATLAS detector</title>
@@ -187,27 +154,6 @@
       <dc:creator>ALICE Collaboration</dc:creator>
     </item>
     <item>
-      <title>Track and energy reconstruction algorithms for a time projection chamber with orthogonal fields</title>
-      <link>http://arxiv.org/abs/2606.18821v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Martin Vít Vavřík, Babar Ali, Hugo Natal da Luz, Olivier Rousselle, Tomáš Sýkora&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we describe the development of track- and energy-reconstruc-tion algorithms for atypical Time Projection Chambers (TPCs) that will be used at the Institute of Experimental and Applied Physics, Czech Technical University in Prague, to search for the anomalous internal pair creation reported by the ATOMKI group. These chambers operate with an inhomogeneous toroidal magnetic field oriented orthogonally to the electric field; we therefore refer to them as Orthogonal-Field TPCs (OFTPCs). Although this configuration distorts the drift of ionization electrons and complicates the resulting electron and positron trajectories, it also offers several practical advantages. We present the most effective of several tested approaches, which employs a simulated ionization-electron drift map for track reconstruction and a Runge--Kutta-based fit for energy reconstruction. Using simulations, we demonstrate that -- under idealized conditions, namely an ideal charge readout with no amplification and no noise and with known initial track positions and directions -- it is possible to achieve a fitted Gaussian width (sigma) better than 1\% in relative energy for both electrons and positrons, after applying corrections for systematic effects that depend on the track parameters.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 08:44:27 GMT</pubDate>
-      <guid isPermaLink="false">2606.18821v1</guid>
-      <dc:creator>Martin Vít Vavřík</dc:creator>
-      <dc:creator>Babar Ali</dc:creator>
-      <dc:creator>Hugo Natal da Luz</dc:creator>
-      <dc:creator>Olivier Rousselle</dc:creator>
-      <dc:creator>Tomáš Sýkora</dc:creator>
-    </item>
-    <item>
-      <title>Hydrodynamics of perfect fluids with anomalies from the fermionic path integral</title>
-      <link>http://arxiv.org/abs/2606.18779v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alexander G. Abanov, Andrea Cappelli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The path integral of the Dirac fermion with vector and axial gauge backgrounds is analyzed near the infrared limit in the presence of residual irrelevant current-current interaction. After integrating out fermions, a semiclassical low-energy effective action is obtained, written in terms of currents. Its expression is found to correspond to the hydrodynamic action previously proposed for perfect barotropic fluids with anomalies at zero temperature. This approach also leads to two further hydrodynamic actions to be associated, respectively, with the Weyl fermion, and the Dirac fermion having independent vector and axial currents. These actions feature four- and five-dimensional bulk-boundary terms, owing to anomaly inflow, which are identified as being the so-called transgression forms. These are generalizations of Chern--Simons forms that involve two gauge fields: the dynamical field and the background field. The path-integral argument provides a ``microscopic'' explanation for several ingredients of the action formulation of hydrodynamics that are necessary to incorporate anomalies. It also clarifies the infrared reduction required to pass from the effective field theory to a local hydrodynamic description. This reduction is implemented by considering restricted variations of the action, familiar from hydrodynamics, which at the same time lead to four-dimensional equations of motion from the five-dimensional transgression terms.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 07:41:47 GMT</pubDate>
-      <guid isPermaLink="false">2606.18779v1</guid>
-      <dc:creator>Alexander G. Abanov</dc:creator>
-      <dc:creator>Andrea Cappelli</dc:creator>
-    </item>
-    <item>
       <title>Universality and variability of the heavy r-process element abundance pattern from a nonequilibrium approach</title>
       <link>http://arxiv.org/abs/2606.18373v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; David Blaschke, Friedrich K. Röpke, Gerd Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A striking feature in the observed chemical composition of the majority of stars is the universality of the relative abundances of the heavy elements, although some outliers exist. We demonstrate that a nonequilibrium freeze-out approach provides a natural way of accounting for the typical abundance pattern and its variation. Here, we use a phenomenological method to characterize the coarse-grained distribution of heavy $r$-process elements in several astrophysical objects. The Lagrange parameters show only minor fluctuations when comparing different stars. Larger deviations are observed in stars with low metallicity. The variations in the Lagrange parameters for these stars are presented. The determination of the Lagrange parameters can be instrumental in identifying possible sources for the formation of heavy elements. In particular, density fluctuations are considered as a source for the production of heavy elements in the early Universe.&lt;/p&gt;</description>
@@ -224,16 +170,6 @@
       <pubDate>Tue, 16 Jun 2026 16:42:53 GMT</pubDate>
       <guid isPermaLink="false">2606.18143v1</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>The free boundary problem in general relativity</title>
-      <link>http://arxiv.org/abs/2606.18128v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kostas Tzanavaris, Latham Boyle, Neil Turok&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the action principle for space-times whose boundary is singular. We suggest that it is natural to treat the singularity as a {\it free} boundary, where the variation is unconstrained. Demanding that the action is stationary under such free variations then implies certain (on-shell) boundary conditions at the singularity. We derive these boundary conditions for the case of Einstein gravity coupled to matter and show that, when applied to an initial spacelike singularity, they exclude Kasner-like or BKL space-times, but admit conformally regular space-times (including FLRW models) sourced by fluids satisfying $0 \leq P &lt; ρ$. For standard hot big bang FLRW cosmologies, the admissible linear (scalar, vector, tensor) perturbations satisfy reflecting boundary conditions at the bang, in agreement with large-scale cosmological observations.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:25:59 GMT</pubDate>
-      <guid isPermaLink="false">2606.18128v1</guid>
-      <dc:creator>Kostas Tzanavaris</dc:creator>
-      <dc:creator>Latham Boyle</dc:creator>
-      <dc:creator>Neil Turok</dc:creator>
     </item>
     <item>
       <title>Probing jet evolution with charged energy correlators in small systems</title>
@@ -640,22 +576,6 @@
       <dc:creator>C. Zimmerli</dc:creator>
     </item>
     <item>
-      <title>Boundary conditions and Hilbert spaces in no-roll quantum cosmology</title>
-      <link>http://arxiv.org/abs/2606.17163v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Steffen Gielen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct Hilbert spaces for the minisuperspace quantum cosmology of a closed Universe in the limit of extreme slow-roll inflation, in which the scalar field is approximated as constant. In this setting, the potential energy in the scalar field is an integration constant depending on initial conditions, equivalent to the cosmological constant as it appears in unimodular gravity. If one fixes the value of this integration constant, the Wheeler-DeWitt equation admits two independent solutions, and a natural inner product picks out one of them (essentially Vilenkin's tunnelling wavefunction) with positive norm. The physical Hilbert space is then one-dimensional, in agreement with some recent discussions of closed universes in quantum gravity. However, if the potential energy is left arbitrary, the theory allows for an infinite-dimensional Hilbert space corresponding to energy eigenstates of an effective Hamiltonian. Requiring that this Hamiltonian be represented as a self-adjoint operator leads to a one-parameter family of boundary conditions at the singularity, generalising the DeWitt criterion of a vanishing wavefunction. The boundary condition always leads to a mixture of Hartle-Hawking (no-boundary) and tunnelling wavefunctions, but a particular choice &quot;almost&quot; singles out the Hartle-Hawking wavefunction, with exponentially suppressed corrections.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="false">2606.17163v1</guid>
-      <dc:creator>Steffen Gielen</dc:creator>
-    </item>
-    <item>
-      <title>Quantum fate of the Choptuik naked singularity</title>
-      <link>http://arxiv.org/abs/2606.17135v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chih-Hung Wu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Classical critical collapse provides a dynamical route from smooth initial data to a naked singularity, representing a sharper violation of predictability than ordinary black hole singularities. We argue that this distinction is erased by quantum backreaction. Building on the semiclassical interior analysis, where quantum self-energy of the collapsing matter generates a universal growing mode and a finite mass gap, we study the exterior naked singularity region that determines global visibility in the Einstein-scalar system. We analyze controlled exterior models in both $2+1$ and $3+1$ dimensions. In the former, smooth matching and physical boundary conditions analytically select a vacuum polarization state, whose backreaction cloaks the classically naked region by a quantum trapped branch. In the latter, numerical horizon tracing shows that near a quantum-shifted threshold the exterior develops finite-mass marginally trapped surfaces rather than a zero-mass naked endpoint. These results suggest a global quantum picture in which the Choptuik naked singularity shares the fate of an ordinary black hole singularity: quantum effects push the putative Cauchy horizon behind a quantum-generated horizon, thereby reducing the loss of predictability to the standard black hole evaporation problem.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:00:01 GMT</pubDate>
-      <guid isPermaLink="false">2606.17135v1</guid>
-      <dc:creator>Chih-Hung Wu</dc:creator>
-    </item>
-    <item>
       <title>Short-Range Correlations Between Partons in a Proton</title>
       <link>http://arxiv.org/abs/2606.17133v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jen-Chieh Peng, Krishna Rajagopal, John Terry&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A principal lesson from recreating droplets of quark-gluon plasma (QGP) in heavy ion collisions is that it is a strongly coupled liquid, not a plasma of partons. The energy density and pressure of quarks and gluons confined within a proton are comparable to those of QGP at or just above the QCD transition temperature. Given this similarity between protons and QGP, we propose that the investigation of correlations between nearby partons within a proton must be a central goal for the future Electron-Ion Collider (EIC). Here, we ask how EIC measurements can discern such short-range correlations (SRCs) of quark pairs. Doing so would characterize the strongly coupled interior of a proton, augmenting the one-parton-at-a-time understanding of protons via (generalized) parton distribution functions, and could at the same time yield a key ingredient for the microscopic understanding of the liquid nature of QGP. Motivated by the experiments that have been used to demonstrate the existence of SRCs between nucleon pairs within a nucleus, we propose using EIC observables involving measurements of a jet and a pion, together with the scattered electron, to seek and quantify the possible existence of SRCs between quark pairs within a nucleon. The pronounced isospin dependence observed in the dominance of $np$ SRCs over $pp$ or $nn$ SRCs has played a central role in establishing the importance of SRCs among nucleons in nuclei. Analogously, the QCD attraction in the $ud$ diquark channel can make the $ud$ SRC stronger than the $uu$ and $dd$ SRCs, allowing a first observation of partonic SRCs.&lt;/p&gt;</description>
@@ -818,15 +738,6 @@
       <guid isPermaLink="false">2606.10668v1</guid>
       <dc:creator>Sushanta Tripathy</dc:creator>
       <dc:creator>Peter Christiansen</dc:creator>
-    </item>
-    <item>
-      <title>Post-Merger Gravitational-Wave Uncertainties of Binary Neutron Stars under Multi-Messenger EOS Constraints</title>
-      <link>http://arxiv.org/abs/2606.08522v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yong-Jia Huang, Luca Baiotti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The high-frequency gravitational waves emitted by a binary neutron star merger remnant carry information on matter at densities and temperatures beyond those reached in isolated neutron stars. We quantify how tightly current multi-messenger constraints already determine the dominant post-merger frequency $f_{2,\rm mean}$. Adopting a set of cold equations of state (EOSs) constrained jointly by gravitational-wave tidal deformability, NICER mass--radius measurements, massive-pulsar masses, chiral effective field theory at low density, and perturbative QCD at asymptotically high density, for each binary mass we select the softest and stiffest models of the multi-messenger posterior and follow their coalescence with fully general-relativistic hydrodynamics simulations. Together with a broad set of EOSs drawn from the literature ($82$ models in total), these simulations show that, once the binary mass and a single measure of the stellar compactness ($Λ$ or $R$) are held fixed, the residual spread of $f_{2,\rm mean}$ is only $\sim 100\,{\rm Hz}$, a factor of several below the $\gtrsim 500\,{\rm Hz}$ range spanned by an EOSs set including those already disfavored by the data. This tight calibration of the cold-matter prediction implies that a future high-frequency detection departing from it would point directly to additional physics, such as a hadron--quark transition occurring at finite temperature. We further confirm the quasi-universal relation $(f_1+f_3)/2 \approx f_{2,\rm mean}$ to within $\sim 116\,{\rm Hz}$, which provides a model-independent estimate of $f_{2,\rm mean}$ from the secondary spectral peaks.&lt;/p&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 06:13:00 GMT</pubDate>
-      <guid isPermaLink="false">2606.08522v2</guid>
-      <dc:creator>Yong-Jia Huang</dc:creator>
-      <dc:creator>Luca Baiotti</dc:creator>
     </item>
     <item>
       <title>Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</title>
@@ -1360,16 +1271,6 @@
       <guid isPermaLink="false">2606.02723v1</guid>
       <dc:creator>Ritesh Ghosh</dc:creator>
       <dc:creator>Igor A. Shovkovy</dc:creator>
-    </item>
-    <item>
-      <title>Stochastic Dynamics of Heavy Quarks in Strongly Coupled Plasma</title>
-      <link>http://arxiv.org/abs/2606.02693v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Krishna Rajagopal, Bruno Scheihing-Hitschfeld, Urs Achim Wiedemann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the stochastic dynamics of heavy quarks propagating through the strongly coupled plasma of $\mathcal{N}=4$ supersymmetric Yang-Mills (SYM) theory at nonzero temperature in terms of the corresponding Kolmogorov equation, which correctly describes their kinetic equilibration and the non-Gaussian fluctuations in their momenta without having to restrict their velocity to the non-relativistic regime. Leveraging the heavy quark limit, we show that the evolution of the momentum space distribution function can be reformulated as a Hamilton-Jacobi problem, and therefore can be solved in terms of first-order ordinary differential equations. We solve these evolution equations in an infinite thermal plasma with a constant temperature for initial conditions specified by spherically symmetric heavy quark momentum distributions with a phenomenologically motivated shape that is steeply falling at large momentum. To highlight the distinctive features of the kinetic equilibration process, we compare their solutions with Fokker-Planck dynamics with the same drag coefficient and fluctuations chosen by hand to guarantee equilibration. We find qualitatively similar dynamics at small momentum, and very different dynamics at large momentum, where, much like in jet quenching phenomena, the steepness of the momentum distribution gives a larger relevance to unlikely events in which a heavy quark loses little momentum in a given time step. Such events are much less unlikely in the Kolmogorov evolution than in Fokker-Planck evolution with the same mean energy loss, meaning that equilibration at large momentum is significantly delayed. Our results provide a systematic description of heavy quarks propagating through strongly coupled plasma from the ultra-relativistic to the non-relativistic regime and point the way towards implementation in phenomenological studies.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2606.02693v1</guid>
-      <dc:creator>Krishna Rajagopal</dc:creator>
-      <dc:creator>Bruno Scheihing-Hitschfeld</dc:creator>
-      <dc:creator>Urs Achim Wiedemann</dc:creator>
     </item>
     <item>
       <title>Quantum Symmetry Restoration and Emergent Effective Deformation in Relativistic Heavy-Ion Collisions</title>
@@ -2967,32 +2868,6 @@
       <dc:creator>Piotr Bożek</dc:creator>
     </item>
     <item>
-      <title>Resilience of the physicochemical properties of graphene-based materials for applications in harsh radiation environments</title>
-      <link>http://arxiv.org/abs/2605.26311v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marcilei A. Guazzelli, Saulo G. Alberton, Nemitala Added, Vitor A. P. Aguiar, Koiti Araki, Luis H. Avanzi, Francesco Cappuzzello, Manuela Cavallaro, Eliane F. Chinaglia, Marcia T. Escote, Fabio F. Ferreira, Mauro Giovannini, Renato F. Jardim, Sueli H. Masunaga, Nilberto H. Medina, Marcelo Nakamura, José R. B. Oliveira, Roberto B. B. Santos, Alexis C. Villas-Bôas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.mtrl-sci&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The development of radiation-tolerant materials capable of maintaining structural, electrical, and thermal stability in extreme, radiation-rich environments remains a critical challenge in materials science. In this work, the effects of 60 MeV 35Cl ion irradiation on highly oriented pyrolytic graphite (HOPG) and multilayer reduced graphene oxide (ML-rGO) were investigated. The samples were exposed to fluences of 5.11 x 10^9 and 1.3 x 10^10 ions/cm^2 and characterized by X-ray diffraction (XRD), Raman spectroscopy, scanning electron microscopy (SEM), atomic force microscopy (AFM), and electrical transport measurements. The results show that the irradiation response is strongly influenced by the initial structural organization of the material. In HOPG, ion exposure leads to a progressive loss of crystalline order, evidenced by XRD peak broadening and an increase in the Raman ID/IG ratio, accompanied by a reduction in electrical transport performance. In contrast, ML-rGO exhibits distinct behavior at higher fluences, suggesting partial structural reorganization. The appearance of more defined graphitic features in XRD and Raman analyses, along with changes in surface morphology and electrical response, suggests the formation of more ordered sp2 domains. These findings indicate that irradiation effects vary with the initial degree of order, providing useful insights for selecting carbon-based materials for devices operating under severe radiation conditions.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 May 2026 20:05:21 GMT</pubDate>
-      <guid isPermaLink="false">2605.26311v1</guid>
-      <dc:creator>Marcilei A. Guazzelli</dc:creator>
-      <dc:creator>Saulo G. Alberton</dc:creator>
-      <dc:creator>Nemitala Added</dc:creator>
-      <dc:creator>Vitor A. P. Aguiar</dc:creator>
-      <dc:creator>Koiti Araki</dc:creator>
-      <dc:creator>Luis H. Avanzi</dc:creator>
-      <dc:creator>Francesco Cappuzzello</dc:creator>
-      <dc:creator>Manuela Cavallaro</dc:creator>
-      <dc:creator>Eliane F. Chinaglia</dc:creator>
-      <dc:creator>Marcia T. Escote</dc:creator>
-      <dc:creator>Fabio F. Ferreira</dc:creator>
-      <dc:creator>Mauro Giovannini</dc:creator>
-      <dc:creator>Renato F. Jardim</dc:creator>
-      <dc:creator>Sueli H. Masunaga</dc:creator>
-      <dc:creator>Nilberto H. Medina</dc:creator>
-      <dc:creator>Marcelo Nakamura</dc:creator>
-      <dc:creator>José R. B. Oliveira</dc:creator>
-      <dc:creator>Roberto B. B. Santos</dc:creator>
-      <dc:creator>Alexis C. Villas-Bôas</dc:creator>
-    </item>
-    <item>
       <title>A higher-harmonic observable for the chiral magnetic effect in heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2605.25487v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Han-Sheng Li, Yu-Shan Chang, Yi Yang, Fuqiang Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The chiral magnetic effect (CME) is a phenomenon in which electric charge is separated by a strong magnetic field from local domains of chirality imbalance in quantum chromodynamics. The CME-sensitive azimuthal correlator difference $Δγ$ between opposite- and same-sign charged hadron pairs is designed to detect charge separation along the magnetic field, on average perpendicular to the reaction plane. However, the search for the CME is hindered by large background contributions to $Δγ$ from particle correlations coupled with elliptic flow. In this work, we explore higher-harmonic components in differential $Δγ(φ_{\rm pair})$ as a function of the pair azimuthal angle. Such components could arise from event-by-event fluctuations of the magnetic fields throughout the collision zone, in both direction and magnitude. We show by using heavy-ion physics models that the hexadecapole component of $Δγ(φ_{\rm pair})$ is sensitive to the CME and insensitive to physics backgrounds. This could offer a unique observable for the CME that is robust against background contributions.&lt;/p&gt;</description>
@@ -3181,16 +3056,6 @@
       <pubDate>Tue, 05 May 2026 21:23:44 GMT</pubDate>
       <guid isPermaLink="false">2605.04311v1</guid>
       <dc:creator>A. G. Knospe</dc:creator>
-    </item>
-    <item>
-      <title>New Procedure for the Evaluation of Fission Product Yields: Application to the Spontaneous Fission of $^{252}$Cf</title>
-      <link>http://arxiv.org/abs/2605.02618v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. E. Lovell, T. Kawano, P. Talou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Over the last decade, there has been significant improvement in the understanding and modeling of the decay of fission fragments by both prompt and delayed emission. These model improvements open the door for performing consistent evaluations across multiple fission observables, providing not only mean values but also covariances between observables. One such model is the Hauser-Feshbach Fission Fragment Decay model implemented in $\texttt{BeoH}$, which uses distributions of initial conditions of fission fragments to perform a Hauser-Feshbach decay for prompt neutron and $γ$-ray emission and evaluated decay data to calculate cumulative fission product yields. This manuscript describes a new evaluation procedure for independent and cumulative fission product yields, including full correlations among the fission products. We use a Bayesian Kalman filter to fit both experimental cumulative fission product yields and those from the ENDF/B-VIII.0 evaluated library, producing mean values and covariances. In addition to comparing the fission products from these optimizations, we calculate prompt and delayed neutron and $γ$-ray multiplicities using the fitted parameters and compare to some available experimental data. We see reasonable agreement, even when these quantities are not included in the optimization.&lt;/p&gt;</description>
-      <pubDate>Mon, 04 May 2026 14:10:14 GMT</pubDate>
-      <guid isPermaLink="false">2605.02618v1</guid>
-      <dc:creator>A. E. Lovell</dc:creator>
-      <dc:creator>T. Kawano</dc:creator>
-      <dc:creator>P. Talou</dc:creator>
     </item>
   </channel>
 </rss>

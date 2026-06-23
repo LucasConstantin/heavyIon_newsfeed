@@ -5,20 +5,9 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:37:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Geometric and Statistical Thermo Field Dynamics in de Sitter Spacetime</title>
-      <link>http://arxiv.org/abs/2606.23484v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; D. S. Cabral, L. A. S. Evangelista, J. C. R. de Souza, A. F. Santos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of a massive scalar field non-minimally coupled to gravity in an expanding de Sitter universe are investigated. It is shown that a comoving observer identifies the Bunch--Davies state as the vacuum, whereas a static observer perceives the same state as a thermal bath at the Gibbons--Hawking temperature. Motivated by this observer dependence, a thermal formulation based on Thermo Field Dynamics is developed by combining the geometric doubling associated with the cosmological horizon with the statistical doubling induced by a intrinsec thermal bath. The resulting construction reveals that the doubling procedure is not merely a mathematical artifact, but rather a manifestation of the global causal structure of spacetime together with finite-temperature effects. The temporal evolution of the Bogoliubov angle is analyzed and the corresponding particle number densities are evaluated in both comoving and static frames. In the radiation limit, the comoving number density remains conserved, providing a thermodynamic evolution consistent with that of the Cosmic Microwave Background, whereas in the static frame finite-temperature effects sti\-mulate Parker particle creation. For massive and non-minimally coupled fields, the interplay between geometric and statistical temperatures gives rise to a characteristic thermal scale and a nontrivial dependence on the initial conditions. These results provide a unified framework for describing quantum fields in de Sitter spacetime in the presence of both apparent horizon-induced and intrinsec thermal effects.&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 15:29:12 GMT</pubDate>
-      <guid isPermaLink="false">2606.23484v1</guid>
-      <dc:creator>D. S. Cabral</dc:creator>
-      <dc:creator>L. A. S. Evangelista</dc:creator>
-      <dc:creator>J. C. R. de Souza</dc:creator>
-      <dc:creator>A. F. Santos</dc:creator>
-    </item>
     <item>
       <title>Ultra-Peripheral Collisions as a Nuclear-Structure Interferometer with Interpretable Multitask Deep Learning</title>
       <link>http://arxiv.org/abs/2606.23353v1</link>
@@ -46,16 +35,6 @@
       <dc:creator>Yu-Liang Yan</dc:creator>
       <dc:creator>Zhong-Qi Wang</dc:creator>
       <dc:creator>Ben-Hao Sa</dc:creator>
-    </item>
-    <item>
-      <title>Finite-volume scheme for first-order viscoresistive relativistic magnetohydrodynamics</title>
-      <link>http://arxiv.org/abs/2606.22691v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruben Lier, Jay Armas, Oliver Porth&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a numerical implementation of dissipative relativistic magnetohydrodynamics based on Bemfica-Disconzi-Noronha-Kovtun (BDNK) theory, in which first-order corrections render the equations causal without introducing additional dynamical variables. We show how these corrections can be incorporated in a finite-volume scheme describing the coupled dissipation of energy, momentum, and magnetic field, with the latter treated as a one-form charge. While a minimal set of BDNK terms can convert diffusive equations into telegrapher-type equations, we find that in the ultra-relativistic limit an additional correction is required for the system to behave in a stable and causal manner. With this set of equations, we develop an efficient method for primitive-variable recovery and validate the implementation through an analytical benchmark and various two-dimensional simulations.&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 22:08:06 GMT</pubDate>
-      <guid isPermaLink="false">2606.22691v1</guid>
-      <dc:creator>Ruben Lier</dc:creator>
-      <dc:creator>Jay Armas</dc:creator>
-      <dc:creator>Oliver Porth</dc:creator>
     </item>
     <item>
       <title>Event-by-event fluctuations of elliptic flow in ultrarelativistic O+O collisions</title>
@@ -111,18 +90,6 @@
       <dc:creator>ALICE Collaboration</dc:creator>
     </item>
     <item>
-      <title>Hydrodynamic tails in chaotic spin chains with quantum group symmetry</title>
-      <link>http://arxiv.org/abs/2606.20850v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Luca V. Delacretaz, Victor Gorbenko, Jiaozi Wang, Bernardo Zan, Aleksandr Zhabin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.stat-mech&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The interplay between symmetry and thermalization governs the late-time dynamics of local quantum and classical many-body systems at nonzero temperature. Recently, two parallel frontiers have emerged: the search for robust anomalous hydrodynamics -- such as superdiffusion -- in generic, non-integrable models, and the formal effort to generalize the fundamental concept of global symmetry. In this paper, we bridge these frontiers by demonstrating that quantum group symmetry provides a novel mechanism for anomalous hydrodynamics in chaotic systems. We study the dynamics of local operators carrying $U(1)$ charge in non-integrable lattice models that also have quantum group symmetry. One example is transverse spin in the XXZ model with integrability breaking deformations. While such excitations are expected to decay very quickly at high temperature because their charge forbids overlap with conventional hydrodynamic densities, we find that protection by the quantum group symmetry makes these modes long-lived, despite the absence of local quantum group charge density or current. Furthermore, the dynamics is superdiffusive across Hamiltonian, Floquet, and classical realizations, and exhibits unusual finite size effects at very late times. We also revisit transverse spin dynamics in the integrable XXZ model.&lt;/p&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 18:34:52 GMT</pubDate>
-      <guid isPermaLink="false">2606.20850v1</guid>
-      <dc:creator>Luca V. Delacretaz</dc:creator>
-      <dc:creator>Victor Gorbenko</dc:creator>
-      <dc:creator>Jiaozi Wang</dc:creator>
-      <dc:creator>Bernardo Zan</dc:creator>
-      <dc:creator>Aleksandr Zhabin</dc:creator>
-    </item>
-    <item>
       <title>Observation of centrality-dependent dijet transverse momentum imbalance in O+O and Ne+Ne collisions at $\sqrt{s_{NN}}$ = 5.36 TeV with the ATLAS detector</title>
       <link>http://arxiv.org/abs/2606.20463v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ATLAS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ATLAS experiment presents an observation of a centrality-dependent dijet transverse momentum imbalance in O+O and Ne+Ne collisions at a nucleon-nucleon center-of-mass energy of 5.36 TeV at the Large Hadron Collider. The measurement uses 8.0 nb$^{-1}$ of O+O and 1.0 nb$^{-1}$ of Ne+Ne data collected in 2025, together with 386 pb$^{-1}$ of \textit{pp} data at the same energy used as a reference. The dijet momentum balance is quantified using the ratio of the sub-leading jet transverse momentum to that of the leading jet, $x_J$. For dijets produced azimuthally back-to-back, the self-normalized $x_J$ distributions exhibit increasingly large deviations from the \textit{pp} reference as collisions become more central, corresponding to an increasing overlap of the colliding nuclei. The observed centrality dependence is consistent with medium-induced partonic energy loss in O+O and Ne+Ne collisions, demonstrating that such effects persist in collision systems considerably smaller than Pb+Pb and Xe+Xe. These results establish a new regime for investigating the path-length dependence of jet quenching and constrain the onset of quark-gluon plasma effects in small nuclear collision systems.&lt;/p&gt;</description>
@@ -175,27 +142,6 @@
       <dc:creator>ALICE Collaboration</dc:creator>
     </item>
     <item>
-      <title>Track and energy reconstruction algorithms for a time projection chamber with orthogonal fields</title>
-      <link>http://arxiv.org/abs/2606.18821v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Martin Vít Vavřík, Babar Ali, Hugo Natal da Luz, Olivier Rousselle, Tomáš Sýkora&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we describe the development of track- and energy-reconstruc-tion algorithms for atypical Time Projection Chambers (TPCs) that will be used at the Institute of Experimental and Applied Physics, Czech Technical University in Prague, to search for the anomalous internal pair creation reported by the ATOMKI group. These chambers operate with an inhomogeneous toroidal magnetic field oriented orthogonally to the electric field; we therefore refer to them as Orthogonal-Field TPCs (OFTPCs). Although this configuration distorts the drift of ionization electrons and complicates the resulting electron and positron trajectories, it also offers several practical advantages. We present the most effective of several tested approaches, which employs a simulated ionization-electron drift map for track reconstruction and a Runge--Kutta-based fit for energy reconstruction. Using simulations, we demonstrate that -- under idealized conditions, namely an ideal charge readout with no amplification and no noise and with known initial track positions and directions -- it is possible to achieve a fitted Gaussian width (sigma) better than 1\% in relative energy for both electrons and positrons, after applying corrections for systematic effects that depend on the track parameters.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 08:44:27 GMT</pubDate>
-      <guid isPermaLink="false">2606.18821v1</guid>
-      <dc:creator>Martin Vít Vavřík</dc:creator>
-      <dc:creator>Babar Ali</dc:creator>
-      <dc:creator>Hugo Natal da Luz</dc:creator>
-      <dc:creator>Olivier Rousselle</dc:creator>
-      <dc:creator>Tomáš Sýkora</dc:creator>
-    </item>
-    <item>
-      <title>Hydrodynamics of perfect fluids with anomalies from the fermionic path integral</title>
-      <link>http://arxiv.org/abs/2606.18779v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alexander G. Abanov, Andrea Cappelli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The path integral of the Dirac fermion with vector and axial gauge backgrounds is analyzed near the infrared limit in the presence of residual irrelevant current-current interaction. After integrating out fermions, a semiclassical low-energy effective action is obtained, written in terms of currents. Its expression is found to correspond to the hydrodynamic action previously proposed for perfect barotropic fluids with anomalies at zero temperature. This approach also leads to two further hydrodynamic actions to be associated, respectively, with the Weyl fermion, and the Dirac fermion having independent vector and axial currents. These actions feature four- and five-dimensional bulk-boundary terms, owing to anomaly inflow, which are identified as being the so-called transgression forms. These are generalizations of Chern--Simons forms that involve two gauge fields: the dynamical field and the background field. The path-integral argument provides a ``microscopic'' explanation for several ingredients of the action formulation of hydrodynamics that are necessary to incorporate anomalies. It also clarifies the infrared reduction required to pass from the effective field theory to a local hydrodynamic description. This reduction is implemented by considering restricted variations of the action, familiar from hydrodynamics, which at the same time lead to four-dimensional equations of motion from the five-dimensional transgression terms.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 07:41:47 GMT</pubDate>
-      <guid isPermaLink="false">2606.18779v1</guid>
-      <dc:creator>Alexander G. Abanov</dc:creator>
-      <dc:creator>Andrea Cappelli</dc:creator>
-    </item>
-    <item>
       <title>Universality and variability of the heavy r-process element abundance pattern from a nonequilibrium approach</title>
       <link>http://arxiv.org/abs/2606.18373v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; David Blaschke, Friedrich K. Röpke, Gerd Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A striking feature in the observed chemical composition of the majority of stars is the universality of the relative abundances of the heavy elements, although some outliers exist. We demonstrate that a nonequilibrium freeze-out approach provides a natural way of accounting for the typical abundance pattern and its variation. Here, we use a phenomenological method to characterize the coarse-grained distribution of heavy $r$-process elements in several astrophysical objects. The Lagrange parameters show only minor fluctuations when comparing different stars. Larger deviations are observed in stars with low metallicity. The variations in the Lagrange parameters for these stars are presented. The determination of the Lagrange parameters can be instrumental in identifying possible sources for the formation of heavy elements. In particular, density fluctuations are considered as a source for the production of heavy elements in the early Universe.&lt;/p&gt;</description>
@@ -212,16 +158,6 @@
       <pubDate>Tue, 16 Jun 2026 16:42:53 GMT</pubDate>
       <guid isPermaLink="false">2606.18143v1</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>The free boundary problem in general relativity</title>
-      <link>http://arxiv.org/abs/2606.18128v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kostas Tzanavaris, Latham Boyle, Neil Turok&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the action principle for space-times whose boundary is singular. We suggest that it is natural to treat the singularity as a {\it free} boundary, where the variation is unconstrained. Demanding that the action is stationary under such free variations then implies certain (on-shell) boundary conditions at the singularity. We derive these boundary conditions for the case of Einstein gravity coupled to matter and show that, when applied to an initial spacelike singularity, they exclude Kasner-like or BKL space-times, but admit conformally regular space-times (including FLRW models) sourced by fluids satisfying $0 \leq P &lt; ρ$. For standard hot big bang FLRW cosmologies, the admissible linear (scalar, vector, tensor) perturbations satisfy reflecting boundary conditions at the bang, in agreement with large-scale cosmological observations.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:25:59 GMT</pubDate>
-      <guid isPermaLink="false">2606.18128v1</guid>
-      <dc:creator>Kostas Tzanavaris</dc:creator>
-      <dc:creator>Latham Boyle</dc:creator>
-      <dc:creator>Neil Turok</dc:creator>
     </item>
     <item>
       <title>Probing jet evolution with charged energy correlators in small systems</title>
