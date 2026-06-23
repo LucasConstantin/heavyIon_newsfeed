@@ -2,20 +2,18 @@
     "config_tag": "Heavy-IonConfig",
     "source": "arxiv",
     "list_authors" : [],
-    "list_categories" : ["nucl-th", "nucl-ex", "nucl-hep"],
+    "list_categories" : ["nucl-th", "nucl-ex", "hep-th"],
     "list_keywords_exclude" : [],
     "list_keywords_include" : [
             ["quark-gluon","plasma"],
-            ["heavy-ion","collisions"], ["ultra-peripheral","collisions"], ["nuclear","collisions"]
-            ["hydrodynamics"],
-            ["relativistic","hydrodynamics"],
+            ["heavy-ion","collisions"], ["ultra-peripheral","collisions"], ["nuclear","collisions"],
+            ["viscous","hydrodynamics"],
             ["transport","model"], ["smash"], ["UrQMD"], ["hadron", "resonance", "gas"],
-            ["initial","conditions"],
             ["collective","flow"],
             ["hadronization"],["particlization"],["grad's"],["freeze-out"],
             ["color","glass","condensate"],
-            ["McDipper"], ["SMASH-IC"], ["IP-Glasma"],                   #IC models
-            ["vHLLE"], ["MUSIC"],                                        #hydro models
+            ["McDipper"], ["SMASH-IC"], ["IP-Glasma"],
+            ["vHLLE"], ["MUSIC"],
             ["Pb+Pb"], ["Pb-Pb"], ["Au+Au"], ["Au-Au"], ["p+p"], ["p-p"], ["O+O"], ["O-O"], ["Ne+Ne"], ["Ne-Ne"]
     ],
     "user_prompt": "FSOCuserPrompt.txt",
