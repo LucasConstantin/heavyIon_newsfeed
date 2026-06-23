@@ -2,7 +2,7 @@
     "config_tag": "Heavy-IonConfig",
     "source": "arxiv",
     "list_authors" : [],
-    "list_categories" : ["nucl-th", "nucl-ex"],
+    "list_categories" : ["nucl-th", "nucl-ex", "nucl-hep"],
     "list_keywords_exclude" : [],
     "list_keywords_include" : [
             ["quark-gluon","plasma"],
@@ -13,7 +13,10 @@
             ["initial","conditions"],
             ["collective","flow"],
             ["hadronization"],["particlization"],["grad's"],["freeze-out"],
-            ["color","glass","condensate"] 
+            ["color","glass","condensate"],
+            ["McDipper"], ["SMASH-IC"], ["IP-Glasma"],                   #IC models
+            ["vHLLE"], ["MUSIC"],                                        #hydro models
+            ["Pb+Pb"], ["Pb-Pb"], ["Au+Au"], ["Au-Au"], ["p+p"], ["p-p"], ["O+O"], ["O-O"], ["Ne+Ne"], ["Ne-Ne"]
     ],
     "user_prompt": "FSOCuserPrompt.txt",
     "system_prompt": "systemPrompt.txt"
