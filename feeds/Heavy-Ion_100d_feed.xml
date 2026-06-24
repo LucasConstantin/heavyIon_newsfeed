@@ -5,9 +5,53 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 12:37:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:20:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Mass-Dependent Non-Extensivity in Tsallis Blast-Wave Fits to Identified Hadron $p_T$ Spectra at RHIC and LHC</title>
+      <link>http://arxiv.org/abs/2606.24777v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; C. Y. Tsang, Z. Xu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We analyze identified-hadron transverse-momentum spectra from STAR Au+Au and ALICE Pb+Pb collisions over $\sqrt{s_{NN}} = 7.7$~GeV--$5.02$~TeV using an extended Tsallis Blast-Wave (TBW) framework, which includes a non-extensivity parameter $q$ to quantify the degree of incomplete thermal equilibrium. Conventionally, either a common value of $q$, or two separate $q$ values, one for mesons and one for baryons, are used to describe particle spectra in the TBW framework, with the latter being referred to as TBW4 in Ref.~\cite{Chen:2020zuw}. This work extends the TBW framework by studying the dependence of $q$ on different kinds of particles in detail. Fits allowing independent non-extensivity parameters $q$ for each species reveal a systematic correlation between $q$ and particle mass, except for quarkonia. Motivated by this trend, we introduce two new parameterizations: TBW5, which posits that $q$ depends linearly on particle mass, and TBW6, which allows the $q$ intercepts for mesons and baryons to differ. Across all energies and centralities considered in this study, TBW5 improves $χ^{2}/\mathrm{NDF}$ relative to the TBW4 fit in 71\% of the datasets, while TBW6 shows improvement in 94\% of the datasets. They perform especially well in central collisions. These results demonstrate a robust mass ordering in non-equilibrium behavior at kinetic freeze-out and provide a more accurate description of hadron spectra from RHIC to LHC energies.&lt;/p&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 16:35:54 GMT</pubDate>
+      <guid isPermaLink="false">2606.24777v1</guid>
+      <dc:creator>C. Y. Tsang</dc:creator>
+      <dc:creator>Z. Xu</dc:creator>
+    </item>
+    <item>
+      <title>Understanding the Intermittency Signal in RHIC-STAR Data through Modeling</title>
+      <link>http://arxiv.org/abs/2606.24436v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jin Wu, Zhiming Li, Mingmei Xu, Shuyun Yang, Ranran Guo, Yuanfang Wu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Intermittency analysis provides a promising probe of scale-invariant density fluctuations near the QCD critical point. The intermittency measurements reported in the STAR BES-I data call for a quantitative assessment of the signal strength and a clearer physical understanding of its collision-energy dependence. In this work, we perform such a study for the STAR measurements using an improved hybrid UrQMD+CMC model, in which critical-like fluctuations are embedded into a realistic non-critical background through event-level, particle-level, and combined replacement schemes. By directly comparing the second-order factorial moment $ΔF_{2}(M)$ between model calculations and experimental data on a point-by-point basis, we constrain the effective critical-like contribution compatible with the STAR measurements without relying on scaling exponents. The STAR data at $\sqrt{s_{\mathrm{NN}}}=7.7$--$27~\mathrm{GeV}$ used for model comparison can be consistently described only by small and nearly energy-independent effective critical-like fractions. These results indicate that the current BES-I intermittency signal is weak and exhibits little collision-energy dependence, thereby favoring only a limited critical-like contribution rather than a strong critical-point-induced enhancement localized near a specific collision energy.&lt;/p&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 11:14:13 GMT</pubDate>
+      <guid isPermaLink="false">2606.24436v1</guid>
+      <dc:creator>Jin Wu</dc:creator>
+      <dc:creator>Zhiming Li</dc:creator>
+      <dc:creator>Mingmei Xu</dc:creator>
+      <dc:creator>Shuyun Yang</dc:creator>
+      <dc:creator>Ranran Guo</dc:creator>
+      <dc:creator>Yuanfang Wu</dc:creator>
+    </item>
+    <item>
+      <title>Mapping jet substructure in heavy-ion collisions with track functions</title>
+      <link>http://arxiv.org/abs/2606.23971v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Yeonju Go, Daniel Pablos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the dynamics of high-energy QCD cascades in heavy-ion collisions, focusing on modifications to jets' substructure induced by the presence of a quark-gluon plasma (QGP). To this end, we study the properties and scale evolution of track functions, non-perturbative objects encoding the flow of energy from an initiating parton to all charged hadrons. In contrast to the more standard fragmentation functions, these objects have a non-linear renormalization group (RG) evolution, being sensitive to the entire jet fragmentation process. Using the JEWEL and HYBRID Monte-Carlo models of jet quenching, we find that in both frameworks the higher moments and cumulants of the track functions' distributions exhibit sizable deviations from their vacuum baselines, demonstrating that medium-induced energy loss imprints itself in the in-medium jet fragmentation pattern. We find that the quantitative magnitude of these modifications differs significantly between the two models. This identifies track functions as a class of observables capable of discriminating between competing microscopic pictures of jet-medium interactions. We further examined the (in-medium) RG flows for the leading moments, which remain in qualitative agreement with the in-vacuum evolution. This provides an avenue to directly test the RG flows inside a QGP, linking heavy-ion jet measurements to basic QFT understanding of partonic branching. Finally, we comment on the feasibility and challenges associated with extracting track functions from experimental data.&lt;/p&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 21:56:57 GMT</pubDate>
+      <guid isPermaLink="false">2606.23971v1</guid>
+      <dc:creator>João Barata</dc:creator>
+      <dc:creator>Yeonju Go</dc:creator>
+      <dc:creator>Daniel Pablos</dc:creator>
+    </item>
+    <item>
+      <title>Scalar diquarks in the QCD vacuum</title>
+      <link>http://arxiv.org/abs/2606.23772v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hosein Gholami, Ugo Mire, Fabian Rennecke, Bernd-Jochen Schaefer, Shi Yin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While QCD fundamentally only depends on the values of the strong coupling and the quark masses, it exhibits a rich nonperturbative structure at low energies, where composite fields emerge as the relevant degrees of freedom. In this work, we present a first-principles framework that captures the transition from fundamental QCD to its low-energy sector in vacuum. It builds on the dynamical hadronization technique within the functional renormalization group approach to two-flavor QCD. In this framework, the low-energy constants relevant for effective models, including effective masses and coupling strengths, naturally emerge from the underlying renormalization group flow without introducing free parameters beyond those of QCD itself. We investigate the dynamical emergence of the pion, the $σ$-meson and the scalar diquark in both imaginary and real time, and determine a set of QCD low-energy constants which can be used to fix the free parameters of models of dense quark matter with a two-flavor color superconducting phase. In particular, this includes previously unknown properties of the scalar diquark. Our results provide important microscopic input for constraining color superconducting phases, which are expected to play a key role in our understanding of dense neutron star matter.&lt;/p&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2606.23772v1</guid>
+      <dc:creator>Hosein Gholami</dc:creator>
+      <dc:creator>Ugo Mire</dc:creator>
+      <dc:creator>Fabian Rennecke</dc:creator>
+      <dc:creator>Bernd-Jochen Schaefer</dc:creator>
+      <dc:creator>Shi Yin</dc:creator>
+    </item>
     <item>
       <title>Ultra-Peripheral Collisions as a Nuclear-Structure Interferometer with Interpretable Multitask Deep Learning</title>
       <link>http://arxiv.org/abs/2606.23353v1</link>
@@ -218,16 +262,6 @@
       <pubDate>Tue, 16 Jun 2026 10:24:54 GMT</pubDate>
       <guid isPermaLink="false">2606.17760v1</guid>
       <dc:creator>ATLAS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Hamiltonian formalism for Bose excitations in a plasma with a non-Abelian interaction: plasmon bremsstrahlung</title>
-      <link>http://arxiv.org/abs/2606.17670v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu. A. Markov, M. A. Markova, N. Yu. Markov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The classical Hamiltonian wave theory describing plasmon bremsstrahlung radiation occurring upon collision of high-energy color-charged particles in a hot quark-gluon plasma is proposed. A generalization of the Lie-Poisson bracket to the case of a hot QCD medium, involving two independent components $a^{\phantom{\ast}(1)a}_{\bf k}$ and $a^{\phantom{\ast}(2)a}_{\bf k}$ of the bosonic normal field variable $a^{\phantom{\ast}a}_{\bf k}$ and two non-Abelian color charges $Q^{\,a}_1$ and $Q^{\,a}_2$ is suggested. The canonical transformations including both bosonic degrees of freedom of the soft collective excitations of the hot quark-gluon plasma and degrees of freedom of two hard test particles related to their color charges are written out. The most general structure of the canonical transformations in the form of integro-power series in the components $c^{\phantom{\ast}(α)a}_{\bf k},\,α= 1, 2$, of the new normal field variable $c^{\,a}_{\bf k}$ and in the new color charges ${\mathcal Q}^{a}_α$ up to the terms of sixth order is presented. To construct kinetic equations the multiple-time-scale perturbation theory is used. The notion of the plasmon number density ${\mathcal N}^{\,(α,α^{\prime})aa^{\prime}_{\phantom{1}}}_{\bf k}(τ)$, which is a nontrivial matrix both in the effective color space and in effective two-particle space, is introduced. The self-consistent system of four Boltzmann-type kinetic equations taking into account the time evolution of the averaged color charges of the hard particles is obtained. In the approximation of the fixed color charges of two interacting particles the exact solution of the system of kinetic equations defining the dynamics of the colorless $N^{(1)}_{\bf k}$, $W^{(1)}_{\bf k}$ and color $N^{(2)}_{\bf k}$, $W^{(2)}_{\bf k}$ components of the plasmon number density, is obtained.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 08:31:55 GMT</pubDate>
-      <guid isPermaLink="false">2606.17670v1</guid>
-      <dc:creator>Yu. A. Markov</dc:creator>
-      <dc:creator>M. A. Markova</dc:creator>
-      <dc:creator>N. Yu. Markov</dc:creator>
     </item>
     <item>
       <title>Quantum decoherence of hyperon spin correlations in QCD hadronization</title>
@@ -1232,19 +1266,6 @@
       <dc:creator>Wilke van der Schee</dc:creator>
     </item>
     <item>
-      <title>$D^0$-$D_s^+$ Elliptic-Flow Splitting under Event-Shape Engineering: A Probe of Sequential Charm Hadronization</title>
-      <link>http://arxiv.org/abs/2606.03552v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Jie Huang, Wei Dai, Jiaxing Zhao, Tan Luo, Ben-Wei Zhang, Enke Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent work has proposed sequential hadronization of open-charm hadrons in the quark-gluon plasma, wherein more tightly bound species such as $D_s^+$ form earlier near $1.2 T_c$ and $D^0$ forms later at $T_c$. That work showed that this mechanism naturally reverses the sign of the $D^0-D_s^+$ elliptic-flow splitting relative to the conventional simultaneous baseline. In this work, we demonstrate that event-shape engineering (ESE) provides a sharper discrimination between the two pictures than inclusive measurements alone. By selecting large-$q_2$ and small-$q_2$ events in 0--10\% and 30--50\% centrality classes in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$ TeV, we show that the geometry-driven enhancement of charm-meson $v_2$ can be separated from the hadronization-time response: the positive $Δv_2(D^0-D_s^+)$ in the sequential scenario grows systematically with $q_2$, while the corresponding response slope $χ$ reveals a species-dependent hierarchy $χ(D^0) &gt; χ(D_s^+)$ that is robust against the overall flow normalization and absent in the simultaneous baseline. In the simultaneous case, the splitting is near zero or negative and does not follow the same geometry scaling. Notably, the semi-central 30--50\% class emerges as the optimal window, because the non-monotonic interplay between QGP lifetime and initial eccentricity maximizes the late-stage flow conversion. The $q_2$ ratios of the $D_s^+/D^0$ yield ratio remain close to unity, confirming that the splitting is a dynamical flow effect rather than a chemical yield modification. These results establish $Δv_2(D^0-D_s^+)$ and the response slope $χ$ under ESE as complementary differential probes of the space-time structure of charm hadronization near the QCD transition temperature.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 12:14:11 GMT</pubDate>
-      <guid isPermaLink="false">2606.03552v1</guid>
-      <dc:creator>Yu-Jie Huang</dc:creator>
-      <dc:creator>Wei Dai</dc:creator>
-      <dc:creator>Jiaxing Zhao</dc:creator>
-      <dc:creator>Tan Luo</dc:creator>
-      <dc:creator>Ben-Wei Zhang</dc:creator>
-      <dc:creator>Enke Wang</dc:creator>
-    </item>
-    <item>
       <title>Non-monotonicity of $p_T$ correlations from meson-baryon mixing</title>
       <link>http://arxiv.org/abs/2606.03294v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tom Reichert, Jan Steinheimer, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The STAR experiment has recently reported data on the $\sqrt{\langleΔp_{T,i}Δp_{T,j}\rangle}/\langle\langle p_T\rangle\rangle$ charged hadron correlation in Au+Au reactions from $\sqrt{s_{NN}}=3-200$ GeV. The beam energy dependence of this quantity is non-monotonic, showing a pronounced minimum at $\sqrt{s_{NN}} \approx 7.7$ GeV, while being essentially flat at lower and higher energies. It has been proposed that such a non-monotonicity would be consistent with increased momentum correlations due to a critical point of QCD. In the present work it is shown, using a simplified model, that the observed structure can be consistently explained by the transition from a baryon dominated system to a meson dominated system and is therefore not a good observable for the critical point of QCD.&lt;/p&gt;</description>
@@ -1253,24 +1274,6 @@
       <dc:creator>Tom Reichert</dc:creator>
       <dc:creator>Jan Steinheimer</dc:creator>
       <dc:creator>Marcus Bleicher</dc:creator>
-    </item>
-    <item>
-      <title>Chemical Equilibration and Thermalization of Quark-Gluon Plasma in a Parton Cascade Model with 2-to-3 Quark Interactions</title>
-      <link>http://arxiv.org/abs/2606.03058v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cendikia Abdi, Chiho Nonaka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the thermalization, chemical equilibration, and hydrodynamization behavior of the far-from-equilibrium, gluon-dominated quark gluon plasma (QGP) produced in Au+Au collisions at $\sqrt{s_{\text{NN}}} = 200$ GeV using the hadronic transport model SMASH extended to simulate partonic interactions. The initial conditions are prepared using the mini-jet model with nuclear parton distribution functions. We first validate the model in a box simulation with the periodic boundary condition to establish indicators for thermalization, chemical equilibration, and hydrodynamization by analyzing energy spectrum and momentum anisotropy. We observe that the additional inelastic channels accelerate thermalization and chemical equilibration compared to the gluon-only scheme. Applying the same framework to the expanding medium, we find that the energy spectrum converges toward the Boltzmann distribution at $t \sim 0.2$ fm while momentum isotropization is achieved at $t \sim 2$ fm, but chemical equilibration is not clearly established even after 5 fm. The Knudsen number rises above unity after $\sim 4$ fm, indicating a breakdown of the hydrodynamic regime at later times consistent with other kinetic theory approaches.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 02:45:43 GMT</pubDate>
-      <guid isPermaLink="false">2606.03058v1</guid>
-      <dc:creator>Cendikia Abdi</dc:creator>
-      <dc:creator>Chiho Nonaka</dc:creator>
-    </item>
-    <item>
-      <title>Magnetized bottom-up thermalization in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.02723v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ritesh Ghosh, Igor A. Shovkovy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate how a strong magnetic field generated in noncentral heavy-ion collisions may modify the bottom-up equilibration scenario. In the conventional weak-coupling picture, the earliest stages of the evolution are dominated by overoccupied gluons, while quark production is parametrically delayed. In a background magnetic field, however, additional inelastic channels become kinematically allowed or enhanced, most notably gluon decay into quark-antiquark pairs, $g\to q+\bar q$. Using parametric estimates, we show that for sufficiently strong fields, with $|eB|$ approaching the saturation scale squared, $Q_s^2$, magnetic-field-induced quark production can become important during the earliest stages of bottom-up evolution. This mechanism can populate the hard quark sector, modify the chemical composition of the pre-equilibrium matter, and provide an additional pathway toward chemical equilibration. We also discuss possible back-reaction effects, including quark-antiquark annihilation, depletion of the hard-gluon sector, and the potential feedback of early quark production on the electromagnetic conductivity of the medium. This exploratory study of a magnetically assisted bottom-up scenario provides a natural extension of the standard framework, with qualitative predictions that depend sensitively on the lifetime and spacetime profile of the magnetic field.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 18:00:08 GMT</pubDate>
-      <guid isPermaLink="false">2606.02723v1</guid>
-      <dc:creator>Ritesh Ghosh</dc:creator>
-      <dc:creator>Igor A. Shovkovy</dc:creator>
     </item>
     <item>
       <title>Quantum Symmetry Restoration and Emergent Effective Deformation in Relativistic Heavy-Ion Collisions</title>
