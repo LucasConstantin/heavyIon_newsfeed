@@ -5,9 +5,18 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:45:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Holographic correlation functions of fermions in anisotropic plasma</title>
+      <link>http://arxiv.org/abs/2606.25613v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Si-wen Li, Yan-qing Zhao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;By using the gauge-gravity duality, we study the holographic fermionic correlation functions in strongly coupled anisotropic plasmas. Starting from the isotropic black AdS background, we revisit the prescription for computing the retarded Green\textquoteright s function of a probe Dirac fermion and then generalize the formulas with respect to the anisotropic geometries. The method is applied to three distinct holographic models that capture different physical origins of anisotropy: axion-induced, magnetic-field-induced and unquenched-flavor-induced. Numerical results for the holographic correlation functions reveal direction-dependent corrections, negative dips in the imaginary part signalling vacuum instabilities (axion and magnetic field), Landau levels in the fermionic dispersion (magnetic field), and a momentum-independent pseudogap indicating an incoherent metallic phase (flavors). Our results complement and go beyond the hard thermal loop approximation, providing non-perturbative insights into fermionic excitations in strongly coupled anisotropic plasmas relevant for heavy-ion collisions and certain condensed matter systems.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 09:22:02 GMT</pubDate>
+      <guid isPermaLink="false">2606.25613v1</guid>
+      <dc:creator>Si-wen Li</dc:creator>
+      <dc:creator>Yan-qing Zhao</dc:creator>
+    </item>
     <item>
       <title>Mass-Dependent Non-Extensivity in Tsallis Blast-Wave Fits to Identified Hadron $p_T$ Spectra at RHIC and LHC</title>
       <link>http://arxiv.org/abs/2606.24777v1</link>
@@ -1242,18 +1251,6 @@
       <dc:creator>Xing Wu</dc:creator>
       <dc:creator>Guannan Xie</dc:creator>
       <dc:creator>Yapeng Zhang</dc:creator>
-    </item>
-    <item>
-      <title>TMD factorization in diffractive heavy-quark production in photon-nucleus collisions</title>
-      <link>http://arxiv.org/abs/2606.04169v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Caucal, Patricia Gimeno-Estivill, Edmond Iancu, Tuomas Lappi, Farid Salazar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Using the Colour Glass Condensate effective theory, we study the diffractive production of a massive quark-antiquark pair accompanied by a gluon in coherent photon-nucleus collisions at high energy. This partonic configuration provides the leading twist contribution to the cross section in the correlation limit where two of the partons are hard and nearly back to back in the transverse plane, while the third one is semi-hard, with a transverse momentum of the order of the nuclear saturation momentum. We consider two scenarios: (i) a hard quark-antiquark pair together with a semi-hard gluon; in this case we demonstrate transverse momentum dependent (TMD) factorization with a mass-dependent ''hard'' factor and the standard expression for the gluon diffractive TMD, and (ii) a hard antiquark-gluon pair and a semi-hard quark; in this case we find TMD factorization with a mass-independent ''hard'' factor and a mass-dependent quark diffractive TMD, which represents a new result. We show that increasing the quark mass reduces (or even washes out) the effects of gluon saturation on the quark diffractive TMD. In particular, it leads to the suppression of the Cronin peak that we observe in the massless limit. Our results are the basis for future phenomenological studies of quarkonium and open charm production in the saturation regime in ultraperipheral collisions at the Large Hadron Collider, and in deep inelastic scattering at the Electron-Ion Collider.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 19:33:41 GMT</pubDate>
-      <guid isPermaLink="false">2606.04169v1</guid>
-      <dc:creator>Paul Caucal</dc:creator>
-      <dc:creator>Patricia Gimeno-Estivill</dc:creator>
-      <dc:creator>Edmond Iancu</dc:creator>
-      <dc:creator>Tuomas Lappi</dc:creator>
-      <dc:creator>Farid Salazar</dc:creator>
     </item>
     <item>
       <title>Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</title>
