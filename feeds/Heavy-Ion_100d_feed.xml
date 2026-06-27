@@ -5,9 +5,84 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:43:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Rapidity-even directed flow splitting of protons and antiprotons as a probe of baryon stopping in relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2606.27156v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tribhuban Parida, Sandeep Chatterjee&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compare the rapidity-even directed flow $v_1^{\rm even}$ in Au+Au collisions at Beam Energy Scan (BES) energies for baryons and anti-baryons within a (3+1)-dimensional viscous relativistic hydrodynamics coupled to hadronic transport framework. The double-junction baryon stopping picture motivates a rapidity-even component in the baryon deposition in the initial state. We demonstrate that the split in the $v_1^{\rm even}$ of protons and anti-protons is sensitive to the rapidity extension of the baryon deposition that we associate with the double junction baryon stopping. Particularly, we find that the mid-rapidity curvature $\frac{d^2 Δv_1^{\rm even} (p-\bar{p})}{dy^2}\vert_{y=0}$ is a robust discriminator of the initial state baryon rapidity profiles. A simultaneous measurement of $Δv_1^{\rm even}$ and its curvature at mid-rapidity could constrain both the baryon diffusion strength and the baryon stopping profile, providing access to the physics of baryon stopping in relativistic heavy ion collisions.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 15:26:15 GMT</pubDate>
+      <guid isPermaLink="false">2606.27156v1</guid>
+      <dc:creator>Tribhuban Parida</dc:creator>
+      <dc:creator>Sandeep Chatterjee</dc:creator>
+    </item>
+    <item>
+      <title>Studying the QCD Matter produced in Heavy-Ion Collisions using the MUSES Calculation Engine</title>
+      <link>http://arxiv.org/abs/2606.26326v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Johannes Jahan, Kevin P. Pala, Yumu Yang, Isabella Danhoni, Prachi Garella, Jonathan Gonzales, Joaquin Grefa, Mauricio Hippert, Surkhab Kaur Virk, Micheal Kahangirwe, Musa R. Khan, Feyisola Nana, Mateus Reinke Pelicer, Tulio E. Restrepo, Hitansh Shah, T. Andrew Manning, Mark Alford, Dekrayat Almaalol, Ahmed Abuali, Alexander Clevinger, Nikolas Cruz-Camacho, Carlos Conde-Ocazionez, Francesco Di Clemente, David Friedenberg, Hosein Gholami, Marco Hofmann, Jeremy W. Holt, Isaac Legred, Jamie M. Karthein, Toru Kojo, Konstantin Maslov, Paolo Parotto, Leonardo Pena, Grégoire Pihan, Christopher Plumberg, Roman Poberezhniuk, Romulo Rougemont, Jordi Salinas San Martín, Rajesh Kumar, Volodymyr Vovchenko, Veronica Dexheimer, Jorge Noronha, Jacquelyn Noronha-Hostler, Claudia Ratti, Nicolás Yunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The equation of state of hot and dense matter is essential for describing heavy-ion collisions at all collision energies. Here, we explore the capabilities of the latest version of the MUSES Calculation Engine, $\textit{Calliope}$, focusing on software modules and workflows that compute the equation of state and observable properties of the matter produced in heavy-ion collisions. These include several equations of state, ranging from first-principles lattice QCD to phenomenological approaches, with or without a critical point, and with phase-space dimensionality ranging from two dimensions defined by temperature $T$ and baryon chemical potential $μ_B$, to four dimensions after the addition of strangeness and electric-charge chemical potentials $μ_S$ and $μ_Q$. We also discuss modules that provide additional thermodynamic quantities and observables relevant for heavy-ion modeling, including elements of the pressure Hessian matrix and transport coefficients. Workflow examples are constructed that merge two equations of state thermodynamically consistently to extend phase-diagram coverage, and feed the results into an equation of state inverter to produce inputs suitable for hydrodynamic simulations. Finally, we apply this framework to perform a relativistic viscous hydrodynamic simulation with equations of state with an extended $T$ and $μ_B$ coverage and a movable critical point, including effects from transport coefficients that phenomenologically encode critical scaling, at collision energies $\sqrt{s_{NN}}=7.7, 19.6$, and $39$ GeV.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 19:12:40 GMT</pubDate>
+      <guid isPermaLink="false">2606.26326v1</guid>
+      <dc:creator>Johannes Jahan</dc:creator>
+      <dc:creator>Kevin P. Pala</dc:creator>
+      <dc:creator>Yumu Yang</dc:creator>
+      <dc:creator>Isabella Danhoni</dc:creator>
+      <dc:creator>Prachi Garella</dc:creator>
+      <dc:creator>Jonathan Gonzales</dc:creator>
+      <dc:creator>Joaquin Grefa</dc:creator>
+      <dc:creator>Mauricio Hippert</dc:creator>
+      <dc:creator>Surkhab Kaur Virk</dc:creator>
+      <dc:creator>Micheal Kahangirwe</dc:creator>
+      <dc:creator>Musa R. Khan</dc:creator>
+      <dc:creator>Feyisola Nana</dc:creator>
+      <dc:creator>Mateus Reinke Pelicer</dc:creator>
+      <dc:creator>Tulio E. Restrepo</dc:creator>
+      <dc:creator>Hitansh Shah</dc:creator>
+      <dc:creator>T. Andrew Manning</dc:creator>
+      <dc:creator>Mark Alford</dc:creator>
+      <dc:creator>Dekrayat Almaalol</dc:creator>
+      <dc:creator>Ahmed Abuali</dc:creator>
+      <dc:creator>Alexander Clevinger</dc:creator>
+      <dc:creator>Nikolas Cruz-Camacho</dc:creator>
+      <dc:creator>Carlos Conde-Ocazionez</dc:creator>
+      <dc:creator>Francesco Di Clemente</dc:creator>
+      <dc:creator>David Friedenberg</dc:creator>
+      <dc:creator>Hosein Gholami</dc:creator>
+      <dc:creator>Marco Hofmann</dc:creator>
+      <dc:creator>Jeremy W. Holt</dc:creator>
+      <dc:creator>Isaac Legred</dc:creator>
+      <dc:creator>Jamie M. Karthein</dc:creator>
+      <dc:creator>Toru Kojo</dc:creator>
+      <dc:creator>Konstantin Maslov</dc:creator>
+      <dc:creator>Paolo Parotto</dc:creator>
+      <dc:creator>Leonardo Pena</dc:creator>
+      <dc:creator>Grégoire Pihan</dc:creator>
+      <dc:creator>Christopher Plumberg</dc:creator>
+      <dc:creator>Roman Poberezhniuk</dc:creator>
+      <dc:creator>Romulo Rougemont</dc:creator>
+      <dc:creator>Jordi Salinas San Martín</dc:creator>
+      <dc:creator>Rajesh Kumar</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+      <dc:creator>Veronica Dexheimer</dc:creator>
+      <dc:creator>Jorge Noronha</dc:creator>
+      <dc:creator>Jacquelyn Noronha-Hostler</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Nicolás Yunes</dc:creator>
+    </item>
+    <item>
+      <title>Kinetic freeze-out and diffusion dynamics in small-system asymmetric collisions at sqrt(sNN)=200 GeV in light of a generalized Fokker-Planck distribution</title>
+      <link>http://arxiv.org/abs/2606.26301v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; M. Waqas, Wolfgang Bietenholz, Khusniddin K. Olimov, Muhammad Ajaz, Jihane Ben Slimane, Laila A. Al-Essa, A. Haj Ismail&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A generalized Fokker-Planck solution is used to examine the transverse momentum ($p_{T}$) spectra of neutral pions generated in small-system asymmetric collisions, $p$-Al, $p$-Au, $d$-Au, and $^3$He-Au, at $\sqrt{s_{NN}}=200$ GeV. This framework provides a cohesive explanation of particle production over a broad range of transverse momenta. We extract the energy scale governing the transition between a thermal and a hard regime, the effective temperature ($T$), and the exponents determining the high-momentum falloff from fits to PHENIX data. $T$ increases systematically with the collision centrality and colliding system size, ranging from about 0.33 GeV in peripheral $p$-Al collisions to 0.45 GeV in central $^3$He-Au collisions. This increase is correlated with the average number of participant nucleons, $&lt;N_{part}&gt;$, and the charged-particle pseudorapidity density, $&lt;dN_{ch}/dη&gt;$, indicating that larger and more central collisions create a denser, more strongly interacting medium that freezes out at a higher temperature. The acquired transition scale and power-law exponents follow consistent patterns across systems and centralities, revealing details about the sharpness of the transition from thermal to hard processes, and the relative strength of momentum-space diffusion versus drag. Interestingly, when the gold target dominates the collision geometry in the largest system ($^3$He-Au), the transition scale becomes nearly independent of centrality, signifying saturation of the diffusion process. Our findings demonstrate that the generalized Fokker-Planck solution is a sensitive probe of transport properties and non-extensive dynamics in the quark-gluon plasma produced even in small-system relativistic collisions, and it consistently describes pion spectra in this set of collisions.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 18:45:57 GMT</pubDate>
+      <guid isPermaLink="false">2606.26301v1</guid>
+      <dc:creator>M. Waqas</dc:creator>
+      <dc:creator>Wolfgang Bietenholz</dc:creator>
+      <dc:creator>Khusniddin K. Olimov</dc:creator>
+      <dc:creator>Muhammad Ajaz</dc:creator>
+      <dc:creator>Jihane Ben Slimane</dc:creator>
+      <dc:creator>Laila A. Al-Essa</dc:creator>
+      <dc:creator>A. Haj Ismail</dc:creator>
+    </item>
     <item>
       <title>Holographic correlation functions of fermions in anisotropic plasma</title>
       <link>http://arxiv.org/abs/2606.25613v1</link>
@@ -3020,42 +3095,6 @@
       <dc:creator>F. Gulminelli</dc:creator>
       <dc:creator>C. Ciampi</dc:creator>
       <dc:creator>D. Gruyer</dc:creator>
-    </item>
-    <item>
-      <title>Charmonium production in low energy nuclear collisions at SPS and FAIR: achievements $\&amp;$ prospects</title>
-      <link>http://arxiv.org/abs/2605.05792v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Partha Pratim Bhaduri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this article, we review the status of the charmonium production in low energy fixed target proton-nucleus (p-A) and nucleus-nucleus (A-A) collisions as measured by different experimental collaborations at CERN-SPS, Fermilab and HERA accelerator facilities. The interplay of different cold and hot medium effects influencing the production of these $c\bar{c}$ bound states at low collision energies is discussed in detail. Prospect for upcoming charmonium measurements close to kinematic production threshold, in the CBM experiment at FAIR SIS100 and NA60+ experiment at CERN-SPS facilities are also investigated.&lt;/p&gt;</description>
-      <pubDate>Thu, 07 May 2026 07:29:07 GMT</pubDate>
-      <guid isPermaLink="false">2605.05792v1</guid>
-      <dc:creator>Partha Pratim Bhaduri</dc:creator>
-    </item>
-    <item>
-      <title>Machine learning inference of fission yields from gamma spectroscopy for very low-yield nuclear test verification</title>
-      <link>http://arxiv.org/abs/2605.04674v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Julien de Troullioud de Lanversin, Jiehui Li, Christopher Fichtlscherer, Dongdong She, Moritz Kütt&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Very low-yield nuclear tests pose a major verification challenge for the zero-yield standard of the Comprehensive Nuclear-Test-Ban Treaty (CTBT). The zero-yield standard prohibits any explosive experiment that produces a self-sustaining fission chain reaction while allowing subcritical experiments. Previous research shows that on-site gamma spectroscopy of post-test debris provides useful insight into the criticality level, although it remains heavily dependent on knowledge of certain experimental settings. Here, we adopt a new approach whereby machine learning models are trained on simulated gamma spectroscopy data to infer the fission yield of a nuclear very low-yield test. Using high-fidelity 3D Monte Carlo particle transport simulations, we generated gamma spectra measured outside containment vessels after very low-yield tests for 66 million representative scenarios. From these spectra, we extracted 82 fission-product-to-plutonium-239 peak ratios, then trained ML models for two tasks: (1) binary classification of whether a test exceeded a chosen yield threshold, and (2) regression to estimate the actual yield. We find that XGBoost performs best on the classification task across the most policy-relevant yield range. The classifier achieves high accuracy even for yields near the chosen threshold (e.g., &gt;95% for yields +-100 g around a threshold at 1 kg TNT), and the regressor presents a mean absolute relative error of 12.4% for measurements taken a month to a year after the test. These results demonstrate that using machine learning to infer the yield of a past very low-yield nuclear test from gamma spectroscopy data is feasible and accurate. This approach can support efforts to establish a robust verification protocol for the zero-yield standard and could pave the way for a future yield threshold-based verification regime that is both technically feasible and politically viable.&lt;/p&gt;</description>
-      <pubDate>Wed, 06 May 2026 09:24:20 GMT</pubDate>
-      <guid isPermaLink="false">2605.04674v1</guid>
-      <dc:creator>Julien de Troullioud de Lanversin</dc:creator>
-      <dc:creator>Jiehui Li</dc:creator>
-      <dc:creator>Christopher Fichtlscherer</dc:creator>
-      <dc:creator>Dongdong She</dc:creator>
-      <dc:creator>Moritz Kütt</dc:creator>
-    </item>
-    <item>
-      <title>Differential measurements of $γγ\toττ$ and constraints on $τ$-lepton electromagnetic moments in Pb+Pb collisions at $\sqrt{s_{_\text{NN}}} = 5.02$ TeV with ATLAS</title>
-      <link>http://arxiv.org/abs/2605.04584v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The ATLAS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This paper presents the first differential fiducial measurements of $γγ\toττ$ using 1.93 nb$^{-1}$ of Pb+Pb data at $\sqrt{s_{_\text{NN}}} = 5.02$ TeV recorded by the ATLAS detector. Events in which one of the $τ$-leptons decays into a muon and two neutrinos $τ\toν_τ\barν_μμ$ are selected and are categorized into three regions by the presence of an electron or either one or three charged-particle track(s) from the second $τ$-lepton decay. The measurement is performed in events where both Pb ions remain intact and no neutrons are emitted. Differential cross-sections are measured for seven variables in three fiducial regions at particle level. The measurements are compared to theory predictions with different photon flux models and spin correlation effects. For the fiducial region with one muon and one electron in the final state, comparisons to next-to-leading-order electroweak predictions are also made. The transverse momentum ($p_\text{T}$) of the decay muon, the $p_\text{T}$ of the visible decay particles of the other $τ$-lepton, the total $p_\text{T}$, invariant mass, and pseudorapidity of the visible particles from the di-$τ$ system, and the rapidity and acoplanarity of the visible decay particles from either $τ$-lepton are measured. A maximum-likelihood fit to the muon transverse-momentum distributions in the three regions before unfolding is performed to extract the $τ$-lepton anomalous magnetic moment $a_τ$ and electric dipole moment $d_τ$, the latter for the first time in heavy ion collisions. The observed 95% confidence level intervals are $-0.057 &lt;a_τ&lt; 0.035$ and $|d_τ|&lt; 2.7 \times 10^{-16}~e\text{cm}$.}&lt;/p&gt;</description>
-      <pubDate>Wed, 06 May 2026 07:33:13 GMT</pubDate>
-      <guid isPermaLink="false">2605.04584v1</guid>
-      <dc:creator>The ATLAS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Recent measurements of strangeness and heavy flavor at STAR</title>
-      <link>http://arxiv.org/abs/2605.04311v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. G. Knospe&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The STAR Collaboration has collected collision data at a wide variety of center-of-mass energies and with several different species of colliding ions ($p$+$p$, Au+Au, Ru+Ru, Zr+Zr, and O+O). This data set enables a many studies of the properties of the hot and dense matter produced in ion-ion collisions, using a variety of probes. In these proceedings, recent STAR measurements of strangeness and heavy flavor production in ion-ion collisions are discussed.&lt;/p&gt;</description>
-      <pubDate>Tue, 05 May 2026 21:23:44 GMT</pubDate>
-      <guid isPermaLink="false">2605.04311v1</guid>
-      <dc:creator>A. G. Knospe</dc:creator>
     </item>
   </channel>
 </rss>

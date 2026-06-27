@@ -5,9 +5,84 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:43:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Rapidity-even directed flow splitting of protons and antiprotons as a probe of baryon stopping in relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2606.27156v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tribhuban Parida, Sandeep Chatterjee&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compare the rapidity-even directed flow $v_1^{\rm even}$ in Au+Au collisions at Beam Energy Scan (BES) energies for baryons and anti-baryons within a (3+1)-dimensional viscous relativistic hydrodynamics coupled to hadronic transport framework. The double-junction baryon stopping picture motivates a rapidity-even component in the baryon deposition in the initial state. We demonstrate that the split in the $v_1^{\rm even}$ of protons and anti-protons is sensitive to the rapidity extension of the baryon deposition that we associate with the double junction baryon stopping. Particularly, we find that the mid-rapidity curvature $\frac{d^2 Δv_1^{\rm even} (p-\bar{p})}{dy^2}\vert_{y=0}$ is a robust discriminator of the initial state baryon rapidity profiles. A simultaneous measurement of $Δv_1^{\rm even}$ and its curvature at mid-rapidity could constrain both the baryon diffusion strength and the baryon stopping profile, providing access to the physics of baryon stopping in relativistic heavy ion collisions.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 15:26:15 GMT</pubDate>
+      <guid isPermaLink="false">2606.27156v1</guid>
+      <dc:creator>Tribhuban Parida</dc:creator>
+      <dc:creator>Sandeep Chatterjee</dc:creator>
+    </item>
+    <item>
+      <title>Studying the QCD Matter produced in Heavy-Ion Collisions using the MUSES Calculation Engine</title>
+      <link>http://arxiv.org/abs/2606.26326v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Johannes Jahan, Kevin P. Pala, Yumu Yang, Isabella Danhoni, Prachi Garella, Jonathan Gonzales, Joaquin Grefa, Mauricio Hippert, Surkhab Kaur Virk, Micheal Kahangirwe, Musa R. Khan, Feyisola Nana, Mateus Reinke Pelicer, Tulio E. Restrepo, Hitansh Shah, T. Andrew Manning, Mark Alford, Dekrayat Almaalol, Ahmed Abuali, Alexander Clevinger, Nikolas Cruz-Camacho, Carlos Conde-Ocazionez, Francesco Di Clemente, David Friedenberg, Hosein Gholami, Marco Hofmann, Jeremy W. Holt, Isaac Legred, Jamie M. Karthein, Toru Kojo, Konstantin Maslov, Paolo Parotto, Leonardo Pena, Grégoire Pihan, Christopher Plumberg, Roman Poberezhniuk, Romulo Rougemont, Jordi Salinas San Martín, Rajesh Kumar, Volodymyr Vovchenko, Veronica Dexheimer, Jorge Noronha, Jacquelyn Noronha-Hostler, Claudia Ratti, Nicolás Yunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The equation of state of hot and dense matter is essential for describing heavy-ion collisions at all collision energies. Here, we explore the capabilities of the latest version of the MUSES Calculation Engine, $\textit{Calliope}$, focusing on software modules and workflows that compute the equation of state and observable properties of the matter produced in heavy-ion collisions. These include several equations of state, ranging from first-principles lattice QCD to phenomenological approaches, with or without a critical point, and with phase-space dimensionality ranging from two dimensions defined by temperature $T$ and baryon chemical potential $μ_B$, to four dimensions after the addition of strangeness and electric-charge chemical potentials $μ_S$ and $μ_Q$. We also discuss modules that provide additional thermodynamic quantities and observables relevant for heavy-ion modeling, including elements of the pressure Hessian matrix and transport coefficients. Workflow examples are constructed that merge two equations of state thermodynamically consistently to extend phase-diagram coverage, and feed the results into an equation of state inverter to produce inputs suitable for hydrodynamic simulations. Finally, we apply this framework to perform a relativistic viscous hydrodynamic simulation with equations of state with an extended $T$ and $μ_B$ coverage and a movable critical point, including effects from transport coefficients that phenomenologically encode critical scaling, at collision energies $\sqrt{s_{NN}}=7.7, 19.6$, and $39$ GeV.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 19:12:40 GMT</pubDate>
+      <guid isPermaLink="false">2606.26326v1</guid>
+      <dc:creator>Johannes Jahan</dc:creator>
+      <dc:creator>Kevin P. Pala</dc:creator>
+      <dc:creator>Yumu Yang</dc:creator>
+      <dc:creator>Isabella Danhoni</dc:creator>
+      <dc:creator>Prachi Garella</dc:creator>
+      <dc:creator>Jonathan Gonzales</dc:creator>
+      <dc:creator>Joaquin Grefa</dc:creator>
+      <dc:creator>Mauricio Hippert</dc:creator>
+      <dc:creator>Surkhab Kaur Virk</dc:creator>
+      <dc:creator>Micheal Kahangirwe</dc:creator>
+      <dc:creator>Musa R. Khan</dc:creator>
+      <dc:creator>Feyisola Nana</dc:creator>
+      <dc:creator>Mateus Reinke Pelicer</dc:creator>
+      <dc:creator>Tulio E. Restrepo</dc:creator>
+      <dc:creator>Hitansh Shah</dc:creator>
+      <dc:creator>T. Andrew Manning</dc:creator>
+      <dc:creator>Mark Alford</dc:creator>
+      <dc:creator>Dekrayat Almaalol</dc:creator>
+      <dc:creator>Ahmed Abuali</dc:creator>
+      <dc:creator>Alexander Clevinger</dc:creator>
+      <dc:creator>Nikolas Cruz-Camacho</dc:creator>
+      <dc:creator>Carlos Conde-Ocazionez</dc:creator>
+      <dc:creator>Francesco Di Clemente</dc:creator>
+      <dc:creator>David Friedenberg</dc:creator>
+      <dc:creator>Hosein Gholami</dc:creator>
+      <dc:creator>Marco Hofmann</dc:creator>
+      <dc:creator>Jeremy W. Holt</dc:creator>
+      <dc:creator>Isaac Legred</dc:creator>
+      <dc:creator>Jamie M. Karthein</dc:creator>
+      <dc:creator>Toru Kojo</dc:creator>
+      <dc:creator>Konstantin Maslov</dc:creator>
+      <dc:creator>Paolo Parotto</dc:creator>
+      <dc:creator>Leonardo Pena</dc:creator>
+      <dc:creator>Grégoire Pihan</dc:creator>
+      <dc:creator>Christopher Plumberg</dc:creator>
+      <dc:creator>Roman Poberezhniuk</dc:creator>
+      <dc:creator>Romulo Rougemont</dc:creator>
+      <dc:creator>Jordi Salinas San Martín</dc:creator>
+      <dc:creator>Rajesh Kumar</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+      <dc:creator>Veronica Dexheimer</dc:creator>
+      <dc:creator>Jorge Noronha</dc:creator>
+      <dc:creator>Jacquelyn Noronha-Hostler</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Nicolás Yunes</dc:creator>
+    </item>
+    <item>
+      <title>Kinetic freeze-out and diffusion dynamics in small-system asymmetric collisions at sqrt(sNN)=200 GeV in light of a generalized Fokker-Planck distribution</title>
+      <link>http://arxiv.org/abs/2606.26301v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; M. Waqas, Wolfgang Bietenholz, Khusniddin K. Olimov, Muhammad Ajaz, Jihane Ben Slimane, Laila A. Al-Essa, A. Haj Ismail&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A generalized Fokker-Planck solution is used to examine the transverse momentum ($p_{T}$) spectra of neutral pions generated in small-system asymmetric collisions, $p$-Al, $p$-Au, $d$-Au, and $^3$He-Au, at $\sqrt{s_{NN}}=200$ GeV. This framework provides a cohesive explanation of particle production over a broad range of transverse momenta. We extract the energy scale governing the transition between a thermal and a hard regime, the effective temperature ($T$), and the exponents determining the high-momentum falloff from fits to PHENIX data. $T$ increases systematically with the collision centrality and colliding system size, ranging from about 0.33 GeV in peripheral $p$-Al collisions to 0.45 GeV in central $^3$He-Au collisions. This increase is correlated with the average number of participant nucleons, $&lt;N_{part}&gt;$, and the charged-particle pseudorapidity density, $&lt;dN_{ch}/dη&gt;$, indicating that larger and more central collisions create a denser, more strongly interacting medium that freezes out at a higher temperature. The acquired transition scale and power-law exponents follow consistent patterns across systems and centralities, revealing details about the sharpness of the transition from thermal to hard processes, and the relative strength of momentum-space diffusion versus drag. Interestingly, when the gold target dominates the collision geometry in the largest system ($^3$He-Au), the transition scale becomes nearly independent of centrality, signifying saturation of the diffusion process. Our findings demonstrate that the generalized Fokker-Planck solution is a sensitive probe of transport properties and non-extensive dynamics in the quark-gluon plasma produced even in small-system relativistic collisions, and it consistently describes pion spectra in this set of collisions.&lt;/p&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 18:45:57 GMT</pubDate>
+      <guid isPermaLink="false">2606.26301v1</guid>
+      <dc:creator>M. Waqas</dc:creator>
+      <dc:creator>Wolfgang Bietenholz</dc:creator>
+      <dc:creator>Khusniddin K. Olimov</dc:creator>
+      <dc:creator>Muhammad Ajaz</dc:creator>
+      <dc:creator>Jihane Ben Slimane</dc:creator>
+      <dc:creator>Laila A. Al-Essa</dc:creator>
+      <dc:creator>A. Haj Ismail</dc:creator>
+    </item>
     <item>
       <title>Holographic correlation functions of fermions in anisotropic plasma</title>
       <link>http://arxiv.org/abs/2606.25613v1</link>
@@ -114,25 +189,6 @@
       <pubDate>Sun, 21 Jun 2026 03:04:42 GMT</pubDate>
       <guid isPermaLink="false">2606.22315v1</guid>
       <dc:creator>Lipei Du</dc:creator>
-    </item>
-    <item>
-      <title>The shear viscosity of quark-gluon matter calculated with parton transport and comparisons with the Chapman-Enskog results</title>
-      <link>http://arxiv.org/abs/2606.21722v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mason Alexander Ross, Zi-Wei Lin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We numerically calculate the shear viscosity of quark-gluon matter via the Green-Kubo relation with an improved ZPC model. We include all $2\leftrightarrow 2$ parton cross sections at finite temperature, which are based on perturbative QCD and screened with thermal masses, and consider massless quark-gluon systems with Boltzmann statistics in chemical equilibrium. We then compare the Green-Kubo results with the analytical results from the leading-order Chapman-Enskog method for the same parton cross sections over the temperature range $150-600$ MeV. We also examine the simpler case of isotropic and constant parton cross sections. Overall, we find that the two methods agree rather well. Specifically, the Green-Kubo results are greater than the Chapman-Enskog results by an average of $\sim 9\%$ for isotropic and constant cross sections and by an average of $\sim 3\%$ for finite-temperature pQCD cross sections, where the difference between the two methods is presumably due to higher-order corrections to the leading-order Chapman-Enskog results.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 20:13:29 GMT</pubDate>
-      <guid isPermaLink="false">2606.21722v1</guid>
-      <dc:creator>Mason Alexander Ross</dc:creator>
-      <dc:creator>Zi-Wei Lin</dc:creator>
-    </item>
-    <item>
-      <title>Near-horizon modifications in finite $N$ holography</title>
-      <link>http://arxiv.org/abs/2606.21537v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rishkrith Bairy, Mrityunjay Nath, Debajyoti Sarkar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If one extends the AdS/CFT extrapolate dictionary to large but finite $N$, we are expected to obtain non-perturbative violations of bulk micro-causality. Previously this was achieved by implementing a late boundary time cut-off, while smearing the boundary operator via the HKLL kernel. By performing explicit bulk reconstructions in the backgrounds of near-horizon modified AdS$_2$ and BTZ black holes, we recover the same non-locality estimates as above. For these black hole mimickers, the near-horizon modification is controlled by a throat parameter which sets the scale of this non-locality. In three bulk dimensions, probe dynamics also exhibits a dip-ramp-plateau structure in their spectral form factor when averaged over the throat parameter. Such structure has also been found recently in the background with a stretched horizon or a brick wall.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 15:36:22 GMT</pubDate>
-      <guid isPermaLink="false">2606.21537v1</guid>
-      <dc:creator>Rishkrith Bairy</dc:creator>
-      <dc:creator>Mrityunjay Nath</dc:creator>
-      <dc:creator>Debajyoti Sarkar</dc:creator>
     </item>
   </channel>
 </rss>
