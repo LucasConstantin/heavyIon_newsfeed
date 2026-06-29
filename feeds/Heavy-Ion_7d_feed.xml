@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:45:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -163,32 +163,6 @@
       <dc:creator>Yu-Liang Yan</dc:creator>
       <dc:creator>Zhong-Qi Wang</dc:creator>
       <dc:creator>Ben-Hao Sa</dc:creator>
-    </item>
-    <item>
-      <title>Event-by-event fluctuations of elliptic flow in ultrarelativistic O+O collisions</title>
-      <link>http://arxiv.org/abs/2606.22558v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Renata Krupczak, Nicolas Borghini, Hendrik Roch&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study O+O collisions at $\sqrt{s_\mathrm{NN}} = 5.36$ TeV within a fully three-dimensional $\text{McDipper}$+$\text{MUSIC}$ model, which allows us to describe the experimentally measured dependence of charged hadron multiplicity on centrality and pseudorapidity. We show that the initial elliptical eccentricity is mainly driven by the fluctuations of the energy deposition and thereby varies considerably event-by-event within a fixed centrality class. This also holds for elliptic flow $v_2$, whose origin in O+O thus differs from that in collisions of heavy nuclei. Using a decomposition of initial states in an average event and uncorrelated modes, we find that despite the large size of fluctuations we can reproduce the joint probability distribution of eccentricity and elliptic flow with a reasonable accuracy with only a small set of fluctuation modes.&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 15:33:04 GMT</pubDate>
-      <guid isPermaLink="false">2606.22558v1</guid>
-      <dc:creator>Renata Krupczak</dc:creator>
-      <dc:creator>Nicolas Borghini</dc:creator>
-      <dc:creator>Hendrik Roch</dc:creator>
-    </item>
-    <item>
-      <title>Hyper-Nuclei $^4_Λ\hbox{He}$ Production in $\sqrt{s_{\rm{NN}}}$ = 3 GeV Au+Au collisions at RHIC</title>
-      <link>http://arxiv.org/abs/2606.22457v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The STAR experiment reports the first measurement of the $^4_Λ\hbox{He}$ hyper-nuclei yield as a function of rapidity and transverse momentum in 0-50% central Au+Au collisions at $\sqrt{s_{\rm{NN}}} =$ 3 GeV. The $^4_Λ\hbox{He}$ is reconstructed through its three-body decay channel, $^4_Λ\rm{He} \rightarrow {}^{3}\rm{He} + \rm{p} + π^-$, with a statistical significance of about 9.5 standard deviations. We find that the yield of $^4_Λ\hbox{He}$ as a function of rapidity is consistent with that of $^4_Λ\hbox{H}$, and the rapidity-dependent yield ratio of $^4_Λ\hbox{He}$/$^4_Λ\hbox{H}$ is consistent with that of $^3$He/t. All the measurements, as well as the transverse-momentum spectra, can be reasonably described by the JAM with a coalescence afterburner, suggesting a coalescence-based formation scenario for hyper-nuclei at this energy. The canonical thermal model reproduces the observed yield ratios but overpredicts the absolute hyper-nuclei yields.&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 12:00:45 GMT</pubDate>
-      <guid isPermaLink="false">2606.22457v1</guid>
-      <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Multistage dynamical modeling of heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.22315v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lipei Du&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy-ion collisions create deconfined QCD matter whose properties must be inferred from final-state observables through dynamical modeling. This contribution discusses recent progress and open issues in multistage simulations, with emphasis on the connection between bulk evolution, conserved charges, strangeness, and heavy flavor. At RHIC Beam Energy Scan energies, the breaking of longitudinal boost invariance makes charge stopping and rapidity-dependent observables essential for constraining the finite-density medium. Strange hadrons are sensitive to the local chemical environment and conserved-charge correlations, while heavy flavor probes microscopic transport and hadronization. Combining these observables within multi-sector inference frameworks provides a path toward more robust constraints on the equation of state and transport properties of QCD matter.&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 03:04:42 GMT</pubDate>
-      <guid isPermaLink="false">2606.22315v1</guid>
-      <dc:creator>Lipei Du</dc:creator>
     </item>
   </channel>
 </rss>
