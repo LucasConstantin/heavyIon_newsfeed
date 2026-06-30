@@ -5,9 +5,71 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:43:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>QCD critical surface from constant entropy contours</title>
+      <link>http://arxiv.org/abs/2606.28282v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hitansh Shah, Tristan Gyure, Anabella Leon, Francesco Di Clemente, Mauricio Hippert, Claudia Ratti, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We provide the first mapping of the critical surface in (2+1)-flavor QCD in the full $(T,μ_B,μ_Q,μ_S)$ space, anchored on lattice QCD results at vanishing chemical potentials and obtained within an expansion along contours of constant entropy density. In the pure $μ_B$ direction, this framework yields a critical point at $(T_c,μ_{B,c}) \simeq (114,\, 602)$ MeV. Here we extend the construction to arbitrary directions in the three-dimensional chemical-potential space, parametrized by spherical coordinates $(μ,θ,\varphi)$, with the radial expansion truncated at $\mathcal{O}(μ^2)$. The resulting two-dimensional surface carries a direction-dependent critical temperature $T_c(θ,\varphi)$ and baryochemical potential $μ_{B,c}(θ,\varphi)$, which quantify the shift of the critical point relative to the pure $μ_B$ direction. We find that $μ_{B,c}$ increases by 40-100 MeV along the approximately strangeness neutral direction [$μ_S \approx (0.15$--$0.33)\, μ_B$, $μ_Q \approx 0$] relevant for heavy-ion collisions, while the critical temperature stays essentially unchanged. In the charge-neutral, weak-equilibrium direction~[$μ_Q \approx -(0.05$--$0.1) \,μ_B$, $μ_S = 0$] relevant for neutron star mergers, the critical point, and the associated first-order phase transition, remain present at essentially the same location in the $(T,μ_B)$ plane. We find no evidence for a critical point at large isospin densities, $|μ_Q| / μ_B \gtrsim 1$, relevant for cosmic trajectories in the early Universe, nor along the pure electric-charge or strangeness directions, at least outside the regions where pion or kaon condensation may occur.&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 17:26:15 GMT</pubDate>
+      <guid isPermaLink="false">2606.28282v1</guid>
+      <dc:creator>Hitansh Shah</dc:creator>
+      <dc:creator>Tristan Gyure</dc:creator>
+      <dc:creator>Anabella Leon</dc:creator>
+      <dc:creator>Francesco Di Clemente</dc:creator>
+      <dc:creator>Mauricio Hippert</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+    </item>
+    <item>
+      <title>Dense and Cold Magnetized Quark Matter: A Review of Magnetic-Field-Independent Regularization and the Medium Separation Scheme</title>
+      <link>http://arxiv.org/abs/2606.28111v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francisco X. Azeredo, Dyana C. Duarte, Ricardo L. S. Farias, Bruno S. Lopes, João A. R. S. Prado, William R. Tavares&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a comprehensive review of regularization schemes for magnetized dense quark matter within effective models of quantum chromodynamics, focusing on the Magnetic-Field-Independent Regularization (MFIR) and the Medium Separation Scheme (MSS) at finite chemical potential and magnetic field. In nonrenormalizable frameworks such as the Nambu-Jona-Lasinio model, the treatment of ultraviolet divergences is crucial, particularly in magnetized and dense environments where conventional regularization procedures may introduce unphysical artifacts. We show that MFIR consistently isolates divergent vacuum contributions from finite magnetic-field-dependent terms, while MSS extends this separation to the medium sector, ensuring that only vacuum quantities are regularized. Within this unified framework, we analyze the thermodynamics of cold and dense quark matter, including color-superconducting phases, and demonstrate that the superconducting gap remains finite at large chemical potentials, even in the presence of strong magnetic fields. In contrast to results obtained with traditional regularization schemes, we find no evidence for a transition to a normal phase at zero temperature, highlighting the importance of a proper separation between vacuum and medium contributions. These results eliminate spurious oscillations and other nonphysical artifacts, leading to a more robust and physically consistent description of strongly interacting matter under extreme conditions relevant to compact stars and heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 14:11:56 GMT</pubDate>
+      <guid isPermaLink="false">2606.28111v1</guid>
+      <dc:creator>Francisco X. Azeredo</dc:creator>
+      <dc:creator>Dyana C. Duarte</dc:creator>
+      <dc:creator>Ricardo L. S. Farias</dc:creator>
+      <dc:creator>Bruno S. Lopes</dc:creator>
+      <dc:creator>João A. R. S. Prado</dc:creator>
+      <dc:creator>William R. Tavares</dc:creator>
+    </item>
+    <item>
+      <title>$\texttt{SMaSH}$ : Simplify Massive Spinor Helicity</title>
+      <link>http://arxiv.org/abs/2606.27928v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aakash Kumar, Arnab Rudra, Rahul Shaw&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present $\texttt{SMaSH}$, a $\texttt{Mathematica}$ package to do spinor helicity computations in four spacetime dimensions $\href{https://github.com/aakash-kmr/SMaSH}{\text{(github)}}$. It can handle massive spinor helicity computations with explicit little group indices which is a novel feature. It can also handle massless as well as off-shell spinor helicity variables. It is designed to compute perturbative computations; it comes with predefined three point amplitudes and propagators for any masses and spins (arXiv:1709.04891). It can implement the high energy limit over an expression, check the discrete $\tt{C,P,T}$ transformations, compute contact terms and impose gauge invariance for any scattering process. We have shown the usage of such functions for computing gauge invariant Weinberg minimal amplitudes (arXiv:2506:12431, arXiv:2504:06343).
+  The package can also generate both real and complex numerical kinematics for any $n$-point scattering for arbitrary masses and energy scales by implementing the $\tt{RAMBO}$ algorithm. It is also rich with basic spinor helicity manipulations like Schouten simplification, Clifford algebra manipulation, conversion between spinor helicity and Lorentz vectors, derivative w.r.t. spinors and their scalars, helicity scaling etc.&lt;/p&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 10:21:12 GMT</pubDate>
+      <guid isPermaLink="false">2606.27928v1</guid>
+      <dc:creator>Aakash Kumar</dc:creator>
+      <dc:creator>Arnab Rudra</dc:creator>
+      <dc:creator>Rahul Shaw</dc:creator>
+    </item>
+    <item>
+      <title>Modelling Dissipative Dynamics of r-mode Instability in Hybrid Stars</title>
+      <link>http://arxiv.org/abs/2606.27465v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Khushbu Zala, Sreemoyee Sarkar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Compact star cores reach extreme densities and may contain exotic dense-matter phases. Information about the exotic interiors of rapidly rotating pulsars can be inferred from r-mode oscillations, whose stability is governed by viscous dissipation. In this work, we model a compact star containing a possible mixed phase of hadronic and quark matter and employ a hybrid statistical framework based on Bayesian inference to infer the dissipation time scales associated with the hybrid phase. Using low-mass X-ray binaries (LMXB) timing observations together with mass-radius constraints from the Neutron Star Interior Composition Explorer (NICER) mission, we estimate the shear and bulk viscosity contributions to r-mode damping for a hybrid star of two layers. Our inference yields shear and bulk viscous dissipation time scales of $τ_s=(4.99^{+0.49}_{-0.52}) \times 10^8 T^{\frac{5}{3}}$s and $τ_B=(2.150^{+1.23}_{-0.60}) \times 10^{19} (T^4 10^{-12}+T^2 10^{-6})^{-1}Ω^{-2}$s respectively. The timescales thus obtained can be implemented to obtain the minima of the star's rotation frequency at $Ω=451.87$ Hz at temperature $T=0.259$ MeV for a hybrid star of mass $1.5$ $M_{\odot}$ and $Ω=517.47$ Hz at $T=0.234$ MeV for $M=1.75 M_{\odot}$. We find that the instability window obtained through the inference framework effectively explains the observed stability of millisecond pulsars in both the radio and LMXB populations, particularly for XTE J0929-314 and XTE J1807-294, J0437-4715, J2124-3358, respectively. These results demonstrate that Bayesian inference combined with r-mode phenomenology provides a powerful and observationally consistent framework for constraining the transport properties of dense hybrid matter.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 18:38:35 GMT</pubDate>
+      <guid isPermaLink="false">2606.27465v1</guid>
+      <dc:creator>Khushbu Zala</dc:creator>
+      <dc:creator>Sreemoyee Sarkar</dc:creator>
+    </item>
+    <item>
+      <title>Impact of neutrino-electron scattering and an improved treatment of pair processes on binary neutron star mergers</title>
+      <link>http://arxiv.org/abs/2606.27425v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francois Foucart, Samantha Rath, Rowan Davidson, Patrick Chi-Kit Cheong, Matthew D. Duez, Lawrence Kidder, Harald Pfeiffer, Mark Scheel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multimessenger observations of neutron star mergers are unique opportunities to constrain the properties of dense matter and the production site of heavy nuclei. To leverage these observations, we require reliable models of the electromagnetic signals powered by mergers. An important limitation to our ability to develop such models is the use of approximate neutrino physics in simulations. Here, we present simulations using an improved version of our Monte Carlo transport algorithm specifically designed to allow for more advanced on-the-fly calculations of reaction rates that use the simulated energy distribution of neutrinos, including in blocking factors, while still relying on approximations for the angular distribution of neutrinos. We use these new methods to include in simulations inelastic scattering of neutrinos on electrons, and to improve our treatment of neutrino-antineutrino pair annihilation. We find that, without increasing the cost of simulations, we can marginally get to the point when the addition of a single packet represents a change $Δf_ν&lt;1$ in the angle-integrated distribution function, at the cost of increased shot noise in the coupling to the fluid. With inelastic scattering and a better treatment of pair processes, we find a reduction in the average energy and total luminosity of heavy-lepton neutrinos, and an increase in the amount of mass ejected -- here by $50\%$, although on a relatively low amount of total ejected mass $&lt;0.005M_\odot$. In a separate set of simulations varying the total mass of the binary away from its prompt collapse threshold, we find rapid variations in the amount of ejected matter and in the geometry and composition of the outflows with the total mass of the system. Finally, we use the simulations with our more advanced transport scheme to study in more detail the energy spectrum of neutrinos across the merger remnant.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 18:00:02 GMT</pubDate>
+      <guid isPermaLink="false">2606.27425v1</guid>
+      <dc:creator>Francois Foucart</dc:creator>
+      <dc:creator>Samantha Rath</dc:creator>
+      <dc:creator>Rowan Davidson</dc:creator>
+      <dc:creator>Patrick Chi-Kit Cheong</dc:creator>
+      <dc:creator>Matthew D. Duez</dc:creator>
+      <dc:creator>Lawrence Kidder</dc:creator>
+      <dc:creator>Harald Pfeiffer</dc:creator>
+      <dc:creator>Mark Scheel</dc:creator>
+    </item>
     <item>
       <title>Rapidity-even directed flow splitting of protons and antiprotons as a probe of baryon stopping in relativistic heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2606.27156v1</link>
@@ -198,16 +260,6 @@
       <guid isPermaLink="false">2606.21722v1</guid>
       <dc:creator>Mason Alexander Ross</dc:creator>
       <dc:creator>Zi-Wei Lin</dc:creator>
-    </item>
-    <item>
-      <title>Near-horizon modifications in finite $N$ holography</title>
-      <link>http://arxiv.org/abs/2606.21537v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rishkrith Bairy, Mrityunjay Nath, Debajyoti Sarkar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If one extends the AdS/CFT extrapolate dictionary to large but finite $N$, we are expected to obtain non-perturbative violations of bulk micro-causality. Previously this was achieved by implementing a late boundary time cut-off, while smearing the boundary operator via the HKLL kernel. By performing explicit bulk reconstructions in the backgrounds of near-horizon modified AdS$_2$ and BTZ black holes, we recover the same non-locality estimates as above. For these black hole mimickers, the near-horizon modification is controlled by a throat parameter which sets the scale of this non-locality. In three bulk dimensions, probe dynamics also exhibits a dip-ramp-plateau structure in their spectral form factor when averaged over the throat parameter. Such structure has also been found recently in the background with a stretched horizon or a brick wall.&lt;/p&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 15:36:22 GMT</pubDate>
-      <guid isPermaLink="false">2606.21537v1</guid>
-      <dc:creator>Rishkrith Bairy</dc:creator>
-      <dc:creator>Mrityunjay Nath</dc:creator>
-      <dc:creator>Debajyoti Sarkar</dc:creator>
     </item>
     <item>
       <title>Evidence for parton energy loss in oxygen$-$oxygen collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.36}$ TeV</title>
@@ -997,34 +1049,6 @@
       <pubDate>Fri, 05 Jun 2026 03:40:32 GMT</pubDate>
       <guid isPermaLink="false">2606.06873v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Lepton interactions from GeV to EeV</title>
-      <link>http://arxiv.org/abs/2606.06773v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Reinaldo Francener&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we investigate the phenomenological consequences of neutrino and muon interactions with matter. In our studies, we focused in phenomenological predictions for two experiments: FASER and IceCube. FASER is a detector located at the LHC that measures neutrinos produced in proton-proton collisions. A new version of FASER, FASER2, has been proposed to operate in the Forward Physics Facility during the high-luminosity regime of the LHC. The intense flux of tau neutrinos expected at FASER2 motivated us to study the polarization effects of the tau produced in charged current interactions. Our results show that the produced taus will not be completely polarized. Among the Standard Model particles, only neutrinos and muons produced in proton-proton collisions at the LHC can reach FASER. In our study, we show that muon-initiated events can reveal interesting nucleon properties, such as nuclear effects and the existence of an intrinsic charm. The high number of events induced by neutrinos at FASER motivated us to study rare processes in neutrino interaction, such as the neutrino trident. Our results indicate that the neutrino trident process can be observed at FASER2. We have also studied muon trident at the LHC, and we showed that tau pair production can be observed for the first time in this reaction. In contrast to neutrinos detected at the LHC, the neutrinos observed at IceCube come from natural sources, being mainly atmospheric and astrophysical neutrinos. IceCube is capable of observing neutrinos across a wide energy spectrum, ranging from a few GeV to beyond PeV. We show that the study of these events can contribute to our understanding of the structure of target hadrons, as well as the search for physics effects beyond the Standard Model in the propagation of these neutrinos in the universe until they reach the Earth.&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 23:34:44 GMT</pubDate>
-      <guid isPermaLink="false">2606.06773v1</guid>
-      <dc:creator>Reinaldo Francener</dc:creator>
-    </item>
-    <item>
-      <title>When positive and negative pairs differ in femtoscopy: residual Coulomb and isospin effects</title>
-      <link>http://arxiv.org/abs/2606.06472v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yevheniia Khyzhniak, Michael Annan Lisa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study charge-dependent modifications of identical-pion and identical-kaon femtoscopic correlation functions from two sources: the residual Coulomb field of the charged source and isospin-related hadronic dynamics. The residual Coulomb effect is modeled with a modified Retiere--Lisa blast-wave source, where the same emitted particles are propagated with positive and negative charge signs through an effective residual field. The residual Coulomb field produces a small but systematic positive-to-negative splitting of the correlation functions, strongest at low $k_T$ and sensitive to the effective charge, spatial width, and expansion velocity of the residual source. It also modifies the height and shape of the correlation function, complicating interpretation of the fitted radii. UrQMD 3.4 cascade calculations for Au+Au collisions at $\sqrt{s_{NN}}=7.7~\mathrm{GeV}$ show that charge-dependent splittings can also appear even without a residual Coulomb field. For pions, this difference is mainly driven by the initial isospin composition, while for kaons it is strongly affected by different $K^+$ and $K^-$ production mechanisms and subsequent hadronic evolution. These results show that residual Coulomb and isospin-related effects can compete, and neither can be interpreted reliably without constraining the other within the same model framework.&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 17:55:52 GMT</pubDate>
-      <guid isPermaLink="false">2606.06472v1</guid>
-      <dc:creator>Yevheniia Khyzhniak</dc:creator>
-      <dc:creator>Michael Annan Lisa</dc:creator>
-    </item>
-    <item>
-      <title>Diffusion of multiple conserved charges from entropy production</title>
-      <link>http://arxiv.org/abs/2606.06283v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Samapan Bhadury, Arpan Das, Sandeep Chatterjee, Hiranmaya Mishra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive dissipative relativistic hydrodynamic equations in the presence of multiple conserved charges, i.e., baryon number ($B$), electric charge ($Q$), and strangeness ($S$), using the Chapman-Enskog (CE) method within the kinetic theory approach. The relativistic Boltzmann equation is solved within the relaxation-time approximation with a momentum-independent relaxation time in the collision term. We derive both first-order (Navier-Stokes limit) and second-order dissipative hydrodynamic equations. Within the kinetic theory framework, using the Boltzmann's H-theorem, and by demanding that for a dissipative system, the entropy must be produced, we find different transport coefficients at the first-order and second-order gradient expansion of the out-of-equilibrium distribution function around the local equilibrium. Apart from the well-known transport coefficients, the shear ($η$) and the bulk ($ζ$) viscosities , we also find the diffusion matrix elements ($κ_{qq^{\prime}}$) for the conserved charges $B$, $Q$ and $S$. The diffusion matrix elements ($κ_{qq^{\prime}}$) are important to model the multi-component diffusion dynamics sourced by inhomogeneous baryon stopping in the initial state of heavy-ion collisions. We estimate the temperature ($T$) and chemical potential dependence of diagonal and off-diagonal elements of the diffusion matrix elements for the (2+1) flavor quark-gluon plasma. We further estimate the ratio $κ_{qq^{\prime}}T/η$ for a wide range of temperature and chemical potentials to show the relative importance of the diffusion matrix elements compared to other transport coefficients.&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 15:23:56 GMT</pubDate>
-      <guid isPermaLink="false">2606.06283v1</guid>
-      <dc:creator>Samapan Bhadury</dc:creator>
-      <dc:creator>Arpan Das</dc:creator>
-      <dc:creator>Sandeep Chatterjee</dc:creator>
-      <dc:creator>Hiranmaya Mishra</dc:creator>
     </item>
     <item>
       <title>Hyperon-Nucleon Spectrometer</title>
@@ -3076,25 +3100,6 @@
       <dc:creator>Kangkan Goswami</dc:creator>
       <dc:creator>Suraj Prasad</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>Light-Ion Collisions: Bridging Small and Large QCD Systems</title>
-      <link>http://arxiv.org/abs/2605.07578v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aleksas Mazeliauskas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Light-ion collisions at the LHC bridge the gap between small proton-proton and large heavy-ion collision systems, providing a unique laboratory to study the onset of QCD collective phenomena. The first light-ion run at the LHC took place July~1--9, 2025, with proton-oxygen (pO), oxygen-oxygen (OO), and neon-neon (NeNe) collisions. Early experimental results provide strong evidence of quark-gluon plasma (QGP) formation in these small systems. I review the motivation for the light-ion collisions and the first experimental results, connecting perturbative QCD, hot QCD, and low-energy nuclear structure physics.&lt;/p&gt;</description>
-      <pubDate>Fri, 08 May 2026 10:49:11 GMT</pubDate>
-      <guid isPermaLink="false">2605.07578v1</guid>
-      <dc:creator>Aleksas Mazeliauskas</dc:creator>
-    </item>
-    <item>
-      <title>Probing the density dependence of nuclear symmetry energy through isospin transport in heavy-ion reactions</title>
-      <link>http://arxiv.org/abs/2605.06138v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Mallik, F. Gulminelli, C. Ciampi, D. Gruyer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The density dependence of the nuclear symmetry energy remains one of the key uncertainties in contemporary nuclear physics, with significant implications for the structure of exotic nuclei, the dynamics of heavy-ion collisions, and the properties of astrophysical objects such as neutron stars and core-collapse supernovae. However, extracting robust constraints requires observables that are minimally affected by final-state interactions and are reliably predicted by transport models. This review synthesizes recent theoretical and experimental advancements in constraining the symmetry energy by leveraging isospin diffusion in heavy-ion reactions within the Fermi energy domain. Recent results from the INDRA-FAZIA collaboration, including isospin transport ratio data, and Boltzmann-Uehling-Uhlenbeck (BUU) transport model calculations are highlighted. Confidence regions for the symmetry energy are extracted from isospin transport ratios and isospin diffusion currents by utilizing state-of-the-art nuclear functionals, including both ab initio and phenomenological approaches, with a particular focus on the density regions probed by these experiments. The resulting constraints will aid future Bayesian studies of the nuclear equation of state and contribute to a more unified understanding of dense matter in both terrestrial experiments and astrophysical environments.&lt;/p&gt;</description>
-      <pubDate>Thu, 07 May 2026 12:36:24 GMT</pubDate>
-      <guid isPermaLink="false">2605.06138v1</guid>
-      <dc:creator>S. Mallik</dc:creator>
-      <dc:creator>F. Gulminelli</dc:creator>
-      <dc:creator>C. Ciampi</dc:creator>
-      <dc:creator>D. Gruyer</dc:creator>
     </item>
   </channel>
 </rss>
