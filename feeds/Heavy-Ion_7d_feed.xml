@@ -5,9 +5,64 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:36:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Purifying one-neutron removal as a probe of single-particle strength</title>
+      <link>http://arxiv.org/abs/2607.01078v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erxi Xiao, Guangshuai Li, Yu Yang, Long Zhu, Jianwei Zhao, Jun Su, Baohua Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One-neutron removal reactions exhibit a strong proton-neutron asymmetry dependence in the inclusive reduction factor $R_s$, a long-standing issue that has been discussed in terms of both possible intrinsic isospin dependence of single-particle strength and reaction-mechanism effects. We address this issue by reframing inclusive removal as a coupled fast-dynamics and deexcitation process, and by validating this transport-deexcitation chain against a global, mutually constraining data set. Confronting 73 one-neutron removal cross sections and 28 residue parallel-momentum distributions with isospin-dependent quantum molecular dynamics followed by GEMINI evaporation shows that the apparent $R_s$-$ΔS$ trend is correlated with evaporation feeding and evaporation loss. By subtracting the feeding contribution and correcting for the loss component in the measured cross sections, we construct a purified reduction factor $R_{\rm dir}$, that more closely reflects single-particle strength than the inclusive $R_s$. The resulting $R_{\rm dir}$ exhibits a much weaker $ΔS$ dependence within current uncertainties, consistent with the weak isospin-asymmetry dependence observed in nucleon-transfer and quasifree-knockout systematics.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 15:37:16 GMT</pubDate>
+      <guid isPermaLink="false">2607.01078v1</guid>
+      <dc:creator>Erxi Xiao</dc:creator>
+      <dc:creator>Guangshuai Li</dc:creator>
+      <dc:creator>Yu Yang</dc:creator>
+      <dc:creator>Long Zhu</dc:creator>
+      <dc:creator>Jianwei Zhao</dc:creator>
+      <dc:creator>Jun Su</dc:creator>
+      <dc:creator>Baohua Sun</dc:creator>
+    </item>
+    <item>
+      <title>Dipolar flow of identified hadrons at mid-rapidity using transport models</title>
+      <link>http://arxiv.org/abs/2607.00703v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Abhisek Praharaj, Aradhana Panday, Sandeep Chatterjee, Md Nasim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report a transport model study of the rapidity even component of dipolar flow, $v_{1}^{\mathrm{even}}$, for identified charged hadrons at mid-rapidity in Au+Au collisions at $\sqrt{s_{NN}} = 27-200$ GeV. The analysis is performed using the AMPT model, with comparisons to HIJING to quantify non-flow contributions. The $v_{1}^{\mathrm{even}}$ of identified hadrons ($π$, $K$, and $p$) shows no significant difference between particles and anti-particles at $\sqrt{s_{NN}} = 200$ GeV. However, a clear splitting between proton and anti-proton $v_{1}^{\mathrm{even}}$ develops with decreasing beam energy, while no corresponding difference is observed for mesons ($π^{\pm}$ and $K^{\pm}$). A comparison of the AMPT string melting and default configurations shows that the splitting arises only in the string melting scenario, where partonic interactions and quark coalescence play a dominant role. These results indicate that the proton-antiproton difference in $v_{1}^{\mathrm{even}}$ is sensitive to baryon transport and early-stage partonic dynamics. Our study highlights the potential of identified-particle $v_{1}^{\mathrm{even}}$ measurements at RHIC Beam Energy Scan energies as a novel probe of baryon stopping and the evolution of the partonic medium.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 09:52:43 GMT</pubDate>
+      <guid isPermaLink="false">2607.00703v1</guid>
+      <dc:creator>Abhisek Praharaj</dc:creator>
+      <dc:creator>Aradhana Panday</dc:creator>
+      <dc:creator>Sandeep Chatterjee</dc:creator>
+      <dc:creator>Md Nasim</dc:creator>
+    </item>
+    <item>
+      <title>Effective Color Dipole Approach to Color Transparency in \texorpdfstring{$ρ^0$}{rho^0} Electroproduction</title>
+      <link>http://arxiv.org/abs/2607.00566v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tae Keun Choi, Kook-Jin Kong, Byung-Geel Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate nuclear transparency in exclusive $ρ^{0}$ electroproduction on $^{12}$C and $^{56}$Fe nuclei within a multi-channel final-state interaction (FSI) framework that explicitly incorporates the kinematic decay length effect (DLE) arising from the short-lived $ρ^{0}\rightarrowπ^{+}π^{-}$ decay. A realistic treatment of the deuteron reference state using the Paris potential wave function, which incorporates the short-range repulsive core and tensor correlations, provides a physically reliable normalization for the transparency ratio $T_A/T_D$. The conventional DLE and nuclear shadowing mechanisms together remain insufficient to account for the observed $Q^2$-dependent enhancement, systematically underestimating the measured transparency throughout the CLAS kinematic range. To address this, we introduce an effective Color Dipole Model (CDM) boundary condition for the initial PLC interaction cross section $σ_{\text{h}}(Q^2)$, evaluated as a dipole-weighted average over the $γ^*$--$ρ^0$ transition wave functions, in place of the purely empirical Quantum Diffusion Model (QDM) ansatz. This CDM-inspired initial condition, combined with the standard linear QDM transport, yields a consistent description of the $Q^2$-dependent CLAS data for both targets with an effective in-medium expansion scale $Δm^2 = 0.3~\mathrm{GeV}^2$. Although the present analysis does not provide definitive evidence for the onset of Color Transparency, it demonstrates that a CDM-inspired PLC boundary condition, together with a realistic treatment of the underlying reaction dynamics, yields a physically consistent and quantitatively improved description of the CLAS data.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 07:53:25 GMT</pubDate>
+      <guid isPermaLink="false">2607.00566v1</guid>
+      <dc:creator>Tae Keun Choi</dc:creator>
+      <dc:creator>Kook-Jin Kong</dc:creator>
+      <dc:creator>Byung-Geel Yu</dc:creator>
+    </item>
+    <item>
+      <title>Astrophysical S-factor Calculation for p-p Fusion Reaction</title>
+      <link>http://arxiv.org/abs/2607.00487v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arushi Sharma, Ishwar Kant, O. S. K. S. Sastri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The current S-factor calculations for weak pp interaction involve the determination of low-energy penetration probability using the bare Coulomb Gamow factor, which renders the nature and shape of actual interaction to be insignificant. In this work, the astrophysical S-factor is obtained utilizing the WKB action integral evaluated over the inverse scattering potential for the S-wave of pp-interaction, which does not involve bare Coulomb interaction in it. The np and pp inverse potentials are constructed using the phase function method by providing a reference potential consisting of three smoothly combined Morse functions, whose model parameters are optimized using a genetic algorithm to minimize the mean-squared error between the obtained and expected scattering phase shifts. The overlap integral between the bound-state deuteron and the scattering state of pp S-wave has been evaluated at different energies all the way up to 0.0001 MeV, and corresponding fusion cross-sections are determined. The WKB action integral has been computed at all energies without any approximations. Finally, the S-factor at various energies are calculated, and S(0) has been obtained using a supervised neural network. The value of S(0) obtained using our methodology involving complete evaluation of WKB action integral without approximations is $(0.1678\pm 0.0058)\times10^{-25}$, which is almost one order of magnitude lower than the currently accepted values using various methods. The inverse potentials constructed using the reference potential approach, which does not involve explicit consideration of nuclear $\&amp;$ Coulomb interaction, resulting in a finite range of pp-interaction, have been successful in providing a new estimate for the astrophysical s-factor that depends on the nature and shape of the actual potentials&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:16:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.00487v1</guid>
+      <dc:creator>Arushi Sharma</dc:creator>
+      <dc:creator>Ishwar Kant</dc:creator>
+      <dc:creator>O. S. K. S. Sastri</dc:creator>
+    </item>
+    <item>
+      <title>Spin Femtoscopy: A Framework for Revealing Genuine Spin Correlations</title>
+      <link>http://arxiv.org/abs/2607.00413v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kehao Zhang, Xuan Wang, Xiaofeng Luo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spin correlations are among the most fundamental quantum observables in many-body systems, yet they remain difficult to access experimentally in relativistic heavy-ion collisions. Existing spin measurements, including hyperon polarization and vector-meson spin alignment, have revealed important single-particle spin phenomena, but genuine two-particle spin correlations in the produced hadronic system remain largely unexplored. Here we propose spin femtoscopy, a framework for accessing genuine two-particle spin correlations through spin-resolved femtoscopic measurements. The key principle is that different two-particle spin configurations can give rise to different femtoscopic correlation functions because of quantum statistics, spin-dependent final-state interactions. Using $ΛΛ$ pairs as a proof of principle, we exploit the self-analyzing weak decay of $Λ$ hyperons to construct spin-sensitive femtoscopic correlation functions with different singlet and triplet admixtures. We show that these observables provide experimental access to the spin-state populations of the pair and allow genuine spin correlations to be separated from spin-dependent femtoscopic mixing caused by quantum statistics and final-state interactions. This work extends femtoscopy from a probe of source geometry and final-state interactions to a framework for revealing the quantum spin structure of strongly interacting matter.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 04:13:50 GMT</pubDate>
+      <guid isPermaLink="false">2607.00413v1</guid>
+      <dc:creator>Kehao Zhang</dc:creator>
+      <dc:creator>Xuan Wang</dc:creator>
+      <dc:creator>Xiaofeng Luo</dc:creator>
+    </item>
     <item>
       <title>Finite-Density Dynamics of Chemically Equilibrating QGP in Conformal Gubser Flow and Hard Thermal Photon Production</title>
       <link>http://arxiv.org/abs/2606.31749v1</link>
@@ -212,39 +267,6 @@
       <dc:creator>Aakash Kumar</dc:creator>
       <dc:creator>Arnab Rudra</dc:creator>
       <dc:creator>Rahul Shaw</dc:creator>
-    </item>
-    <item>
-      <title>Modelling Dissipative Dynamics of r-mode Instability in Hybrid Stars</title>
-      <link>http://arxiv.org/abs/2606.27465v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Khushbu Zala, Sreemoyee Sarkar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Compact star cores reach extreme densities and may contain exotic dense-matter phases. Information about the exotic interiors of rapidly rotating pulsars can be inferred from r-mode oscillations, whose stability is governed by viscous dissipation. In this work, we model a compact star containing a possible mixed phase of hadronic and quark matter and employ a hybrid statistical framework based on Bayesian inference to infer the dissipation time scales associated with the hybrid phase. Using low-mass X-ray binaries (LMXB) timing observations together with mass-radius constraints from the Neutron Star Interior Composition Explorer (NICER) mission, we estimate the shear and bulk viscosity contributions to r-mode damping for a hybrid star of two layers. Our inference yields shear and bulk viscous dissipation time scales of $τ_s=(4.99^{+0.49}_{-0.52}) \times 10^8 T^{\frac{5}{3}}$s and $τ_B=(2.150^{+1.23}_{-0.60}) \times 10^{19} (T^4 10^{-12}+T^2 10^{-6})^{-1}Ω^{-2}$s respectively. The timescales thus obtained can be implemented to obtain the minima of the star's rotation frequency at $Ω=451.87$ Hz at temperature $T=0.259$ MeV for a hybrid star of mass $1.5$ $M_{\odot}$ and $Ω=517.47$ Hz at $T=0.234$ MeV for $M=1.75 M_{\odot}$. We find that the instability window obtained through the inference framework effectively explains the observed stability of millisecond pulsars in both the radio and LMXB populations, particularly for XTE J0929-314 and XTE J1807-294, J0437-4715, J2124-3358, respectively. These results demonstrate that Bayesian inference combined with r-mode phenomenology provides a powerful and observationally consistent framework for constraining the transport properties of dense hybrid matter.&lt;/p&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 18:38:35 GMT</pubDate>
-      <guid isPermaLink="false">2606.27465v1</guid>
-      <dc:creator>Khushbu Zala</dc:creator>
-      <dc:creator>Sreemoyee Sarkar</dc:creator>
-    </item>
-    <item>
-      <title>Impact of neutrino-electron scattering and an improved treatment of pair processes on binary neutron star mergers</title>
-      <link>http://arxiv.org/abs/2606.27425v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francois Foucart, Samantha Rath, Rowan Davidson, Patrick Chi-Kit Cheong, Matthew D. Duez, Lawrence Kidder, Harald Pfeiffer, Mark Scheel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multimessenger observations of neutron star mergers are unique opportunities to constrain the properties of dense matter and the production site of heavy nuclei. To leverage these observations, we require reliable models of the electromagnetic signals powered by mergers. An important limitation to our ability to develop such models is the use of approximate neutrino physics in simulations. Here, we present simulations using an improved version of our Monte Carlo transport algorithm specifically designed to allow for more advanced on-the-fly calculations of reaction rates that use the simulated energy distribution of neutrinos, including in blocking factors, while still relying on approximations for the angular distribution of neutrinos. We use these new methods to include in simulations inelastic scattering of neutrinos on electrons, and to improve our treatment of neutrino-antineutrino pair annihilation. We find that, without increasing the cost of simulations, we can marginally get to the point when the addition of a single packet represents a change $Δf_ν&lt;1$ in the angle-integrated distribution function, at the cost of increased shot noise in the coupling to the fluid. With inelastic scattering and a better treatment of pair processes, we find a reduction in the average energy and total luminosity of heavy-lepton neutrinos, and an increase in the amount of mass ejected -- here by $50\%$, although on a relatively low amount of total ejected mass $&lt;0.005M_\odot$. In a separate set of simulations varying the total mass of the binary away from its prompt collapse threshold, we find rapid variations in the amount of ejected matter and in the geometry and composition of the outflows with the total mass of the system. Finally, we use the simulations with our more advanced transport scheme to study in more detail the energy spectrum of neutrinos across the merger remnant.&lt;/p&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 18:00:02 GMT</pubDate>
-      <guid isPermaLink="false">2606.27425v1</guid>
-      <dc:creator>Francois Foucart</dc:creator>
-      <dc:creator>Samantha Rath</dc:creator>
-      <dc:creator>Rowan Davidson</dc:creator>
-      <dc:creator>Patrick Chi-Kit Cheong</dc:creator>
-      <dc:creator>Matthew D. Duez</dc:creator>
-      <dc:creator>Lawrence Kidder</dc:creator>
-      <dc:creator>Harald Pfeiffer</dc:creator>
-      <dc:creator>Mark Scheel</dc:creator>
-    </item>
-    <item>
-      <title>Rapidity-even directed flow splitting of protons and antiprotons as a probe of baryon stopping in relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.27156v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tribhuban Parida, Sandeep Chatterjee&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compare the rapidity-even directed flow $v_1^{\rm even}$ in Au+Au collisions at Beam Energy Scan (BES) energies for baryons and anti-baryons within a (3+1)-dimensional viscous relativistic hydrodynamics coupled to hadronic transport framework. The double-junction baryon stopping picture motivates a rapidity-even component in the baryon deposition in the initial state. We demonstrate that the split in the $v_1^{\rm even}$ of protons and anti-protons is sensitive to the rapidity extension of the baryon deposition that we associate with the double junction baryon stopping. Particularly, we find that the mid-rapidity curvature $\frac{d^2 Δv_1^{\rm even} (p-\bar{p})}{dy^2}\vert_{y=0}$ is a robust discriminator of the initial state baryon rapidity profiles. A simultaneous measurement of $Δv_1^{\rm even}$ and its curvature at mid-rapidity could constrain both the baryon diffusion strength and the baryon stopping profile, providing access to the physics of baryon stopping in relativistic heavy ion collisions.&lt;/p&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 15:26:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.27156v1</guid>
-      <dc:creator>Tribhuban Parida</dc:creator>
-      <dc:creator>Sandeep Chatterjee</dc:creator>
     </item>
   </channel>
 </rss>

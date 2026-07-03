@@ -5,9 +5,64 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:36:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Purifying one-neutron removal as a probe of single-particle strength</title>
+      <link>http://arxiv.org/abs/2607.01078v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erxi Xiao, Guangshuai Li, Yu Yang, Long Zhu, Jianwei Zhao, Jun Su, Baohua Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One-neutron removal reactions exhibit a strong proton-neutron asymmetry dependence in the inclusive reduction factor $R_s$, a long-standing issue that has been discussed in terms of both possible intrinsic isospin dependence of single-particle strength and reaction-mechanism effects. We address this issue by reframing inclusive removal as a coupled fast-dynamics and deexcitation process, and by validating this transport-deexcitation chain against a global, mutually constraining data set. Confronting 73 one-neutron removal cross sections and 28 residue parallel-momentum distributions with isospin-dependent quantum molecular dynamics followed by GEMINI evaporation shows that the apparent $R_s$-$ΔS$ trend is correlated with evaporation feeding and evaporation loss. By subtracting the feeding contribution and correcting for the loss component in the measured cross sections, we construct a purified reduction factor $R_{\rm dir}$, that more closely reflects single-particle strength than the inclusive $R_s$. The resulting $R_{\rm dir}$ exhibits a much weaker $ΔS$ dependence within current uncertainties, consistent with the weak isospin-asymmetry dependence observed in nucleon-transfer and quasifree-knockout systematics.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 15:37:16 GMT</pubDate>
+      <guid isPermaLink="false">2607.01078v1</guid>
+      <dc:creator>Erxi Xiao</dc:creator>
+      <dc:creator>Guangshuai Li</dc:creator>
+      <dc:creator>Yu Yang</dc:creator>
+      <dc:creator>Long Zhu</dc:creator>
+      <dc:creator>Jianwei Zhao</dc:creator>
+      <dc:creator>Jun Su</dc:creator>
+      <dc:creator>Baohua Sun</dc:creator>
+    </item>
+    <item>
+      <title>Dipolar flow of identified hadrons at mid-rapidity using transport models</title>
+      <link>http://arxiv.org/abs/2607.00703v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Abhisek Praharaj, Aradhana Panday, Sandeep Chatterjee, Md Nasim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report a transport model study of the rapidity even component of dipolar flow, $v_{1}^{\mathrm{even}}$, for identified charged hadrons at mid-rapidity in Au+Au collisions at $\sqrt{s_{NN}} = 27-200$ GeV. The analysis is performed using the AMPT model, with comparisons to HIJING to quantify non-flow contributions. The $v_{1}^{\mathrm{even}}$ of identified hadrons ($π$, $K$, and $p$) shows no significant difference between particles and anti-particles at $\sqrt{s_{NN}} = 200$ GeV. However, a clear splitting between proton and anti-proton $v_{1}^{\mathrm{even}}$ develops with decreasing beam energy, while no corresponding difference is observed for mesons ($π^{\pm}$ and $K^{\pm}$). A comparison of the AMPT string melting and default configurations shows that the splitting arises only in the string melting scenario, where partonic interactions and quark coalescence play a dominant role. These results indicate that the proton-antiproton difference in $v_{1}^{\mathrm{even}}$ is sensitive to baryon transport and early-stage partonic dynamics. Our study highlights the potential of identified-particle $v_{1}^{\mathrm{even}}$ measurements at RHIC Beam Energy Scan energies as a novel probe of baryon stopping and the evolution of the partonic medium.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 09:52:43 GMT</pubDate>
+      <guid isPermaLink="false">2607.00703v1</guid>
+      <dc:creator>Abhisek Praharaj</dc:creator>
+      <dc:creator>Aradhana Panday</dc:creator>
+      <dc:creator>Sandeep Chatterjee</dc:creator>
+      <dc:creator>Md Nasim</dc:creator>
+    </item>
+    <item>
+      <title>Effective Color Dipole Approach to Color Transparency in \texorpdfstring{$ρ^0$}{rho^0} Electroproduction</title>
+      <link>http://arxiv.org/abs/2607.00566v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tae Keun Choi, Kook-Jin Kong, Byung-Geel Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate nuclear transparency in exclusive $ρ^{0}$ electroproduction on $^{12}$C and $^{56}$Fe nuclei within a multi-channel final-state interaction (FSI) framework that explicitly incorporates the kinematic decay length effect (DLE) arising from the short-lived $ρ^{0}\rightarrowπ^{+}π^{-}$ decay. A realistic treatment of the deuteron reference state using the Paris potential wave function, which incorporates the short-range repulsive core and tensor correlations, provides a physically reliable normalization for the transparency ratio $T_A/T_D$. The conventional DLE and nuclear shadowing mechanisms together remain insufficient to account for the observed $Q^2$-dependent enhancement, systematically underestimating the measured transparency throughout the CLAS kinematic range. To address this, we introduce an effective Color Dipole Model (CDM) boundary condition for the initial PLC interaction cross section $σ_{\text{h}}(Q^2)$, evaluated as a dipole-weighted average over the $γ^*$--$ρ^0$ transition wave functions, in place of the purely empirical Quantum Diffusion Model (QDM) ansatz. This CDM-inspired initial condition, combined with the standard linear QDM transport, yields a consistent description of the $Q^2$-dependent CLAS data for both targets with an effective in-medium expansion scale $Δm^2 = 0.3~\mathrm{GeV}^2$. Although the present analysis does not provide definitive evidence for the onset of Color Transparency, it demonstrates that a CDM-inspired PLC boundary condition, together with a realistic treatment of the underlying reaction dynamics, yields a physically consistent and quantitatively improved description of the CLAS data.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 07:53:25 GMT</pubDate>
+      <guid isPermaLink="false">2607.00566v1</guid>
+      <dc:creator>Tae Keun Choi</dc:creator>
+      <dc:creator>Kook-Jin Kong</dc:creator>
+      <dc:creator>Byung-Geel Yu</dc:creator>
+    </item>
+    <item>
+      <title>Astrophysical S-factor Calculation for p-p Fusion Reaction</title>
+      <link>http://arxiv.org/abs/2607.00487v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arushi Sharma, Ishwar Kant, O. S. K. S. Sastri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The current S-factor calculations for weak pp interaction involve the determination of low-energy penetration probability using the bare Coulomb Gamow factor, which renders the nature and shape of actual interaction to be insignificant. In this work, the astrophysical S-factor is obtained utilizing the WKB action integral evaluated over the inverse scattering potential for the S-wave of pp-interaction, which does not involve bare Coulomb interaction in it. The np and pp inverse potentials are constructed using the phase function method by providing a reference potential consisting of three smoothly combined Morse functions, whose model parameters are optimized using a genetic algorithm to minimize the mean-squared error between the obtained and expected scattering phase shifts. The overlap integral between the bound-state deuteron and the scattering state of pp S-wave has been evaluated at different energies all the way up to 0.0001 MeV, and corresponding fusion cross-sections are determined. The WKB action integral has been computed at all energies without any approximations. Finally, the S-factor at various energies are calculated, and S(0) has been obtained using a supervised neural network. The value of S(0) obtained using our methodology involving complete evaluation of WKB action integral without approximations is $(0.1678\pm 0.0058)\times10^{-25}$, which is almost one order of magnitude lower than the currently accepted values using various methods. The inverse potentials constructed using the reference potential approach, which does not involve explicit consideration of nuclear $\&amp;$ Coulomb interaction, resulting in a finite range of pp-interaction, have been successful in providing a new estimate for the astrophysical s-factor that depends on the nature and shape of the actual potentials&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:16:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.00487v1</guid>
+      <dc:creator>Arushi Sharma</dc:creator>
+      <dc:creator>Ishwar Kant</dc:creator>
+      <dc:creator>O. S. K. S. Sastri</dc:creator>
+    </item>
+    <item>
+      <title>Spin Femtoscopy: A Framework for Revealing Genuine Spin Correlations</title>
+      <link>http://arxiv.org/abs/2607.00413v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kehao Zhang, Xuan Wang, Xiaofeng Luo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spin correlations are among the most fundamental quantum observables in many-body systems, yet they remain difficult to access experimentally in relativistic heavy-ion collisions. Existing spin measurements, including hyperon polarization and vector-meson spin alignment, have revealed important single-particle spin phenomena, but genuine two-particle spin correlations in the produced hadronic system remain largely unexplored. Here we propose spin femtoscopy, a framework for accessing genuine two-particle spin correlations through spin-resolved femtoscopic measurements. The key principle is that different two-particle spin configurations can give rise to different femtoscopic correlation functions because of quantum statistics, spin-dependent final-state interactions. Using $ΛΛ$ pairs as a proof of principle, we exploit the self-analyzing weak decay of $Λ$ hyperons to construct spin-sensitive femtoscopic correlation functions with different singlet and triplet admixtures. We show that these observables provide experimental access to the spin-state populations of the pair and allow genuine spin correlations to be separated from spin-dependent femtoscopic mixing caused by quantum statistics and final-state interactions. This work extends femtoscopy from a probe of source geometry and final-state interactions to a framework for revealing the quantum spin structure of strongly interacting matter.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 04:13:50 GMT</pubDate>
+      <guid isPermaLink="false">2607.00413v1</guid>
+      <dc:creator>Kehao Zhang</dc:creator>
+      <dc:creator>Xuan Wang</dc:creator>
+      <dc:creator>Xiaofeng Luo</dc:creator>
+    </item>
     <item>
       <title>Finite-Density Dynamics of Chemically Equilibrating QGP in Conformal Gubser Flow and Hard Thermal Photon Production</title>
       <link>http://arxiv.org/abs/2606.31749v1</link>
@@ -1081,18 +1136,6 @@
       <dc:creator>Yaping Wang</dc:creator>
     </item>
     <item>
-      <title>Global polarization of $Λ$, $Ξ^{-}$, and $Ω^{-}$ hyperons in Au+Au collisions at RHIC BES-II energies</title>
-      <link>http://arxiv.org/abs/2606.10341v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gen-Hui Li, Cong Yi, Xiang-Yu Wu, Shi Pu, Guang-You Qin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the global spin polarization of $Λ$ hyperons and the multi-strange hyperons $Ξ^{-}$ and $Ω^{-}$ in Au+Au collisions across the RHIC Beam Energy Scan II (BES-II) energy range, $\sqrt{s_{NN}}=7.7$--$27$ GeV. The polarization is computed using the modified Cooper--Frye formula, which includes contributions from thermal vorticity, the thermal shear tensor, and the gradient of the baryon chemical potential, combined with the (3+1)-dimensional viscous hydrodynamic framework CLVisc with SMASH initial conditions. We present the global polarization as a function of collision energy, centrality, transverse momentum, and rapidity. We find that the global polarization of $Ω^{-}$ is systematically larger than those of $Λ$ and $Ξ^{-}$ because of its larger spin quantum number, but it remains below the central value of the recent STAR measurement. This discrepancy may suggest that additional mechanisms, such as spin correlations among strange quarks inside the $Ω^{-}$, could contribute to the observed $Ω^{-}$ polarization. We also find that the global-polarization splitting between hyperons and anti-hyperons increases toward lower collision energies and is dominated by the chemical-potential-gradient contribution.&lt;/p&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 02:47:51 GMT</pubDate>
-      <guid isPermaLink="false">2606.10341v1</guid>
-      <dc:creator>Gen-Hui Li</dc:creator>
-      <dc:creator>Cong Yi</dc:creator>
-      <dc:creator>Xiang-Yu Wu</dc:creator>
-      <dc:creator>Shi Pu</dc:creator>
-      <dc:creator>Guang-You Qin</dc:creator>
-    </item>
-    <item>
       <title>Nonflow Subtraction Beyond Two-Particle Correlations</title>
       <link>http://arxiv.org/abs/2606.10258v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zaining Wang, Jiangyong Jia, Jinhui Chen, Shengli Huang, Chunjian Zhang, Zhengxi Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Establishing collective flow in small collision systems is crucial for pinning down the minimum conditions for quark-gluon plasma (QGP) formation. In two-particle correlations, nonflow has been subtracted with good control, pushing the reach of flow measurements down to very small particle multiplicities $N$. However, the multi-particle nature of collectivity has not been established in the same $N$ regime, because the residual nonflow surviving the subevent procedure in multi-particle cumulants has never been quantified. We develop a general nonflow subtraction framework for $m$-particle cumulants, built around the approximate $1/N^{m-1}$ scaling of nonflow in the independent-source picture. Correlators containing $v_1$ serve as clean nonflow estimators, since the $p_{\rm T}$-integrated dipolar flow nearly vanishes. Using \HIJING{} as a controlled nonflow-only environment, we test the subtraction for three target observables ($\langle v_2^2\rangle$, $\langle v_2^2δp_{\rm T}\rangle$, and $c_2\{4\}$) in O+O and $d$+Au at $\sqrt{s_{\rm NN}} = 5.36$ TeV and 200 GeV. Most of the nonflow is removed, with residual fractions typically within 20--30% when converted to the two-particle level, though the best estimator differs across the three targets. We identify a multiplicity-reweighting correction, previously overlooked in two-particle correlations, that explains the long-standing undersubtraction of the naive $1/N$-scaling method; its impact grows as a power of the correlator order. The framework gives a systematic route to nonflow subtraction beyond two-particle correlations, broadening the class of multi-particle observables accessible to the small-system flow program.&lt;/p&gt;</description>
@@ -1116,39 +1159,6 @@
       <dc:creator>Sören Schlichting</dc:creator>
       <dc:creator>Mika Spier</dc:creator>
       <dc:creator>Michael Winn</dc:creator>
-    </item>
-    <item>
-      <title>Einstein-de Haas effect and induced rotation in an evolving magnetized QCD matter</title>
-      <link>http://arxiv.org/abs/2606.09760v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dushmanta Sahu, Captain R. Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Einstein-de Haas (EdH) effect describes the emergence of collective rotation driven by spin alignment under an external magnetic field. We investigate this effect in a dynamically expanding quark-gluon plasma (QGP) using a quasiparticle model (QPM). We compute the EdH-induced angular velocity $ω_{\mathrm{EdH}}$ as a function of temperature, proper time, and fireball radius. Our results show that $ω_{\mathrm{EdH}}$ grows with proper time and is consequently suppressed at higher temperatures. Near the QGP crossover temperature, $ω_{\mathrm{EdH}}$ attains a substantial, non-negligible magnitude. We identify a nontrivial crossing between the strong and weak magnetic field regimes that reflects the competition between spin alignment and the energy required to sustain orbital motion. This nontrivial crossing temperature separates a spin-dominated regime from an inertia-dominated regime of magnetic field-induced rotation. These findings establish the EdH effect as a manifestation of angular momentum conservation in magnetized QCD matter.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 17:22:24 GMT</pubDate>
-      <guid isPermaLink="false">2606.09760v1</guid>
-      <dc:creator>Dushmanta Sahu</dc:creator>
-      <dc:creator>Captain R. Singh</dc:creator>
-    </item>
-    <item>
-      <title>Partial Pressure Contributions of Hadron Families to the QCD Equation of State</title>
-      <link>http://arxiv.org/abs/2606.09757v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jonathan Gonzales, Alejandro Florez, Johannes Jahan, Angel R. Nava Acuna, Naman Mehndiratta, Claudia Ratti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Lattice simulations provide the thermodynamics of quantum chromodynamics (QCD) as a function of the temperature, at zero-to-moderate values of the baryonic chemical potential. However, the contribution of single hadronic species cannot be directly isolated from lattice calculations. In this work, we find linear combinations of up to fourth order susceptibilities which isolate the contribution of hadrons to the QCD pressure according to their baryon number $B$, electric charge $Q$ and strangeness $S$ content. These combinations are valid, provided that the thermodynamics of a strongly-interacting gas in the low-temperature regime can be modeled as a gas of non-interacting hadrons and their resonances. Finally, we test the validity of these linear combinations in the Hadron Resonance Gas (HRG) model and compare them to available lattice QCD results, using continuum-estimated susceptibilities.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 17:17:05 GMT</pubDate>
-      <guid isPermaLink="false">2606.09757v1</guid>
-      <dc:creator>Jonathan Gonzales</dc:creator>
-      <dc:creator>Alejandro Florez</dc:creator>
-      <dc:creator>Johannes Jahan</dc:creator>
-      <dc:creator>Angel R. Nava Acuna</dc:creator>
-      <dc:creator>Naman Mehndiratta</dc:creator>
-      <dc:creator>Claudia Ratti</dc:creator>
-    </item>
-    <item>
-      <title>Effective QCD model with consistent quasi-gluon treatment : formulation and application</title>
-      <link>http://arxiv.org/abs/2606.09633v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chowdhury Aminul Islam, Munshi G. Mustafa, Rajarshi Ray, Pracheta Singha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Polyakov loop enhanced Nambu-Jona-Lasinio model is reformulated in terms of the gluon quasi-particles in addition to the already existing quark quasi-particles. The formulation goes beyond the saddle point approximation for the gluon sector. The framework provides a physically consistent quasiparticle model for QCD thermodynamics. The ensuing advantages of this formulation is discussed using transport coefficients in the light quark sector.&lt;/p&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 15:31:12 GMT</pubDate>
-      <guid isPermaLink="false">2606.09633v1</guid>
-      <dc:creator>Chowdhury Aminul Islam</dc:creator>
-      <dc:creator>Munshi G. Mustafa</dc:creator>
-      <dc:creator>Rajarshi Ray</dc:creator>
-      <dc:creator>Pracheta Singha</dc:creator>
     </item>
     <item>
       <title>Hyperon polarization in isobaric Zr+Zr collisions at $\sqrt{s_{NN}}=200$ GeV: TRENRo3D + CLVisc with an initial longitudinal flow gradient</title>
@@ -3189,17 +3199,6 @@
       <pubDate>Wed, 13 May 2026 14:06:02 GMT</pubDate>
       <guid isPermaLink="false">2605.13569v1</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Photoproduction of $J/Ψ$ in peripheral Oxygen-Oxygen collisions</title>
-      <link>http://arxiv.org/abs/2605.12123v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Pedro E. A. da Costa, André V. Giannini, Victor P. Gonçalves, Bruno D. Moreira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The photoproduction of $J/Ψ$ in peripheral Oxygen - Oxygen ($OO$) collisions at the Large Hadron Collider (LHC) is investigated considering distinct assumptions for the modeling of the nuclear photon flux, overlap function and dipole - proton scattering amplitude. Predictions for the associated rapidity distributions and total cross - sections are presented. Our results indicate that the experimental study of the photoproduction of $J/Ψ$ in peripheral $OO$ collisions is, in principle, feasible. In addition, they point out that the combination of the results for this final state in $OO$ collisions with those obtained for $PbPb$ collisions will allow us to derive important constraints on the description of photon - induced process at peripheral collisions.&lt;/p&gt;</description>
-      <pubDate>Tue, 12 May 2026 13:41:45 GMT</pubDate>
-      <guid isPermaLink="false">2605.12123v1</guid>
-      <dc:creator>Pedro E. A. da Costa</dc:creator>
-      <dc:creator>André V. Giannini</dc:creator>
-      <dc:creator>Victor P. Gonçalves</dc:creator>
-      <dc:creator>Bruno D. Moreira</dc:creator>
     </item>
   </channel>
 </rss>
