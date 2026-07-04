@@ -5,9 +5,39 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:36:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:34:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model</title>
+      <link>http://arxiv.org/abs/2607.02463v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Reza Pirmoradian, Soheir Rouhani, M. Reza Tanhayi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the integrability-to-chaos transition and information scrambling in Ising spin networks via a graph-theoretic formulation. Modeling spins as vertices and interactions via adjacency matrices across path, Erdős--Rényi, and Watts--Strogatz topologies, we demonstrate that long-range couplings and heterogeneous degree distributions drastically accelerate quantum information propagation. The Hamiltonian comprises local and normalized non-local interactions; tuning the non-local coupling and field heterogeneity drives integrability breaking. To quantify scrambling, we employ bipartite mutual and tripartite information. Increasing non-local interactions drives tripartite information to large negative values, signaling deep information scrambling. Out-of-time-order correlators (OTOCs) exhibit exponential early-time growth, yielding quantum Lyapunov exponents that scale systematically with parameters governing the chaotic regime. Complementing this, Krylov complexity reveals rapid operator growth in the chaotic phase, synchronizing with OTOC and mutual information dynamics. Spectrally, the transition manifests as a shift from Poissonian to Wigner--Dyson level spacing statistics. The spectral form factor (SFF) exhibits the characteristic slope-dip-ramp-plateau structure, enabling the extraction of Thouless and Heisenberg times. Crucially, a reduced Thouless time strongly correlates with accelerated informational and operator scrambling. Ultimately, this work establishes a unified framework bridging network topology with information-theoretic, operator, and spectral diagnostics, offering profound insights into thermalization and non-equilibrium dynamics in quantum many-body systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:29:35 GMT</pubDate>
+      <guid isPermaLink="false">2607.02463v1</guid>
+      <dc:creator>Reza Pirmoradian</dc:creator>
+      <dc:creator>Soheir Rouhani</dc:creator>
+      <dc:creator>M. Reza Tanhayi</dc:creator>
+    </item>
+    <item>
+      <title>$Λ$ hyperons in core-collapse supernovae: Equilibration and neutrino opacities</title>
+      <link>http://arxiv.org/abs/2607.02086v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruben Zatini, Jorge Martin Camalich, Pasquale Dario Serpico, Tobias Fischer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strange hadrons are commonly included in dense-matter equation-of-state models by imposing chemical equilibrium, but the weak-interaction timescales required to establish it in core-collapse supernovae have not been systematically assessed. In this paper we compute the $Λ$-hyperon production rates in the hot, dense, and isospin-asymmetric conditions characteristic of post-collapse proto-neutron stars. We find that local $Λ$ chemical equilibration is driven by nonleptonic strangeness-changing reactions, especially $NN\leftrightarrow NΛ$ scattering, on timescales of order $10^{-11}$-$10^{-10}$ s, many orders of magnitude shorter than macroscopic proto-neutron-star evolution timescales. Using an effective-field-theory framework constrained by hypernuclear weak-decay data, we find that short-range contact interactions dominate the nonleptonic rates, beyond a pure one-meson-exchange description. Semileptonic channels are too slow to set the equilibrium $Λ$ abundance, but they open additional absorption channels for low-energy muon neutrinos and antineutrinos, such as $ν_μ+Λ\toμ^-+p$ and $p+μ^-+\barν_μ\toΛ$. At low energies, these $Λ$-induced neutrino opacities exceed the corresponding nucleonic contributions for muon (anti)neutrinos, possibly influencing the evolution of the muon lepton number during proto-neutron-star deleptonization. These results support local chemical equilibrium for $Λ$ hyperons under the conditions studied and provide new weak-interaction input for flavor-dependent neutrino transport, muonization, and proto-neutron-star evolution.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 12:26:28 GMT</pubDate>
+      <guid isPermaLink="false">2607.02086v1</guid>
+      <dc:creator>Ruben Zatini</dc:creator>
+      <dc:creator>Jorge Martin Camalich</dc:creator>
+      <dc:creator>Pasquale Dario Serpico</dc:creator>
+      <dc:creator>Tobias Fischer</dc:creator>
+    </item>
+    <item>
+      <title>Probing hot QCD medium with heavy quarkonium in small and large collision systems</title>
+      <link>http://arxiv.org/abs/2607.02042v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiamin Liu, Baoyi Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The yield ratios of different heavy quarkonium states serve as sensitive probes of final-state interactions in relativistic nuclear collisions, as they effectively cancel out common cold-nuclear-matter effects. To quantify hot QCD medium effects in small collision systems, such as proton-nucleus collisions, we employ a time-dependent Schrodinger equation framework to consistently simulate the real-time evolution of both bottomonium and charmonium states in the presence of in-medium complex heavy-quark potentials. In $p$-Pb collisions at $\sqrt{s_{\rm NN}}=8.16$ TeV, our model successfully describes the observed suppression in the yield ratios of excited-to-ground states-specifically $Υ(nS)/Υ(1S)$ and $ψ(2S)/J/ψ$-as a function of charged-particle multiplicity. This agreement supports the formation of a transient, hot QCD medium in small systems. Furthermore, the framework is employed to study the ratio of bottomonium nuclear modification factors in $\sqrt{s_{\rm NN}}=5.02$ TeV Pb-Pb collisions, where hot medium effects become stronger. By establishing a unified description across two distinct heavy-quark flavors and different collision systems, our study indicates that the yield ratio of bottomonium states serves as a clean probe of the hot QCD medium generated in small collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:09:33 GMT</pubDate>
+      <guid isPermaLink="false">2607.02042v1</guid>
+      <dc:creator>Jiamin Liu</dc:creator>
+      <dc:creator>Baoyi Chen</dc:creator>
+    </item>
     <item>
       <title>Purifying one-neutron removal as a probe of single-particle strength</title>
       <link>http://arxiv.org/abs/2607.01078v1</link>
@@ -229,44 +259,6 @@
       <dc:creator>Renzhuo Wan</dc:creator>
       <dc:creator>Zi-Wei Lin</dc:creator>
       <dc:creator>Guo-Liang Ma</dc:creator>
-    </item>
-    <item>
-      <title>QCD critical surface from constant entropy contours</title>
-      <link>http://arxiv.org/abs/2606.28282v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hitansh Shah, Tristan Gyure, Anabella Leon, Francesco Di Clemente, Mauricio Hippert, Claudia Ratti, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We provide the first mapping of the critical surface in (2+1)-flavor QCD in the full $(T,μ_B,μ_Q,μ_S)$ space, anchored on lattice QCD results at vanishing chemical potentials and obtained within an expansion along contours of constant entropy density. In the pure $μ_B$ direction, this framework yields a critical point at $(T_c,μ_{B,c}) \simeq (114,\, 602)$ MeV. Here we extend the construction to arbitrary directions in the three-dimensional chemical-potential space, parametrized by spherical coordinates $(μ,θ,\varphi)$, with the radial expansion truncated at $\mathcal{O}(μ^2)$. The resulting two-dimensional surface carries a direction-dependent critical temperature $T_c(θ,\varphi)$ and baryochemical potential $μ_{B,c}(θ,\varphi)$, which quantify the shift of the critical point relative to the pure $μ_B$ direction. We find that $μ_{B,c}$ increases by 40-100 MeV along the approximately strangeness neutral direction [$μ_S \approx (0.15$--$0.33)\, μ_B$, $μ_Q \approx 0$] relevant for heavy-ion collisions, while the critical temperature stays essentially unchanged. In the charge-neutral, weak-equilibrium direction~[$μ_Q \approx -(0.05$--$0.1) \,μ_B$, $μ_S = 0$] relevant for neutron star mergers, the critical point, and the associated first-order phase transition, remain present at essentially the same location in the $(T,μ_B)$ plane. We find no evidence for a critical point at large isospin densities, $|μ_Q| / μ_B \gtrsim 1$, relevant for cosmic trajectories in the early Universe, nor along the pure electric-charge or strangeness directions, at least outside the regions where pion or kaon condensation may occur.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 17:26:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.28282v1</guid>
-      <dc:creator>Hitansh Shah</dc:creator>
-      <dc:creator>Tristan Gyure</dc:creator>
-      <dc:creator>Anabella Leon</dc:creator>
-      <dc:creator>Francesco Di Clemente</dc:creator>
-      <dc:creator>Mauricio Hippert</dc:creator>
-      <dc:creator>Claudia Ratti</dc:creator>
-      <dc:creator>Volodymyr Vovchenko</dc:creator>
-    </item>
-    <item>
-      <title>Dense and Cold Magnetized Quark Matter: A Review of Magnetic-Field-Independent Regularization and the Medium Separation Scheme</title>
-      <link>http://arxiv.org/abs/2606.28111v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francisco X. Azeredo, Dyana C. Duarte, Ricardo L. S. Farias, Bruno S. Lopes, João A. R. S. Prado, William R. Tavares&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a comprehensive review of regularization schemes for magnetized dense quark matter within effective models of quantum chromodynamics, focusing on the Magnetic-Field-Independent Regularization (MFIR) and the Medium Separation Scheme (MSS) at finite chemical potential and magnetic field. In nonrenormalizable frameworks such as the Nambu-Jona-Lasinio model, the treatment of ultraviolet divergences is crucial, particularly in magnetized and dense environments where conventional regularization procedures may introduce unphysical artifacts. We show that MFIR consistently isolates divergent vacuum contributions from finite magnetic-field-dependent terms, while MSS extends this separation to the medium sector, ensuring that only vacuum quantities are regularized. Within this unified framework, we analyze the thermodynamics of cold and dense quark matter, including color-superconducting phases, and demonstrate that the superconducting gap remains finite at large chemical potentials, even in the presence of strong magnetic fields. In contrast to results obtained with traditional regularization schemes, we find no evidence for a transition to a normal phase at zero temperature, highlighting the importance of a proper separation between vacuum and medium contributions. These results eliminate spurious oscillations and other nonphysical artifacts, leading to a more robust and physically consistent description of strongly interacting matter under extreme conditions relevant to compact stars and heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 14:11:56 GMT</pubDate>
-      <guid isPermaLink="false">2606.28111v1</guid>
-      <dc:creator>Francisco X. Azeredo</dc:creator>
-      <dc:creator>Dyana C. Duarte</dc:creator>
-      <dc:creator>Ricardo L. S. Farias</dc:creator>
-      <dc:creator>Bruno S. Lopes</dc:creator>
-      <dc:creator>João A. R. S. Prado</dc:creator>
-      <dc:creator>William R. Tavares</dc:creator>
-    </item>
-    <item>
-      <title>$\texttt{SMaSH}$ : Simplify Massive Spinor Helicity</title>
-      <link>http://arxiv.org/abs/2606.27928v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aakash Kumar, Arnab Rudra, Rahul Shaw&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present $\texttt{SMaSH}$, a $\texttt{Mathematica}$ package to do spinor helicity computations in four spacetime dimensions $\href{https://github.com/aakash-kmr/SMaSH}{\text{(github)}}$. It can handle massive spinor helicity computations with explicit little group indices which is a novel feature. It can also handle massless as well as off-shell spinor helicity variables. It is designed to compute perturbative computations; it comes with predefined three point amplitudes and propagators for any masses and spins (arXiv:1709.04891). It can implement the high energy limit over an expression, check the discrete $\tt{C,P,T}$ transformations, compute contact terms and impose gauge invariance for any scattering process. We have shown the usage of such functions for computing gauge invariant Weinberg minimal amplitudes (arXiv:2506:12431, arXiv:2504:06343).
-  The package can also generate both real and complex numerical kinematics for any $n$-point scattering for arbitrary masses and energy scales by implementing the $\tt{RAMBO}$ algorithm. It is also rich with basic spinor helicity manipulations like Schouten simplification, Clifford algebra manipulation, conversion between spinor helicity and Lorentz vectors, derivative w.r.t. spinors and their scalars, helicity scaling etc.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 10:21:12 GMT</pubDate>
-      <guid isPermaLink="false">2606.27928v1</guid>
-      <dc:creator>Aakash Kumar</dc:creator>
-      <dc:creator>Arnab Rudra</dc:creator>
-      <dc:creator>Rahul Shaw</dc:creator>
     </item>
   </channel>
 </rss>

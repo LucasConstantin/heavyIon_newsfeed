@@ -5,9 +5,39 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:35:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model</title>
+      <link>http://arxiv.org/abs/2607.02463v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Reza Pirmoradian, Soheir Rouhani, M. Reza Tanhayi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the integrability-to-chaos transition and information scrambling in Ising spin networks via a graph-theoretic formulation. Modeling spins as vertices and interactions via adjacency matrices across path, Erdős--Rényi, and Watts--Strogatz topologies, we demonstrate that long-range couplings and heterogeneous degree distributions drastically accelerate quantum information propagation. The Hamiltonian comprises local and normalized non-local interactions; tuning the non-local coupling and field heterogeneity drives integrability breaking. To quantify scrambling, we employ bipartite mutual and tripartite information. Increasing non-local interactions drives tripartite information to large negative values, signaling deep information scrambling. Out-of-time-order correlators (OTOCs) exhibit exponential early-time growth, yielding quantum Lyapunov exponents that scale systematically with parameters governing the chaotic regime. Complementing this, Krylov complexity reveals rapid operator growth in the chaotic phase, synchronizing with OTOC and mutual information dynamics. Spectrally, the transition manifests as a shift from Poissonian to Wigner--Dyson level spacing statistics. The spectral form factor (SFF) exhibits the characteristic slope-dip-ramp-plateau structure, enabling the extraction of Thouless and Heisenberg times. Crucially, a reduced Thouless time strongly correlates with accelerated informational and operator scrambling. Ultimately, this work establishes a unified framework bridging network topology with information-theoretic, operator, and spectral diagnostics, offering profound insights into thermalization and non-equilibrium dynamics in quantum many-body systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:29:35 GMT</pubDate>
+      <guid isPermaLink="false">2607.02463v1</guid>
+      <dc:creator>Reza Pirmoradian</dc:creator>
+      <dc:creator>Soheir Rouhani</dc:creator>
+      <dc:creator>M. Reza Tanhayi</dc:creator>
+    </item>
+    <item>
+      <title>$Λ$ hyperons in core-collapse supernovae: Equilibration and neutrino opacities</title>
+      <link>http://arxiv.org/abs/2607.02086v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruben Zatini, Jorge Martin Camalich, Pasquale Dario Serpico, Tobias Fischer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strange hadrons are commonly included in dense-matter equation-of-state models by imposing chemical equilibrium, but the weak-interaction timescales required to establish it in core-collapse supernovae have not been systematically assessed. In this paper we compute the $Λ$-hyperon production rates in the hot, dense, and isospin-asymmetric conditions characteristic of post-collapse proto-neutron stars. We find that local $Λ$ chemical equilibration is driven by nonleptonic strangeness-changing reactions, especially $NN\leftrightarrow NΛ$ scattering, on timescales of order $10^{-11}$-$10^{-10}$ s, many orders of magnitude shorter than macroscopic proto-neutron-star evolution timescales. Using an effective-field-theory framework constrained by hypernuclear weak-decay data, we find that short-range contact interactions dominate the nonleptonic rates, beyond a pure one-meson-exchange description. Semileptonic channels are too slow to set the equilibrium $Λ$ abundance, but they open additional absorption channels for low-energy muon neutrinos and antineutrinos, such as $ν_μ+Λ\toμ^-+p$ and $p+μ^-+\barν_μ\toΛ$. At low energies, these $Λ$-induced neutrino opacities exceed the corresponding nucleonic contributions for muon (anti)neutrinos, possibly influencing the evolution of the muon lepton number during proto-neutron-star deleptonization. These results support local chemical equilibrium for $Λ$ hyperons under the conditions studied and provide new weak-interaction input for flavor-dependent neutrino transport, muonization, and proto-neutron-star evolution.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 12:26:28 GMT</pubDate>
+      <guid isPermaLink="false">2607.02086v1</guid>
+      <dc:creator>Ruben Zatini</dc:creator>
+      <dc:creator>Jorge Martin Camalich</dc:creator>
+      <dc:creator>Pasquale Dario Serpico</dc:creator>
+      <dc:creator>Tobias Fischer</dc:creator>
+    </item>
+    <item>
+      <title>Probing hot QCD medium with heavy quarkonium in small and large collision systems</title>
+      <link>http://arxiv.org/abs/2607.02042v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiamin Liu, Baoyi Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The yield ratios of different heavy quarkonium states serve as sensitive probes of final-state interactions in relativistic nuclear collisions, as they effectively cancel out common cold-nuclear-matter effects. To quantify hot QCD medium effects in small collision systems, such as proton-nucleus collisions, we employ a time-dependent Schrodinger equation framework to consistently simulate the real-time evolution of both bottomonium and charmonium states in the presence of in-medium complex heavy-quark potentials. In $p$-Pb collisions at $\sqrt{s_{\rm NN}}=8.16$ TeV, our model successfully describes the observed suppression in the yield ratios of excited-to-ground states-specifically $Υ(nS)/Υ(1S)$ and $ψ(2S)/J/ψ$-as a function of charged-particle multiplicity. This agreement supports the formation of a transient, hot QCD medium in small systems. Furthermore, the framework is employed to study the ratio of bottomonium nuclear modification factors in $\sqrt{s_{\rm NN}}=5.02$ TeV Pb-Pb collisions, where hot medium effects become stronger. By establishing a unified description across two distinct heavy-quark flavors and different collision systems, our study indicates that the yield ratio of bottomonium states serves as a clean probe of the hot QCD medium generated in small collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:09:33 GMT</pubDate>
+      <guid isPermaLink="false">2607.02042v1</guid>
+      <dc:creator>Jiamin Liu</dc:creator>
+      <dc:creator>Baoyi Chen</dc:creator>
+    </item>
     <item>
       <title>Purifying one-neutron removal as a probe of single-particle strength</title>
       <link>http://arxiv.org/abs/2607.01078v1</link>
@@ -265,17 +295,6 @@
       <dc:creator>Bruno S. Lopes</dc:creator>
       <dc:creator>João A. R. S. Prado</dc:creator>
       <dc:creator>William R. Tavares</dc:creator>
-    </item>
-    <item>
-      <title>$\texttt{SMaSH}$ : Simplify Massive Spinor Helicity</title>
-      <link>http://arxiv.org/abs/2606.27928v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aakash Kumar, Arnab Rudra, Rahul Shaw&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present $\texttt{SMaSH}$, a $\texttt{Mathematica}$ package to do spinor helicity computations in four spacetime dimensions $\href{https://github.com/aakash-kmr/SMaSH}{\text{(github)}}$. It can handle massive spinor helicity computations with explicit little group indices which is a novel feature. It can also handle massless as well as off-shell spinor helicity variables. It is designed to compute perturbative computations; it comes with predefined three point amplitudes and propagators for any masses and spins (arXiv:1709.04891). It can implement the high energy limit over an expression, check the discrete $\tt{C,P,T}$ transformations, compute contact terms and impose gauge invariance for any scattering process. We have shown the usage of such functions for computing gauge invariant Weinberg minimal amplitudes (arXiv:2506:12431, arXiv:2504:06343).
-  The package can also generate both real and complex numerical kinematics for any $n$-point scattering for arbitrary masses and energy scales by implementing the $\tt{RAMBO}$ algorithm. It is also rich with basic spinor helicity manipulations like Schouten simplification, Clifford algebra manipulation, conversion between spinor helicity and Lorentz vectors, derivative w.r.t. spinors and their scalars, helicity scaling etc.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 10:21:12 GMT</pubDate>
-      <guid isPermaLink="false">2606.27928v1</guid>
-      <dc:creator>Aakash Kumar</dc:creator>
-      <dc:creator>Arnab Rudra</dc:creator>
-      <dc:creator>Rahul Shaw</dc:creator>
     </item>
     <item>
       <title>Modelling Dissipative Dynamics of r-mode Instability in Hybrid Stars</title>
@@ -1105,15 +1124,6 @@
       <dc:creator>Liliet Calero-Diaz</dc:creator>
     </item>
     <item>
-      <title>Chiral Plasma under Strong Magnetic Fields: A Holographic Analysis of Transport Phenomena</title>
-      <link>http://arxiv.org/abs/2606.10689v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Michael Lublinsky, Hadas Tzarfati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chiral plasma appears in several areas of physics, historically starting from primordial plasma in the early Universe, then in quark-gluon plasma produced in heavy ion collisions, and, more recently, in Dirac and Weyl semimetals. The major signature of the plasma is the non-conservation of the axial current due to the chiral anomaly and the emergence of new, anomaly-induced transport phenomena. In this paper, we study the plasma exposed to arbitrarily strong constant magnetic and weak electric fields. Employing all-order gradient resummation, we write down constitutive relations for electric and axial currents parameterized by thirteen momentum- and magnetic- field-dependent transport coefficient functions. The latter are computed utilizing a theoretical lab for a realistic plasma, namely a holographic $U(1)_V \times U(1)_A$ Maxwell--Chern--Simons theory in Schwarzschild--AdS$_5$, in the probe limit. As an application, we revisit the phenomena of negative magnetoresistance and chiral magnetic waves, beyond the naive hydrodynamic limit.&lt;/p&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 10:48:17 GMT</pubDate>
-      <guid isPermaLink="false">2606.10689v1</guid>
-      <dc:creator>Michael Lublinsky</dc:creator>
-      <dc:creator>Hadas Tzarfati</dc:creator>
-    </item>
-    <item>
       <title>$Λ$(1520) as a probe of resonance-driven deuteron formation at the LHC</title>
       <link>http://arxiv.org/abs/2606.10668v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sushanta Tripathy, Peter Christiansen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Light nuclei such as deuterons are produced abundantly in high-energy proton-proton and nuclear collisions despite their tiny binding energies. Their production mechanism remains unresolved, as both nucleon coalescence and statistical thermal models reproduce inclusive LHC yields. We propose a direct invariant-mass observable that discriminates between these scenarios using the long-lived $Λ(1520) \to {\rm pK}$ resonance. If decay protons coalesce into deuterons, the produced nuclei remain correlated with the kaon, allowing the resonance peak to be reconstructed experimentally through proxy masses, $M_{\rm (d/2)K}$, formed from kaons and half the deuteron four-momentum. Using Thermal-FIST and PYTHIA with a deuteron coalescence afterburner, we show that a $M_{\rm (d/2)K}$ peak emerges only in the coalescence scenario. This observable provides a direct experimental probe of resonance-fed deuteron production and of late-stage coalescence dynamics in high-energy collisions.&lt;/p&gt;</description>
@@ -1121,19 +1131,6 @@
       <guid isPermaLink="false">2606.10668v1</guid>
       <dc:creator>Sushanta Tripathy</dc:creator>
       <dc:creator>Peter Christiansen</dc:creator>
-    </item>
-    <item>
-      <title>Sequential Clusterization of Light Nuclei and Hypernuclei in Heavy-Ion Collisions within a Wigner Function Coalescence Framework</title>
-      <link>http://arxiv.org/abs/2606.10441v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junyi Han, Yue-Hang Leung, Jiaxing Zhao, Yingjie Zhou, Norbert Hermann, Yaping Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the formation of light nuclei and hypernuclei in Au+Au collisions at $\sqrt{s_{NN}}=3~\mathrm{GeV}$ within a coalescence framework embedded in the microscopic N-body Parton-Hadron-Quantum-Molecular Dynamics (PHQMD) transport model. The Wigner phase-space distributions employed in the coalescence calculation are constructed from realistic $N$-body wave functions obtained by solving the Schrödinger equation in the hyperspherical harmonics formalism, providing a solid and parameter-free description of nuclear clusters and hypernuclei. By comparing calculated rapidity distributions with STAR data, we extract species-dependent coalescence times, revealing a non-universal formation pattern among different clusters. The resulting yields and kinematic distributions of light nuclei and hypernuclei are systematically analyzed and shown to be sensitive to the underlying wave-function structure and formation time. In addition, we explore cluster-nucleon formation channels for $A=4$ systems. These additional channels improve the description of ${}^{4}\mathrm{He}$ and ${}^{4}_Λ\mathrm{H}$ yields and help address the underestimation of $A=4$ cluster production in theoretical approaches. Finally, we provide predictions for heavier hypernuclei, including ${}^{5}_Λ\mathrm{He}$ and ${}^{5}_{ΛΛ}\mathrm{He}$, which are of interest for future experimental measurements.&lt;/p&gt;</description>
-      <pubDate>Tue, 09 Jun 2026 05:37:33 GMT</pubDate>
-      <guid isPermaLink="false">2606.10441v1</guid>
-      <dc:creator>Junyi Han</dc:creator>
-      <dc:creator>Yue-Hang Leung</dc:creator>
-      <dc:creator>Jiaxing Zhao</dc:creator>
-      <dc:creator>Yingjie Zhou</dc:creator>
-      <dc:creator>Norbert Hermann</dc:creator>
-      <dc:creator>Yaping Wang</dc:creator>
     </item>
     <item>
       <title>Nonflow Subtraction Beyond Two-Particle Correlations</title>
@@ -3183,22 +3180,6 @@
       <dc:creator>Kazunori Itakura</dc:creator>
       <dc:creator>Yasushi Nara</dc:creator>
       <dc:creator>Shujun Zhao</dc:creator>
-    </item>
-    <item>
-      <title>Tilted geometry of the pion emission source in Au+Au collisions in the RHIC Beam Energy Scan</title>
-      <link>http://arxiv.org/abs/2605.15013v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the first systematic measurement of the tilt of the pion emission source in relativistic Au+Au collisions at center-of-mass energies per nucleon pair, $\sqrt{s_{NN}}$ = 7.7, 14.5, 17.3 and 27 GeV, using data from the STAR experiment. The tilt angle and final freeze-out eccentricity are extracted through azimuthally sensitive femtoscopy of identical pion pairs. Our results reveal a strong dependence of the tilt parameter on the pair transverse momentum, indicating that the apparent source geometry is strongly coupled to expansion dynamics. Moreover, we observe a rapid decrease of the tilt magnitude with increasing collision energy, consistent with the emission source approaching longitudinal boost invariance at higher energies. These findings demonstrate that the commonly assumed boost-invariant geometry is insufficient and highlight the necessity of exploring the spatial structure of a tilted source, which is required in hydrodynamic models to reproduce features of the longitudinally expanding system, such as the slope of the directed flow. Comparisons with the UrQMD transport model show that it reproduces the overall energy dependence of the tilt magnitude qualitatively, but not quantitatively.&lt;/p&gt;</description>
-      <pubDate>Thu, 14 May 2026 16:13:56 GMT</pubDate>
-      <guid isPermaLink="false">2605.15013v1</guid>
-      <dc:creator>STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Exclusive dimuon production and coherent charmonium photoproduction at forward rapidity in ultra-peripheral Pb$-$Pb collisions at $\mathbf{\sqrt{s_{\rm NN}}=5.36}$ TeV</title>
-      <link>http://arxiv.org/abs/2605.13569v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This Paper presents rapidity-differential measurements of coherent J/$ψ$ and $ψ({\rm 2S})$ photoproduction, as well as rapidity- and mass-differential measurements of exclusive dimuon production, in the forward rapidity region $-4 &lt; y &lt; -2.5$ in ultra-peripheral Pb$-$Pb collisions at $\sqrt{s_{\rm NN}}=5.36$ TeV using data recorded by the ALICE detector at the LHC in 2023, corresponding to an integrated luminosity of $\mathcal{L} = 1170 \pm 50~μ{\rm b}^{-1}$. The J/$ψ$ and $ψ({\rm 2S})$ results reveal the significant role of nuclear shadowing effects. The square root of the ratio of the measured quarkonium cross section to the impulse approximation prediction is about 0.76 for J/$ψ$ and 0.71 for $ψ({\rm 2S})$, at $y \approx -3$, corresponding to typical Bjorken-$x$ values of $10^{-2}$. The exclusive dimuon results highlight the sensitivity of such measurements to precise modeling of the photon flux, particularly at impact parameters near the nuclear radius.&lt;/p&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:06:02 GMT</pubDate>
-      <guid isPermaLink="false">2605.13569v1</guid>
-      <dc:creator>ALICE Collaboration</dc:creator>
     </item>
   </channel>
 </rss>
