@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:37:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:37:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -200,31 +200,6 @@
       <pubDate>Mon, 29 Jun 2026 00:23:39 GMT</pubDate>
       <guid isPermaLink="false">2606.29668v1</guid>
       <dc:creator>Kei-Ichi Kondo</dc:creator>
-    </item>
-    <item>
-      <title>Nuclear equation-of-state at high density and multi-messenger astronomy: contribution of heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.29588v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. Le Fèvre&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the past decades, heavy-ion collisions (HIC) at intermediate energies have allowed to probe the nuclear equation-of-state (EoS) of both symmetric and asymmetric nuclear matter over a broad range of densities. In particular, flow has proven to be a powerful observable. Combining the symmetry energy and the symmetric nuclear matter constraints of the EoS from HIC allowed to predict a density dependence of the pressure in a neutron star, up to about 2.5 times saturation density ($n_{sat}$), which agrees with recent astronomical measurements deduced from gravitational waves and pulsar observations. So far, the accuracy from HIC expectations is comparable to the latter up to 1.5 $n_{sat}$. In these studies, a fundamental aspect is the determination of the profile of densities that are probed by experimental observables used to constrain the EoS. In the near future, new experiments like ASY-EOS performed at higher incident energy and with better accuracy will push further the frontier of the knowledge of the symmetry energy at higher density. These efforts cannot be conclusive without a reliable uncertainty determination, which is related to the reliability of transport model dependencies. Improvements and breakthroughs in transport model simulations and nuclear theory are therefore expected in a joint effort towards HIC contributions to the field of neutron-star physics, including the contribution of strangeness and of the QCD phase transition.&lt;/p&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 20:16:50 GMT</pubDate>
-      <guid isPermaLink="false">2606.29588v1</guid>
-      <dc:creator>A. Le Fèvre</dc:creator>
-    </item>
-    <item>
-      <title>Revisiting identified-particle $p_{\mathrm{T}}$ spectra using the Boltzmann-Gibbs blast-wave model in a Bayesian inference framework</title>
-      <link>http://arxiv.org/abs/2606.29187v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Z. Xie, W. Z. Li, J. Q. Tao, H. Zheng, W. C. Zhang, W. Dai, L. L. Zhu, X. Q. Liu, D. M. Zhou, B. H. Sa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a Bayesian analysis of transverse momentum ($p_{\mathrm{T}}$) spectra of identified particles, i.e., pions, kaons, and protons, at midrapidity in Au+Au collisions and Pb+Pb collisions using the Boltzmann-Gibbs blast-wave (BGBW) model. We investigate whether it is possible to simultaneously describe the $p_{\mathrm{T}}$ spectra of identified particles without imposing the particle species-dependent $p_{\mathrm{T}}$ fit ranges -- a practice that was followed in conventional blast-wave model studies to achieve reasonable simultaneous fits. Using Bayesian analysis, our results indicate that a simultaneous description of the $p_{\mathrm{T}}$ spectra of pions, kaons, and protons is feasible without imposing the particle species-dependent $p_{\mathrm{T}}$ fit ranges, for Au+Au collisions up to the available data ($\sim$2 GeV/c) and for Pb+Pb collisions up to 3 GeV/c. The extracted parameters remain broadly consistent with those obtained from conventional BGBW simultaneous fits, while the extension of the fit range leads to moderate changes in some parameters. Furthermore, Bayesian analysis yields well-constrained posterior distributions for the kinetic freeze-out temperature $T_{kin}$, the average transverse flow velocity $\langle β_{\mathrm{T}}\rangle$, and the exponent of the velocity profile $n$ and shows their correlations transparently. We suggest that the BGBW model in a Bayesian inference framework proposed can be applied in future data analyses to simultaneously describe the $p_{\mathrm{T}}$ spectra of identified particles and extract the relevant information about the collision system.&lt;/p&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 04:20:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.29187v1</guid>
-      <dc:creator>Z. Xie</dc:creator>
-      <dc:creator>W. Z. Li</dc:creator>
-      <dc:creator>J. Q. Tao</dc:creator>
-      <dc:creator>H. Zheng</dc:creator>
-      <dc:creator>W. C. Zhang</dc:creator>
-      <dc:creator>W. Dai</dc:creator>
-      <dc:creator>L. L. Zhu</dc:creator>
-      <dc:creator>X. Q. Liu</dc:creator>
-      <dc:creator>D. M. Zhou</dc:creator>
-      <dc:creator>B. H. Sa</dc:creator>
     </item>
   </channel>
 </rss>
