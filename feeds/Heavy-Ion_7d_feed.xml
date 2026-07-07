@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:37:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -119,87 +119,6 @@
       <dc:creator>Zhi-Ying Qin</dc:creator>
       <dc:creator>Jia Zhou</dc:creator>
       <dc:creator>Jun Xu</dc:creator>
-    </item>
-    <item>
-      <title>Revisiting fermion bound states in baby Skyrme background with Dzyaloshinskii Moriya interaction</title>
-      <link>http://arxiv.org/abs/2606.30964v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arvind Rajaraman, Chao-Hsiang Sheu, Alexander Stewart&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this paper, we investigate a fermion coupled to a Skyrme model in $2+1$ dimensions, where the Skyrmion is stabilized by the Dzyaloshinskii-Moriya and Skyrme interactions under a quadratic potential. This framework interpolates between the magnetic Skyrmion at the critical coupling and the baby-Skyrme limit. The Dirac equation is studied both analytically in a non-relativistic reduction and numerically for the full relativistic spectrum, and the parameter region admitting states bound to the Skyrmion is determined. Localized solutions exist only for electrically charged fermions with positive charge and negative angular momentum, and are absent for neutral fermions. The lowest bound state in each angular momentum sector is characterized as a function of the fermion mass, charge, and the coupling $h$ to the Skyrmion isospin, and its behavior is compared across the magnetic, baby, and mixed Skyrmion backgrounds. The resulting fermion--Skyrmion composite constitutes an electrically charged state bound to a topological texture, providing concrete signatures for potential future transport and scattering measurements in chiral magnets.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 22:52:09 GMT</pubDate>
-      <guid isPermaLink="false">2606.30964v1</guid>
-      <dc:creator>Arvind Rajaraman</dc:creator>
-      <dc:creator>Chao-Hsiang Sheu</dc:creator>
-      <dc:creator>Alexander Stewart</dc:creator>
-    </item>
-    <item>
-      <title>$Λ\bar Λ$ spin correlations in high-energy collisions from quantum channels: an open quantum system view of hadronization</title>
-      <link>http://arxiv.org/abs/2606.30737v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Iván Cuntín, Enrique Rico, Bin Wu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct a quantum information-centered approach to describe the experimentally observed behavior of hyperon spin-pair correlations in high-energy collider experiments. The evolution of the spin density matrix of the hyperon pair is treated in the language of quantum channels, accounting both for the spin dynamics in $\mathbb{C}^2\otimes\mathbb{C}^2$ and for the pair's angular separation $ΔR$. We show that the experimental data are consistent with an evolution under a two-qubit depolarizing channel, from which a Lindblad master equation is derived. This provides an open quantum system picture of spin dynamics during the hadronization transition, which is not naturally captured by other quantum channels, and we discuss its microscopic origins. These results show that quantum information science can offer new insights into confinement dynamics beyond the classification of entanglement in the final particle states.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 18:00:05 GMT</pubDate>
-      <guid isPermaLink="false">2606.30737v1</guid>
-      <dc:creator>João Barata</dc:creator>
-      <dc:creator>Iván Cuntín</dc:creator>
-      <dc:creator>Enrique Rico</dc:creator>
-      <dc:creator>Bin Wu</dc:creator>
-    </item>
-    <item>
-      <title>Complex Conformal Manifolds</title>
-      <link>http://arxiv.org/abs/2606.30720v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yuma Furuta, Wataru Harada, Yuya Kusuki, Yin Tang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Complex conformal field theories (CFTs) have recently emerged as essential frameworks for understanding non-Hermitian criticality, weakly first-order phase transitions, and walking renormalization group flows, while their general structures remain largely unknown. In this work, we propose a systematic construction of complex CFTs by analytically continuing exactly marginal couplings into the complex plane. This procedure applies uniformly to bulk, boundary, and defect deformations, preserving conformal symmetry while generically complexifying operator spectra and other universal data. Using the compact free boson as a solvable laboratory, we uncover the global structure of the complexified Gaussian conformal manifold. More generally, we demonstrate that genuinely complex rational CFTs do not exist: rational points remain confined to the real regime, providing a sharp distinction between real and complex theories. In the defect case, we investigate the one-parameter family of conformal defects in the Ising CFT and derive exact expressions for the defect spectrum, energy transmission coefficient, and effective central charge from analytic continuation. The theoretical predictions are precisely verified in non-Hermitian critical Ising and free fermion chains using bulk-defect correlators, entanglement entropy, and complex energy transport, providing concrete evidence for the complex defect conformal manifold. Finally, we study complex boundary renormalization-group flows through the AdS/BCFT correspondence. Our results establish complex conformal manifolds as a controlled bridge between solvable lattice models, complex CFTs, and holography, while providing stringent analytic benchmarks for the nonunitary conformal bootstrap.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 18:00:01 GMT</pubDate>
-      <guid isPermaLink="false">2606.30720v1</guid>
-      <dc:creator>Yuma Furuta</dc:creator>
-      <dc:creator>Wataru Harada</dc:creator>
-      <dc:creator>Yuya Kusuki</dc:creator>
-      <dc:creator>Yin Tang</dc:creator>
-    </item>
-    <item>
-      <title>Nonequilibrium Andreev transport at the QGP-2SC interface</title>
-      <link>http://arxiv.org/abs/2606.30521v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tingyu Zhang, Honoka Hoshino, Hiroyuki Tajima, Motoi Tachibana, Mariusz Sadzikowski&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We discuss a nonequilibrium Andreev reflection at an interface between quark-gluon plasma (QGP) and two-flavor color superconducting (2SC) quark matter. Based on the Schwinger-Keldysh framework and a relativistic tunneling model, we evaluate the momentum-resolved tunneling current generated by a chemical-potential bias between the QGP and 2SC phases. We find that the Andreev reflection appears as at the fourth order of the tunneling strength, in which an incident quark in QGP is converted into a reflected hole, while a Cooper pair is injected into the 2SC condensate. We show that the Andreev reflection is enhanced when the bias becomes comparable to the gap and is suppressed in the supergap region, which is similar to that in superconducting materials. The present formulation provides a field-theoretical pathway to strongly-correlated transport across dense-matter interfaces relevant to nonequilibrium dynamics in compact stars.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 16:29:01 GMT</pubDate>
-      <guid isPermaLink="false">2606.30521v1</guid>
-      <dc:creator>Tingyu Zhang</dc:creator>
-      <dc:creator>Honoka Hoshino</dc:creator>
-      <dc:creator>Hiroyuki Tajima</dc:creator>
-      <dc:creator>Motoi Tachibana</dc:creator>
-      <dc:creator>Mariusz Sadzikowski</dc:creator>
-    </item>
-    <item>
-      <title>Isospin-Driven Splitting of Chemical Potentials in Isobar Collisions from Lattice QCD</title>
-      <link>http://arxiv.org/abs/2606.30164v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Heng-Tong Ding, Jin-Biao Gu, Arpith Kumar, Jia Ni&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strong magnetic fields produced in relativistic heavy-ion collisions can modify fluctuations of conserved charges and, consequently, their associated chemical potentials. We present first-principles $(2+1)$-flavor lattice-QCD results for isospin-driven splittings of conserved-charge chemical potentials between the isobar systems $^{96}_{44}\mathrm{Ru}+^{96}_{44}\mathrm{Ru}$ and $^{96}_{40}\mathrm{Zr}+^{96}_{40}\mathrm{Zr}$ in the QCD crossover region, both at vanishing and nonzero magnetic fields along the pseudo-critical line $T_{pc}(eB)$. We outline a framework that, under strangeness neutrality and charge-to-baryon ratio $r\equiv n_{\rm Q}/n_{\rm B}$, maps the isospin difference between two nuclei, as encoded in $r_{\rm Zr}$ and $r_{\rm Ru}$, onto splitting ratios $Δμ_{\rm Q}/Δμ_{\rm B}$, $Δμ_{\rm S}/Δμ_{\rm B}$, and $Δμ_{\rm S}/Δμ_{\rm Q}$ as functions of $μ_{\rm B}(r_{\rm Ru})/Δμ_{\rm B}$. Using continuum-estimated lattice results for the leading-order coefficients $q_1\equiv(μ_{\rm Q}/μ_{\rm B})_{\rm LO}$ and $s_1\equiv(μ_{\rm S}/μ_{\rm B})_{\rm LO}$, we find that, at vanishing magnetic field, the splitting ratios are of similar magnitude to recent Bayesian extractions from STAR isobar data and yield $Δμ_{\rm Q}&lt;0$ and $Δμ_{\rm S}&gt;0$, with the electric-charge sector dominating. At nonzero magnetic fields, the splitting ratios show only moderate $eB$ dependence. We therefore further examine Ru--Zr differences in the normalized magnetic-field response of chemical-potential ratios, particularly those involving $μ_{\rm Q}/μ_{\rm B}$, which display a pronounced enhancement in lattice QCD. We also present hadron resonance gas (HRG) results and experimentally motivated proxy observables with kinematic cuts to facilitate contact with experiment.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 11:42:19 GMT</pubDate>
-      <guid isPermaLink="false">2606.30164v1</guid>
-      <dc:creator>Heng-Tong Ding</dc:creator>
-      <dc:creator>Jin-Biao Gu</dc:creator>
-      <dc:creator>Arpith Kumar</dc:creator>
-      <dc:creator>Jia Ni</dc:creator>
-    </item>
-    <item>
-      <title>Anisotropic hadronic rescattering and its impact on $K^{*0}$ yield, and polarization observable</title>
-      <link>http://arxiv.org/abs/2606.30154v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kadambini Menduli, Md. Nasim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we investigate the anisotropic suppression of reconstructed $K^{*0}$ resonances arising from hadronic rescattering using the A Multi-Phase Transport (AMPT) model for Au+Au collisions at $\sqrt{s_{NN}}=200$ GeV. We demonstrate that the rescattering probability of the decay daughters depends strongly on the decay angle $θ^{*}$ due to Lorentz boost effects, which lead to smaller laboratory-frame momenta for daughters emitted opposite to the parent particle motion. This anisotropic suppression influences several experimentally measured observables. We show that the reconstructed $K^{*0}$ yield exhibits a strong $θ^{*}$ dependence. Furthermore, the anisotropic loss of resonances modifies the angular distributions used to extract the spin alignment parameter $ρ_{00}$ in the production-plane and helicity frames. Even in the absence of intrinsic polarization in the model, the reconstructed $K^{*0}$ sample shows deviations of $ρ_{00}$ from the unpolarized value of $1/3$, with opposite trends in the two reference frames. These results demonstrate that hadronic rescattering can generate apparent polarization signals and must be carefully considered in experimental measurements of vector-meson spin alignment using production plane and helicity frame.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 11:30:19 GMT</pubDate>
-      <guid isPermaLink="false">2606.30154v1</guid>
-      <dc:creator>Kadambini Menduli</dc:creator>
-      <dc:creator>Md. Nasim</dc:creator>
-    </item>
-    <item>
-      <title>Nonlinear nature of near-equilibrium viscous fluids</title>
-      <link>http://arxiv.org/abs/2606.30043v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yan Liu, Hao-Tian Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the late-time relaxation of a neutral relativistic viscous fluid in $d+1$ dimensions. In the long-wavelength regime, linearized hydrodynamics predicts that the sound mode at momentum $nk$ decays as $e^{-n^2ω_I t}$. However, nonlinear analysis gives a decay of $e^{-nω_I t}$. We derive a closed asymptotic attractor solution in which the frequency of the $n$-th harmonic locks to $n$ times the complex frequency of the fundamental mode. The amplitude envelopes for energy current $J$ obey a simple cascading relation, $J_n=α_J^{\,n-1}J_1^n$, with $α_J$ fixed by the equation of state, the longitudinal viscosity, and the fundamental wavenumber. For conformal fluids, $α_J=1/(8ηk)$, in agreement with the holographic result of arXiv:2512.07242. The existence of the attractor shows that, even near equilibrium, field powers are not equivalent to amplitude order.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 09:36:04 GMT</pubDate>
-      <guid isPermaLink="false">2606.30043v1</guid>
-      <dc:creator>Yan Liu</dc:creator>
-      <dc:creator>Hao-Tian Sun</dc:creator>
-    </item>
-    <item>
-      <title>Understanding Color Confinement through Quantum Reference Frames and Relational Observables</title>
-      <link>http://arxiv.org/abs/2606.29668v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kei-Ichi Kondo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a formulation for understanding color confinement on the basis of quantum reference frames (QRFs) and relational observables. In the QRF approach to color confinement, colored quantities are not defined as isolated local fields, but rather as relational observables with respect to a color frame or a dressing field. By the Gauss law, local color charge is excluded from the physical bulk algebra, whereas semi-local data such as boundary fluxes and Wilson lines may remain. Color confinement is characterized by the absence of a globally well-defined long-distance color QRF capable of supporting isolated non-singlet relational observables. This formulation preserves the insight of the Kugo-Ojima type picture, while avoiding dependence on a particular covariant gauge, an unbroken global BRST symmetry, and a specific infrared confinement criterion. As concrete examples, we consider (1+1)-dim. Yang-Mills theory, (1+1)-dim. U(1) gauge-Higgs model, and the two-dim. U(1) gauge-Higgs model on $\mathbb{H}^2$ ($AdS_2$) and three-dim. SU(2) gauge-Higgs model on $\mathbb{H}^3$ ($AdS_3$) obtained by dimensional reduction of four-dim. SU(2) Yang-Mills theory restricted to symmetric-instanton sectors. Through explicit calculations in these examples and in controlled sectors, we provide nontrivial consistency checks for the validity of the present formulation. We also discuss prospects for four-dim. Yang-Mills theory and gauge-Higgs theories. QRF-based color confinement provides a relational formulation of why isolated colored asymptotic sectors are absent. At the same time, it clarifies the role played by topological defects and shows that other confinement criteria -- the Wilson-loop area law, the preservation of generalized symmetry, namely center one-form symmetry, and the restoration of residual gauge symmetry -- can be organized as manifestations of a common QRF structure.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 00:23:39 GMT</pubDate>
-      <guid isPermaLink="false">2606.29668v1</guid>
-      <dc:creator>Kei-Ichi Kondo</dc:creator>
     </item>
   </channel>
 </rss>
