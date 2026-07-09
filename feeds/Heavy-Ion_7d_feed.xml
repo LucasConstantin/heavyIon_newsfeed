@@ -5,18 +5,171 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:35:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Effective Color Dipole Approach to Color Transparency in $ρ^0$ Electroproduction}</title>
-      <link>http://arxiv.org/abs/2607.00566v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tae Keun Choi, Kook-Jin Kong, Byung-Geel Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate nuclear transparency in exclusive $ρ^{0}$ electroproduction on $^{12}$C and $^{56}$Fe nuclei within a multi-channel final-state interaction (FSI) framework that explicitly incorporates the kinematic decay length effect (DLE) arising from the short-lived $ρ^{0}\rightarrowπ^{+}π^{-}$ decay. The conventional DLE and nuclear shadowing mechanisms together remain insufficient to account for the observed $Q^2$-dependent enhancement, systematically underestimating the measured transparency throughout the CLAS kinematic range. To address this, we introduce an effective Color Dipole Model (CDM) boundary condition for the initial PLC interaction cross section $σ_{\text{h}}(Q^2)$, evaluated through a normalized dipole-weighted $γ^* \to ρ^0$ transition overlap, in place of the purely empirical Quantum Diffusion Model (QDM) ansatz. This CDM-inspired initial condition, combined with the standard linear QDM transport, yields a consistent description of the $Q^2$-dependent CLAS data for both targets with an effective in-medium expansion scale $Δm^2 = 0.3~\mathrm{GeV}^2$. The present analysis establishes a quantitative connection between QCD color dynamics and nuclear final-state interactions and provide a systematic framework for studying CT in nuclei.&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 13:05:59 GMT</pubDate>
-      <guid isPermaLink="false">2607.00566v2</guid>
-      <dc:creator>Tae Keun Choi</dc:creator>
-      <dc:creator>Kook-Jin Kong</dc:creator>
-      <dc:creator>Byung-Geel Yu</dc:creator>
+      <title>Bottomonium production in an open quantum system approach with interactions from lattice quantum chromodynamic</title>
+      <link>http://arxiv.org/abs/2607.06191v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuhan Zheng, Shuzhe Shi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bottomonium production in Pb-Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV is studied using a Lindblad master equation derived from potential non-relativistic quantum chromodynamics (QCD), where quantum regeneration of color-singlet states is matched to the lattice QCD imaginary potential via collapse operators. Two parametrizations of the in-medium heavy-quark potential, both constrained by lattice QCD data, are employed to compute the nuclear modification factors of $Υ(1S)$, $Υ(2S)$, and $Υ(3S)$. The results show sensitivities to both the quantum regeneration effect and the initial condition of the density matrix. The dipole transitions in the collapse operators are found to significantly redistribute populations among different orbital angular momentum channels. It is shown that regeneration is more important when a potential with a larger imaginary part, i.e., stronger transitions between singlet and octet states, is used.&lt;/p&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 12:15:10 GMT</pubDate>
+      <guid isPermaLink="false">2607.06191v1</guid>
+      <dc:creator>Shuhan Zheng</dc:creator>
+      <dc:creator>Shuzhe Shi</dc:creator>
+    </item>
+    <item>
+      <title>Quantum decoherence: a study applied to quarkonium-like bound states in strongly interacting matter</title>
+      <link>http://arxiv.org/abs/2607.06137v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gabriele Coci, Salvatore Plumari, Giuseppe Falci&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the quantum decoherence of a bound state interacting with a reservoir of strongly interacting matter within the framework of open quantum systems. The bound state is modeled as a quantum harmonic oscillator whose parameters are tuned to reproduce the root-mean-square radius of $J/Ψ$ particle. The surrounding medium, representing the many degrees of freedom of strongly interacting matter, acts as an environment that induces dissipation and decoherence through system-reservoir coupling. By analyzing the time evolution of the reduced density matrix, we quantify the loss of quantum coherence and its dependence on medium properties. Subsequently, we extend the model by introducing a time dependence in the system-thermal bath coupling, thereby simulating a temperature evolution similar to that occurring during the expansion of a fireball in the central region of heavy-ion collisions. We find that a temperature evolution has a relevant impact on the way the system loses coherence through the coupling with the expanding medium. Finally, we estimate the impact of the time-dependent temperature on the decoherence process, also analyzing a scenario that includes viscous effects without finding a significant change with respect to ideal hydrodynamical evolution.&lt;/p&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 10:54:10 GMT</pubDate>
+      <guid isPermaLink="false">2607.06137v1</guid>
+      <dc:creator>Gabriele Coci</dc:creator>
+      <dc:creator>Salvatore Plumari</dc:creator>
+      <dc:creator>Giuseppe Falci</dc:creator>
+    </item>
+    <item>
+      <title>Relativistic Vorticity in the Quark-Gluon Plasma: Generation Symmetries, Explosive Dilution, and Azimuthal Spin Alignment</title>
+      <link>http://arxiv.org/abs/2607.03716v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Malak Ait Tamlihat, Ghizlane Ez-Zobayr, Laurent Schoeffel, Yahya Tayalati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This article provides a self-contained bridge between classical vortex dynamics and the relativistic, subatomic domain of the Quark-Gluon Plasma (QGP) produced in ultra-relativistic heavy-ion collisions. While the QGP is widely studied for its near-perfect fluidity, we focus on its role as the most vortical medium in the Universe ($ω\sim 10^{22}\text{ s}^{-1}$). The originality of our approach lies in isolating the explicit physical competition between non-linear vortex stretching and violent relativistic volumetric dilatation. By solving the covariant transport equations and tracking the comoving enstrophy density, we demonstrate that the explosive kinematics of the QGP provide an innate geometric shield that naturally regularizes the continuous flow, suppressing the self-amplification of vortex tubes before any microscopic viscosity is required. Furthermore, we connect this expansion phase back to the highly non-equilibrium initial state. We quantitatively predict that under a peripheral dipole initial topology, the global mid-rapidity hyperon polarization vanishes ($P_Λ\lesssim 10^{-4}$), establishing that the definitive signature of the QGP's rotation must be sought in azimuthal differential measurements within the LHC and RHIC experimental programs.&lt;/p&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 08:49:34 GMT</pubDate>
+      <guid isPermaLink="false">2607.03716v2</guid>
+      <dc:creator>Malak Ait Tamlihat</dc:creator>
+      <dc:creator>Ghizlane Ez-Zobayr</dc:creator>
+      <dc:creator>Laurent Schoeffel</dc:creator>
+      <dc:creator>Yahya Tayalati</dc:creator>
+    </item>
+    <item>
+      <title>Nonlinear Causality and Strong Hyperbolicity of Einstein-Israel-Stewart Theories of Transient Relativistic Fluid Dynamics</title>
+      <link>http://arxiv.org/abs/2607.05639v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ian Cordeiro, Enrico Speranza, Fábio S. Bemfica, Marcelo M. Disconzi, Jorge Noronha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the first complete analysis of nonlinear causality and local well-posedness for a very general class of bulk and shear viscous theories of relativistic transient fluid dynamics, which encompasses (i) the original Israel-Stewart theory derived from entropy-current arguments, (ii) approaches derived from kinetic theory, and (iii) resummed gradient-expansion based formulations as particular subcases. Our work establishes, for the first time, simultaneously necessary and sufficient algebraic conditions for causality, alongside sufficient conditions guaranteeing strong hyperbolicity, in the full nonlinear regime. These results are rigorously proven for both systems coupled to Einstein's equations featuring a dynamic metric and on a fixed background, with or without a cosmological constant, and include baryon conservation (in the absence of heat/diffusion currents). The conditions are purely algebraic, require no simplifying spacetime symmetry assumptions or a specific equation of state, and allow all transport coefficients to depend on the dissipative currents. We also demonstrate that the normalization, orthogonality, symmetry, and tracelessness physical constraints on the dynamical variables are properly propagated during the lifetime of the solutions. Our results provide a readily usable toolset with which one can investigate the domain of applicability of relativistic viscous fluid dynamics in numerical and phenomenological studies in heavy-ion collisions and astrophysics.&lt;/p&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 21:01:12 GMT</pubDate>
+      <guid isPermaLink="false">2607.05639v1</guid>
+      <dc:creator>Ian Cordeiro</dc:creator>
+      <dc:creator>Enrico Speranza</dc:creator>
+      <dc:creator>Fábio S. Bemfica</dc:creator>
+      <dc:creator>Marcelo M. Disconzi</dc:creator>
+      <dc:creator>Jorge Noronha</dc:creator>
+    </item>
+    <item>
+      <title>$K^{*}(892)^0$ production and the time between freeze-outs in $^{40}$Ar+$^{45}$Sc collisions by NA61/SHINE at the CERN SPS</title>
+      <link>http://arxiv.org/abs/2607.05595v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; NA61/SHINE Collaboration, :, P. Adrich, K. K. Allison, M. Bajda, Y. Balkova, D. Battaglia, M. Bielewicz, A. Blondel, M. Bogomilov, Y. Bondar, J. Brzychczyk, M. Buryakov, A. F. Camino, Y. D. Chandak, M. Csanád, M. Ćwiok, T. Czopowicz, C. Dalmazzone, N. Davis, A. Dmitriev, P. von Doetinchem, W. Dominik, J. Dumarchez, R. Engel, L. Fields, Z. Fodor, M. Friend, M. Gaździcki, K. E. Gollwitzer, V. Golovatyuk, K. Grebieszkow, P. G. Hurh, S. Ilieva, V. A. Kireyeu, R. Kolesnikov, D. Kolev, Y. Koshio, S. Kowalski, T. Kowalski, B. Kozłowski, A. Krasnoperov, W. Kucewicz, M. Kuchowicz, P. Lasko, A. László, M. Lewicki, G. Lykasov, J. R. Lyon, V. V. Lyubushkin, M. Maćkowiak-Pawłowska, B. Maksiak, A. I. Malakhov, A. Marcinek, A. D. Marino, T. Matulewicz, V. Matveev, G. L. Melkumov, Ł. Mik, Y. Nagai, R. Nagy, T. Nakadaira, S. Nishimori, A. Olivier, V. Ozvenchuk, O. Panova, V. Paolone, I. Pidhurskyi, R. Płaneta, B. A. Popov, B. Pórfy, D. Pszczel, S. Puławski, L. Ren, V. Z. Reyna Ortiz, D. Röhrich, M. Roth, Ł. Rozpłochowski, M. Rumyantsev, A. Rustamov, M. Rybczyński, A. Rybicki, D. Rybka, K. Sakashita, K. Schmidt, P. Semeniuk, H. Shah, U. A. Shah, Y. Shiraishi, A. Shukla, M. Słodkowski, P. Staszel, G. Stefanek, J. Stepaniak, T. Šuša, Ł. Świderski, J. Szewiński, R. Szukiewicz, A. Tefelska, D. Tefelski, V. Tereshchenko, R. Tsenov, L. Turko, M. Unger, M. Urbaniak, D. Veberič, O. Vitiuk, A. Wickremasinghe, K. Witek, K. Wójcik, A. Zaitsev, E. Zherebtsova, E. D. Zimmerman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The analysis of the production of strange $K^{*}(892)^0$ resonances allows us to better understand the temporal evolution of high-energy nucleus--nucleus collisions. In particular, the ratio of $K^{*}(892)^0$ to charged kaon yields is used to determine the time interval between chemical and kinetic freeze-outs. In this paper, the first measurements of $K^{*}(892)^0$ production in central $^{40}$Ar+$^{45}$Sc collisions at the CERN Super Proton Synchrotron are reported. They were performed by NA61/SHINE at collision center-of-mass energies per nucleon pair $\sqrt{s_\mathrm{NN}}$ = 8.8, 11.9, 16.8 GeV.
+  The obtained $\langle K^{*}(892)^0 \rangle/\langle K^{+} \rangle $ and $\langle K^{*}(892)^0 \rangle/\langle K^{-} \rangle$ mean multiplicity ratios are compared with corresponding results in $p$+$p$ collisions, allowing for an estimate of the time interval between chemical and thermal freeze-outs in the $^{40}$Ar+$^{45}$Sc system. These are the first such results reported for $^{40}$Ar+$^{45}$Sc collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 19:47:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.05595v1</guid>
+      <dc:creator>NA61/SHINE Collaboration</dc:creator>
+      <dc:creator>:</dc:creator>
+      <dc:creator>P. Adrich</dc:creator>
+      <dc:creator>K. K. Allison</dc:creator>
+      <dc:creator>M. Bajda</dc:creator>
+      <dc:creator>Y. Balkova</dc:creator>
+      <dc:creator>D. Battaglia</dc:creator>
+      <dc:creator>M. Bielewicz</dc:creator>
+      <dc:creator>A. Blondel</dc:creator>
+      <dc:creator>M. Bogomilov</dc:creator>
+      <dc:creator>Y. Bondar</dc:creator>
+      <dc:creator>J. Brzychczyk</dc:creator>
+      <dc:creator>M. Buryakov</dc:creator>
+      <dc:creator>A. F. Camino</dc:creator>
+      <dc:creator>Y. D. Chandak</dc:creator>
+      <dc:creator>M. Csanád</dc:creator>
+      <dc:creator>M. Ćwiok</dc:creator>
+      <dc:creator>T. Czopowicz</dc:creator>
+      <dc:creator>C. Dalmazzone</dc:creator>
+      <dc:creator>N. Davis</dc:creator>
+      <dc:creator>A. Dmitriev</dc:creator>
+      <dc:creator>P. von Doetinchem</dc:creator>
+      <dc:creator>W. Dominik</dc:creator>
+      <dc:creator>J. Dumarchez</dc:creator>
+      <dc:creator>R. Engel</dc:creator>
+      <dc:creator>L. Fields</dc:creator>
+      <dc:creator>Z. Fodor</dc:creator>
+      <dc:creator>M. Friend</dc:creator>
+      <dc:creator>M. Gaździcki</dc:creator>
+      <dc:creator>K. E. Gollwitzer</dc:creator>
+      <dc:creator>V. Golovatyuk</dc:creator>
+      <dc:creator>K. Grebieszkow</dc:creator>
+      <dc:creator>P. G. Hurh</dc:creator>
+      <dc:creator>S. Ilieva</dc:creator>
+      <dc:creator>V. A. Kireyeu</dc:creator>
+      <dc:creator>R. Kolesnikov</dc:creator>
+      <dc:creator>D. Kolev</dc:creator>
+      <dc:creator>Y. Koshio</dc:creator>
+      <dc:creator>S. Kowalski</dc:creator>
+      <dc:creator>T. Kowalski</dc:creator>
+      <dc:creator>B. Kozłowski</dc:creator>
+      <dc:creator>A. Krasnoperov</dc:creator>
+      <dc:creator>W. Kucewicz</dc:creator>
+      <dc:creator>M. Kuchowicz</dc:creator>
+      <dc:creator>P. Lasko</dc:creator>
+      <dc:creator>A. László</dc:creator>
+      <dc:creator>M. Lewicki</dc:creator>
+      <dc:creator>G. Lykasov</dc:creator>
+      <dc:creator>J. R. Lyon</dc:creator>
+      <dc:creator>V. V. Lyubushkin</dc:creator>
+      <dc:creator>M. Maćkowiak-Pawłowska</dc:creator>
+      <dc:creator>B. Maksiak</dc:creator>
+      <dc:creator>A. I. Malakhov</dc:creator>
+      <dc:creator>A. Marcinek</dc:creator>
+      <dc:creator>A. D. Marino</dc:creator>
+      <dc:creator>T. Matulewicz</dc:creator>
+      <dc:creator>V. Matveev</dc:creator>
+      <dc:creator>G. L. Melkumov</dc:creator>
+      <dc:creator>Ł. Mik</dc:creator>
+      <dc:creator>Y. Nagai</dc:creator>
+      <dc:creator>R. Nagy</dc:creator>
+      <dc:creator>T. Nakadaira</dc:creator>
+      <dc:creator>S. Nishimori</dc:creator>
+      <dc:creator>A. Olivier</dc:creator>
+      <dc:creator>V. Ozvenchuk</dc:creator>
+      <dc:creator>O. Panova</dc:creator>
+      <dc:creator>V. Paolone</dc:creator>
+      <dc:creator>I. Pidhurskyi</dc:creator>
+      <dc:creator>R. Płaneta</dc:creator>
+      <dc:creator>B. A. Popov</dc:creator>
+      <dc:creator>B. Pórfy</dc:creator>
+      <dc:creator>D. Pszczel</dc:creator>
+      <dc:creator>S. Puławski</dc:creator>
+      <dc:creator>L. Ren</dc:creator>
+      <dc:creator>V. Z. Reyna Ortiz</dc:creator>
+      <dc:creator>D. Röhrich</dc:creator>
+      <dc:creator>M. Roth</dc:creator>
+      <dc:creator>Ł. Rozpłochowski</dc:creator>
+      <dc:creator>M. Rumyantsev</dc:creator>
+      <dc:creator>A. Rustamov</dc:creator>
+      <dc:creator>M. Rybczyński</dc:creator>
+      <dc:creator>A. Rybicki</dc:creator>
+      <dc:creator>D. Rybka</dc:creator>
+      <dc:creator>K. Sakashita</dc:creator>
+      <dc:creator>K. Schmidt</dc:creator>
+      <dc:creator>P. Semeniuk</dc:creator>
+      <dc:creator>H. Shah</dc:creator>
+      <dc:creator>U. A. Shah</dc:creator>
+      <dc:creator>Y. Shiraishi</dc:creator>
+      <dc:creator>A. Shukla</dc:creator>
+      <dc:creator>M. Słodkowski</dc:creator>
+      <dc:creator>P. Staszel</dc:creator>
+      <dc:creator>G. Stefanek</dc:creator>
+      <dc:creator>J. Stepaniak</dc:creator>
+      <dc:creator>T. Šuša</dc:creator>
+      <dc:creator>Ł. Świderski</dc:creator>
+      <dc:creator>J. Szewiński</dc:creator>
+      <dc:creator>R. Szukiewicz</dc:creator>
+      <dc:creator>A. Tefelska</dc:creator>
+      <dc:creator>D. Tefelski</dc:creator>
+      <dc:creator>V. Tereshchenko</dc:creator>
+      <dc:creator>R. Tsenov</dc:creator>
+      <dc:creator>L. Turko</dc:creator>
+      <dc:creator>M. Unger</dc:creator>
+      <dc:creator>M. Urbaniak</dc:creator>
+      <dc:creator>D. Veberič</dc:creator>
+      <dc:creator>O. Vitiuk</dc:creator>
+      <dc:creator>A. Wickremasinghe</dc:creator>
+      <dc:creator>K. Witek</dc:creator>
+      <dc:creator>K. Wójcik</dc:creator>
+      <dc:creator>A. Zaitsev</dc:creator>
+      <dc:creator>E. Zherebtsova</dc:creator>
+      <dc:creator>E. D. Zimmerman</dc:creator>
     </item>
     <item>
       <title>Relativistic Hydrodynamics and Vorticity Dynamics in High-Energy Heavy-Ion Collisions: A Collective Flow Perspective</title>
@@ -268,17 +421,6 @@
       <dc:creator>J. Zhang</dc:creator>
     </item>
     <item>
-      <title>Vorticity in the Quark-Gluon Plasma: Volumetric Expansion, Regularization, and Spin Signatures</title>
-      <link>http://arxiv.org/abs/2607.03716v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Malak Ait Tamlihat, Ghizlane Ez-Zobayr, Laurent Schoeffel, Yahya Tayalati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This article provides a self-contained bridge between classical vortex dynamics and the relativistic, subatomic domain of the Quark-Gluon Plasma (QGP) produced in ultra-relativistic heavy-ion collisions. While the QGP is widely studied for its near-perfect fluidity, we focus on its role as the most vortical medium in the Universe ($ω\sim 10^{22}\text{ s}^{-1}$). The originality of our approach lies in isolating the explicit physical competition between non-linear vortex stretching and violent relativistic volumetric dilatation. By solving the covariant transport equations and tracking the comoving enstrophy density, we demonstrate that the explosive kinematics of the QGP provide an innate geometric shield that naturally regularizes the continuous flow, suppressing the self-amplification of vortex tubes before any microscopic viscosity is required. Furthermore, we connect this expansion phase back to the highly non-equilibrium initial state. We quantitatively predict that under a peripheral dipole initial topology, the global mid-rapidity hyperon polarization vanishes ($P_Λ\lesssim 10^{-4}$), establishing that the definitive signature of the QGP's rotation must be sought in azimuthal differential measurements within the LHC and RHIC experimental programs.&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 05:44:41 GMT</pubDate>
-      <guid isPermaLink="false">2607.03716v1</guid>
-      <dc:creator>Malak Ait Tamlihat</dc:creator>
-      <dc:creator>Ghizlane Ez-Zobayr</dc:creator>
-      <dc:creator>Laurent Schoeffel</dc:creator>
-      <dc:creator>Yahya Tayalati</dc:creator>
-    </item>
-    <item>
       <title>Polarized Nucleon as a Topological Dipole</title>
       <link>http://arxiv.org/abs/2607.03123v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kenji Fukushima, Tomoya Uji&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that a polarized nucleon generically carries a dipole distribution of topological charge density. This topological dipole follows robustly from the definition of the topological form factor and the pseudoscalar nature of the topological charge density. The strength of the topological dipole is fixed, in the chiral limit, by the flavor-singlet axial charge. We demonstrate the mechanism in a two-flavor chiral soliton model with vector mesons and the $U(1)_A$ anomaly, where the rotation of the soliton induces a singlet pseudoscalar profile and realizes the predicted dipole pattern. We also discuss possible experimental probes through exclusive $η$, $η^\prime$ production and directed-flow-like pseudoscalar-meson asymmetries correlated with magnetic fields or vorticity in relativistic heavy-ion collisions.&lt;/p&gt;</description>
@@ -326,51 +468,6 @@
       <guid isPermaLink="false">2607.02042v1</guid>
       <dc:creator>Jiamin Liu</dc:creator>
       <dc:creator>Baoyi Chen</dc:creator>
-    </item>
-    <item>
-      <title>Purifying one-neutron removal as a probe of single-particle strength</title>
-      <link>http://arxiv.org/abs/2607.01078v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erxi Xiao, Guangshuai Li, Yu Yang, Long Zhu, Jianwei Zhao, Jun Su, Baohua Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One-neutron removal reactions exhibit a strong proton-neutron asymmetry dependence in the inclusive reduction factor $R_s$, a long-standing issue that has been discussed in terms of both possible intrinsic isospin dependence of single-particle strength and reaction-mechanism effects. We address this issue by reframing inclusive removal as a coupled fast-dynamics and deexcitation process, and by validating this transport-deexcitation chain against a global, mutually constraining data set. Confronting 73 one-neutron removal cross sections and 28 residue parallel-momentum distributions with isospin-dependent quantum molecular dynamics followed by GEMINI evaporation shows that the apparent $R_s$-$ΔS$ trend is correlated with evaporation feeding and evaporation loss. By subtracting the feeding contribution and correcting for the loss component in the measured cross sections, we construct a purified reduction factor $R_{\rm dir}$, that more closely reflects single-particle strength than the inclusive $R_s$. The resulting $R_{\rm dir}$ exhibits a much weaker $ΔS$ dependence within current uncertainties, consistent with the weak isospin-asymmetry dependence observed in nucleon-transfer and quasifree-knockout systematics.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 15:37:16 GMT</pubDate>
-      <guid isPermaLink="false">2607.01078v1</guid>
-      <dc:creator>Erxi Xiao</dc:creator>
-      <dc:creator>Guangshuai Li</dc:creator>
-      <dc:creator>Yu Yang</dc:creator>
-      <dc:creator>Long Zhu</dc:creator>
-      <dc:creator>Jianwei Zhao</dc:creator>
-      <dc:creator>Jun Su</dc:creator>
-      <dc:creator>Baohua Sun</dc:creator>
-    </item>
-    <item>
-      <title>Dipolar flow of identified hadrons at mid-rapidity using transport models</title>
-      <link>http://arxiv.org/abs/2607.00703v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Abhisek Praharaj, Aradhana Panday, Sandeep Chatterjee, Md Nasim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report a transport model study of the rapidity even component of dipolar flow, $v_{1}^{\mathrm{even}}$, for identified charged hadrons at mid-rapidity in Au+Au collisions at $\sqrt{s_{NN}} = 27-200$ GeV. The analysis is performed using the AMPT model, with comparisons to HIJING to quantify non-flow contributions. The $v_{1}^{\mathrm{even}}$ of identified hadrons ($π$, $K$, and $p$) shows no significant difference between particles and anti-particles at $\sqrt{s_{NN}} = 200$ GeV. However, a clear splitting between proton and anti-proton $v_{1}^{\mathrm{even}}$ develops with decreasing beam energy, while no corresponding difference is observed for mesons ($π^{\pm}$ and $K^{\pm}$). A comparison of the AMPT string melting and default configurations shows that the splitting arises only in the string melting scenario, where partonic interactions and quark coalescence play a dominant role. These results indicate that the proton-antiproton difference in $v_{1}^{\mathrm{even}}$ is sensitive to baryon transport and early-stage partonic dynamics. Our study highlights the potential of identified-particle $v_{1}^{\mathrm{even}}$ measurements at RHIC Beam Energy Scan energies as a novel probe of baryon stopping and the evolution of the partonic medium.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 09:52:43 GMT</pubDate>
-      <guid isPermaLink="false">2607.00703v1</guid>
-      <dc:creator>Abhisek Praharaj</dc:creator>
-      <dc:creator>Aradhana Panday</dc:creator>
-      <dc:creator>Sandeep Chatterjee</dc:creator>
-      <dc:creator>Md Nasim</dc:creator>
-    </item>
-    <item>
-      <title>Astrophysical S-factor Calculation for p-p Fusion Reaction</title>
-      <link>http://arxiv.org/abs/2607.00487v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arushi Sharma, Ishwar Kant, O. S. K. S. Sastri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The current S-factor calculations for weak pp interaction involve the determination of low-energy penetration probability using the bare Coulomb Gamow factor, which renders the nature and shape of actual interaction to be insignificant. In this work, the astrophysical S-factor is obtained utilizing the WKB action integral evaluated over the inverse scattering potential for the S-wave of pp-interaction, which does not involve bare Coulomb interaction in it. The np and pp inverse potentials are constructed using the phase function method by providing a reference potential consisting of three smoothly combined Morse functions, whose model parameters are optimized using a genetic algorithm to minimize the mean-squared error between the obtained and expected scattering phase shifts. The overlap integral between the bound-state deuteron and the scattering state of pp S-wave has been evaluated at different energies all the way up to 0.0001 MeV, and corresponding fusion cross-sections are determined. The WKB action integral has been computed at all energies without any approximations. Finally, the S-factor at various energies are calculated, and S(0) has been obtained using a supervised neural network. The value of S(0) obtained using our methodology involving complete evaluation of WKB action integral without approximations is $(0.1678\pm 0.0058)\times10^{-25}$, which is almost one order of magnitude lower than the currently accepted values using various methods. The inverse potentials constructed using the reference potential approach, which does not involve explicit consideration of nuclear $\&amp;$ Coulomb interaction, resulting in a finite range of pp-interaction, have been successful in providing a new estimate for the astrophysical s-factor that depends on the nature and shape of the actual potentials&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 06:16:03 GMT</pubDate>
-      <guid isPermaLink="false">2607.00487v1</guid>
-      <dc:creator>Arushi Sharma</dc:creator>
-      <dc:creator>Ishwar Kant</dc:creator>
-      <dc:creator>O. S. K. S. Sastri</dc:creator>
-    </item>
-    <item>
-      <title>Spin Femtoscopy: A Framework for Revealing Genuine Spin Correlations</title>
-      <link>http://arxiv.org/abs/2607.00413v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kehao Zhang, Xuan Wang, Xiaofeng Luo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spin correlations are among the most fundamental quantum observables in many-body systems, yet they remain difficult to access experimentally in relativistic heavy-ion collisions. Existing spin measurements, including hyperon polarization and vector-meson spin alignment, have revealed important single-particle spin phenomena, but genuine two-particle spin correlations in the produced hadronic system remain largely unexplored. Here we propose spin femtoscopy, a framework for accessing genuine two-particle spin correlations through spin-resolved femtoscopic measurements. The key principle is that different two-particle spin configurations can give rise to different femtoscopic correlation functions because of quantum statistics, spin-dependent final-state interactions. Using $ΛΛ$ pairs as a proof of principle, we exploit the self-analyzing weak decay of $Λ$ hyperons to construct spin-sensitive femtoscopic correlation functions with different singlet and triplet admixtures. We show that these observables provide experimental access to the spin-state populations of the pair and allow genuine spin correlations to be separated from spin-dependent femtoscopic mixing caused by quantum statistics and final-state interactions. This work extends femtoscopy from a probe of source geometry and final-state interactions to a framework for revealing the quantum spin structure of strongly interacting matter.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 04:13:50 GMT</pubDate>
-      <guid isPermaLink="false">2607.00413v1</guid>
-      <dc:creator>Kehao Zhang</dc:creator>
-      <dc:creator>Xuan Wang</dc:creator>
-      <dc:creator>Xiaofeng Luo</dc:creator>
     </item>
   </channel>
 </rss>
