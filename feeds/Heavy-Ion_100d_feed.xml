@@ -5,9 +5,55 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:37:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Recent highlights from the STAR Experiment</title>
+      <link>http://arxiv.org/abs/2607.07254v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rutik Manikandhan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Understanding the QCD phase structure and the possible existence of a critical point remains one of the central goals of the heavy-ion program at RHIC. In this proceeding, we present recent STAR results across multiple observables that probe different aspects of the hot and dense matter created in Au+Au collisions. These include two-particle transverse momentum correlations of mean transverse momentum, net-proton cumulants up to fourth order, identical-pion femtoscopy, and baryon-strangeness correlations. We also discuss femtoscopic measurements of baryon-baryon pairs, which provide insight into hyperon-nucleon and hyperon-hyperon interactions and the possible formation of strange dibaryon states. Together, these results provide complementary probes of the system's evolution across a wide collision-energy range (sqrt(sNN) = 3-200 GeV), offering new constraints on the QCD equation of state and the location of the QCD critical point.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 10:39:14 GMT</pubDate>
+      <guid isPermaLink="false">2607.07254v1</guid>
+      <dc:creator>Rutik Manikandhan</dc:creator>
+    </item>
+    <item>
+      <title>Hadronic and partonic composition of QCD matter across the crossover</title>
+      <link>http://arxiv.org/abs/2607.07140v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Artemiy Lysenko, Mark I. Gorenstein, Marek Gazdzicki, Roman Poberezhniuk, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct a simple equation of state of strongly interacting matter at zero chemical potentials that provides a unified description of lattice QCD thermodynamics in terms of hadronic and partonic degrees of freedom. The hadronic phase is described by the quantum van der Waals hadron resonance gas, extended by excluded-volume repulsion between mesons, while the quark-gluon plasma is modeled as an ideal gas of quarks and gluons supplemented with a phenomenological interaction term proportional to $T^3$. The two regimes are connected by a smooth crossover switching function. The three model parameters - the meson hard-core radius, the strength of the partonic interaction term, and the switching temperature - are determined from a fit to lattice QCD results for the trace anomaly. The resulting equation of state reproduces the lattice data on the pressure, entropy density, energy density, and speed of sound in the temperature range $T=100$-$500$ MeV. The fit yields a meson hard-core radius $r_M \simeq 0.2$ fm, a partonic interaction scale $A \simeq 600$ MeV, and a switching temperature $T_0 \simeq 216$ MeV, substantially exceeding both the pseudocritical temperature of the QCD chiral crossover and the chemical freeze-out temperature. This finding suggests that the transition from hadronic to partonic degrees of freedom is considerably more gradual than indicated by the chiral pseudocritical temperature alone, with hadronic states remaining an important component of strongly interacting matter up to temperatures of about 250 MeV, well above the QCD chiral crossover.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 08:34:34 GMT</pubDate>
+      <guid isPermaLink="false">2607.07140v1</guid>
+      <dc:creator>Artemiy Lysenko</dc:creator>
+      <dc:creator>Mark I. Gorenstein</dc:creator>
+      <dc:creator>Marek Gazdzicki</dc:creator>
+      <dc:creator>Roman Poberezhniuk</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+    </item>
+    <item>
+      <title>Machine learning the impact parameter in heavy-ion collisions at $\sqrt{s_{\rm NN}}$ = 4 and 11 GeV: a cross-check study with UrQMD, AMPT, and JAM</title>
+      <link>http://arxiv.org/abs/2607.06897v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiaoqing Yue, Guojun Wei, Yongjia Wang, Zhilong Li, Pengcheng Li, Haojie Xu, Xiangrong Zhu, Qingfeng Li, Fuhu Liu, Yasushi Nara&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;By generating heavy-ion collision data with the ultrarelativistic quantum molecular dynamics (UrQMD) model, a multiphase transport (AMPT) model, and the JAM model, the impact parameter ($b$) in Au+Au collisions at $\sqrt{s_{\rm NN}}$ = 4 and 11 GeV is reconstructed using supervised learning and unsupervised learning in machine learning (ML). In supervised learning, the performance of ML algorithm is cross-checked by using data obtained from these three transport models. It is found that the typical mean absolute error (MAE) which measures the average magnitude of the absolute difference between the true and predicted $b$ is between 0.2-0.4 fm, even when training ML algorithm with data generated from one model but testing with data from others. While the conventional method (i.e., a polynomial fit to multiplicity as a function of $b$) only works for data generated from the same model. In the classification task, the present ML-based method also shows significantly superior results compared to the traditional approach. In unsupervised learning, the K-means clustering algorithm is used to partition collision events directly from experimental-style observables, showing that the algorithm autonomously identifies six clusters corresponding to different centrality classes without relying on predefined model-based binning. Our study demonstrates the strong robustness of using an ML algorithm trained on transport-model data for impact-parameter determination, and indicates that this method has the potential to be generalized to handle real experimental data.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 01:43:02 GMT</pubDate>
+      <guid isPermaLink="false">2607.06897v1</guid>
+      <dc:creator>Xiaoqing Yue</dc:creator>
+      <dc:creator>Guojun Wei</dc:creator>
+      <dc:creator>Yongjia Wang</dc:creator>
+      <dc:creator>Zhilong Li</dc:creator>
+      <dc:creator>Pengcheng Li</dc:creator>
+      <dc:creator>Haojie Xu</dc:creator>
+      <dc:creator>Xiangrong Zhu</dc:creator>
+      <dc:creator>Qingfeng Li</dc:creator>
+      <dc:creator>Fuhu Liu</dc:creator>
+      <dc:creator>Yasushi Nara</dc:creator>
+    </item>
+    <item>
+      <title>Kaon-deuteron correlation function from an effective field theory approach</title>
+      <link>http://arxiv.org/abs/2607.06715v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Juan Torres-Rincon, Àngels Ramos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a study of femtoscopic correlation functions for $K^{-}d$ and $K^{+}d$ pairs, and compare our results with recent measurements by the ALICE Collaboration in both Pb-Pb and high-multiplicity $pp$ collisions. The kaon-deuteron wave functions are derived from scattering amplitudes using a unitarized chiral effective theory model describing the elementary interactions of $K^{\pm}$ mesons with nucleons. We then evaluate the $K^{\pm}d$ strong scattering amplitudes by solving the Faddeev equations within two distinct frameworks: the Impulse Approximation and the Fixed Center Approximation, which accounts for multiple scatterings. We also incorporate the long-range Coulomb effects between the kaon and the deuteron. We show that the $K^{-}d$ correlation function exhibits large sensitivity to both the size of the emitting source and the relative momentum of the pair, being heavily influenced by rescattering processes. In contrast, the $K^{+}d$ correlation function is dominated by the weakly repulsive $K^{+}N$ interaction, showing deviations from purely Coulombic behavior only at small emission source sizes. Our predictions are in agreement with the ALICE experimental data, and also with the energy-shift and width of the $1s$ level of the kaonic deuterium preliminary results from the SIDDHARTA 2 Collaboration.&lt;/p&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 18:31:55 GMT</pubDate>
+      <guid isPermaLink="false">2607.06715v1</guid>
+      <dc:creator>Juan Torres-Rincon</dc:creator>
+      <dc:creator>Àngels Ramos</dc:creator>
+    </item>
     <item>
       <title>Bottomonium production in an open quantum system approach with interactions from lattice quantum chromodynamic</title>
       <link>http://arxiv.org/abs/2607.06191v1</link>
@@ -1389,19 +1435,6 @@
       <pubDate>Mon, 15 Jun 2026 08:31:50 GMT</pubDate>
       <guid isPermaLink="false">2606.16395v1</guid>
       <dc:creator>CBM Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Static linear response of hot and dense QCD matter to electromagnetic fields: Leading hard and soft QCD corrections</title>
-      <link>http://arxiv.org/abs/2606.16377v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Osvaldo Ferreira, Eduardo S. Fraga, Tyler Gorda, Risto Paatelainen, Leon Sandbote, Kaapo Seppänen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compute the static electromagnetic susceptibilities of a hot and dense quark-gluon plasma using perturbative Quantum Chromodynamics (QCD). Our evaluation includes the leading $\mathcal{O}(α_s)$ correction as well as the leading soft, resummed contribution of $\mathcal{O}(α_s^{3/2})$ within electrostatic QCD. By matching to Lattice QCD at vanishing baryon chemical potential through Lattice perturbation theory, we establish a connection between perturbative results and Lattice simulations and assess the size of higher-order corrections. This extends the electromagnetic susceptibilities to finite baryon chemical potential, where Lattice methods are not applicable and establishes first-principle constraints on the quark-gluon plasma's electromagnetic response at temperatures and densities relevant for intermediate-energy heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 08:12:20 GMT</pubDate>
-      <guid isPermaLink="false">2606.16377v1</guid>
-      <dc:creator>Osvaldo Ferreira</dc:creator>
-      <dc:creator>Eduardo S. Fraga</dc:creator>
-      <dc:creator>Tyler Gorda</dc:creator>
-      <dc:creator>Risto Paatelainen</dc:creator>
-      <dc:creator>Leon Sandbote</dc:creator>
-      <dc:creator>Kaapo Seppänen</dc:creator>
     </item>
     <item>
       <title>Experimental exploration of the QCD phase diagram</title>
