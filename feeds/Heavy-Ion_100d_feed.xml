@@ -5,9 +5,38 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:30:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Secondary Hadron--Nucleus Collisions of Short-Lived Hadrons in Ultra-Relativistic Fixed-Target Heavy-Ion Interactions</title>
+      <link>http://arxiv.org/abs/2607.08658v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanatan Digal, P. S. Saumia, Ajit M. Srivastava&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultra-relativistic heavy nuclei traversing a solid target undergo successive nuclear encounters separated by atomic lattice spacings. At sufficiently high beam energies, Lorentz contraction reduces the proper time between collisions to $\mathcal{O}(10^4)$~fm$/c$ in the center-of-mass frame of the first interaction. We then consider the fragmentation region of this first collision, and show that short-lived hadrons produced in this region, with additional Lorentz boost, can reach the next nucleus before decaying. We show that this geometry enables secondary hadron--nucleus collisions involving species that cannot be realized as conventional secondary beams or in subsequent hadron--nucleus interactions in cosmic-ray cascades. For a $2.76$ TeV-per-nucleon Pb beam incident on a solid Pb lattice, we determine which forward-produced hadrons can survive to a second interaction, estimate their collision probabilities, and analyze potential observable consequences. In particular, we identify some representative hadrons whose proper lifetimes are of order $10^3$ fm/c, e.g. specific mesons ($η^\prime$) and heavy-flavor resonances ($J/ψ, D^*(2010)$), as projectile species that become accessible through this collision space-time geometry. At substantially higher beam energies (for example, with 10 TeV per-nucleon Pb beam), the survival probabilities are significantly enhanced. This can make even very short lived hadrons with life times of few tens fm ( $Ξ(1530)$, $ω(782)$, $φ(1020)$) available for this secondary hadron-nucleus collision, providing an additional motivation for future ultra-relativistic fixed-target heavy-ion experiments.&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 16:27:57 GMT</pubDate>
+      <guid isPermaLink="false">2607.08658v1</guid>
+      <dc:creator>Sanatan Digal</dc:creator>
+      <dc:creator>P. S. Saumia</dc:creator>
+      <dc:creator>Ajit M. Srivastava</dc:creator>
+    </item>
+    <item>
+      <title>A symmetry-based resolution of pseudo-gauge ambiguities in local equilibrium</title>
+      <link>http://arxiv.org/abs/2607.08569v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carlos Hoyos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The total angular momentum current can be decomposed into orbital and spin contributions in different ways, known as pseudo-gauges. This freedom leads to ambiguities in the definition of local-equilibrium density operators, which in turn affect estimates of spin polarization in heavy-ion collisions. In this work, the pseudo-gauge ambiguity, together with other ambiguities associated with improvements of conserved currents, is reformulated in terms of spurious symmetries corresponding to conserved currents with vanishing total charge. A prescription for the unambiguous definition of a local-equilibrium density operator is introduced using the currents associated with genuine symmetries. The resulting density operator is invariant under transformations that add improvement terms to local currents, including the energy-momentum tensor.&lt;/p&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 14:59:22 GMT</pubDate>
+      <guid isPermaLink="false">2607.08569v1</guid>
+      <dc:creator>Carlos Hoyos</dc:creator>
+    </item>
+    <item>
+      <title>Azimuthal momentum isotropization in the Quark-Gluon Plasma thermalization</title>
+      <link>http://arxiv.org/abs/2607.07796v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sergio Barrera Cabodevila, Xiaojian Du, Carlos A. Salgado, Bin Wu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Azimuthal anisotropies coming from the initial state of a heavy-ion collision have been historically disregarded in the study of thermalization because they are expected to be rapidly washed out due to final-state interactions. However, they may be important when one attempts to describe azimuthal correlations observed in the collisions of small systems. In this work, we study how these initial anisotropies relax in the context of the Boltzmann Equation in Diffusion Approximation (BEDA). We find a clear hierarchy in the relaxation time of the anisotropies in terms of each harmonic coefficient. We also explore the evolution of the $p_T$-dependent harmonic coefficients in time, finding a shift in the initial peak towards higher momenta that mimics the experimental data when we perform a phenomenologically motivated simulation.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:00:02 GMT</pubDate>
+      <guid isPermaLink="false">2607.07796v1</guid>
+      <dc:creator>Sergio Barrera Cabodevila</dc:creator>
+      <dc:creator>Xiaojian Du</dc:creator>
+      <dc:creator>Carlos A. Salgado</dc:creator>
+      <dc:creator>Bin Wu</dc:creator>
+    </item>
     <item>
       <title>Recent highlights from the STAR Experiment</title>
       <link>http://arxiv.org/abs/2607.07254v1</link>
@@ -1052,17 +1081,6 @@
       <pubDate>Tue, 16 Jun 2026 15:39:59 GMT</pubDate>
       <guid isPermaLink="false">2606.18070v1</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Probing the QCD Phase Structure with Dileptons from SIS to LHC Energies</title>
-      <link>http://arxiv.org/abs/2606.17764v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Adrian William Romero Jorge, Taesoo Song, Qi Zhou, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the properties of strongly interacting matter at finite temperature and baryon chemical potential in relativistic heavy-ion collisions, with emphasis on dilepton probes of the QCD phase structure. The equilibrium QGP is described within the Dynamical QuasiParticle Model (DQPM), which reproduces the lattice-QCD equation of state and provides $μ_B$-dependent quasiparticle properties, transport coefficients, and thermal dilepton rates, including elastic and inelastic partonic processes. The dynamical evolution is modeled with the off-shell Parton--Hadron--String Dynamics (PHSD) transport approach, which consistently propagates partonic and hadronic degrees of freedom and incorporates chiral-symmetry restoration effects. We discuss the space--time evolution of heavy-ion collisions over a broad energy range and show that a small deconfined QGP core can already emerge at $\sqrt{s_{NN}}\simeq 3.5$ GeV. We present, for the first time, the baryon-chemical-potential dependence of QGP thermal dilepton radiation in PHSD and demonstrate that its influence increases toward lower collision energies. The excitation function indicates that thermal QGP radiation can exceed dileptons from correlated charm decays in central Au+Au collisions at $\sqrt{s_{NN}}\lesssim 25$--$30$ GeV, making RHIC--BES and FAIR energies particularly promising for the direct observation of QGP electromagnetic radiation after subtraction of heavy-flavor and Drell--Yan contributions.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 10:29:46 GMT</pubDate>
-      <guid isPermaLink="false">2606.17764v1</guid>
-      <dc:creator>Adrian William Romero Jorge</dc:creator>
-      <dc:creator>Taesoo Song</dc:creator>
-      <dc:creator>Qi Zhou</dc:creator>
-      <dc:creator>Elena Bratkovskaya</dc:creator>
     </item>
     <item>
       <title>Measurement of isolated photon plus two-jet correlations in Pb+Pb and $pp$ collisions at 5.02 TeV with ATLAS</title>
@@ -3483,25 +3501,6 @@
       <pubDate>Fri, 22 May 2026 13:23:06 GMT</pubDate>
       <guid isPermaLink="false">2605.23615v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Study of the thermodynamic properties of hot QCD matter with the CMS experiment</title>
-      <link>http://arxiv.org/abs/2605.21052v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cesar A. Bernardes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These proceedings summarize recent CMS measurements at the LHC that extract the squared speed of sound, $c_s^2$, of strongly interacting matter at extreme temperatures from the multiplicity dependence of the mean transverse momentum in ultra-central lead-lead (PbPb) collisions at $\sqrt{s_{\mathrm{NN}}} = 5.02\ \mathrm{TeV}$. The analysis yields $c_s^2 = 0.241 \pm 0.002\, (\mathrm{stat}) \pm 0.016\, (\mathrm{syst})$ at an effective temperature of $T_{\mathrm{eff}} = 219 \pm 8\, (\mathrm{syst})\,\mathrm{MeV}$, in good agreement with lattice-QCD calculations. Complementary studies in proton-lead (pPb) collisions are also presented to investigate possible quark-gluon plasma signatures in smaller systems.&lt;/p&gt;</description>
-      <pubDate>Wed, 20 May 2026 11:37:08 GMT</pubDate>
-      <guid isPermaLink="false">2605.21052v1</guid>
-      <dc:creator>Cesar A. Bernardes</dc:creator>
-    </item>
-    <item>
-      <title>Lindblad-driven quarkonium production in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2605.19985v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Néstor Armesto, Miguel Ángel Escobedo, Elena G. Ferreiro, Víctor López-Pardo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the production of the conventional quarkonium states in ultrarelativistic heavy-ion collisions using an open quantum system framework based on the Lindblad equation. Starting from the complex-valued in-medium potential, we derive the dissociation temperature and thermal decay width for each state, and compute their survival probabilities for a system undergoing Bjorken expansion. We then extend the framework to include recombination from thermalized charm and bottom quarks in the quark-gluon plasma, deriving a coalescence model for quarkonia from the Lindblad equation under the adiabatic approximation. The methodology provides a unified, first-principles-inspired description of suppression and recombination for both charmonium and bottomonium.&lt;/p&gt;</description>
-      <pubDate>Tue, 19 May 2026 15:25:12 GMT</pubDate>
-      <guid isPermaLink="false">2605.19985v1</guid>
-      <dc:creator>Néstor Armesto</dc:creator>
-      <dc:creator>Miguel Ángel Escobedo</dc:creator>
-      <dc:creator>Elena G. Ferreiro</dc:creator>
-      <dc:creator>Víctor López-Pardo</dc:creator>
     </item>
   </channel>
 </rss>
