@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:32:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:31:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -234,27 +234,6 @@
       <dc:creator>A. Zaitsev</dc:creator>
       <dc:creator>E. Zherebtsova</dc:creator>
       <dc:creator>E. D. Zimmerman</dc:creator>
-    </item>
-    <item>
-      <title>Relativistic Hydrodynamics and Vorticity Dynamics in High-Energy Heavy-Ion Collisions: A Collective Flow Perspective</title>
-      <link>http://arxiv.org/abs/2607.04273v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Malak Ait Tamlihat, Ghizlane Ez-Zobayr, Laurent Schoeffel, Yahya Tayalati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This article provides a comprehensive overview of the application of relativistic fluid mechanics to describe the collective evolution of the Quark-Gluon Plasma (QGP) formed in ultra-relativistic heavy-ion collisions. We map out the chronological transformation of spatial eccentricities in the initial interaction volume into measurable anisotropic azimuthal momentum distributions, parameterized by the harmonic flow coefficients $v_n$. Utilizing multi-particle correlation techniques developed within the ATLAS experimental framework, we dissect the event-by-event fluctuations of the participant planes and evaluate non-linear hydrodynamic responses across higher harmonics. Furthermore, we embed local rotation fields into this continuous description by solving the covariant transport equations for subatomic vorticity. We demonstrate that while the Helmholtz-Kelvin theorem guarantees the topological conservation of vortex lines within the ideal medium, the collective multi-dimensional expansion forces a systematic 1/t power-law geometric dilution of the local rotational magnitude. Finally, we contrast different pre-equilibrium generation mechanisms and evaluate their final signatures on differential spin alignment observables.&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 12:37:19 GMT</pubDate>
-      <guid isPermaLink="false">2607.04273v1</guid>
-      <dc:creator>Malak Ait Tamlihat</dc:creator>
-      <dc:creator>Ghizlane Ez-Zobayr</dc:creator>
-      <dc:creator>Laurent Schoeffel</dc:creator>
-      <dc:creator>Yahya Tayalati</dc:creator>
-    </item>
-    <item>
-      <title>An expanding spherical fireball model for light hadron production at RHIC ($\sqrt{s_{\rm NN}}=7.7$--$39$ GeV)</title>
-      <link>http://arxiv.org/abs/2607.04191v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ashutosh Dwibedi, Anupam Panja, Sabyasachi Ghosh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the transverse momentum ($p_T$) spectra and rapidity distributions of the light hadrons $π^{\pm}$, $K^{\pm}$, $p$, and $\bar{p}$ produced in Au+Au collisions at RHIC for $\sqrt{s_{\rm NN}} = 7.7$--39 GeV and different collision centralities. The produced medium is modeled as an expanding spherical fireball, with the radial expansion velocity determined from the rate of increase of the fireball radius. The particle spectra are calculated using the Cooper--Frye freeze-out prescription with a local equilibrium distribution function and a blast-wave-like flow profile. The model parameters are fixed from the midrapidity $p_T$ spectra of pions at kinetic freeze-out for different centralities. The same parameters are then used for the other hadron species, with the kinetic freeze-out chemical potential as the only additional free parameter. The model provides a good description of the STAR collaboration data for the $p_{T}$ spectra of light hadrons and predicts Gaussian-like rapidity distributions over the considered energy range across different centralities.&lt;/p&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 09:24:42 GMT</pubDate>
-      <guid isPermaLink="false">2607.04191v1</guid>
-      <dc:creator>Ashutosh Dwibedi</dc:creator>
-      <dc:creator>Anupam Panja</dc:creator>
-      <dc:creator>Sabyasachi Ghosh</dc:creator>
     </item>
   </channel>
 </rss>
