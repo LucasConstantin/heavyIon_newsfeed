@@ -5,9 +5,19 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 00:32:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:28:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>The impact of nuclear uncertainties on the p-process nucleosynthesis in Supernovae</title>
+      <link>http://arxiv.org/abs/2607.09208v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Martinet, S. Goriely, A. Choplin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The p-process is responsible for the production of the stable neutron-deficient nuclei heavier than iron observed in the solar system. However, important nuclear uncertainties still limit our understanding of this nucleosynthesis process. Among the most significant are the nuclear level densities (NLDs) and photon strength functions (PSFs) entering the calculation of photodisintegration rates under supernova conditions. We investigate both model (systematic) and parameter (statistical) uncertainties affecting NLDs and PSFs and quantify their impact on p-process nucleosynthesis in type-Ia and type-II supernovae. Correlated model uncertainties are estimated using several NLD and PSF models that reproduce available experimental observables. Uncorrelated parameter uncertainties are evaluated with a backward-forward Monte Carlo approach, in which parameter variations are constrained by measured reaction rates before being propagated to unknown cross sections of neutron-deficient nuclei. The resulting uncertainties are propagated through p-process calculations while preserving model correlations. To identify the reactions driving abundance uncertainties, we combine regularized linear-response modeling, stability analysis, and contribution and interaction decompositions. We find that photoneutron-emission uncertainties dominate the overall uncertainty budget. The leading source of uncertainty arises from local parameter variations still compatible with current experimental constraints, highlighting the lack of constraining nuclear data in the neutron-deficient region. For many p-nuclei, the dominant contribution originates either from the photoneutron emission of the p-nucleus itself or from a nearby $(γ,n)$ reaction along the same isotopic chain. While improved nuclear models remain important, many key reactions involve stable or near-stable nuclei and should be experimentally accessible.&lt;/p&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 08:54:54 GMT</pubDate>
+      <guid isPermaLink="false">2607.09208v1</guid>
+      <dc:creator>S. Martinet</dc:creator>
+      <dc:creator>S. Goriely</dc:creator>
+      <dc:creator>A. Choplin</dc:creator>
+    </item>
     <item>
       <title>Secondary Hadron--Nucleus Collisions of Short-Lived Hadrons in Ultra-Relativistic Fixed-Target Heavy-Ion Interactions</title>
       <link>http://arxiv.org/abs/2607.08658v1</link>
@@ -547,16 +557,6 @@
       <dc:creator>James Daniel Brandenburg</dc:creator>
     </item>
     <item>
-      <title>Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model</title>
-      <link>http://arxiv.org/abs/2607.02463v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Reza Pirmoradian, Soheir Rouhani, M. Reza Tanhayi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the integrability-to-chaos transition and information scrambling in Ising spin networks via a graph-theoretic formulation. Modeling spins as vertices and interactions via adjacency matrices across path, Erdős--Rényi, and Watts--Strogatz topologies, we demonstrate that long-range couplings and heterogeneous degree distributions drastically accelerate quantum information propagation. The Hamiltonian comprises local and normalized non-local interactions; tuning the non-local coupling and field heterogeneity drives integrability breaking. To quantify scrambling, we employ bipartite mutual and tripartite information. Increasing non-local interactions drives tripartite information to large negative values, signaling deep information scrambling. Out-of-time-order correlators (OTOCs) exhibit exponential early-time growth, yielding quantum Lyapunov exponents that scale systematically with parameters governing the chaotic regime. Complementing this, Krylov complexity reveals rapid operator growth in the chaotic phase, synchronizing with OTOC and mutual information dynamics. Spectrally, the transition manifests as a shift from Poissonian to Wigner--Dyson level spacing statistics. The spectral form factor (SFF) exhibits the characteristic slope-dip-ramp-plateau structure, enabling the extraction of Thouless and Heisenberg times. Crucially, a reduced Thouless time strongly correlates with accelerated informational and operator scrambling. Ultimately, this work establishes a unified framework bridging network topology with information-theoretic, operator, and spectral diagnostics, offering profound insights into thermalization and non-equilibrium dynamics in quantum many-body systems.&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:29:35 GMT</pubDate>
-      <guid isPermaLink="false">2607.02463v1</guid>
-      <dc:creator>Reza Pirmoradian</dc:creator>
-      <dc:creator>Soheir Rouhani</dc:creator>
-      <dc:creator>M. Reza Tanhayi</dc:creator>
-    </item>
-    <item>
       <title>$Λ$ hyperons in core-collapse supernovae: Equilibration and neutrino opacities</title>
       <link>http://arxiv.org/abs/2607.02086v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruben Zatini, Jorge Martin Camalich, Pasquale Dario Serpico, Tobias Fischer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strange hadrons are commonly included in dense-matter equation-of-state models by imposing chemical equilibrium, but the weak-interaction timescales required to establish it in core-collapse supernovae have not been systematically assessed. In this paper we compute the $Λ$-hyperon production rates in the hot, dense, and isospin-asymmetric conditions characteristic of post-collapse proto-neutron stars. We find that local $Λ$ chemical equilibration is driven by nonleptonic strangeness-changing reactions, especially $NN\leftrightarrow NΛ$ scattering, on timescales of order $10^{-11}$-$10^{-10}$ s, many orders of magnitude shorter than macroscopic proto-neutron-star evolution timescales. Using an effective-field-theory framework constrained by hypernuclear weak-decay data, we find that short-range contact interactions dominate the nonleptonic rates, beyond a pure one-meson-exchange description. Semileptonic channels are too slow to set the equilibrium $Λ$ abundance, but they open additional absorption channels for low-energy muon neutrinos and antineutrinos, such as $ν_μ+Λ\toμ^-+p$ and $p+μ^-+\barν_μ\toΛ$. At low energies, these $Λ$-induced neutrino opacities exceed the corresponding nucleonic contributions for muon (anti)neutrinos, possibly influencing the evolution of the muon lepton number during proto-neutron-star deleptonization. These results support local chemical equilibrium for $Λ$ hyperons under the conditions studied and provide new weak-interaction input for flavor-dependent neutrino transport, muonization, and proto-neutron-star evolution.&lt;/p&gt;</description>
@@ -1005,18 +1005,6 @@
       <dc:creator>ATLAS Collaboration</dc:creator>
     </item>
     <item>
-      <title>Revisiting the role of saturation in diffractive vector meson production</title>
-      <link>http://arxiv.org/abs/2606.20362v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Heikki Mäntysaari, Hendrik Roch, Björn Schenke, Chun Shen, Wenbin Zhao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a global Bayesian analysis of coherent and incoherent diffractive $\mathrm{J}/ψ$ photoproduction in $γ+p$ and $γ+\mathrm{Pb}$ collisions using a Color Glass Condensate (CGC)-based framework and ultraperipheral collision data from the Large Hadron Collider (LHC), corrected for the expected effect of electromagnetic dissociation (EMD). Using Gaussian-process emulators of the underlying CGC calculations, we infer model parameters from a combined set of HERA and LHC measurements. We find that the $γ+\mathrm{Pb}$ data with EMD correction substantially reduce the previously observed tension between proton and nuclear datasets, enabling a consistent simultaneous description of diffractive $\mathrm{J}/ψ$ production in $γ+p$ and $γ+\mathrm{Pb}$ collisions within the CGC framework.&lt;/p&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 15:25:41 GMT</pubDate>
-      <guid isPermaLink="false">2606.20362v1</guid>
-      <dc:creator>Heikki Mäntysaari</dc:creator>
-      <dc:creator>Hendrik Roch</dc:creator>
-      <dc:creator>Björn Schenke</dc:creator>
-      <dc:creator>Chun Shen</dc:creator>
-      <dc:creator>Wenbin Zhao</dc:creator>
-    </item>
-    <item>
       <title>Measurements of charged-particle pseudorapidity and transverse momentum distributions in O+O and Ne+Ne collisions at $\sqrt{s_{_\text{NN}}} = 5.36$ TeV with the ATLAS detector</title>
       <link>http://arxiv.org/abs/2606.20257v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ATLAS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Measurements of charged-particle transverse momentum spectra, multiplicity, and mean transverse momentum are presented as a function of pseudorapidity and collision centrality in O+O and Ne+Ne collisions at $\sqrt{s_{_\text{NN}}}= 5.36$ TeV using 27.7 $μ\text{b}^{-1}$ and 53.1 $μ\text{b}^{-1}$ data sets recorded by the ATLAS experiment at the LHC. The collision centrality is characterized by the total transverse energy measured in the ATLAS forward calorimeters. The kinematics of charged particles are reconstructed with the inner detector over the fiducial pseudorapidity and transverse momentum ranges $|η|&lt;2.5$ and $0.27 &lt; p_{\text{T}} &lt; 5$ GeV using data from the ATLAS inner detector. The per-event charged-particle pseudorapidity density $dn/dη$ and mean transverse momentum $\langle p_{\text{T}}\rangle$ are measured over this fiducial range as a function of $η$. The results are reported in 5%-wide centrality intervals covering the 5-80% centrality range, and in 1%-wide intervals covering the 0-5% centrality range. Invariant per-event yields are evaluated as a function of $η$ and $p_{\text{T}}$. Their $p_{\text{T}}$ dependence is fitted to estimate extrapolated $dn/dη$ and $\langle p_{\text{T}}\rangle$ values over $0 &lt; p_{\text{T}} &lt; 5$ GeV. To evaluate the impact of using pseudorapidity instead of rapidity, measurements are also performed as a function of rapidity computed using a pion mass hypothesis. The fiducial and extrapolated results are compared with hydrodynamic calculations.&lt;/p&gt;</description>
@@ -1047,16 +1035,6 @@
       <pubDate>Thu, 18 Jun 2026 09:59:09 GMT</pubDate>
       <guid isPermaLink="false">2606.20028v1</guid>
       <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Universality and variability of the heavy r-process element abundance pattern from a nonequilibrium approach</title>
-      <link>http://arxiv.org/abs/2606.18373v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; David Blaschke, Friedrich K. Röpke, Gerd Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A striking feature in the observed chemical composition of the majority of stars is the universality of the relative abundances of the heavy elements, although some outliers exist. We demonstrate that a nonequilibrium freeze-out approach provides a natural way of accounting for the typical abundance pattern and its variation. Here, we use a phenomenological method to characterize the coarse-grained distribution of heavy $r$-process elements in several astrophysical objects. The Lagrange parameters show only minor fluctuations when comparing different stars. Larger deviations are observed in stars with low metallicity. The variations in the Lagrange parameters for these stars are presented. The determination of the Lagrange parameters can be instrumental in identifying possible sources for the formation of heavy elements. In particular, density fluctuations are considered as a source for the production of heavy elements in the early Universe.&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 18:19:30 GMT</pubDate>
-      <guid isPermaLink="false">2606.18373v1</guid>
-      <dc:creator>David Blaschke</dc:creator>
-      <dc:creator>Friedrich K. Röpke</dc:creator>
-      <dc:creator>Gerd Röpke</dc:creator>
     </item>
     <item>
       <title>Energy-energy correlators in p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV</title>
@@ -3482,25 +3460,6 @@
       <guid isPermaLink="false">2605.26737v1</guid>
       <dc:creator>Tribhuban Parida</dc:creator>
       <dc:creator>Piotr Bożek</dc:creator>
-    </item>
-    <item>
-      <title>A higher-harmonic observable for the chiral magnetic effect in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2605.25487v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Han-Sheng Li, Yu-Shan Chang, Yi Yang, Fuqiang Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The chiral magnetic effect (CME) is a phenomenon in which electric charge is separated by a strong magnetic field from local domains of chirality imbalance in quantum chromodynamics. The CME-sensitive azimuthal correlator difference $Δγ$ between opposite- and same-sign charged hadron pairs is designed to detect charge separation along the magnetic field, on average perpendicular to the reaction plane. However, the search for the CME is hindered by large background contributions to $Δγ$ from particle correlations coupled with elliptic flow. In this work, we explore higher-harmonic components in differential $Δγ(φ_{\rm pair})$ as a function of the pair azimuthal angle. Such components could arise from event-by-event fluctuations of the magnetic fields throughout the collision zone, in both direction and magnitude. We show by using heavy-ion physics models that the hexadecapole component of $Δγ(φ_{\rm pair})$ is sensitive to the CME and insensitive to physics backgrounds. This could offer a unique observable for the CME that is robust against background contributions.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 May 2026 06:43:13 GMT</pubDate>
-      <guid isPermaLink="false">2605.25487v1</guid>
-      <dc:creator>Han-Sheng Li</dc:creator>
-      <dc:creator>Yu-Shan Chang</dc:creator>
-      <dc:creator>Yi Yang</dc:creator>
-      <dc:creator>Fuqiang Wang</dc:creator>
-    </item>
-    <item>
-      <title>Observation of Entanglement Enabled Spin-Interference in the Drell-Söding Process in Au+Au Ultraperipheral Collisions at RHIC</title>
-      <link>http://arxiv.org/abs/2605.23615v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-05-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report a measurement of the Drell-Söding $π^+ π^-$ production in Au + Au ultraperipheral collisions at a center-of-mass energy per nucleon pair $\sqrt{s_{NN}} = 200~\mathrm{GeV}$ using the STAR detector. For the first time, the Entanglement Enabled Spin-Interference (EESI) effect is observed in the Drell-Söding process through the amplitude $A_{2Δφ}$ of the $\cos(2Δφ)$ modulation. The measured $A_{2Δφ}$ exhibits no significant dependence on the invariant mass $M_{π^+ π^-}$. An enhancement of three standard deviations is observed for the Drell-Söding process compared to $ρ^0$ photoproduction. Furthermore, we measure the $|t|$-dependence of the Drell-Söding process and $ρ^0$ photoproduction. The Drell-Söding spectrum falls more steeply with $|t|$ and exhibits diffractive structures shifted to lower $|t|$ compared to $ρ^0$ photoproduction, features that are not captured by theoretical calculations. These results provide new insights into the interplay between quantum interference and photon-nuclear interactions in ultra-peripheral heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 22 May 2026 13:23:06 GMT</pubDate>
-      <guid isPermaLink="false">2605.23615v1</guid>
-      <dc:creator>The STAR Collaboration</dc:creator>
     </item>
   </channel>
 </rss>
