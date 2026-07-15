@@ -5,9 +5,44 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 00:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:25:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Experimental Review on Bulk Properties and Light/Strange Hadron Production in Heavy-Ion Collisions</title>
+      <link>http://arxiv.org/abs/2607.11640v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shusu Shi, Xianglei Zhu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This proceedings article reviews recent experimental results on bulk properties and light/strange hadron production in heavy-ion collisions, presented at the Strangeness in Quark Matter 2026 conference. The discussion covers the QCD phase diagram, extraction of the temperature-dependent speed of sound, radial flow fluctuations probed by $v_0(p_T)$, anisotropic flow in small collision systems, strange hadron yields across system sizes, nuclear modification factors, and collectivity signatures at high baryon density. Results from the STAR, CMS, ALICE, ATLAS, PHENIX, NA61/SHINE, and HADES collaborations are synthesized to highlight recent progress in understanding the properties of the Quark-Gluon Plasma and the nature of the QCD phase transition.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 14:57:19 GMT</pubDate>
+      <guid isPermaLink="false">2607.11640v1</guid>
+      <dc:creator>Shusu Shi</dc:creator>
+      <dc:creator>Xianglei Zhu</dc:creator>
+    </item>
+    <item>
+      <title>Observation of the centrality-dependent difference in directed flow between charged kaons and $K^{*0}$ resonances in Au+Au collisions at $\sqrt{s_{\mathrm{NN}}}$ = 14.6, 19.6 and 27 GeV</title>
+      <link>http://arxiv.org/abs/2607.11191v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the measurement of rapidity-odd directed flow ($v_{1}^{\mathrm{odd}}$) for charged kaons, $φ$ mesons, and $K^{*0}(\overline{K^{*0}})$ resonances in Au+Au collisions at $\sqrt{s_{\mathrm{NN}}}$ = 14.6, 19.6 and 27 GeV. This study includes the first measurement of the $K^{*0}$ resonance $v_{1}^{\mathrm{odd}}$ in heavy-ion collisions. Our measurement shows a centrality-dependent difference in directed flow between charged kaons and $K^{*0}$ resonances, which becomes more pronounced with increasing collision centrality. In contrast, the difference in directed flow between charged kaons and $φ$ mesons remains nearly independent of centrality. Although anisotropic flow is thought to be developed in the early stages of the collision, for short-lived resonances such as the $K^{*}(892)$ that experience substantial hadronic re-scattering, it remains unclear to what extent the observed $v_{1}^{\mathrm{odd}}$ reflects genuine partonic collectivity in the early stage, and to what extent it is altered by late-stage hadronic interactions and/or reconstruction effects. The present measurement is crucial for disentangling these contributions and addressing this question. Existing hydrodynamic calculations that include a hadronic afterburner based on the UrQMD model indicate that an asymmetric modification of the $K^{*0}$ yield, due to rescattering, relative to the first-order event plane is required to reproduce the observed difference between $v_{1}^{\mathrm{odd}}$ for charged kaons and $K^{*0}$.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 07:42:53 GMT</pubDate>
+      <guid isPermaLink="false">2607.11191v1</guid>
+      <dc:creator>The STAR Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Investigating $J/ψ$ spin alignment in heavy-ion collisions within a two-component transport model</title>
+      <link>http://arxiv.org/abs/2607.11028v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yida Yang, Anping Huang, Baoyi Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the spin alignment of $J/ψ$ mesons in relativistic heavy-ion collisions within a two-component Boltzmann transport model. Starting from the relativistic spin Boltzmann equation, we derive the spin density matrix element $ρ_{00}$ under a non-relativistic approximation for heavy quarks. To interpret the recent ALICE measurements in Pb+Pb collisions, the observed $ρ_{00}$ is described as a $p_T$-dependent mixture of contributions from primordial production and the coalescence process. At forward rapidity, the $p_T$ dependence of charmonium $ρ_{00}$ is well reproduced by this two-component mechanism: at low $p_T$, charmonium production is dominated by the coalescence of partially polarized charm quarks induced by thermal vorticity; with increasing $p_T$, primordially produced charmonia become dominant, causing $ρ_{00}$ to approach $1/3$. To further test this spin alignment mechanism, we provide predictions for the $J/ψ$ $ρ_{00}$ in the mid-rapidity region, which exhibits a distinct $p_T$ trend due to the kinematic suppression of the thermal vorticity contribution. This study elucidates the underlying mechanism of $J/ψ$ spin alignment and advances our understanding of heavy quarkonium spin dynamics in strongly interacting matter.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 02:48:48 GMT</pubDate>
+      <guid isPermaLink="false">2607.11028v1</guid>
+      <dc:creator>Yida Yang</dc:creator>
+      <dc:creator>Anping Huang</dc:creator>
+      <dc:creator>Baoyi Chen</dc:creator>
+    </item>
+    <item>
+      <title>Exploring the origin of D$^0$ meson elliptic flow in PbPb collisions at $\sqrt{s_\mathrm{NN}}$ = 5.02 TeV using event shape engineering</title>
+      <link>http://arxiv.org/abs/2607.11017v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CMS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The influence of the initial-state geometry on the elliptic flow of prompt D$^0$ mesons in high-energy heavy ion collisions is explored. A lead-lead (PbPb) data sample at a center-of-mass energy per nucleon pair of 5.02 TeV and with an integrated luminosity of 0.607 nb$^{-1}$ was collected in 2018 with the CMS detector at the CERN LHC. Based on these data, an event-shape engineering technique is used to isolate collisions with similar geometrical properties. An asymmetry parameter, $q_2$, is first determined from the distribution of transverse energy in the forward region of the detector. This parameter is shown to be linearly correlated with the elliptic anisotropy of inclusive charged particles measured near mid-rapidity, as characterized by the second-order Fourier coefficients, $v_2$. Taking the charged particle $v_2$ coefficients as proxies for the initial-state eccentricity, the correlation of D$^0$ meson $v_2$ values near mid-rapidity with those of inclusive charged particles is then studied. For D$^0$ mesons with transverse momenta in the range of 2$-$30 GeV and for different degrees of collision overlap, the $v_2$ values are found strongly correlated with those for charged particles when selected based on similar $q_2$ intervals. This correlation suggests that the initial-state geometry substantially impacts the development of charm-hadron flow in heavy ion collisions. A model calculation that explores the thermalization and collective motion of D$^0$ mesons and charged particles is compared to the experimental results.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 02:31:49 GMT</pubDate>
+      <guid isPermaLink="false">2607.11017v1</guid>
+      <dc:creator>CMS Collaboration</dc:creator>
+    </item>
     <item>
       <title>The impact of nuclear uncertainties on the p-process nucleosynthesis in Supernovae</title>
       <link>http://arxiv.org/abs/2607.09208v1</link>
@@ -83,34 +118,6 @@
       <dc:creator>Qingfeng Li</dc:creator>
       <dc:creator>Fuhu Liu</dc:creator>
       <dc:creator>Yasushi Nara</dc:creator>
-    </item>
-    <item>
-      <title>Kaon-deuteron correlation function from an effective field theory approach</title>
-      <link>http://arxiv.org/abs/2607.06715v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Juan Torres-Rincon, Àngels Ramos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a study of femtoscopic correlation functions for $K^{-}d$ and $K^{+}d$ pairs, and compare our results with recent measurements by the ALICE Collaboration in both Pb-Pb and high-multiplicity $pp$ collisions. The kaon-deuteron wave functions are derived from scattering amplitudes using a unitarized chiral effective theory model describing the elementary interactions of $K^{\pm}$ mesons with nucleons. We then evaluate the $K^{\pm}d$ strong scattering amplitudes by solving the Faddeev equations within two distinct frameworks: the Impulse Approximation and the Fixed Center Approximation, which accounts for multiple scatterings. We also incorporate the long-range Coulomb effects between the kaon and the deuteron. We show that the $K^{-}d$ correlation function exhibits large sensitivity to both the size of the emitting source and the relative momentum of the pair, being heavily influenced by rescattering processes. In contrast, the $K^{+}d$ correlation function is dominated by the weakly repulsive $K^{+}N$ interaction, showing deviations from purely Coulombic behavior only at small emission source sizes. Our predictions are in agreement with the ALICE experimental data, and also with the energy-shift and width of the $1s$ level of the kaonic deuterium preliminary results from the SIDDHARTA 2 Collaboration.&lt;/p&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 18:31:55 GMT</pubDate>
-      <guid isPermaLink="false">2607.06715v1</guid>
-      <dc:creator>Juan Torres-Rincon</dc:creator>
-      <dc:creator>Àngels Ramos</dc:creator>
-    </item>
-    <item>
-      <title>Bottomonium production in an open quantum system approach with interactions from lattice quantum chromodynamic</title>
-      <link>http://arxiv.org/abs/2607.06191v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuhan Zheng, Shuzhe Shi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bottomonium production in Pb-Pb collisions at $\sqrt{s_{NN}}=5.02$ TeV is studied using a Lindblad master equation derived from potential non-relativistic quantum chromodynamics (QCD), where quantum regeneration of color-singlet states is matched to the lattice QCD imaginary potential via collapse operators. Two parametrizations of the in-medium heavy-quark potential, both constrained by lattice QCD data, are employed to compute the nuclear modification factors of $Υ(1S)$, $Υ(2S)$, and $Υ(3S)$. The results show sensitivities to both the quantum regeneration effect and the initial condition of the density matrix. The dipole transitions in the collapse operators are found to significantly redistribute populations among different orbital angular momentum channels. It is shown that regeneration is more important when a potential with a larger imaginary part, i.e., stronger transitions between singlet and octet states, is used.&lt;/p&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 12:15:10 GMT</pubDate>
-      <guid isPermaLink="false">2607.06191v1</guid>
-      <dc:creator>Shuhan Zheng</dc:creator>
-      <dc:creator>Shuzhe Shi</dc:creator>
-    </item>
-    <item>
-      <title>Quantum decoherence: a study applied to quarkonium-like bound states in strongly interacting matter</title>
-      <link>http://arxiv.org/abs/2607.06137v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gabriele Coci, Salvatore Plumari, Giuseppe Falci&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the quantum decoherence of a bound state interacting with a reservoir of strongly interacting matter within the framework of open quantum systems. The bound state is modeled as a quantum harmonic oscillator whose parameters are tuned to reproduce the root-mean-square radius of $J/Ψ$ particle. The surrounding medium, representing the many degrees of freedom of strongly interacting matter, acts as an environment that induces dissipation and decoherence through system-reservoir coupling. By analyzing the time evolution of the reduced density matrix, we quantify the loss of quantum coherence and its dependence on medium properties. Subsequently, we extend the model by introducing a time dependence in the system-thermal bath coupling, thereby simulating a temperature evolution similar to that occurring during the expansion of a fireball in the central region of heavy-ion collisions. We find that a temperature evolution has a relevant impact on the way the system loses coherence through the coupling with the expanding medium. Finally, we estimate the impact of the time-dependent temperature on the decoherence process, also analyzing a scenario that includes viscous effects without finding a significant change with respect to ideal hydrodynamical evolution.&lt;/p&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 10:54:10 GMT</pubDate>
-      <guid isPermaLink="false">2607.06137v1</guid>
-      <dc:creator>Gabriele Coci</dc:creator>
-      <dc:creator>Salvatore Plumari</dc:creator>
-      <dc:creator>Giuseppe Falci</dc:creator>
     </item>
   </channel>
 </rss>
