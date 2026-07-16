@@ -5,9 +5,49 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 00:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:29:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Thermal conductivity of dense $npΛ$ matter in neutron star cores</title>
+      <link>http://arxiv.org/abs/2607.12675v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tanay Choudhary, Athira S., Monika Sinha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The possible presence of hyperons in the cores of massive neutron stars has important implications for their microscopic transport properties and thermal evolution. Despite recent progress in modelling core transport, a dedicated analysis regarding the thermal conductivity of a specific \(npΛ\) mixture remains absent from the existing literature. In this work, we investigate the thermal conductivity of dense, \(β\)-equilibrated \(npΛ\) matter within the framework of the variational linearized Boltzmann kinetic approach, employing the density-dependent DDME2 equation of state across a baryon density range of \((0.5\text{--}4.5)\,n_0\). We find that neutrons still dominate thermal transport, while the onset of \(Λ\) hyperons induces only a remarkably small reduction in neutron conductivity compared to pure nucleonic matter. These results suggests that the core thermal relaxation timescale remains practically unaltered in the presence of $Λ$ hyperons.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 12:05:26 GMT</pubDate>
+      <guid isPermaLink="false">2607.12675v1</guid>
+      <dc:creator>Tanay Choudhary</dc:creator>
+      <dc:creator>Athira S.</dc:creator>
+      <dc:creator>Monika Sinha</dc:creator>
+    </item>
+    <item>
+      <title>Harmonic-dependent geometry-to-flow transfer in AMPT Ru+Ru and Zr+Zr isobar collisions</title>
+      <link>http://arxiv.org/abs/2607.12660v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Murad Badshah, Muhammad Ajaz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a fixed-$N_{\rm part}$ study of geometry-to-flow transfer in string-melting AMPT simulations of $^{96}{\rm Ru}+^{96}{\rm Ru}$ and $^{96}{\rm Zr}+^{96}{\rm Zr}$ collisions at $\sqrt{s_{NN}}=200$ GeV. Four nuclear configurations are considered: deformation-only Ru+Ru, deformation-only Zr+Zr, deformation plus neutron skin Ru+Ru and deformation plus neutron skin Zr+Zr. The AMPT/HIJING initialization is modified to include deformed Woods--Saxon densities and, when enabled, separate proton and neutron Woods--Saxon radii and diffuseness parameters (neutron skin effect). We introduce an eccentricity-normalized isobar response double ratio, $D_n=(v_n^{\rm Ru}/v_n^{\rm Zr})/(\varepsilon_n^{\rm Ru}/\varepsilon_n^{\rm Zr})$, evaluated in common participant-number intervals. This observable eliminates the initial-geometry eccentricity ratio, and investigates whether the final-state flow ratio is fully determined by the initial-geometry ratio. We find that the elliptic double ratio is nearly unity, and the triangular double ratio is consistently greater than unity for the two deformation-only and deformation-plus-skin configurations. The positive $D_3-1$ pattern is maintained when varying the $N_{\rm part}$ binning, peripheral-bin treatment, flow $p_T$ range and rapidity/pseudorapidity acceptance. The result identifies a harmonic-dependent AMPT response: Ru/Zr elliptic flow follows leading eccentricity scaling to high accuracy, whereas triangular flow retains a residual response component after the triangularity ratio is divided out.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:39:29 GMT</pubDate>
+      <guid isPermaLink="false">2607.12660v1</guid>
+      <dc:creator>Murad Badshah</dc:creator>
+      <dc:creator>Muhammad Ajaz</dc:creator>
+    </item>
+    <item>
+      <title>Low-temperature Quantum-corrected Holographic Transport with Momentum Relaxation</title>
+      <link>http://arxiv.org/abs/2607.12066v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Suman Das, Sabyasachi Maulik, Leopoldo A. Pando Zayas, Jingchao Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We determine the quantum corrections to transport arising from fluctuations of the near-AdS${}_2$ throat of near-extremal black branes in holographic models with momentum relaxation. By computing the shear viscosity and electrical conductivity at both zero and finite chemical potential, we uncover a universal low-temperature enhancement of transport generated by Schwarzian quantum fluctuations. Specifically, transport coefficients extracted from retarded Green's functions increase throughout the regime $C T \ll 1$. For operators with Schwarzian scaling dimension $Δ&gt;1$, this enhancement is preceded by a universal minimum at a characteristic temperature $T_{\rm min} \propto C^{-1}$, leading to a non-monotonic temperature dependence strikingly similar to that observed in many correlated materials. In contrast, for the case $Δ=1$, relevant for the electrical conductivity, the transport coefficient evolves monotonically toward a constant value. Our results identify universal signatures of near-horizon quantum gravity in the transport properties of holographic quantum matter.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:37:41 GMT</pubDate>
+      <guid isPermaLink="false">2607.12066v1</guid>
+      <dc:creator>Suman Das</dc:creator>
+      <dc:creator>Sabyasachi Maulik</dc:creator>
+      <dc:creator>Leopoldo A. Pando Zayas</dc:creator>
+      <dc:creator>Jingchao Zhang</dc:creator>
+    </item>
+    <item>
+      <title>Using $γ$+jets to quantify medium-induced jet broadening in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2607.12041v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ankita Budhraja, Marco van Leeuwen, Wouter Waalewijn&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The structure of jets produced in high-energy nucleus-nucleus collisions carries information on parton energy loss and interaction in the quark-gluon plasma. This parton energy loss results in migration of jets in terms of transverse momentum, leading to a selection bias in inclusive jet measurements. Using the JEWEL event generator, we investigate a strategy to reduce selection bias and access medium-induced jet broadening, in an experimentally viable way. As a baseline, we first consider large-R $γ$+jet events, with little selection bias, which show a clear signal of medium-induced broadening in the jet girth. However, large-R is experimentally inaccessible due to the large underlying event fluctuations in heavy-ion collisions, so we re-cluster a collection of small-radius ($r_{\rm sub}$ = 0.2) jets as a proxy for the large-radius (R = 1.2) jet, which we refer to as a trimmed jet. We quantify to what extent trimmed jets recover signals of jet broadening and investigate its dependence on the subjet cone size and the minimum transverse momentum. We study the internal structure of the subjets to expose the dependence of jet quenching on different subjet configurations, finding a strong narrowing of PbPb jets for the 1-subjet configurations, and a visible signature of medium-induced broadening for sub-leading subjets. The jet radial profile reveals that contributions from medium-induced broadening are distinct from radiation in pp collisions. These contributions are not easily recovered using our trimming procedure, but are substantially enhanced in single-subjet configurations when considering the profile \emph{beyond} the subjet radius. This provides guidance for future experimental studies of jet-medium interactions using $γ$+jet in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:00:30 GMT</pubDate>
+      <guid isPermaLink="false">2607.12041v1</guid>
+      <dc:creator>Ankita Budhraja</dc:creator>
+      <dc:creator>Marco van Leeuwen</dc:creator>
+      <dc:creator>Wouter Waalewijn</dc:creator>
+    </item>
     <item>
       <title>Experimental Review on Bulk Properties and Light/Strange Hadron Production in Heavy-Ion Collisions</title>
       <link>http://arxiv.org/abs/2607.11640v1</link>
@@ -70,54 +110,6 @@
       <pubDate>Thu, 09 Jul 2026 14:59:22 GMT</pubDate>
       <guid isPermaLink="false">2607.08569v1</guid>
       <dc:creator>Carlos Hoyos</dc:creator>
-    </item>
-    <item>
-      <title>Azimuthal momentum isotropization in the Quark-Gluon Plasma thermalization</title>
-      <link>http://arxiv.org/abs/2607.07796v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sergio Barrera Cabodevila, Xiaojian Du, Carlos A. Salgado, Bin Wu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Azimuthal anisotropies coming from the initial state of a heavy-ion collision have been historically disregarded in the study of thermalization because they are expected to be rapidly washed out due to final-state interactions. However, they may be important when one attempts to describe azimuthal correlations observed in the collisions of small systems. In this work, we study how these initial anisotropies relax in the context of the Boltzmann Equation in Diffusion Approximation (BEDA). We find a clear hierarchy in the relaxation time of the anisotropies in terms of each harmonic coefficient. We also explore the evolution of the $p_T$-dependent harmonic coefficients in time, finding a shift in the initial peak towards higher momenta that mimics the experimental data when we perform a phenomenologically motivated simulation.&lt;/p&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 18:00:02 GMT</pubDate>
-      <guid isPermaLink="false">2607.07796v1</guid>
-      <dc:creator>Sergio Barrera Cabodevila</dc:creator>
-      <dc:creator>Xiaojian Du</dc:creator>
-      <dc:creator>Carlos A. Salgado</dc:creator>
-      <dc:creator>Bin Wu</dc:creator>
-    </item>
-    <item>
-      <title>Recent highlights from the STAR Experiment</title>
-      <link>http://arxiv.org/abs/2607.07254v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rutik Manikandhan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Understanding the QCD phase structure and the possible existence of a critical point remains one of the central goals of the heavy-ion program at RHIC. In this proceeding, we present recent STAR results across multiple observables that probe different aspects of the hot and dense matter created in Au+Au collisions. These include two-particle transverse momentum correlations of mean transverse momentum, net-proton cumulants up to fourth order, identical-pion femtoscopy, and baryon-strangeness correlations. We also discuss femtoscopic measurements of baryon-baryon pairs, which provide insight into hyperon-nucleon and hyperon-hyperon interactions and the possible formation of strange dibaryon states. Together, these results provide complementary probes of the system's evolution across a wide collision-energy range (sqrt(sNN) = 3-200 GeV), offering new constraints on the QCD equation of state and the location of the QCD critical point.&lt;/p&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 10:39:14 GMT</pubDate>
-      <guid isPermaLink="false">2607.07254v1</guid>
-      <dc:creator>Rutik Manikandhan</dc:creator>
-    </item>
-    <item>
-      <title>Hadronic and partonic composition of QCD matter across the crossover</title>
-      <link>http://arxiv.org/abs/2607.07140v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Artemiy Lysenko, Mark I. Gorenstein, Marek Gazdzicki, Roman Poberezhniuk, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct a simple equation of state of strongly interacting matter at zero chemical potentials that provides a unified description of lattice QCD thermodynamics in terms of hadronic and partonic degrees of freedom. The hadronic phase is described by the quantum van der Waals hadron resonance gas, extended by excluded-volume repulsion between mesons, while the quark-gluon plasma is modeled as an ideal gas of quarks and gluons supplemented with a phenomenological interaction term proportional to $T^3$. The two regimes are connected by a smooth crossover switching function. The three model parameters - the meson hard-core radius, the strength of the partonic interaction term, and the switching temperature - are determined from a fit to lattice QCD results for the trace anomaly. The resulting equation of state reproduces the lattice data on the pressure, entropy density, energy density, and speed of sound in the temperature range $T=100$-$500$ MeV. The fit yields a meson hard-core radius $r_M \simeq 0.2$ fm, a partonic interaction scale $A \simeq 600$ MeV, and a switching temperature $T_0 \simeq 216$ MeV, substantially exceeding both the pseudocritical temperature of the QCD chiral crossover and the chemical freeze-out temperature. This finding suggests that the transition from hadronic to partonic degrees of freedom is considerably more gradual than indicated by the chiral pseudocritical temperature alone, with hadronic states remaining an important component of strongly interacting matter up to temperatures of about 250 MeV, well above the QCD chiral crossover.&lt;/p&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 08:34:34 GMT</pubDate>
-      <guid isPermaLink="false">2607.07140v1</guid>
-      <dc:creator>Artemiy Lysenko</dc:creator>
-      <dc:creator>Mark I. Gorenstein</dc:creator>
-      <dc:creator>Marek Gazdzicki</dc:creator>
-      <dc:creator>Roman Poberezhniuk</dc:creator>
-      <dc:creator>Volodymyr Vovchenko</dc:creator>
-    </item>
-    <item>
-      <title>Machine learning the impact parameter in heavy-ion collisions at $\sqrt{s_{\rm NN}}$ = 4 and 11 GeV: a cross-check study with UrQMD, AMPT, and JAM</title>
-      <link>http://arxiv.org/abs/2607.06897v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiaoqing Yue, Guojun Wei, Yongjia Wang, Zhilong Li, Pengcheng Li, Haojie Xu, Xiangrong Zhu, Qingfeng Li, Fuhu Liu, Yasushi Nara&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;By generating heavy-ion collision data with the ultrarelativistic quantum molecular dynamics (UrQMD) model, a multiphase transport (AMPT) model, and the JAM model, the impact parameter ($b$) in Au+Au collisions at $\sqrt{s_{\rm NN}}$ = 4 and 11 GeV is reconstructed using supervised learning and unsupervised learning in machine learning (ML). In supervised learning, the performance of ML algorithm is cross-checked by using data obtained from these three transport models. It is found that the typical mean absolute error (MAE) which measures the average magnitude of the absolute difference between the true and predicted $b$ is between 0.2-0.4 fm, even when training ML algorithm with data generated from one model but testing with data from others. While the conventional method (i.e., a polynomial fit to multiplicity as a function of $b$) only works for data generated from the same model. In the classification task, the present ML-based method also shows significantly superior results compared to the traditional approach. In unsupervised learning, the K-means clustering algorithm is used to partition collision events directly from experimental-style observables, showing that the algorithm autonomously identifies six clusters corresponding to different centrality classes without relying on predefined model-based binning. Our study demonstrates the strong robustness of using an ML algorithm trained on transport-model data for impact-parameter determination, and indicates that this method has the potential to be generalized to handle real experimental data.&lt;/p&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 01:43:02 GMT</pubDate>
-      <guid isPermaLink="false">2607.06897v1</guid>
-      <dc:creator>Xiaoqing Yue</dc:creator>
-      <dc:creator>Guojun Wei</dc:creator>
-      <dc:creator>Yongjia Wang</dc:creator>
-      <dc:creator>Zhilong Li</dc:creator>
-      <dc:creator>Pengcheng Li</dc:creator>
-      <dc:creator>Haojie Xu</dc:creator>
-      <dc:creator>Xiangrong Zhu</dc:creator>
-      <dc:creator>Qingfeng Li</dc:creator>
-      <dc:creator>Fuhu Liu</dc:creator>
-      <dc:creator>Yasushi Nara</dc:creator>
     </item>
   </channel>
 </rss>

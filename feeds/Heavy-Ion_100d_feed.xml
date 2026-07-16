@@ -5,9 +5,49 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 00:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:29:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Thermal conductivity of dense $npΛ$ matter in neutron star cores</title>
+      <link>http://arxiv.org/abs/2607.12675v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tanay Choudhary, Athira S., Monika Sinha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The possible presence of hyperons in the cores of massive neutron stars has important implications for their microscopic transport properties and thermal evolution. Despite recent progress in modelling core transport, a dedicated analysis regarding the thermal conductivity of a specific \(npΛ\) mixture remains absent from the existing literature. In this work, we investigate the thermal conductivity of dense, \(β\)-equilibrated \(npΛ\) matter within the framework of the variational linearized Boltzmann kinetic approach, employing the density-dependent DDME2 equation of state across a baryon density range of \((0.5\text{--}4.5)\,n_0\). We find that neutrons still dominate thermal transport, while the onset of \(Λ\) hyperons induces only a remarkably small reduction in neutron conductivity compared to pure nucleonic matter. These results suggests that the core thermal relaxation timescale remains practically unaltered in the presence of $Λ$ hyperons.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 12:05:26 GMT</pubDate>
+      <guid isPermaLink="false">2607.12675v1</guid>
+      <dc:creator>Tanay Choudhary</dc:creator>
+      <dc:creator>Athira S.</dc:creator>
+      <dc:creator>Monika Sinha</dc:creator>
+    </item>
+    <item>
+      <title>Harmonic-dependent geometry-to-flow transfer in AMPT Ru+Ru and Zr+Zr isobar collisions</title>
+      <link>http://arxiv.org/abs/2607.12660v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Murad Badshah, Muhammad Ajaz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a fixed-$N_{\rm part}$ study of geometry-to-flow transfer in string-melting AMPT simulations of $^{96}{\rm Ru}+^{96}{\rm Ru}$ and $^{96}{\rm Zr}+^{96}{\rm Zr}$ collisions at $\sqrt{s_{NN}}=200$ GeV. Four nuclear configurations are considered: deformation-only Ru+Ru, deformation-only Zr+Zr, deformation plus neutron skin Ru+Ru and deformation plus neutron skin Zr+Zr. The AMPT/HIJING initialization is modified to include deformed Woods--Saxon densities and, when enabled, separate proton and neutron Woods--Saxon radii and diffuseness parameters (neutron skin effect). We introduce an eccentricity-normalized isobar response double ratio, $D_n=(v_n^{\rm Ru}/v_n^{\rm Zr})/(\varepsilon_n^{\rm Ru}/\varepsilon_n^{\rm Zr})$, evaluated in common participant-number intervals. This observable eliminates the initial-geometry eccentricity ratio, and investigates whether the final-state flow ratio is fully determined by the initial-geometry ratio. We find that the elliptic double ratio is nearly unity, and the triangular double ratio is consistently greater than unity for the two deformation-only and deformation-plus-skin configurations. The positive $D_3-1$ pattern is maintained when varying the $N_{\rm part}$ binning, peripheral-bin treatment, flow $p_T$ range and rapidity/pseudorapidity acceptance. The result identifies a harmonic-dependent AMPT response: Ru/Zr elliptic flow follows leading eccentricity scaling to high accuracy, whereas triangular flow retains a residual response component after the triangularity ratio is divided out.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:39:29 GMT</pubDate>
+      <guid isPermaLink="false">2607.12660v1</guid>
+      <dc:creator>Murad Badshah</dc:creator>
+      <dc:creator>Muhammad Ajaz</dc:creator>
+    </item>
+    <item>
+      <title>Low-temperature Quantum-corrected Holographic Transport with Momentum Relaxation</title>
+      <link>http://arxiv.org/abs/2607.12066v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Suman Das, Sabyasachi Maulik, Leopoldo A. Pando Zayas, Jingchao Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We determine the quantum corrections to transport arising from fluctuations of the near-AdS${}_2$ throat of near-extremal black branes in holographic models with momentum relaxation. By computing the shear viscosity and electrical conductivity at both zero and finite chemical potential, we uncover a universal low-temperature enhancement of transport generated by Schwarzian quantum fluctuations. Specifically, transport coefficients extracted from retarded Green's functions increase throughout the regime $C T \ll 1$. For operators with Schwarzian scaling dimension $Δ&gt;1$, this enhancement is preceded by a universal minimum at a characteristic temperature $T_{\rm min} \propto C^{-1}$, leading to a non-monotonic temperature dependence strikingly similar to that observed in many correlated materials. In contrast, for the case $Δ=1$, relevant for the electrical conductivity, the transport coefficient evolves monotonically toward a constant value. Our results identify universal signatures of near-horizon quantum gravity in the transport properties of holographic quantum matter.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:37:41 GMT</pubDate>
+      <guid isPermaLink="false">2607.12066v1</guid>
+      <dc:creator>Suman Das</dc:creator>
+      <dc:creator>Sabyasachi Maulik</dc:creator>
+      <dc:creator>Leopoldo A. Pando Zayas</dc:creator>
+      <dc:creator>Jingchao Zhang</dc:creator>
+    </item>
+    <item>
+      <title>Using $γ$+jets to quantify medium-induced jet broadening in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2607.12041v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ankita Budhraja, Marco van Leeuwen, Wouter Waalewijn&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The structure of jets produced in high-energy nucleus-nucleus collisions carries information on parton energy loss and interaction in the quark-gluon plasma. This parton energy loss results in migration of jets in terms of transverse momentum, leading to a selection bias in inclusive jet measurements. Using the JEWEL event generator, we investigate a strategy to reduce selection bias and access medium-induced jet broadening, in an experimentally viable way. As a baseline, we first consider large-R $γ$+jet events, with little selection bias, which show a clear signal of medium-induced broadening in the jet girth. However, large-R is experimentally inaccessible due to the large underlying event fluctuations in heavy-ion collisions, so we re-cluster a collection of small-radius ($r_{\rm sub}$ = 0.2) jets as a proxy for the large-radius (R = 1.2) jet, which we refer to as a trimmed jet. We quantify to what extent trimmed jets recover signals of jet broadening and investigate its dependence on the subjet cone size and the minimum transverse momentum. We study the internal structure of the subjets to expose the dependence of jet quenching on different subjet configurations, finding a strong narrowing of PbPb jets for the 1-subjet configurations, and a visible signature of medium-induced broadening for sub-leading subjets. The jet radial profile reveals that contributions from medium-induced broadening are distinct from radiation in pp collisions. These contributions are not easily recovered using our trimming procedure, but are substantially enhanced in single-subjet configurations when considering the profile \emph{beyond} the subjet radius. This provides guidance for future experimental studies of jet-medium interactions using $γ$+jet in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 18:00:30 GMT</pubDate>
+      <guid isPermaLink="false">2607.12041v1</guid>
+      <dc:creator>Ankita Budhraja</dc:creator>
+      <dc:creator>Marco van Leeuwen</dc:creator>
+      <dc:creator>Wouter Waalewijn</dc:creator>
+    </item>
     <item>
       <title>Experimental Review on Bulk Properties and Light/Strange Hadron Production in Heavy-Ion Collisions</title>
       <link>http://arxiv.org/abs/2607.11640v1</link>
@@ -970,33 +1010,6 @@
       <dc:creator>Wang-Mei Zha</dc:creator>
       <dc:creator>Lingxiao Wang</dc:creator>
       <dc:creator>Guo-Liang Ma</dc:creator>
-    </item>
-    <item>
-      <title>A novel approach for studying two-particle momentum correlation function in relativistic nuclear collisions</title>
-      <link>http://arxiv.org/abs/2606.22865v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhi-Lei She, Wen-Chao Zhang, An-Ke Lei, Dai-Mei Zhou, Hua Zheng, Li-Lin Zhu, Qiang Wang, Yu-Liang Yan, Zhong-Qi Wang, Ben-Hao Sa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Two particle momentum correlation functions provide a nontrivial tool for probing the strong interaction and/or extracting particle emission source information in relativistic nuclear collisions. Although transport models can describe the microscopic phase-space evolution of the collision system, calculating correlation functions within the framework of transport models remains challenging. In this paper, we employ the mixed-event technique to calculate two particle momentum correlation function as $C(k^*)= \mathcal{N} ξ(k^*)\frac{N_{\mathrm{same}}(k^*)}{N_{\mathrm{mixed}}(k^*)}$ based on the parton and hadron cascade model PACIAE simulated final hadronic state (FHS) with introducing a modification factor $ξ(k^*)$ to improve the treatment of final-state interactions and quantum statistics effects in the PACIAE model. The simulated results show good agreement with the ALICE data for $Kp$, $pp$, $pΛ$, and $ΛΛ$ momentum correlation functions in $pp$ collisions at $\sqrt{s}=7$ TeV. On the other hand, the particle emission source radius of the correlated pairs are also evaluated based on the simulated FHS self-consistently. Since the PACIAE model employs hadron-hadron cross sections derived from the additive quark model, the calculation of two-particle momentum correlation functions does not require prior assumptions about the interaction between the two correlated particles. This successful ``PACIAE + modification factor&quot; approach may shed light on the future study of momentum correlation functions for dimesons, dibaryons, and even diexotic hadrons.&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 05:13:47 GMT</pubDate>
-      <guid isPermaLink="false">2606.22865v1</guid>
-      <dc:creator>Zhi-Lei She</dc:creator>
-      <dc:creator>Wen-Chao Zhang</dc:creator>
-      <dc:creator>An-Ke Lei</dc:creator>
-      <dc:creator>Dai-Mei Zhou</dc:creator>
-      <dc:creator>Hua Zheng</dc:creator>
-      <dc:creator>Li-Lin Zhu</dc:creator>
-      <dc:creator>Qiang Wang</dc:creator>
-      <dc:creator>Yu-Liang Yan</dc:creator>
-      <dc:creator>Zhong-Qi Wang</dc:creator>
-      <dc:creator>Ben-Hao Sa</dc:creator>
-    </item>
-    <item>
-      <title>Event-by-event fluctuations of elliptic flow in ultrarelativistic O+O collisions</title>
-      <link>http://arxiv.org/abs/2606.22558v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Renata Krupczak, Nicolas Borghini, Hendrik Roch&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study O+O collisions at $\sqrt{s_\mathrm{NN}} = 5.36$ TeV within a fully three-dimensional $\text{McDipper}$+$\text{MUSIC}$ model, which allows us to describe the experimentally measured dependence of charged hadron multiplicity on centrality and pseudorapidity. We show that the initial elliptical eccentricity is mainly driven by the fluctuations of the energy deposition and thereby varies considerably event-by-event within a fixed centrality class. This also holds for elliptic flow $v_2$, whose origin in O+O thus differs from that in collisions of heavy nuclei. Using a decomposition of initial states in an average event and uncorrelated modes, we find that despite the large size of fluctuations we can reproduce the joint probability distribution of eccentricity and elliptic flow with a reasonable accuracy with only a small set of fluctuation modes.&lt;/p&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 15:33:04 GMT</pubDate>
-      <guid isPermaLink="false">2606.22558v1</guid>
-      <dc:creator>Renata Krupczak</dc:creator>
-      <dc:creator>Nicolas Borghini</dc:creator>
-      <dc:creator>Hendrik Roch</dc:creator>
     </item>
     <item>
       <title>Hyper-Nuclei $^4_Λ\hbox{He}$ Production in $\sqrt{s_{\rm{NN}}}$ = 3 GeV Au+Au collisions at RHIC</title>
