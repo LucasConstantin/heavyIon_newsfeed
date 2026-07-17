@@ -5,9 +5,69 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:29:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:31:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Towards compressed baryonic matter densities: D meson diffusion</title>
+      <link>http://arxiv.org/abs/2607.14058v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dani Rose J Marattukalam, Manpreet Kaur, Arvind Kumar, Sabyasachi Ghosh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the spatial diffusion coefficient and the momentum transport coefficients of D mesons through a dense nuclear medium in the relaxation time approximation of the kinetic theory. The in medium modifications of the D meson transport properties are computed in the chiral SU(3) hadronic model. Relaxation time is estimated using dilute and degenerate gas approximations for low and high baryonic densities, respectively. We have noticed that relaxation time and spatial diffusion of D meson decrease rapidly in the low density dilute gas domain and mildly in the high density degenerate gas domain. The detailed result of the present work on D meson diffusion is quite contemporary and important towards the compressed baryonic matter densities which can be assessed in future heavy ion collision experiments.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 17:29:11 GMT</pubDate>
+      <guid isPermaLink="false">2607.14058v1</guid>
+      <dc:creator>Dani Rose J Marattukalam</dc:creator>
+      <dc:creator>Manpreet Kaur</dc:creator>
+      <dc:creator>Arvind Kumar</dc:creator>
+      <dc:creator>Sabyasachi Ghosh</dc:creator>
+    </item>
+    <item>
+      <title>The Origin of Multi-TeV Gamma-rays in LHAASO J0341+5258 via Cosmic Ray Illumination of Molecular Clouds</title>
+      <link>http://arxiv.org/abs/2607.13991v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Abhijit Roy, Alan Sunny, Martina Cardillo, Jagdish C. Joshi, Ritabrata Sarkar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the origin of the ultra-high-energy $γ$-ray emission detected by the Large High Altitude Air Shower Observatory (LHAASO) from the source LHAASO J0341+5258, which has not yet been associated with any known astrophysical object within the detector's field of view. The observed UHE emission is modelled within two independent frameworks: initially with a time-dependent, source-independent hadronic scenario implemented with the numerical package GAMERA, where particles propagate through the interstellar medium and subsequently interact with the molecular gas observed in the region and finally with an analytical description of the interaction between the accelerated cosmic-ray population from a supernova remnant (SNR) and the molecular gas around it. The relevant parameter space for the hypothetical past SNR is explored using the observed TeV $γ$-rays. We show that, for physically plausible source-cloud separations and propagation timescales, GAMERA provides a first-order approximation to the spectral modifications induced by particle transport and yields an adequate fit to the ultra-high-energy $γ$-ray data. Within the framework of our analytical approach, we demonstrated that the observed GeV emission can plausibly originate from the SNR itself, while the TeV emission detected by LHAASO can be consistently interpreted as arising from particles that have escaped from the SNR and are illuminating nearby molecular clouds. We invoke a spatio-temporally evolved SNR-molecular cloud interaction scenario to account self-consistently for the entire $γ$-ray spectrum from GeV to TeV energies. Despite the remaining uncertainty regarding the nature of the acceleration source, we conclude that the TeV emission detected by LHAASO can be consistently interpreted within the framework of an illumination scenario.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 16:23:01 GMT</pubDate>
+      <guid isPermaLink="false">2607.13991v1</guid>
+      <dc:creator>Abhijit Roy</dc:creator>
+      <dc:creator>Alan Sunny</dc:creator>
+      <dc:creator>Martina Cardillo</dc:creator>
+      <dc:creator>Jagdish C. Joshi</dc:creator>
+      <dc:creator>Ritabrata Sarkar</dc:creator>
+    </item>
+    <item>
+      <title>Evidence for sequential $Υ$(nS) suppression in light ion collisions</title>
+      <link>http://arxiv.org/abs/2607.13758v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CMS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bound states of heavy quark-antiquark pairs, known as quarkonia, have long been regarded as particularly sensitive probes of the quark-gluon plasma (QGP). Comparing quarkonium yields in collisions of heavy nuclei, such as gold or lead, with a proton-proton (pp) reference reveals a characteristic pattern of sequential suppression, in which weakly-bound excited states are more strongly suppressed than the ground states. We report the first measurements of the three lowest mass $\mathrm{S}$-wave vector bottomonium resonances, the ground state $Υ$(1S) and the excited states $Υ$(2S) and $Υ$(3S), in oxygen-oxygen collisions at a center-of-mass energy per nucleon pair of $\sqrt{s_\mathrm{NN}}$ = 5.36 TeV. Measurements of the yields of the $Υ$(1S) and $Υ$(2S) resonances in neon-neon collisions, at the same $\sqrt{s_\mathrm{NN}}$, are also presented. The $Υ$(2S)/$Υ$(1S) ratio is found to be significantly below the measured pp reference value, and the $Υ$(3S)/$Υ$(1S) ratio shows an even larger reduction. The significance of the relative $Υ$(3S) to $Υ$(2S) suppression exceeds three standard deviations. These results provide evidence for the sequential suppression of $Υ$(nS) states in light ion collisions, similar to observations made in lead-lead and gold-gold collisions, generally attributed to the presence of a QGP medium.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 12:20:12 GMT</pubDate>
+      <guid isPermaLink="false">2607.13758v1</guid>
+      <dc:creator>CMS Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Investigating $J/ψ$ spin alignment in heavy-ion collisions within a two-component transport model</title>
+      <link>http://arxiv.org/abs/2607.11028v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yida Yang, Anping Huang, Baoyi Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the spin alignment of $J/ψ$ mesons in relativistic heavy-ion collisions within a two-component Boltzmann transport model. Starting from the relativistic spin Boltzmann equation, we derive the spin density matrix element $ρ_{00}$ under a non-relativistic approximation for heavy quarks. To interpret the recent ALICE measurements in Pb+Pb collisions, the observed $ρ_{00}$ is described as a $p_T$-dependent mixture of contributions from primordial production and the coalescence process. At forward rapidity, the $p_T$ dependence of charmonium $ρ_{00}$ is well reproduced by this two-component mechanism: at low $p_T$, charmonium production is dominated by the coalescence of partially polarized charm quarks induced by thermal vorticity; with increasing $p_T$, primordially produced charmonia become dominant, causing $ρ_{00}$ to approach $1/3$. To further test this spin alignment mechanism, we provide predictions for the $J/ψ$ $ρ_{00}$ in the mid-rapidity region, which exhibits a distinct $p_T$ trend due to the kinematic suppression of the thermal vorticity contribution. This study elucidates the underlying mechanism of $J/ψ$ spin alignment and advances our understanding of heavy quarkonium spin dynamics in strongly interacting matter.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 08:08:55 GMT</pubDate>
+      <guid isPermaLink="false">2607.11028v2</guid>
+      <dc:creator>Yida Yang</dc:creator>
+      <dc:creator>Anping Huang</dc:creator>
+      <dc:creator>Baoyi Chen</dc:creator>
+    </item>
+    <item>
+      <title>Lorentz-Covariant Spectral Bounds from Thermal Quantum Field Theory: Retarded Green's Functions, Kubo Relations, and Holographic Constraints</title>
+      <link>http://arxiv.org/abs/2607.13482v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alisher Sanetullaev, Sarbinaz Bazarbaeva, Marhabo Beymamatova, Shokir Tursunov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We extend the recently established framework of Lorentz-covariant relaxation bounds from linearized classical kinetic and rheological theories to the full quantum setting of thermal quantum field theory (QFT). Working directly with retarded two-point functions at finite temperature and density, we show that the analyticity and positivity properties of spectral functions -- combined with Lorentz covariance and the Kubo--Martin--Schwinger (KMS) condition -- impose rigorous frame-dependent constraints on the location of singularities in the complex frequency plane. Specifically, we prove that the non-hydrodynamic quasinormal spectrum in any boosted frame is confined to a strip whose width is determined solely by the rest-frame spectral weight at zero spatial momentum and the maximal group velocity of the theory. We derive covariant sum rules for the spectral density under Lorentz boosts and establish that the convergence radius of the hydrodynamic gradient expansion transforms in a manner dictated by the same rest-frame data. In holographic theories dual to Einstein gravity in asymptotically anti-de Sitter spacetime, we verify the bounds by an explicit quasinormal-mode computation: the leading boosted pole moves deeper into the complex plane -- the observed relaxation rate increases with boost velocity, in sharp contrast to naive time dilation -- while respecting the bound throughout; we further derive corrections from higher-derivative gravitational terms. Our results provide a first-principles, non-perturbative derivation of Lorentz-covariant spectral constraints applicable to the quark-gluon plasma, superfluid phases of neutron star matter, and strongly correlated electrons near quantum critical points.&lt;/p&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 06:21:41 GMT</pubDate>
+      <guid isPermaLink="false">2607.13482v1</guid>
+      <dc:creator>Alisher Sanetullaev</dc:creator>
+      <dc:creator>Sarbinaz Bazarbaeva</dc:creator>
+      <dc:creator>Marhabo Beymamatova</dc:creator>
+      <dc:creator>Shokir Tursunov</dc:creator>
+    </item>
+    <item>
+      <title>Profile-Likelihood and Baseline-Sensitivity Diagnostics for Digitized Radiation-Sensor Decay Datasets</title>
+      <link>http://arxiv.org/abs/2607.13118v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Victor V. Golovko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.data-an&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Accurate interpretation of radiation-sensor decay data is important for environmental monitoring, site remediation, radiation metrology, detector quality assurance, and nuclear data evaluation. When the original gamma-spectrometry records are unavailable, a published decay plot may be the only source that can be reanalyzed independently. This study presents a reproducible reduced-data workflow for testing half-life estimates from a digitized 198-Au decay dataset. A weighted exponential fit to the digitized data points reproduces the published room-temperature half-life, indicating that the main decay scale is retained in the figure-level dataset. The analysis then tests how the fitted result changes under plausible figure-level effects, including baseline-like offsets, time-axis reconstruction, finite-window leverage, and ratio-based robustness checks using pairwise summaries and Steiner's most frequent value statistics. The no-offset fit is locally well constrained, but small constant offsets can shift the fitted half-life because the normalization, decay constant, and residual baseline are partly degenerate over the limited time window. Toy Monte Carlo diagnostics show that some estimator shifts are expected for finite-window exponential data. This study does not revise recommended nuclear data or replace the original experiment. Instead, it shows how published radiation-sensor decay data can be tested for reproducibility, identifiability, and sensitivity to analysis choices when only reduced or figure-level information is available.&lt;/p&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:27:04 GMT</pubDate>
+      <guid isPermaLink="false">2607.13118v1</guid>
+      <dc:creator>Victor V. Golovko</dc:creator>
+    </item>
     <item>
       <title>Thermal conductivity of dense $npΛ$ matter in neutron star cores</title>
       <link>http://arxiv.org/abs/2607.12675v1</link>
@@ -66,16 +126,6 @@
       <dc:creator>The STAR Collaboration</dc:creator>
     </item>
     <item>
-      <title>Investigating $J/ψ$ spin alignment in heavy-ion collisions within a two-component transport model</title>
-      <link>http://arxiv.org/abs/2607.11028v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yida Yang, Anping Huang, Baoyi Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the spin alignment of $J/ψ$ mesons in relativistic heavy-ion collisions within a two-component Boltzmann transport model. Starting from the relativistic spin Boltzmann equation, we derive the spin density matrix element $ρ_{00}$ under a non-relativistic approximation for heavy quarks. To interpret the recent ALICE measurements in Pb+Pb collisions, the observed $ρ_{00}$ is described as a $p_T$-dependent mixture of contributions from primordial production and the coalescence process. At forward rapidity, the $p_T$ dependence of charmonium $ρ_{00}$ is well reproduced by this two-component mechanism: at low $p_T$, charmonium production is dominated by the coalescence of partially polarized charm quarks induced by thermal vorticity; with increasing $p_T$, primordially produced charmonia become dominant, causing $ρ_{00}$ to approach $1/3$. To further test this spin alignment mechanism, we provide predictions for the $J/ψ$ $ρ_{00}$ in the mid-rapidity region, which exhibits a distinct $p_T$ trend due to the kinematic suppression of the thermal vorticity contribution. This study elucidates the underlying mechanism of $J/ψ$ spin alignment and advances our understanding of heavy quarkonium spin dynamics in strongly interacting matter.&lt;/p&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 02:48:48 GMT</pubDate>
-      <guid isPermaLink="false">2607.11028v1</guid>
-      <dc:creator>Yida Yang</dc:creator>
-      <dc:creator>Anping Huang</dc:creator>
-      <dc:creator>Baoyi Chen</dc:creator>
-    </item>
-    <item>
       <title>Exploring the origin of D$^0$ meson elliptic flow in PbPb collisions at $\sqrt{s_\mathrm{NN}}$ = 5.02 TeV using event shape engineering</title>
       <link>http://arxiv.org/abs/2607.11017v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CMS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The influence of the initial-state geometry on the elliptic flow of prompt D$^0$ mesons in high-energy heavy ion collisions is explored. A lead-lead (PbPb) data sample at a center-of-mass energy per nucleon pair of 5.02 TeV and with an integrated luminosity of 0.607 nb$^{-1}$ was collected in 2018 with the CMS detector at the CERN LHC. Based on these data, an event-shape engineering technique is used to isolate collisions with similar geometrical properties. An asymmetry parameter, $q_2$, is first determined from the distribution of transverse energy in the forward region of the detector. This parameter is shown to be linearly correlated with the elliptic anisotropy of inclusive charged particles measured near mid-rapidity, as characterized by the second-order Fourier coefficients, $v_2$. Taking the charged particle $v_2$ coefficients as proxies for the initial-state eccentricity, the correlation of D$^0$ meson $v_2$ values near mid-rapidity with those of inclusive charged particles is then studied. For D$^0$ mesons with transverse momenta in the range of 2$-$30 GeV and for different degrees of collision overlap, the $v_2$ values are found strongly correlated with those for charged particles when selected based on similar $q_2$ intervals. This correlation suggests that the initial-state geometry substantially impacts the development of charm-hadron flow in heavy ion collisions. A model calculation that explores the thermalization and collective motion of D$^0$ mesons and charged particles is compared to the experimental results.&lt;/p&gt;</description>
@@ -92,24 +142,6 @@
       <dc:creator>S. Martinet</dc:creator>
       <dc:creator>S. Goriely</dc:creator>
       <dc:creator>A. Choplin</dc:creator>
-    </item>
-    <item>
-      <title>Secondary Hadron--Nucleus Collisions of Short-Lived Hadrons in Ultra-Relativistic Fixed-Target Heavy-Ion Interactions</title>
-      <link>http://arxiv.org/abs/2607.08658v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanatan Digal, P. S. Saumia, Ajit M. Srivastava&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultra-relativistic heavy nuclei traversing a solid target undergo successive nuclear encounters separated by atomic lattice spacings. At sufficiently high beam energies, Lorentz contraction reduces the proper time between collisions to $\mathcal{O}(10^4)$~fm$/c$ in the center-of-mass frame of the first interaction. We then consider the fragmentation region of this first collision, and show that short-lived hadrons produced in this region, with additional Lorentz boost, can reach the next nucleus before decaying. We show that this geometry enables secondary hadron--nucleus collisions involving species that cannot be realized as conventional secondary beams or in subsequent hadron--nucleus interactions in cosmic-ray cascades. For a $2.76$ TeV-per-nucleon Pb beam incident on a solid Pb lattice, we determine which forward-produced hadrons can survive to a second interaction, estimate their collision probabilities, and analyze potential observable consequences. In particular, we identify some representative hadrons whose proper lifetimes are of order $10^3$ fm/c, e.g. specific mesons ($η^\prime$) and heavy-flavor resonances ($J/ψ, D^*(2010)$), as projectile species that become accessible through this collision space-time geometry. At substantially higher beam energies (for example, with 10 TeV per-nucleon Pb beam), the survival probabilities are significantly enhanced. This can make even very short lived hadrons with life times of few tens fm ( $Ξ(1530)$, $ω(782)$, $φ(1020)$) available for this secondary hadron-nucleus collision, providing an additional motivation for future ultra-relativistic fixed-target heavy-ion experiments.&lt;/p&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 16:27:57 GMT</pubDate>
-      <guid isPermaLink="false">2607.08658v1</guid>
-      <dc:creator>Sanatan Digal</dc:creator>
-      <dc:creator>P. S. Saumia</dc:creator>
-      <dc:creator>Ajit M. Srivastava</dc:creator>
-    </item>
-    <item>
-      <title>A symmetry-based resolution of pseudo-gauge ambiguities in local equilibrium</title>
-      <link>http://arxiv.org/abs/2607.08569v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carlos Hoyos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The total angular momentum current can be decomposed into orbital and spin contributions in different ways, known as pseudo-gauges. This freedom leads to ambiguities in the definition of local-equilibrium density operators, which in turn affect estimates of spin polarization in heavy-ion collisions. In this work, the pseudo-gauge ambiguity, together with other ambiguities associated with improvements of conserved currents, is reformulated in terms of spurious symmetries corresponding to conserved currents with vanishing total charge. A prescription for the unambiguous definition of a local-equilibrium density operator is introduced using the currents associated with genuine symmetries. The resulting density operator is invariant under transformations that add improvement terms to local currents, including the energy-momentum tensor.&lt;/p&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 14:59:22 GMT</pubDate>
-      <guid isPermaLink="false">2607.08569v1</guid>
-      <dc:creator>Carlos Hoyos</dc:creator>
     </item>
   </channel>
 </rss>
