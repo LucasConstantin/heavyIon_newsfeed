@@ -5,9 +5,29 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:29:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Investigation of hadronic effects on resonance productions in small collision systems using the EPOS4 model</title>
+      <link>http://arxiv.org/abs/2607.15061v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hyunji Lim, Bong-Hwi Lim, Minjung Kim, Sanghoon Lim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent experimental results in high-multiplicity proton-proton (pp) collisions have suggested the possible emergence of collective behavior and medium-like effects previously considered characteristic of heavy-ion collisions. Resonance production provides a sensitive probe of such effects, as resonance yields and transverse-momentum distributions can be modified by hadronic interactions occurring between chemical and kinetic freeze-out. In this study, these effects are investigated using the EPOS4 event generator, in which hadronic final-state interactions are modeled through the UrQMD transport approach. By comparing calculations performed with and without UrQMD, the impact of hadronic interactions on resonance production is evaluated. In addition, the UrQMD contributions are separated into regeneration and rescattering, enabling a detailed investigation of both resonance production enhancement and the loss of reconstructible resonance signals. The analysis is performed for various mesonic and baryonic resonances with different lifetimes in pp collisions at LHC energies and is extended to p-O, O-O, and Pb-Pb collisions to study the system-size dependence of hadronic-phase effects. The results show that resonance production is governed by the competition between regeneration and rescattering, whose relative importance depends strongly on the resonance species, transverse momentum, and collision system. While rescattering suppresses reconstructible short-lived resonance signals, regeneration can significantly enhance the yields of several resonance species, particularly baryonic resonances. These findings demonstrate that hadronic interactions can play an important role even in small collision systems and highlight the need to measure resonances with different lifetimes and quantum numbers to constrain the dynamics and lifetime of the hadronic phase across collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 14:34:56 GMT</pubDate>
+      <guid isPermaLink="false">2607.15061v1</guid>
+      <dc:creator>Hyunji Lim</dc:creator>
+      <dc:creator>Bong-Hwi Lim</dc:creator>
+      <dc:creator>Minjung Kim</dc:creator>
+      <dc:creator>Sanghoon Lim</dc:creator>
+    </item>
+    <item>
+      <title>Responses of multiparticle observables to multidimensional nuclear deformation in relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2607.14776v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ying Shan Zhao, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy-ion collisions provide a unique opportunity to probe ground-state nuclear structure through its imprint on the initial collision geometry. We investigate how multiparticle observables respond to combined variations of quadrupole deformation, triaxiality, and hexadecapole deformation, using $^{129}$Xe+$^{129}$Xe collisions as a representative testing ground. We perform a joint analysis in the three-dimensional $(β_2,γ,β_4)$ parameter space and construct initial-state estimators for several flow and mean transverse momentum correlation observables. At the initial-state level, $ρ_2$ is primarily sensitive to $β_2$ and $γ$, with its sensitivity to $γ$ enhanced at nonzero $β_2$. The nonlinear response coefficient $χ_{4,22}$ is predominantly sensitive to $β_4$, while its dependence on $β_2$ and $γ$ remains comparatively weak. Higher-order correlators exhibit more complex multidimensional response patterns; in particular, $ρ_{224}$ shows a dependence on $γ$ and $β_4$ that becomes more pronounced at finite $β_2$. We further employ the iEBE-VISHNU hybrid model to examine whether these deformation sensitivities survive the subsequent dynamical evolution. The final-state calculations indicate that the sensitivity of $ρ_2$ to $β_2$ and $γ$ is largely preserved, whereas the $β_4$ sensitivity of $χ_{4,22}$ is substantially reduced. For the other higher-order observables, the initial-state sensitivities are modified by the evolution or cannot be resolved with the present statistics.&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 09:56:27 GMT</pubDate>
+      <guid isPermaLink="false">2607.14776v1</guid>
+      <dc:creator>Ying Shan Zhao</dc:creator>
+      <dc:creator>Yifeng Sun</dc:creator>
+    </item>
     <item>
       <title>Towards compressed baryonic matter densities: D meson diffusion</title>
       <link>http://arxiv.org/abs/2607.14058v1</link>
@@ -941,81 +961,6 @@
       <dc:creator>Sandeep Chatterjee</dc:creator>
     </item>
     <item>
-      <title>Studying the QCD Matter produced in Heavy-Ion Collisions using the MUSES Calculation Engine</title>
-      <link>http://arxiv.org/abs/2606.26326v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Johannes Jahan, Kevin P. Pala, Yumu Yang, Isabella Danhoni, Prachi Garella, Jonathan Gonzales, Joaquin Grefa, Mauricio Hippert, Surkhab Kaur Virk, Micheal Kahangirwe, Musa R. Khan, Feyisola Nana, Mateus Reinke Pelicer, Tulio E. Restrepo, Hitansh Shah, T. Andrew Manning, Mark Alford, Dekrayat Almaalol, Ahmed Abuali, Alexander Clevinger, Nikolas Cruz-Camacho, Carlos Conde-Ocazionez, Francesco Di Clemente, David Friedenberg, Hosein Gholami, Marco Hofmann, Jeremy W. Holt, Isaac Legred, Jamie M. Karthein, Toru Kojo, Konstantin Maslov, Paolo Parotto, Leonardo Pena, Grégoire Pihan, Christopher Plumberg, Roman Poberezhniuk, Romulo Rougemont, Jordi Salinas San Martín, Rajesh Kumar, Volodymyr Vovchenko, Veronica Dexheimer, Jorge Noronha, Jacquelyn Noronha-Hostler, Claudia Ratti, Nicolás Yunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The equation of state of hot and dense matter is essential for describing heavy-ion collisions at all collision energies. Here, we explore the capabilities of the latest version of the MUSES Calculation Engine, $\textit{Calliope}$, focusing on software modules and workflows that compute the equation of state and observable properties of the matter produced in heavy-ion collisions. These include several equations of state, ranging from first-principles lattice QCD to phenomenological approaches, with or without a critical point, and with phase-space dimensionality ranging from two dimensions defined by temperature $T$ and baryon chemical potential $μ_B$, to four dimensions after the addition of strangeness and electric-charge chemical potentials $μ_S$ and $μ_Q$. We also discuss modules that provide additional thermodynamic quantities and observables relevant for heavy-ion modeling, including elements of the pressure Hessian matrix and transport coefficients. Workflow examples are constructed that merge two equations of state thermodynamically consistently to extend phase-diagram coverage, and feed the results into an equation of state inverter to produce inputs suitable for hydrodynamic simulations. Finally, we apply this framework to perform a relativistic viscous hydrodynamic simulation with equations of state with an extended $T$ and $μ_B$ coverage and a movable critical point, including effects from transport coefficients that phenomenologically encode critical scaling, at collision energies $\sqrt{s_{NN}}=7.7, 19.6$, and $39$ GeV.&lt;/p&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 19:12:40 GMT</pubDate>
-      <guid isPermaLink="false">2606.26326v1</guid>
-      <dc:creator>Johannes Jahan</dc:creator>
-      <dc:creator>Kevin P. Pala</dc:creator>
-      <dc:creator>Yumu Yang</dc:creator>
-      <dc:creator>Isabella Danhoni</dc:creator>
-      <dc:creator>Prachi Garella</dc:creator>
-      <dc:creator>Jonathan Gonzales</dc:creator>
-      <dc:creator>Joaquin Grefa</dc:creator>
-      <dc:creator>Mauricio Hippert</dc:creator>
-      <dc:creator>Surkhab Kaur Virk</dc:creator>
-      <dc:creator>Micheal Kahangirwe</dc:creator>
-      <dc:creator>Musa R. Khan</dc:creator>
-      <dc:creator>Feyisola Nana</dc:creator>
-      <dc:creator>Mateus Reinke Pelicer</dc:creator>
-      <dc:creator>Tulio E. Restrepo</dc:creator>
-      <dc:creator>Hitansh Shah</dc:creator>
-      <dc:creator>T. Andrew Manning</dc:creator>
-      <dc:creator>Mark Alford</dc:creator>
-      <dc:creator>Dekrayat Almaalol</dc:creator>
-      <dc:creator>Ahmed Abuali</dc:creator>
-      <dc:creator>Alexander Clevinger</dc:creator>
-      <dc:creator>Nikolas Cruz-Camacho</dc:creator>
-      <dc:creator>Carlos Conde-Ocazionez</dc:creator>
-      <dc:creator>Francesco Di Clemente</dc:creator>
-      <dc:creator>David Friedenberg</dc:creator>
-      <dc:creator>Hosein Gholami</dc:creator>
-      <dc:creator>Marco Hofmann</dc:creator>
-      <dc:creator>Jeremy W. Holt</dc:creator>
-      <dc:creator>Isaac Legred</dc:creator>
-      <dc:creator>Jamie M. Karthein</dc:creator>
-      <dc:creator>Toru Kojo</dc:creator>
-      <dc:creator>Konstantin Maslov</dc:creator>
-      <dc:creator>Paolo Parotto</dc:creator>
-      <dc:creator>Leonardo Pena</dc:creator>
-      <dc:creator>Grégoire Pihan</dc:creator>
-      <dc:creator>Christopher Plumberg</dc:creator>
-      <dc:creator>Roman Poberezhniuk</dc:creator>
-      <dc:creator>Romulo Rougemont</dc:creator>
-      <dc:creator>Jordi Salinas San Martín</dc:creator>
-      <dc:creator>Rajesh Kumar</dc:creator>
-      <dc:creator>Volodymyr Vovchenko</dc:creator>
-      <dc:creator>Veronica Dexheimer</dc:creator>
-      <dc:creator>Jorge Noronha</dc:creator>
-      <dc:creator>Jacquelyn Noronha-Hostler</dc:creator>
-      <dc:creator>Claudia Ratti</dc:creator>
-      <dc:creator>Nicolás Yunes</dc:creator>
-    </item>
-    <item>
-      <title>Kinetic freeze-out and diffusion dynamics in small-system asymmetric collisions at sqrt(sNN)=200 GeV in light of a generalized Fokker-Planck distribution</title>
-      <link>http://arxiv.org/abs/2606.26301v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; M. Waqas, Wolfgang Bietenholz, Khusniddin K. Olimov, Muhammad Ajaz, Jihane Ben Slimane, Laila A. Al-Essa, A. Haj Ismail&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A generalized Fokker-Planck solution is used to examine the transverse momentum ($p_{T}$) spectra of neutral pions generated in small-system asymmetric collisions, $p$-Al, $p$-Au, $d$-Au, and $^3$He-Au, at $\sqrt{s_{NN}}=200$ GeV. This framework provides a cohesive explanation of particle production over a broad range of transverse momenta. We extract the energy scale governing the transition between a thermal and a hard regime, the effective temperature ($T$), and the exponents determining the high-momentum falloff from fits to PHENIX data. $T$ increases systematically with the collision centrality and colliding system size, ranging from about 0.33 GeV in peripheral $p$-Al collisions to 0.45 GeV in central $^3$He-Au collisions. This increase is correlated with the average number of participant nucleons, $&lt;N_{part}&gt;$, and the charged-particle pseudorapidity density, $&lt;dN_{ch}/dη&gt;$, indicating that larger and more central collisions create a denser, more strongly interacting medium that freezes out at a higher temperature. The acquired transition scale and power-law exponents follow consistent patterns across systems and centralities, revealing details about the sharpness of the transition from thermal to hard processes, and the relative strength of momentum-space diffusion versus drag. Interestingly, when the gold target dominates the collision geometry in the largest system ($^3$He-Au), the transition scale becomes nearly independent of centrality, signifying saturation of the diffusion process. Our findings demonstrate that the generalized Fokker-Planck solution is a sensitive probe of transport properties and non-extensive dynamics in the quark-gluon plasma produced even in small-system relativistic collisions, and it consistently describes pion spectra in this set of collisions.&lt;/p&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 18:45:57 GMT</pubDate>
-      <guid isPermaLink="false">2606.26301v1</guid>
-      <dc:creator>M. Waqas</dc:creator>
-      <dc:creator>Wolfgang Bietenholz</dc:creator>
-      <dc:creator>Khusniddin K. Olimov</dc:creator>
-      <dc:creator>Muhammad Ajaz</dc:creator>
-      <dc:creator>Jihane Ben Slimane</dc:creator>
-      <dc:creator>Laila A. Al-Essa</dc:creator>
-      <dc:creator>A. Haj Ismail</dc:creator>
-    </item>
-    <item>
-      <title>Mass-Dependent Non-Extensivity in Tsallis Blast-Wave Fits to Identified Hadron $p_T$ Spectra at RHIC and LHC</title>
-      <link>http://arxiv.org/abs/2606.24777v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; C. Y. Tsang, Z. Xu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We analyze identified-hadron transverse-momentum spectra from STAR Au+Au and ALICE Pb+Pb collisions over $\sqrt{s_{NN}} = 7.7$~GeV--$5.02$~TeV using an extended Tsallis Blast-Wave (TBW) framework, which includes a non-extensivity parameter $q$ to quantify the degree of incomplete thermal equilibrium. Conventionally, either a common value of $q$, or two separate $q$ values, one for mesons and one for baryons, are used to describe particle spectra in the TBW framework, with the latter being referred to as TBW4 in Ref.~\cite{Chen:2020zuw}. This work extends the TBW framework by studying the dependence of $q$ on different kinds of particles in detail. Fits allowing independent non-extensivity parameters $q$ for each species reveal a systematic correlation between $q$ and particle mass, except for quarkonia. Motivated by this trend, we introduce two new parameterizations: TBW5, which posits that $q$ depends linearly on particle mass, and TBW6, which allows the $q$ intercepts for mesons and baryons to differ. Across all energies and centralities considered in this study, TBW5 improves $χ^{2}/\mathrm{NDF}$ relative to the TBW4 fit in 71\% of the datasets, while TBW6 shows improvement in 94\% of the datasets. They perform especially well in central collisions. These results demonstrate a robust mass ordering in non-equilibrium behavior at kinetic freeze-out and provide a more accurate description of hadron spectra from RHIC to LHC energies.&lt;/p&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 16:35:54 GMT</pubDate>
-      <guid isPermaLink="false">2606.24777v1</guid>
-      <dc:creator>C. Y. Tsang</dc:creator>
-      <dc:creator>Z. Xu</dc:creator>
-    </item>
-    <item>
       <title>Mapping jet substructure in heavy-ion collisions with track functions</title>
       <link>http://arxiv.org/abs/2606.23971v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Yeonju Go, Daniel Pablos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the dynamics of high-energy QCD cascades in heavy-ion collisions, focusing on modifications to jets' substructure induced by the presence of a quark-gluon plasma (QGP). To this end, we study the properties and scale evolution of track functions, non-perturbative objects encoding the flow of energy from an initiating parton to all charged hadrons. In contrast to the more standard fragmentation functions, these objects have a non-linear renormalization group (RG) evolution, being sensitive to the entire jet fragmentation process. Using the JEWEL and HYBRID Monte-Carlo models of jet quenching, we find that in both frameworks the higher moments and cumulants of the track functions' distributions exhibit sizable deviations from their vacuum baselines, demonstrating that medium-induced energy loss imprints itself in the in-medium jet fragmentation pattern. We find that the quantitative magnitude of these modifications differs significantly between the two models. This identifies track functions as a class of observables capable of discriminating between competing microscopic pictures of jet-medium interactions. We further examined the (in-medium) RG flows for the leading moments, which remain in qualitative agreement with the in-vacuum evolution. This provides an avenue to directly test the RG flows inside a QGP, linking heavy-ion jet measurements to basic QFT understanding of partonic branching. Finally, we comment on the feasibility and challenges associated with extracting track functions from experimental data.&lt;/p&gt;</description>
@@ -1580,14 +1525,6 @@
       <dc:creator>Ze-Fang Jiang</dc:creator>
       <dc:creator>Xiang Fan</dc:creator>
       <dc:creator>Jing Jing</dc:creator>
-    </item>
-    <item>
-      <title>Measurements of jet quenching with semi-inclusive hadron-jet correlations in Ru+Ru and Zr+Zr collisions at $\sqrt{s_\mathrm{NN}}=200$ GeV</title>
-      <link>http://arxiv.org/abs/2606.00973v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The STAR experiment at RHIC reports measurements of the semi-inclusive yield of charged-particle jets recoiling from high transverse momentum charged-hadron triggers in centrality-selected Ru+Ru and Zr+Zr collisions at the nucleon-nucleon center-of-mass energy of 200 GeV. The effects of jet quenching, arising from the interaction of jets with the quark-gluon plasma, are quantified by comparing trigger-normalized recoil yields in central and peripheral collisions. Such measurements with intermediate-mass beams provide unique insight into spatial and temporal aspects of jet quenching. Suppression of the recoil yield in central collisions is observed, indicating medium-induced partonic energy loss due to quenching. The ratio of recoil jet yields for small and large resolution parameter is found to be suppressed in central relative to peripheral collisions, characteristic of medium-induced intra-jet broadening. The results are compared to similar measurements in smaller and larger collision systems.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 16:41:53 GMT</pubDate>
-      <guid isPermaLink="false">2606.00973v2</guid>
-      <dc:creator>The STAR Collaboration</dc:creator>
     </item>
     <item>
       <title>GPU optical photon Monte Carlo for noble liquid detectors: validation against Geant4 in a large liquid argon TPC benchmark</title>
@@ -2309,17 +2246,6 @@
       <dc:creator>G. Zischka</dc:creator>
       <dc:creator>W. Zubrzycka</dc:creator>
       <dc:creator>P. Zumbruch</dc:creator>
-    </item>
-    <item>
-      <title>Quantum dominance of coherent bremsstrahlung in $^{124}$Sn + $^{124}$Sn scattering at 25 MeV/u</title>
-      <link>http://arxiv.org/abs/2606.01623v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sergei P. Maydanyuk, Ju-Jun Xie, Peng-Ming Zhang, Li-Ping Zou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present quantum-mechanical calculations of bremsstrahlung in the $^{124}$Sn + $^{124}$Sn at 25 MeV/u reproducing the measured photon spectrum over the full energy range. For the first time, we quantitatively determine the incoherent-to-coherent ratio in the photon spectrum. This ratio is extremely small, ranging from $10^{-11}$ to $10^{-4}$, which demonstrates that coherent emission dominates throughout the measured energy range. This behavior is in sharp contrast to proton-nucleus scattering, where incoherent emission dominates because of the leading role of nucleon magnetic moments. This contrast is illustrated by the TAPS Collaboration data for $p + ^{197}{\rm Au}$ collisions at a proton beam energy of 190 MeV, where the corresponding ratio reaches $10^{3}$-$10^{5}$. We find that incoherent-to-coherent ratios explain the difference between the two spectra in unified picture: (1) In proton--nucleus scattering, the spectrum contains a pronounced hump, (2) In $^{124}$Sn + $^{124}$Sn scattering, the spectrum decreases monotonically and has a nearly logarithmic shape. Our results identify a previously unexplored quantum regime of bremsstrahlung emission in nuclear reactions and open a new route for studying coherent effects in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 03:15:08 GMT</pubDate>
-      <guid isPermaLink="false">2606.01623v1</guid>
-      <dc:creator>Sergei P. Maydanyuk</dc:creator>
-      <dc:creator>Ju-Jun Xie</dc:creator>
-      <dc:creator>Peng-Ming Zhang</dc:creator>
-      <dc:creator>Li-Ping Zou</dc:creator>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,29 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:28:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Investigation of hadronic effects on resonance productions in small collision systems using the EPOS4 model</title>
+      <link>http://arxiv.org/abs/2607.15061v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hyunji Lim, Bong-Hwi Lim, Minjung Kim, Sanghoon Lim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent experimental results in high-multiplicity proton-proton (pp) collisions have suggested the possible emergence of collective behavior and medium-like effects previously considered characteristic of heavy-ion collisions. Resonance production provides a sensitive probe of such effects, as resonance yields and transverse-momentum distributions can be modified by hadronic interactions occurring between chemical and kinetic freeze-out. In this study, these effects are investigated using the EPOS4 event generator, in which hadronic final-state interactions are modeled through the UrQMD transport approach. By comparing calculations performed with and without UrQMD, the impact of hadronic interactions on resonance production is evaluated. In addition, the UrQMD contributions are separated into regeneration and rescattering, enabling a detailed investigation of both resonance production enhancement and the loss of reconstructible resonance signals. The analysis is performed for various mesonic and baryonic resonances with different lifetimes in pp collisions at LHC energies and is extended to p-O, O-O, and Pb-Pb collisions to study the system-size dependence of hadronic-phase effects. The results show that resonance production is governed by the competition between regeneration and rescattering, whose relative importance depends strongly on the resonance species, transverse momentum, and collision system. While rescattering suppresses reconstructible short-lived resonance signals, regeneration can significantly enhance the yields of several resonance species, particularly baryonic resonances. These findings demonstrate that hadronic interactions can play an important role even in small collision systems and highlight the need to measure resonances with different lifetimes and quantum numbers to constrain the dynamics and lifetime of the hadronic phase across collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 14:34:56 GMT</pubDate>
+      <guid isPermaLink="false">2607.15061v1</guid>
+      <dc:creator>Hyunji Lim</dc:creator>
+      <dc:creator>Bong-Hwi Lim</dc:creator>
+      <dc:creator>Minjung Kim</dc:creator>
+      <dc:creator>Sanghoon Lim</dc:creator>
+    </item>
+    <item>
+      <title>Responses of multiparticle observables to multidimensional nuclear deformation in relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2607.14776v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ying Shan Zhao, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy-ion collisions provide a unique opportunity to probe ground-state nuclear structure through its imprint on the initial collision geometry. We investigate how multiparticle observables respond to combined variations of quadrupole deformation, triaxiality, and hexadecapole deformation, using $^{129}$Xe+$^{129}$Xe collisions as a representative testing ground. We perform a joint analysis in the three-dimensional $(β_2,γ,β_4)$ parameter space and construct initial-state estimators for several flow and mean transverse momentum correlation observables. At the initial-state level, $ρ_2$ is primarily sensitive to $β_2$ and $γ$, with its sensitivity to $γ$ enhanced at nonzero $β_2$. The nonlinear response coefficient $χ_{4,22}$ is predominantly sensitive to $β_4$, while its dependence on $β_2$ and $γ$ remains comparatively weak. Higher-order correlators exhibit more complex multidimensional response patterns; in particular, $ρ_{224}$ shows a dependence on $γ$ and $β_4$ that becomes more pronounced at finite $β_2$. We further employ the iEBE-VISHNU hybrid model to examine whether these deformation sensitivities survive the subsequent dynamical evolution. The final-state calculations indicate that the sensitivity of $ρ_2$ to $β_2$ and $γ$ is largely preserved, whereas the $β_4$ sensitivity of $χ_{4,22}$ is substantially reduced. For the other higher-order observables, the initial-state sensitivities are modified by the evolution or cannot be resolved with the present statistics.&lt;/p&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 09:56:27 GMT</pubDate>
+      <guid isPermaLink="false">2607.14776v1</guid>
+      <dc:creator>Ying Shan Zhao</dc:creator>
+      <dc:creator>Yifeng Sun</dc:creator>
+    </item>
     <item>
       <title>Towards compressed baryonic matter densities: D meson diffusion</title>
       <link>http://arxiv.org/abs/2607.14058v1</link>
@@ -132,16 +152,6 @@
       <pubDate>Mon, 13 Jul 2026 02:31:49 GMT</pubDate>
       <guid isPermaLink="false">2607.11017v1</guid>
       <dc:creator>CMS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>The impact of nuclear uncertainties on the p-process nucleosynthesis in Supernovae</title>
-      <link>http://arxiv.org/abs/2607.09208v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Martinet, S. Goriely, A. Choplin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The p-process is responsible for the production of the stable neutron-deficient nuclei heavier than iron observed in the solar system. However, important nuclear uncertainties still limit our understanding of this nucleosynthesis process. Among the most significant are the nuclear level densities (NLDs) and photon strength functions (PSFs) entering the calculation of photodisintegration rates under supernova conditions. We investigate both model (systematic) and parameter (statistical) uncertainties affecting NLDs and PSFs and quantify their impact on p-process nucleosynthesis in type-Ia and type-II supernovae. Correlated model uncertainties are estimated using several NLD and PSF models that reproduce available experimental observables. Uncorrelated parameter uncertainties are evaluated with a backward-forward Monte Carlo approach, in which parameter variations are constrained by measured reaction rates before being propagated to unknown cross sections of neutron-deficient nuclei. The resulting uncertainties are propagated through p-process calculations while preserving model correlations. To identify the reactions driving abundance uncertainties, we combine regularized linear-response modeling, stability analysis, and contribution and interaction decompositions. We find that photoneutron-emission uncertainties dominate the overall uncertainty budget. The leading source of uncertainty arises from local parameter variations still compatible with current experimental constraints, highlighting the lack of constraining nuclear data in the neutron-deficient region. For many p-nuclei, the dominant contribution originates either from the photoneutron emission of the p-nucleus itself or from a nearby $(γ,n)$ reaction along the same isotopic chain. While improved nuclear models remain important, many key reactions involve stable or near-stable nuclei and should be experimentally accessible.&lt;/p&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 08:54:54 GMT</pubDate>
-      <guid isPermaLink="false">2607.09208v1</guid>
-      <dc:creator>S. Martinet</dc:creator>
-      <dc:creator>S. Goriely</dc:creator>
-      <dc:creator>A. Choplin</dc:creator>
     </item>
   </channel>
 </rss>
