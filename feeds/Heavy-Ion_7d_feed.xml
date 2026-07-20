@@ -5,9 +5,25 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 00:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 02:59:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Viscous Accretion Disks around Regular Black Holes Embedded in a Quintessence Dark Energy Field: Beyond the Novikov--Thorne Approximation</title>
+      <link>http://arxiv.org/abs/2607.15679v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sandip Dutta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a comprehensive relativistic framework for geometrically thin, optically thick Shakura--Sunyaev $α$-viscous accretion disks around rotating Hayward regular black holes embedded in a quintessence dark energy (DE) field. The static, spherically symmetric building blocks of our spacetime are each exact solutions of the Einstein field equations, sourced respectively by the Hayward non-linear electromagnetic field and a quintessence fluid with equation-of-state parameter $ω&lt;-1/3$; we combine and rotate them following standard practice for this class of models, and we are explicit throughout about the resulting metric's phenomenological status. Abandoning the stress-free inner boundary of the Novikov--Thorne--Page (NTP) model, we analytically incorporate a non-zero viscous torque $\Tcal_{\rm in}$ at the innermost stable circular orbit (ISCO) via the relativistic vertical epicyclic frequency $\Obot(r)$. We prove that the bolometric efficiency $η=[1-E(\rISCO)]\times100\,\%$ is strictly independent of the viscosity parameter $α$ but sensitive to both the Hayward length scale $l$ and the DE density $ρ_0$, establishing a rigorous two-observable degeneracy-breaking strategy. At benchmark parameters ($j=0.4$, $l=0.5M_{\BH}$, $ρ_0=2\times10^{-4}$), the combined geometry yields $η=8.71\,\%$, substantially above the vacuum Kerr value $7.51\,\%$ at the same spin. The viscosity correction $δ\Fcal/\Fcal_{\rm NTP}$ diverges at $r\to\rISCO^+$, amplified by the geometric odification of the boundary pressure: the viscosity amplification ratio rises from $0.80$--$4.52\,\%$ (vacuum Kerr) to $0.87$--$6.76\,\%$ (Hayward+DE) at $α=0.1$, providing a clean, monotonic observational discriminator accessible to \textit{NICER} and \textit{NuSTAR}, independent of the bulk spectral normalisation.&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 06:43:24 GMT</pubDate>
+      <guid isPermaLink="false">2607.15679v1</guid>
+      <dc:creator>Sandip Dutta</dc:creator>
+    </item>
+    <item>
+      <title>Nonequilibrium approach to heavy-quark transport</title>
+      <link>http://arxiv.org/abs/2607.15618v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Juhee Hong&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A nonequilibrium Green's function approach to heavy-quark transport is discussed within the framework of the Kadanoff-Baym equation. One- and two-loop self-energy diagrams with hard-thermal-loop resummed propagators are calculated in the real-time formalism. Under the quasiparticle approximation, the kinetic equation reduces to the Boltzmann equation that accounts for elastic scattering and medium-induced gluon emission from a single scattering. Numerical studies suggest that off-shell and memory effects in quark-gluon plasmas influence heavy-quark dynamics, particularly near the critical temperature.&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 04:31:48 GMT</pubDate>
+      <guid isPermaLink="false">2607.15618v1</guid>
+      <dc:creator>Juhee Hong</dc:creator>
+    </item>
     <item>
       <title>Investigation of hadronic effects on resonance productions in small collision systems using the EPOS4 model</title>
       <link>http://arxiv.org/abs/2607.15061v1</link>
