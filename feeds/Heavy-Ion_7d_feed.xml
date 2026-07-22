@@ -5,9 +5,92 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:29:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Sensitivity of p_T Fluctuations to the QCD Equation of State</title>
+      <link>http://arxiv.org/abs/2607.18211v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rutik Manikandhan, Rohit Gupta, Rene Bellwied&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct a novel theoretical baseline for dynamical transverse momentum correlations, $C_{pT}$, across a wide range of collision energies spanning the RHIC Beam Energy Scan (BES) program. For the first time, a unified framework is developed to describe the energy and centrality dependence of $C_{p_{\rm T}}$ from $\sqrt{s_{\text{NN}}} = 3.0$ to $200$~GeV. A central feature of this study is the implementation of Equation of State (EOS) inputs derived from Lattice QCD results at finite baryochemical potential $μ_{\rm B}$, representing the first such application to the measured transverse momentum correlations. Despite the minimalist nature of the fluid-dynamic evolution employed, the model effectively captures the characteristic centrality scaling of the experimental data. Our results indicate that while the bulk evolution is largely governed by the EOS and system lifetime at lower energies, significant deviations in peripheral collisions at top energies highlight the onset of non-thermal correlation mechanisms. This baseline provides a necessary benchmark for interpreting transverse momentum fluctuations in heavy-ion collisions and can aid in the search for the QCD critical point.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 17:46:50 GMT</pubDate>
+      <guid isPermaLink="false">2607.18211v1</guid>
+      <dc:creator>Rutik Manikandhan</dc:creator>
+      <dc:creator>Rohit Gupta</dc:creator>
+      <dc:creator>Rene Bellwied</dc:creator>
+    </item>
+    <item>
+      <title>Gravitational Vacuum Polarization: Decoupling and the Conformal Anomaly</title>
+      <link>http://arxiv.org/abs/2607.18180v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Emil Mottola&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A compact form of the stress tensor $\langle T^{ab}T^{cd}\rangle$ correlation function of a quantum scalar field of arbitrary mass $m$ and curvature coupling $ξ$ is presented, with particular emphasis on decoupling in the $m\to\infty$ limit and infrared origin of the conformal anomaly as $m \to 0$. The Ward Identity (WI) of covariant conservation is verified for the full second order metric variation of the one-loop effective action, of which $\langle T^{ab}T^{cd}\rangle$ is part, including local contact terms. This WI is satisfied by two tensors, one spin-2 (traceless) and the second spin-0 (traceful), each multiplied by a Lorentz invariant form factor computed in $n$-dimensional regularization. Minimal subtraction of pole terms at $n =4$ produces form factors that fail to satisfy decoupling for general $ξ\neq 1/6$, but can be simply amended to do so. Particular interest attaches to the $ξ=1/6$ case, in which the spin-0 form factor at $n =4$ is completely finite, requires no UV regularization or subtractions, and satisfies decoupling directly. Its imaginary part defines a spectral function that obeys a UV finite sum rule for any $m$, while its real part unambiguously determines the $\square R$ in the massless limit. Its $m^2$ dependence describes a Wilsonian renormalization group flow to an effective field theory limit at large distances. At $m= 0$ the spin-0 spectral function becomes a Dirac $δ$-function at zero energy, demonstrating the existence of a massless scalar Goldstone collective excitation due to the conformal anomaly in the low energy effective theory of gravity.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 17:16:44 GMT</pubDate>
+      <guid isPermaLink="false">2607.18180v1</guid>
+      <dc:creator>Emil Mottola</dc:creator>
+    </item>
+    <item>
+      <title>First measurement of $\mathbf{\rm Ξ_{\rm c}^{0}}$ production in $\mathbf{Pb}-\mathbf{Pb}$ collisions at $\mathbf{\sqrt{\textit{s}_{\rm NN}}}$ = 5.02 TeV</title>
+      <link>http://arxiv.org/abs/2607.17903v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The ALICE Collaboration reports the first measurement of the production of prompt $Ξ_{\mathrm c}^{0}$ baryons in nucleus$-$nucleus collisions by analyzing data from $\mathrm{Pb}-\mathrm{Pb}$ collisions at $\sqrt{s_{\mathrm{NN}}}~=5.02~\mathrm{TeV}$. The production and transverse-momentum ($p_{\mathrm T}$) differential spectra of $Ξ_{\mathrm c}^{0}$ are particularly sensitive to the hadronization process and to strangeness production in the quark--gluon plasma formed in high-energy heavy-ion collisions. The $Ξ_{\mathrm c}^{0}$ baryons are reconstructed at midrapidity ($|y|&lt;0.5$) in the transverse-momentum intervals $3&lt;p_{\mathrm T}~&lt;12~\mathrm{GeV}/c$ and $4&lt;p_{\mathrm T}~&lt;12~\mathrm{GeV}/c$ in the 0$-$10\% and 30$-$50\% centrality intervals, respectively. The nuclear modification factor ($R_{\mathrm{AA}}$) reaches values up to 3 in the interval $3&lt;p_{\mathrm T}~&lt;4~\mathrm{GeV}/c$, which is the largest value measured so far for charm hadrons. Model predictions are compatible with the measured $R_{\mathrm{AA}}$, while, in the measured $p_{\mathrm T}$ intervals, they underestimate the production yield as well as the measured $Ξ_{\mathrm c}^{0}/\mathrm{D}^{0}$, $Ξ_{\mathrm c}^{0}/Λ_{\mathrm c}^{+}$, and $Ξ_{\mathrm c}^{0}/\mathrm{D}^{+}_{\mathrm s}$ yield ratios.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 12:49:16 GMT</pubDate>
+      <guid isPermaLink="false">2607.17903v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Study of $χ_{\mathrm{c}}$ production in pPb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 8.16 TeV</title>
+      <link>http://arxiv.org/abs/2607.17847v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CMS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Production of prompt P-wave charmonium states $χ_\mathrm{c1}$(1P) and $χ_\mathrm{c2}$(1P) is studied in proton-lead (pPb) collisions at a center-of-mass energy per nucleon pair of $\sqrt{\smash[b]{s_{_{\mathrm{NN}}}}}$ = 8.16 TeV. The analysis is based on data corresponding to an integrated luminosity of 175 nb$^{-1}$ collected by the CMS experiment at the CERN LHC. The $χ_\mathrm{c}$ states are measured via their decay $χ_\mathrm{c}$ $\to$ J$/ψ\,γ$. The J$/ψ$ meson is reconstructed via its decay to a muon pair, while the photon is reconstructed through its conversion to an electron-positron pair. The ratio of production cross sections times branching fractions for the two charmonium states, [$σ(χ_\mathrm{c2}) \mathcal{B}(χ_\mathrm{c2}$ $\to$ J$/ψ\, γ$)] / [$σ(χ_\mathrm{c1}) \mathcal{B}(χ_\mathrm{c1}$ $\to$ J$/ψ\, γ)$], is reported in the rapidity range $\vert y($J$/ψ)\vert$ $\lt$ 2.4 for the transverse momentum range 6.5 $\lt$ $p_{\mathrm{T}}$(J$/ψ$) $\lt$ 30 GeV. The $χ_\mathrm{c2}$-to-$χ_\mathrm{c1}$ ratio is found to be independent of event charged-particle multiplicity, as well as of the rapidity and $p_\mathrm{T}$ of the J$/ψ$. The consistency of this ratio with proton-proton measurements at $\sqrt{s}$ = 7 TeV indicates an absence of strong relative modification for $χ_\mathrm{c}$ states in pPb collisions, in contrast to the behavior observed in the $ψ$(2S)-to-J$/ψ$ ratio.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 11:45:04 GMT</pubDate>
+      <guid isPermaLink="false">2607.17847v1</guid>
+      <dc:creator>CMS Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Rapidity-even Dipolar Flow in Relativistic Heavy-Ion Collisions</title>
+      <link>http://arxiv.org/abs/2607.17449v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Niseem Magdy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Rapidity-even directed flow, ($v_{1}^{even}$), provides a sensitive probe of fluctuation-driven dipolar asymmetry in the initial state of relativistic heavy-ion collisions. Its extraction is complicated by large first-harmonic non-flow correlations, particularly those induced by global momentum conservation (GMC). In this work, we study ($v_{1}^{even}$) and its multi-particle correlations in Au+Au collisions at ($\sqrt{s_{NN}}=200$) GeV using the AMPT and HIJING models. An ($η$)-dependent weighting procedure is employed to suppress the leading GMC contribution. HIJING is used as a non-collective baseline, while AMPT is used to investigate sensitivity to final-state partonic transport. The GMC-corrected HIJING results are strongly reduced for most ($v_1$)-related observables, indicating that the leading HIJING-like recoil contribution is effectively mitigated. The AMPT calculations reproduce the characteristic sign-changing ($p_T$) dependence of ($v_{1}^{even}$) and show sensitivity to the partonic scattering strength. Mixed-harmonic and normalized correlations involving ($v_1$), ($v_2$), and ($v_3$) suggest that the dipolar mode is correlated with both the elliptic geometry and fluctuation-driven triangular structure. These results demonstrate that GMC-suppressed rapidity-even dipolar-flow correlations provide a promising framework for constraining initial-state fluctuations and final-state transport in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 00:40:01 GMT</pubDate>
+      <guid isPermaLink="false">2607.17449v1</guid>
+      <dc:creator>Niseem Magdy</dc:creator>
+    </item>
+    <item>
+      <title>The de Sitter Scalar Discrete Series: Gupta-Bleuler Structure and Holography</title>
+      <link>http://arxiv.org/abs/2607.17124v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maryam Bajalan, Jean-Pierre Gazeau, Hamed Pejhan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that scalar discrete-series unitary irreducible representations (UIRs) $Π_{p,0}$ ($p=1,2,\cdots$) of the de Sitter (dS) group $\mathrm{SO}_0(1,4)$ admit a dS-covariant Krein realization on the dS hyperboloid, endowed with a dS-invariant non-degenerate Klein-Gordon (KG) sesquilinear form, in which the group action is indecomposable and organizes naturally into a Gupta-Bleuler triplet. The positive- and negative-norm sectors are already present in the underlying Krein space, whereas a null sector emerges only at an intermediate stage, where the induced KG form becomes degenerate and its radical leads canonically to the physical quotient carrying the UIR $Π_{p,0}$. We further show that suitable limits of the bulk theory at the ``future'' and ``past'' conformal boundaries ${\mathcal{I}}^\pm$ give rise to dS-invariant boundary realizations endowed with induced kernel inner products. While the bulk negative-norm sector admits no independent boundary counterpart, the boundary realization retains the physical and gauge structures inherited from the bulk. The resulting boundary module nevertheless remains indecomposable, with its physical quotient carrying the discrete-series representation $Π_{p,0}$. The antipodal symmetry provides a natural relation between the realizations on ${\mathcal{I}}^+$ and ${\mathcal{I}}^-$, ensuring the consistency of the boundary construction and its geometric interpretation. At the heart of the analysis lies a Fourier-type bulk-boundary transform that provides a dS-covariant identification of the bulk and boundary physical sectors, establishing a one-to-one intertwining correspondence between the bulk and boundary realizations of $Π_{p,0}$ while preserving reflection positivity.&lt;/p&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 08:21:56 GMT</pubDate>
+      <guid isPermaLink="false">2607.17124v1</guid>
+      <dc:creator>Maryam Bajalan</dc:creator>
+      <dc:creator>Jean-Pierre Gazeau</dc:creator>
+      <dc:creator>Hamed Pejhan</dc:creator>
+    </item>
+    <item>
+      <title>Wounded parton scaling of multiplicities in ultra-relativistic light- and heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2607.16485v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rupam Samanta, Piotr Bozek, Wojciech Broniowski&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multiplicities of charged particles produced in O+O, Ne+Ne, Xe+Xe, and Pb+Pb collisions at $\sqrt{s_{NN}} \sim 5$~TeV are studied in a uniform way within a wounded parton Glauber framework with overlaid negative binomial fluctuations. In this model, the nucleon's inelastic interaction is modeled via its constituent partons, whose number is a parameter, with best description obtained with four partons per nucleon. We fit directly the experimental multiplicity distributions (histograms), using {\it the same model parameters} for each reaction. The fit is performed in the c=1--80 $\%$ centrality range. Avoiding the most peripheral events makes the method insensitive to the normalization issues caused by the difficulty in separating the Coulomb interactions, whereas the most central collisions may involve a different particle production mechanism. We find a proper model description of multiplicity distributions across all the studied systems for $c \lesssim 1\%$.&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 20:20:13 GMT</pubDate>
+      <guid isPermaLink="false">2607.16485v1</guid>
+      <dc:creator>Rupam Samanta</dc:creator>
+      <dc:creator>Piotr Bozek</dc:creator>
+      <dc:creator>Wojciech Broniowski</dc:creator>
+    </item>
+    <item>
+      <title>Long-Lived Dark Hadrons at the Electron-Ion Collider</title>
+      <link>http://arxiv.org/abs/2607.16400v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hooman Davoudiasl, Hongkai Liu, Ethan T. Neil&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study a dark non-Abelian gauge sector with GeV-scale confinement. The dark sector is assumed to couple only feebly to the Standard Model, while its low-energy spectrum may contain long-lived flavor-diagonal dark pions. Signals of these states are particularly well suited to the Electron-Ion Collider (EIC), where the absence of a hard trigger requirement and the capability to record soft final-state particles offer a complementary probe of dark hadronization dynamics. We present a benchmark portal construction, discuss the mixing between an axion-like mediator and dark pions, and identify the resulting displaced-decay signature.&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 18:00:02 GMT</pubDate>
+      <guid isPermaLink="false">2607.16400v1</guid>
+      <dc:creator>Hooman Davoudiasl</dc:creator>
+      <dc:creator>Hongkai Liu</dc:creator>
+      <dc:creator>Ethan T. Neil</dc:creator>
+    </item>
+    <item>
+      <title>Lorentz-Covariant Spectral Bounds from Thermal Quantum Field Theory</title>
+      <link>http://arxiv.org/abs/2607.16365v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alisher Sanetullaev, Sarbinaz Bazarbaeva, Marhabo Beymamatova, Shokir Tursunov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive rigorous Lorentz-covariant bounds on relaxation spectra directly from the analytic structure of retarded Green's functions in thermal quantum field theory, using only causality, unitarity, the Kubo-Martin-Schwinger condition, and Lorentz covariance, without reference to any specific dynamical model. A single rest-frame quasinormal pole is generically smeared into a continuum of excitations in boosted frames, with width set by the maximal signal velocity. We prove that the non-hydrodynamic gap $Γ_{\mathrm{gap}}$ transforms as $\tildeΓ_{\mathrm{gap}} \geq Γ_{\mathrm{gap}}/[γ(1 + v v_{\mathrm{max}})]$, and that the convergence radius of the hydrodynamic gradient expansion satisfies $\tilde{k}_c \in [k_c/γ(1+v v_s), k_c/γ(1-v v_s)]$ under a boost of velocity $v$. We verify the bounds by a numerical quasinormal-mode computation in the ${N}=4$ super-Yang-Mills plasma: the leading boosted pole moves deeper into the complex plane -- the observed relaxation rate increases with boost velocity, in sharp contrast to naive time dilation -- while respecting the bound throughout. The results apply non-perturbatively to the quark-gluon plasma, neutron star merger dynamics, and quantum critical systems.&lt;/p&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 13:24:41 GMT</pubDate>
+      <guid isPermaLink="false">2607.16365v1</guid>
+      <dc:creator>Alisher Sanetullaev</dc:creator>
+      <dc:creator>Sarbinaz Bazarbaeva</dc:creator>
+      <dc:creator>Marhabo Beymamatova</dc:creator>
+      <dc:creator>Shokir Tursunov</dc:creator>
+    </item>
     <item>
       <title>Viscous Accretion Disks around Regular Black Holes Embedded in a Quintessence Dark Energy Field: Beyond the Novikov--Thorne Approximation</title>
       <link>http://arxiv.org/abs/2607.15679v1</link>
@@ -85,33 +168,6 @@
       <dc:creator>Sarbinaz Bazarbaeva</dc:creator>
       <dc:creator>Marhabo Beymamatova</dc:creator>
       <dc:creator>Shokir Tursunov</dc:creator>
-    </item>
-    <item>
-      <title>Profile-Likelihood and Baseline-Sensitivity Diagnostics for Digitized Radiation-Sensor Decay Datasets</title>
-      <link>http://arxiv.org/abs/2607.13118v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Victor V. Golovko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.data-an&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Accurate interpretation of radiation-sensor decay data is important for environmental monitoring, site remediation, radiation metrology, detector quality assurance, and nuclear data evaluation. When the original gamma-spectrometry records are unavailable, a published decay plot may be the only source that can be reanalyzed independently. This study presents a reproducible reduced-data workflow for testing half-life estimates from a digitized 198-Au decay dataset. A weighted exponential fit to the digitized data points reproduces the published room-temperature half-life, indicating that the main decay scale is retained in the figure-level dataset. The analysis then tests how the fitted result changes under plausible figure-level effects, including baseline-like offsets, time-axis reconstruction, finite-window leverage, and ratio-based robustness checks using pairwise summaries and Steiner's most frequent value statistics. The no-offset fit is locally well constrained, but small constant offsets can shift the fitted half-life because the normalization, decay constant, and residual baseline are partly degenerate over the limited time window. Toy Monte Carlo diagnostics show that some estimator shifts are expected for finite-window exponential data. This study does not revise recommended nuclear data or replace the original experiment. Instead, it shows how published radiation-sensor decay data can be tested for reproducibility, identifiability, and sensitivity to analysis choices when only reduced or figure-level information is available.&lt;/p&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 15:27:04 GMT</pubDate>
-      <guid isPermaLink="false">2607.13118v1</guid>
-      <dc:creator>Victor V. Golovko</dc:creator>
-    </item>
-    <item>
-      <title>Thermal conductivity of dense $npΛ$ matter in neutron star cores</title>
-      <link>http://arxiv.org/abs/2607.12675v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tanay Choudhary, Athira S., Monika Sinha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The possible presence of hyperons in the cores of massive neutron stars has important implications for their microscopic transport properties and thermal evolution. Despite recent progress in modelling core transport, a dedicated analysis regarding the thermal conductivity of a specific \(npΛ\) mixture remains absent from the existing literature. In this work, we investigate the thermal conductivity of dense, \(β\)-equilibrated \(npΛ\) matter within the framework of the variational linearized Boltzmann kinetic approach, employing the density-dependent DDME2 equation of state across a baryon density range of \((0.5\text{--}4.5)\,n_0\). We find that neutrons still dominate thermal transport, while the onset of \(Λ\) hyperons induces only a remarkably small reduction in neutron conductivity compared to pure nucleonic matter. These results suggests that the core thermal relaxation timescale remains practically unaltered in the presence of $Λ$ hyperons.&lt;/p&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 12:05:26 GMT</pubDate>
-      <guid isPermaLink="false">2607.12675v1</guid>
-      <dc:creator>Tanay Choudhary</dc:creator>
-      <dc:creator>Athira S.</dc:creator>
-      <dc:creator>Monika Sinha</dc:creator>
-    </item>
-    <item>
-      <title>Harmonic-dependent geometry-to-flow transfer in AMPT Ru+Ru and Zr+Zr isobar collisions</title>
-      <link>http://arxiv.org/abs/2607.12660v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Murad Badshah, Muhammad Ajaz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a fixed-$N_{\rm part}$ study of geometry-to-flow transfer in string-melting AMPT simulations of $^{96}{\rm Ru}+^{96}{\rm Ru}$ and $^{96}{\rm Zr}+^{96}{\rm Zr}$ collisions at $\sqrt{s_{NN}}=200$ GeV. Four nuclear configurations are considered: deformation-only Ru+Ru, deformation-only Zr+Zr, deformation plus neutron skin Ru+Ru and deformation plus neutron skin Zr+Zr. The AMPT/HIJING initialization is modified to include deformed Woods--Saxon densities and, when enabled, separate proton and neutron Woods--Saxon radii and diffuseness parameters (neutron skin effect). We introduce an eccentricity-normalized isobar response double ratio, $D_n=(v_n^{\rm Ru}/v_n^{\rm Zr})/(\varepsilon_n^{\rm Ru}/\varepsilon_n^{\rm Zr})$, evaluated in common participant-number intervals. This observable eliminates the initial-geometry eccentricity ratio, and investigates whether the final-state flow ratio is fully determined by the initial-geometry ratio. We find that the elliptic double ratio is nearly unity, and the triangular double ratio is consistently greater than unity for the two deformation-only and deformation-plus-skin configurations. The positive $D_3-1$ pattern is maintained when varying the $N_{\rm part}$ binning, peripheral-bin treatment, flow $p_T$ range and rapidity/pseudorapidity acceptance. The result identifies a harmonic-dependent AMPT response: Ru/Zr elliptic flow follows leading eccentricity scaling to high accuracy, whereas triangular flow retains a residual response component after the triangularity ratio is divided out.&lt;/p&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 11:39:29 GMT</pubDate>
-      <guid isPermaLink="false">2607.12660v1</guid>
-      <dc:creator>Murad Badshah</dc:creator>
-      <dc:creator>Muhammad Ajaz</dc:creator>
     </item>
   </channel>
 </rss>
