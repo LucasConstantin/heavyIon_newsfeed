@@ -5,9 +5,79 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 00:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:31:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Temperature fluctuations in a realistic Polyakov-loop extended Nambu--Jona-Lasinio Model along the freeze-out line</title>
+      <link>http://arxiv.org/abs/2607.19275v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; He Liu, Peng Wu, Hong-Ming Liu, Peng-Cheng Chu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We extend and reparameterize the Polyakov--Nambu--Jona-Lasinio (PNJL) model to reproduce lattice simulation data at zero baryon chemical potential and to position its critical endpoint (CEP) within the BES-II experimental energy range. Using this realistic PNJL model, we investigate the behavior of the second-order temperature cumulant $C_2$ along the freeze-out line, aiming to understand the non-monotonic energy dependence of the two-particle transverse momentum correlation $C_{p_T}$ observed by the STAR Collaboration. Our results show a distinct dip structure in $C_2$ near the CEP and the first-order phase boundary on the phase diagram. Along the experimentally extracted freeze-out line, the dip minimum occurs around 7.7 GeV, and its trend is consistent with that observed by STAR, suggesting that the non-monotonic dependence of $C_{p_T}$ may be related to the CEP. Our results also indicate that cumulant ratios such as $C_3/C_2^2$ or $C_4/C_2^3$ eliminate the influence of initial volume fluctuations and may better reveal the underlying critical fluctuations. Further verification could be pursued through hydrodynamic or transport simulations that incorporate critical dynamics. These results and predictions might provide an a priori theoretical basis for future experimental measurements of higher-order event-mean transverse momentum fluctuations.&lt;/p&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 16:47:01 GMT</pubDate>
+      <guid isPermaLink="false">2607.19275v1</guid>
+      <dc:creator>He Liu</dc:creator>
+      <dc:creator>Peng Wu</dc:creator>
+      <dc:creator>Hong-Ming Liu</dc:creator>
+      <dc:creator>Peng-Cheng Chu</dc:creator>
+    </item>
+    <item>
+      <title>Lorentz-Covariant Spectral Bounds from Thermal Quantum Field Theory: Retarded Green's Functions, Kubo Relations, and Holographic Constraints</title>
+      <link>http://arxiv.org/abs/2607.13482v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alisher Sanetullaev, Sarbinaz Bazarbaeva, Marhabo Beymamatova, Shokir Tursunov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We extend the recently established framework of Lorentz-covariant relaxation bounds from linearized classical kinetic and rheological theories to the full quantum setting of thermal quantum field theory (QFT). Working directly with retarded two-point functions at finite temperature and density, we show that the analyticity and positivity properties of spectral functions -- combined with Lorentz covariance and the Kubo--Martin--Schwinger (KMS) condition -- impose rigorous frame-dependent constraints on the location of singularities in the complex frequency plane. Specifically, we prove that the non-hydrodynamic quasinormal spectrum in any boosted frame is confined to a strip whose width is determined solely by the rest-frame spectral weight at zero spatial momentum and the maximal group velocity of the theory. We derive covariant sum rules for the spectral density under Lorentz boosts and establish that the convergence radius of the hydrodynamic gradient expansion transforms in a manner dictated by the same rest-frame data. In holographic theories dual to Einstein gravity in asymptotically anti-de Sitter spacetime, we verify the bounds by an explicit quasinormal-mode computation: the leading boosted pole moves deeper into the complex plane -- the observed relaxation rate increases with boost velocity, in sharp contrast to naive time dilation -- while respecting the bound throughout; we further derive corrections from higher-derivative gravitational terms. Our results provide a first-principles, non-perturbative derivation of Lorentz-covariant spectral constraints applicable to the quark-gluon plasma, superfluid phases of neutron star matter, and strongly correlated electrons near quantum critical points.&lt;/p&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 09:10:58 GMT</pubDate>
+      <guid isPermaLink="false">2607.13482v2</guid>
+      <dc:creator>Alisher Sanetullaev</dc:creator>
+      <dc:creator>Sarbinaz Bazarbaeva</dc:creator>
+      <dc:creator>Marhabo Beymamatova</dc:creator>
+      <dc:creator>Shokir Tursunov</dc:creator>
+    </item>
+    <item>
+      <title>Nonlinear collective flow reveals the breakdown of quadrupole--hexadecapole scaling in heavy ion collisions</title>
+      <link>http://arxiv.org/abs/2607.18752v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hadi Mehrabpour, Zahra Sheibani, Li Yan, Chunjian Zhang, Abolfazl Mirjalili&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Determining the role of intrinsic hexadecapole deformation ($β_4$) in nuclear structure remains a long-standing challenge. Relativistic heavy-ion collisions provide a unique opportunity to address this problem by converting the initial nuclear geometry into the collective motion of the quark--gluon plasma (QGP). Using event-by-event viscous hydrodynamic simulations of ultra-central $^{238}$U+$^{238}$U collisions at $\sqrt{s_{NN}}=193$ GeV, we investigate whether higher-order collective flow can isolate the contribution of $β_4$ and test the $β_2-β_4$ correlation. We demonstrate that information carried by the sign of $β_4$ survives the QGP evolution and is enhanced through nonlinear hydrodynamic response: the fourth-order flow harmonic acquires its topology dependence predominantly from the linear response, whereas the sensitivity of the sixth-order harmonic originates almost entirely from nonlinear mode coupling. As a consequence, the nonlinear response coefficient $ξ_{6,222}$ cleanly separates the $(β_2,β_4)$ intrinsic nuclear topologies. These results establish the sign of $β_4$ as an experimentally accessible signature of deviations from the quadrupole--hexadecapole correlation, demonstrating that higher-order collective flow provides a direct probe of nuclear multipole structure while revealing how nonlinear QGP dynamics encode subtle higher-order geometric information into final-state observables.&lt;/p&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 06:19:16 GMT</pubDate>
+      <guid isPermaLink="false">2607.18752v1</guid>
+      <dc:creator>Hadi Mehrabpour</dc:creator>
+      <dc:creator>Zahra Sheibani</dc:creator>
+      <dc:creator>Li Yan</dc:creator>
+      <dc:creator>Chunjian Zhang</dc:creator>
+      <dc:creator>Abolfazl Mirjalili</dc:creator>
+    </item>
+    <item>
+      <title>Transport phenomena and observables associated with viscous properties of an anisotropic hot QCD medium at finite baryon asymmetry</title>
+      <link>http://arxiv.org/abs/2607.18581v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shubhalaxmi Rath, Nicolás A. Neill&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We have studied the transport phenomena and observables associated with viscous properties of a baryon asymmetric hot QCD medium in the presence of a weak-momentum anisotropy arising due to the asymptotic expansion of the matter in the initial stages of ultrarelativistic heavy-ion collisions. This study facilitates the understanding of the sound attenuation in the medium through the Prandtl number, the nature of flow through the Reynolds number, fluid behavior through the specific shear viscosity, and conformal symmetry through the specific bulk viscosity for an anisotropic hot QCD medium at finite baryon asymmetry. We have determined the shear and bulk viscosities by solving the relativistic Boltzmann transport equation in the relaxation time approximation method. The interactions among partons are incorporated through their distribution functions within the quasiparticle model of hot QCD medium at finite temperature, anisotropy and baryon asymmetry. We have observed a decrease in the shear and bulk viscosities in the presence of expansion-induced anisotropy for baryonless scenario as well as for baryon asymmetric scenario. Conversely, these viscosities are larger in baryon asymmetric matter compared to their counterparts in baryonless matter. The impact of anisotropy on baryon asymmetric matter is observed to be as conspicuous as on baryonless matter. The above results are broadly attributed to the squeezing of the distribution function due to the momentum anisotropy generated by the asymptotic expansion of baryon asymmetric matter and the dispersion relations of partons in the presence of anisotropy. Additionally, the aforesaid observables are also significantly modulated by the expansion-induced anisotropy in the baryon asymmetric medium, indicating new predictions for the sound attenuation, flow characteristics, fluid behavior and conformal symmetry of the said medium.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 23:35:13 GMT</pubDate>
+      <guid isPermaLink="false">2607.18581v1</guid>
+      <dc:creator>Shubhalaxmi Rath</dc:creator>
+      <dc:creator>Nicolás A. Neill</dc:creator>
+    </item>
+    <item>
+      <title>Ultra-peripheral Collisions</title>
+      <link>http://arxiv.org/abs/2607.18535v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jesus Guillermo Contreras, Spencer Robert Klein&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Photons in ultra-peripheral collisions of heavy ions (and protons) can be used for a variety of physics purposes - for studies of nuclear structure at low Bjorken$-x$, as probes of beyond-standard-model physics at the highest possible photon energies, and to explore new regimes of quantum mechanics via interferometry between two photon sources that share no common origin. This review will present the origins of photons in ultra-peripheral collisions and discuss the important physics that is being done with these photons, with particular emphasis on those on the energy frontier for photon physics.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:01:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.18535v1</guid>
+      <dc:creator>Jesus Guillermo Contreras</dc:creator>
+      <dc:creator>Spencer Robert Klein</dc:creator>
+    </item>
+    <item>
+      <title>Refined Vafa-Witten invariants for toric surfaces from supersymmetric localization in 5D gauge theory</title>
+      <link>http://arxiv.org/abs/2607.18410v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Osama Khlaif, Boris Pioline, Alessandro Tanzini&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the partition function of five-dimensional $\mathcal{N}=1$ $U(N)$ supersymmetric Yang-Mills (SYM) theory with an adjoint hypermultiplet of mass $m_{\rm adj}$ on a toric Kähler surface $S$ times a circle of radius $\boldsymbolβ$. Extending earlier work in $\mathcal{N}=2^*$ SYM theory on $S$, and in pure $\mathcal{N}=1$ SYM on $S\times \mathbb{S}^1_{\boldsymbolβ}$, we find that the path integral localizes to an integral along the Cartan torus of the product of Nekrasov 5D partition functions for each affine patch. Restricting to the gauge group $U(2)$ for simplicity, the integrand has an infinite set of poles of degree at most $χ(S)-2$. With a natural prescription for integrating around such poles, we find that the contributing poles are in one-to-one correspondence with the torus-fixed points in the moduli space of semi-stable torsion-free sheaves on $S$. Moreover, for non-even first Chern class, their contributions are independent of the equivariant parameters $ε_1,ε_2$ and add up to the $χ_{y^2}$-genus of that moduli space, where $y^2=e^{-\boldsymbolβ m_{\rm adj}}$, and hence coincide with the refined Vafa-Witten invariants. For even Chern class, the partition function depends on the equivariant parameters $ε_1,ε_2$ as well as $y$, and its relation to rational, refined Vafa-Witten invariants remains unclear.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 18:01:26 GMT</pubDate>
+      <guid isPermaLink="false">2607.18410v1</guid>
+      <dc:creator>Osama Khlaif</dc:creator>
+      <dc:creator>Boris Pioline</dc:creator>
+      <dc:creator>Alessandro Tanzini</dc:creator>
+    </item>
+    <item>
+      <title>Soft Gluon Wave Function and Evolution Operator in the CGC at Next-to-Leading Order</title>
+      <link>http://arxiv.org/abs/2607.18373v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ramkumar Radhakrishnan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct the soft gluon light cone wave function of a fast moving hadron and the associated unitary evolution operator $Ω$ up to $\mathcal{O}(g^{2})$ in pure Yang Mills theory $(N_{f} = 0)$, within the Color Glass Condensate (CGC) framework. Working in light cone gauge, we perform a Born Oppenheimer separation between fast valence and soft modes and implement the eikonal approximation, which allows $Ω$ to be written as a fully normal ordered series in soft gluon creation and annihilation operators. The expansion coefficients are functionals of the non-commuting valence color charge density operators $ρ$. We fix the coefficients by using the unitarity and explicit diagrammatic calculations within light-cone perturbation theory (LCPT). As an application, we diagonalize the pure Yang Mills soft Hamiltonian through orders $g$ and $g^{2}$ and show that the off diagonal mixing elements between Fock sectors cancel leading to the coherent background field energy proportional to $ρ^{2}$.&lt;/p&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2607.18373v1</guid>
+      <dc:creator>Ramkumar Radhakrishnan</dc:creator>
+    </item>
     <item>
       <title>Sensitivity of p_T Fluctuations to the QCD Equation of State</title>
       <link>http://arxiv.org/abs/2607.18211v1</link>
@@ -175,17 +245,6 @@
       <dc:creator>Yida Yang</dc:creator>
       <dc:creator>Anping Huang</dc:creator>
       <dc:creator>Baoyi Chen</dc:creator>
-    </item>
-    <item>
-      <title>Lorentz-Covariant Spectral Bounds from Thermal Quantum Field Theory: Retarded Green's Functions, Kubo Relations, and Holographic Constraints</title>
-      <link>http://arxiv.org/abs/2607.13482v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alisher Sanetullaev, Sarbinaz Bazarbaeva, Marhabo Beymamatova, Shokir Tursunov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We extend the recently established framework of Lorentz-covariant relaxation bounds from linearized classical kinetic and rheological theories to the full quantum setting of thermal quantum field theory (QFT). Working directly with retarded two-point functions at finite temperature and density, we show that the analyticity and positivity properties of spectral functions -- combined with Lorentz covariance and the Kubo--Martin--Schwinger (KMS) condition -- impose rigorous frame-dependent constraints on the location of singularities in the complex frequency plane. Specifically, we prove that the non-hydrodynamic quasinormal spectrum in any boosted frame is confined to a strip whose width is determined solely by the rest-frame spectral weight at zero spatial momentum and the maximal group velocity of the theory. We derive covariant sum rules for the spectral density under Lorentz boosts and establish that the convergence radius of the hydrodynamic gradient expansion transforms in a manner dictated by the same rest-frame data. In holographic theories dual to Einstein gravity in asymptotically anti-de Sitter spacetime, we verify the bounds by an explicit quasinormal-mode computation: the leading boosted pole moves deeper into the complex plane -- the observed relaxation rate increases with boost velocity, in sharp contrast to naive time dilation -- while respecting the bound throughout; we further derive corrections from higher-derivative gravitational terms. Our results provide a first-principles, non-perturbative derivation of Lorentz-covariant spectral constraints applicable to the quark-gluon plasma, superfluid phases of neutron star matter, and strongly correlated electrons near quantum critical points.&lt;/p&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 06:21:41 GMT</pubDate>
-      <guid isPermaLink="false">2607.13482v1</guid>
-      <dc:creator>Alisher Sanetullaev</dc:creator>
-      <dc:creator>Sarbinaz Bazarbaeva</dc:creator>
-      <dc:creator>Marhabo Beymamatova</dc:creator>
-      <dc:creator>Shokir Tursunov</dc:creator>
     </item>
     <item>
       <title>Profile-Likelihood and Baseline-Sensitivity Diagnostics for Digitized Radiation-Sensor Decay Datasets</title>
@@ -920,50 +979,6 @@
       <dc:creator>Jin-Biao Gu</dc:creator>
       <dc:creator>Arpith Kumar</dc:creator>
       <dc:creator>Jia Ni</dc:creator>
-    </item>
-    <item>
-      <title>Anisotropic hadronic rescattering and its impact on $K^{*0}$ yield, and polarization observable</title>
-      <link>http://arxiv.org/abs/2606.30154v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kadambini Menduli, Md. Nasim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we investigate the anisotropic suppression of reconstructed $K^{*0}$ resonances arising from hadronic rescattering using the A Multi-Phase Transport (AMPT) model for Au+Au collisions at $\sqrt{s_{NN}}=200$ GeV. We demonstrate that the rescattering probability of the decay daughters depends strongly on the decay angle $θ^{*}$ due to Lorentz boost effects, which lead to smaller laboratory-frame momenta for daughters emitted opposite to the parent particle motion. This anisotropic suppression influences several experimentally measured observables. We show that the reconstructed $K^{*0}$ yield exhibits a strong $θ^{*}$ dependence. Furthermore, the anisotropic loss of resonances modifies the angular distributions used to extract the spin alignment parameter $ρ_{00}$ in the production-plane and helicity frames. Even in the absence of intrinsic polarization in the model, the reconstructed $K^{*0}$ sample shows deviations of $ρ_{00}$ from the unpolarized value of $1/3$, with opposite trends in the two reference frames. These results demonstrate that hadronic rescattering can generate apparent polarization signals and must be carefully considered in experimental measurements of vector-meson spin alignment using production plane and helicity frame.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 11:30:19 GMT</pubDate>
-      <guid isPermaLink="false">2606.30154v1</guid>
-      <dc:creator>Kadambini Menduli</dc:creator>
-      <dc:creator>Md. Nasim</dc:creator>
-    </item>
-    <item>
-      <title>Nonlinear nature of near-equilibrium viscous fluids</title>
-      <link>http://arxiv.org/abs/2606.30043v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yan Liu, Hao-Tian Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the late-time relaxation of a neutral relativistic viscous fluid in $d+1$ dimensions. In the long-wavelength regime, linearized hydrodynamics predicts that the sound mode at momentum $nk$ decays as $e^{-n^2ω_I t}$. However, nonlinear analysis gives a decay of $e^{-nω_I t}$. We derive a closed asymptotic attractor solution in which the frequency of the $n$-th harmonic locks to $n$ times the complex frequency of the fundamental mode. The amplitude envelopes for energy current $J$ obey a simple cascading relation, $J_n=α_J^{\,n-1}J_1^n$, with $α_J$ fixed by the equation of state, the longitudinal viscosity, and the fundamental wavenumber. For conformal fluids, $α_J=1/(8ηk)$, in agreement with the holographic result of arXiv:2512.07242. The existence of the attractor shows that, even near equilibrium, field powers are not equivalent to amplitude order.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 09:36:04 GMT</pubDate>
-      <guid isPermaLink="false">2606.30043v1</guid>
-      <dc:creator>Yan Liu</dc:creator>
-      <dc:creator>Hao-Tian Sun</dc:creator>
-    </item>
-    <item>
-      <title>Revisiting identified-particle $p_{\mathrm{T}}$ spectra using the Boltzmann-Gibbs blast-wave model in a Bayesian inference framework</title>
-      <link>http://arxiv.org/abs/2606.29187v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Z. Xie, W. Z. Li, J. Q. Tao, H. Zheng, W. C. Zhang, W. Dai, L. L. Zhu, X. Q. Liu, D. M. Zhou, B. H. Sa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a Bayesian analysis of transverse momentum ($p_{\mathrm{T}}$) spectra of identified particles, i.e., pions, kaons, and protons, at midrapidity in Au+Au collisions and Pb+Pb collisions using the Boltzmann-Gibbs blast-wave (BGBW) model. We investigate whether it is possible to simultaneously describe the $p_{\mathrm{T}}$ spectra of identified particles without imposing the particle species-dependent $p_{\mathrm{T}}$ fit ranges -- a practice that was followed in conventional blast-wave model studies to achieve reasonable simultaneous fits. Using Bayesian analysis, our results indicate that a simultaneous description of the $p_{\mathrm{T}}$ spectra of pions, kaons, and protons is feasible without imposing the particle species-dependent $p_{\mathrm{T}}$ fit ranges, for Au+Au collisions up to the available data ($\sim$2 GeV/c) and for Pb+Pb collisions up to 3 GeV/c. The extracted parameters remain broadly consistent with those obtained from conventional BGBW simultaneous fits, while the extension of the fit range leads to moderate changes in some parameters. Furthermore, Bayesian analysis yields well-constrained posterior distributions for the kinetic freeze-out temperature $T_{kin}$, the average transverse flow velocity $\langle β_{\mathrm{T}}\rangle$, and the exponent of the velocity profile $n$ and shows their correlations transparently. We suggest that the BGBW model in a Bayesian inference framework proposed can be applied in future data analyses to simultaneously describe the $p_{\mathrm{T}}$ spectra of identified particles and extract the relevant information about the collision system.&lt;/p&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 04:20:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.29187v1</guid>
-      <dc:creator>Z. Xie</dc:creator>
-      <dc:creator>W. Z. Li</dc:creator>
-      <dc:creator>J. Q. Tao</dc:creator>
-      <dc:creator>H. Zheng</dc:creator>
-      <dc:creator>W. C. Zhang</dc:creator>
-      <dc:creator>W. Dai</dc:creator>
-      <dc:creator>L. L. Zhu</dc:creator>
-      <dc:creator>X. Q. Liu</dc:creator>
-      <dc:creator>D. M. Zhou</dc:creator>
-      <dc:creator>B. H. Sa</dc:creator>
-    </item>
-    <item>
-      <title>Equilibrium Statistics as Conditional Laws and Conservation-Induced Correlations</title>
-      <link>http://arxiv.org/abs/2606.29050v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sunil Jaiswal, Amaresh Jaiswal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a novel unified conditional-probability framework for relativistic systems in which conditioning on additive conservation laws simultaneously yields equilibrium occupation statistics and conservation-induced correlations. In this formulation, equilibrium arises as a conditional limit law of a closed system. The one-mode marginal gives Maxwell--Boltzmann, Bose--Einstein, and Fermi--Dirac statistics at leading saddle order, with the conserved quantities fixing the exponential tilt and the microscopic occupation measure determining the statistics. Expanding the two-mode marginal to Gaussian order gives the leading finite-rank covariance between modes induced by exact conservation. When contracted with observables linear in mode occupations, this covariance gives their leading exact-conservation contribution. We use this structure to define projected observables orthogonal to selected conserved quantities. By construction, their covariance has no leading exact-conservation contribution. In small collision systems, where conservation effects are less suppressed by multiplicity and can survive standard nonflow suppressions, this provides a direct way to isolate conservation-aligned contributions to long-range correlations. We demonstrate this with PYTHIA8/Angantyr-generated p+Pb events at $\sqrt{s_{\mathrm{NN}}}=5.02~\mathrm{TeV}$ by comparing ordinary and projected covariances, showing that the projection removes the conservation-aligned contribution while leaving the conservation-orthogonal covariance essentially unchanged.&lt;/p&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 19:19:16 GMT</pubDate>
-      <guid isPermaLink="false">2606.29050v1</guid>
-      <dc:creator>Sunil Jaiswal</dc:creator>
-      <dc:creator>Amaresh Jaiswal</dc:creator>
     </item>
     <item>
       <title>Thermal and electromechanical response of ultra-thin carbon-strip polarimeter targets in relativistic bunched beams</title>
@@ -1872,16 +1887,6 @@
       <dc:creator>Xing Wu</dc:creator>
       <dc:creator>Guannan Xie</dc:creator>
       <dc:creator>Yapeng Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider</title>
-      <link>http://arxiv.org/abs/2606.03993v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Giuliano Giacalone, Govert Nijs, Wilke van der Schee&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Imaging a quantum many-body system requires probes that resolve the coordinates of its constituents in sufficiently large event samples, allowing measurements of correlation functions [1-4]. High-energy nuclear collisions provide this opportunity on the nuclear scale [5], enabling features of colliding ions, such as their deformation, to be probed through particle correlation observables [6, 7]. However, a quantitative extraction of the correlation properties of nuclei from these measurements is still lacking. Here we show that this is possible for the nucleus $^{129}$Xe using Bayesian inference methods. We combine a deformed-rotor description of the colliding nuclei, which encodes the many-body dynamics of constituent neutrons and protons, with hydrodynamic simulations of the ensuing collision evolution. From a combined global analysis of Large Hadron Collider data on Xe-Xe and Pb-Pb collisions, we then infer that the shape of $^{129}$Xe is nearly maximally triaxial, which aligns with mean-field results for xenon isotopes away from shell closure [8, 9]. From this we evaluate two- and three-particle correlations in the nuclear ground state to provide new constraints for \textit{ab initio} methods in nuclear theory. We establish thus collider experiments as a means of quantifying correlations of protons and neutrons arising from residual forces of quantum chromodynamics.&lt;/p&gt;</description>
-      <pubDate>Tue, 02 Jun 2026 17:59:59 GMT</pubDate>
-      <guid isPermaLink="false">2606.03993v1</guid>
-      <dc:creator>Giuliano Giacalone</dc:creator>
-      <dc:creator>Govert Nijs</dc:creator>
-      <dc:creator>Wilke van der Schee</dc:creator>
     </item>
   </channel>
 </rss>
