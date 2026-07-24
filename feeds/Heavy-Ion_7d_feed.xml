@@ -5,9 +5,22 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:31:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:28:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Charge-Exchange Reactions Accompanied by a Single $π^+$ Production in Medium-Energy Heavy-Ion Collisions</title>
+      <link>http://arxiv.org/abs/2607.19924v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-lei Chen, Jin-yu Yang, Shi-kang Dong, Bao-wei Ding, Bi-tao Hu, Xi-yu Qiu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Heavy-ion charge-exchange (CE) reactions provide a sensitive probe of isospin dynamics in nuclear collisions. We investigate the reaction $^{12}\mathrm{C}(^{12}\mathrm{C},\,^{12}\mathrm{N}\,π^{+})\,^{12}\mathrm{Be}$ at 400--600 A MeV within the ultra-relativistic quantum molecular dynamics model combined with a phase-space coalescence approach. This reaction represents a nontrivial CE channel accompanied by a single $π^+$ production in heavy-ion collisions, extending previous studies from lepton-induced to hadronic systems. The $^{12}\mathrm{N}$ fragment is formed via nucleon and meson exchange, whereas $π^+$ production is primarily governed by $Δ$ resonance excitation and decay, enabling simultaneous investigations of CE processes and $Δ$-induced pion production within the same reaction system. We calculate the reaction cross section and analyze the four-momentum distributions of $^{12}\mathrm{N}$ and $π^+$. Characteristic phase-space features reflect different production mechanisms and provide guidance for future experimental designs. Additionally, this reaction may serve as a potential pathway for rare-isotope production.&lt;/p&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 08:58:34 GMT</pubDate>
+      <guid isPermaLink="false">2607.19924v1</guid>
+      <dc:creator>Xiao-lei Chen</dc:creator>
+      <dc:creator>Jin-yu Yang</dc:creator>
+      <dc:creator>Shi-kang Dong</dc:creator>
+      <dc:creator>Bao-wei Ding</dc:creator>
+      <dc:creator>Bi-tao Hu</dc:creator>
+      <dc:creator>Xi-yu Qiu</dc:creator>
+    </item>
     <item>
       <title>Temperature fluctuations in a realistic Polyakov-loop extended Nambu--Jona-Lasinio Model along the freeze-out line</title>
       <link>http://arxiv.org/abs/2607.19275v1</link>
@@ -165,26 +178,6 @@
       <pubDate>Fri, 17 Jul 2026 04:31:48 GMT</pubDate>
       <guid isPermaLink="false">2607.15618v1</guid>
       <dc:creator>Juhee Hong</dc:creator>
-    </item>
-    <item>
-      <title>Investigation of hadronic effects on resonance productions in small collision systems using the EPOS4 model</title>
-      <link>http://arxiv.org/abs/2607.15061v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hyunji Lim, Bong-Hwi Lim, Minjung Kim, Sanghoon Lim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent experimental results in high-multiplicity proton-proton (pp) collisions have suggested the possible emergence of collective behavior and medium-like effects previously considered characteristic of heavy-ion collisions. Resonance production provides a sensitive probe of such effects, as resonance yields and transverse-momentum distributions can be modified by hadronic interactions occurring between chemical and kinetic freeze-out. In this study, these effects are investigated using the EPOS4 event generator, in which hadronic final-state interactions are modeled through the UrQMD transport approach. By comparing calculations performed with and without UrQMD, the impact of hadronic interactions on resonance production is evaluated. In addition, the UrQMD contributions are separated into regeneration and rescattering, enabling a detailed investigation of both resonance production enhancement and the loss of reconstructible resonance signals. The analysis is performed for various mesonic and baryonic resonances with different lifetimes in pp collisions at LHC energies and is extended to p-O, O-O, and Pb-Pb collisions to study the system-size dependence of hadronic-phase effects. The results show that resonance production is governed by the competition between regeneration and rescattering, whose relative importance depends strongly on the resonance species, transverse momentum, and collision system. While rescattering suppresses reconstructible short-lived resonance signals, regeneration can significantly enhance the yields of several resonance species, particularly baryonic resonances. These findings demonstrate that hadronic interactions can play an important role even in small collision systems and highlight the need to measure resonances with different lifetimes and quantum numbers to constrain the dynamics and lifetime of the hadronic phase across collision systems.&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 14:34:56 GMT</pubDate>
-      <guid isPermaLink="false">2607.15061v1</guid>
-      <dc:creator>Hyunji Lim</dc:creator>
-      <dc:creator>Bong-Hwi Lim</dc:creator>
-      <dc:creator>Minjung Kim</dc:creator>
-      <dc:creator>Sanghoon Lim</dc:creator>
-    </item>
-    <item>
-      <title>Responses of multiparticle observables to multidimensional nuclear deformation in relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2607.14776v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ying Shan Zhao, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy-ion collisions provide a unique opportunity to probe ground-state nuclear structure through its imprint on the initial collision geometry. We investigate how multiparticle observables respond to combined variations of quadrupole deformation, triaxiality, and hexadecapole deformation, using $^{129}$Xe+$^{129}$Xe collisions as a representative testing ground. We perform a joint analysis in the three-dimensional $(β_2,γ,β_4)$ parameter space and construct initial-state estimators for several flow and mean transverse momentum correlation observables. At the initial-state level, $ρ_2$ is primarily sensitive to $β_2$ and $γ$, with its sensitivity to $γ$ enhanced at nonzero $β_2$. The nonlinear response coefficient $χ_{4,22}$ is predominantly sensitive to $β_4$, while its dependence on $β_2$ and $γ$ remains comparatively weak. Higher-order correlators exhibit more complex multidimensional response patterns; in particular, $ρ_{224}$ shows a dependence on $γ$ and $β_4$ that becomes more pronounced at finite $β_2$. We further employ the iEBE-VISHNU hybrid model to examine whether these deformation sensitivities survive the subsequent dynamical evolution. The final-state calculations indicate that the sensitivity of $ρ_2$ to $β_2$ and $γ$ is largely preserved, whereas the $β_4$ sensitivity of $χ_{4,22}$ is substantially reduced. For the other higher-order observables, the initial-state sensitivities are modified by the evolution or cannot be resolved with the present statistics.&lt;/p&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 09:56:27 GMT</pubDate>
-      <guid isPermaLink="false">2607.14776v1</guid>
-      <dc:creator>Ying Shan Zhao</dc:creator>
-      <dc:creator>Yifeng Sun</dc:creator>
     </item>
   </channel>
 </rss>
