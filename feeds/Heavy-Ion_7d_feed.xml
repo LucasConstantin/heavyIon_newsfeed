@@ -5,9 +5,46 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 00:33:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Enhanced hydrodynamic predictions for $v_{02}(p_T)$</title>
+      <link>http://arxiv.org/abs/2607.21321v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rupam Samanta, Tribhuban Parida, Jean-Yves Ollitrault&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present hydrodynamic predictions for the new observable $v_{02}(p_T)$, which measures the correlation of particle spectra with elliptic flow. We implement a data-driven correction so as to match hydrodynamic calculations to elliptic flow ($v_2(p_T)$) data. The corrected results are in fair agreement with $v_0(p_T)$ data up to high $p_T$. We make predictions for $v_{02}(p_T)$ of unidentified charged hadrons up to $p_T=10$~GeV$/c$, and of pions, kaons and protons up to $p_T=5-6$~GeV$/c$, in several centrality windows, for Pb+Pb collisions at $\sqrt{s_{NN}}=5.02$~TeV. For $p_T&gt;4$~GeV$/c$, we predict a decrease of $v_{02}(p_T)$ of charged hadrons in mid-central collisions, and meson-baryon splitting. We also predict a non-monotonic variation of $v_{02}(p_T)$ for protons at low $p_T$ above $30\%$ centrality. This is a specific feature of this new observable, which is not observed for the usual flow observables $v_2(p_T)$ and $v_0(p_T)$.&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 13:46:49 GMT</pubDate>
+      <guid isPermaLink="false">2607.21321v1</guid>
+      <dc:creator>Rupam Samanta</dc:creator>
+      <dc:creator>Tribhuban Parida</dc:creator>
+      <dc:creator>Jean-Yves Ollitrault</dc:creator>
+    </item>
+    <item>
+      <title>Intrinsic coupling between transverse spherocity and elliptic flow in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2607.21161v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Subikash Choudhury, Ekata Nandy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Transverse spherocity ($S_{0}$) is an event-shape observable widely used to classify collision events according to their topology, particularly to distinguish jet-like from isotropic events. Low-spherocity events are generally interpreted as being associated with enhanced jet activity. This event classification has also been applied to heavy-ion collisions to investigate the influence of event topology on several observables, including elliptic flow and constituent-quark-number scaling. In this work, we demonstrate that such an interpretation requires careful reconsideration. Using toy Monte Carlo simulations, A Multiphase Transport (AMPT) model calculations, and an analytical formulation of the spherocity observable, we show that transverse spherocity is intrinsically related to the elliptic flow coefficient, $v_{2}$. This connection arises because the axis that minimizes the spherocity aligns with the event symmetry plane, causing events with larger elliptic anisotropy to naturally exhibit smaller spherocity values even in the absence of genuine jet-like topologies. We further show that this intrinsic relation gives rise to an inherent anti-correlation between transverse spherocity and $v_{2}$, implying that several characteristics previously attributed to the enhanced jet-like nature of low-spherocity events in heavy-ion collisions can instead be understood as consequences of collective anisotropic flow. Our results indicate that, in heavy-ion collisions, transverse spherocity should be interpreted primarily as a probe of the collective momentum-space anisotropy rather than as a direct measure of jetty event topology. Consequently, physics conclusions drawn from spherocity-selected events should explicitly account for its intrinsic correlation with elliptic flow.&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 10:46:07 GMT</pubDate>
+      <guid isPermaLink="false">2607.21161v1</guid>
+      <dc:creator>Subikash Choudhury</dc:creator>
+      <dc:creator>Ekata Nandy</dc:creator>
+    </item>
+    <item>
+      <title>Impact of Baryon anti-Baryon annihilation on hyperon ($Λ$, $\barΛ$) production and apparent strangeness enhancement in $\barΛ/\bar{p}$ in heavy ion collisions at SPS energy</title>
+      <link>http://arxiv.org/abs/2607.21146v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ekata Nandy, Subhasis Chattopadhyay&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A deconfined medium of quarks and gluon, called the Quark-Gluon Plasma (QGP) is produced when heavy-nuclei are collided at relativistic energies. The QGP formation is often characterized by a phenomenon called strangeness enhancement where, the relative production of strange-to-non-strange particles are enhanced in central collisions compared to peripheral or proton-proton interactions. Besides the enhancement in K/$π$ ratios, a non-monotonic energy dependence was also reported for $\barΛ$ to $\bar{p}$ ratios at CERN SPS, attributed to a signature for the strangeness enhancement as well. As anti-particles are produced directly from the reaction, the $\barΛ$/$\bar{p}$ ratios are considered as a cleaner probe for the strangeness enhancement. However, at this energy range hadronic interactions have a dominant role to play and, importantly for $\barΛ$ and $\bar{p}$, processes like baryon-anti-baryon ($\mathrm{B\bar{B}}$) annihilation can have a significant impact. In this work, we use a hadronic transport model UrQMD, to investigate the role of baryon-anti-baryon ($\mathrm{B\bar{B}}$) annihilation on $Λ$, $\barΛ$ hyperon production and its effect on $\barΛ$/$\bar{p}$ ratios. The UrQMD calculations that include $\mathrm{B\bar{B}}$ annihilation can produce the trend of average transverse mass spectra for $Λ$ and $\barΛ$, as well as, the characteristic enhancement in $\barΛ$/$\bar{p}$ ratios in data as a function of centrality and collision energy. Furthermore, $\barΛ$/$\bar{p}$ ratios extracted from the feed-down corrected SPS data are seen to be in good agreement with UrQMD model calculations with $\mathrm{B\bar{B}}$ annihilation. This suggests that $\barΛ$/$\bar{p}$ enhancement is not necessarily because of strangeness enhancement and $\mathrm{B\bar{B}}$ annihilation has a significant role to play.&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 10:27:04 GMT</pubDate>
+      <guid isPermaLink="false">2607.21146v1</guid>
+      <dc:creator>Ekata Nandy</dc:creator>
+      <dc:creator>Subhasis Chattopadhyay</dc:creator>
+    </item>
+    <item>
+      <title>Searching for initial state fluctuations in heavy ion collisions at FAIR energy using Principal Component Analysis</title>
+      <link>http://arxiv.org/abs/2607.20971v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ekata Nandy, Subhasis Chattopadhyay&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In high energy heavy ion collisions, the initial configurations of the colliding nuclei play an important role in determining the reaction type and the products of the reaction. The initial arrangement of nucleons within the overlap region of two colliding nuclei is generally asymmetric and such asymmetries reflect themselves in the measurement final state momentum anisotropy. Also initial distribution of the nucleons are subjected to large quantum fluctuation causing large energy deposition in a small region. The final state observables related momentum anisotropies although sensitive to such localized fluctuations but their true effect gets diluted because these observables are calculated by averaging over a set of events. Also, such fluctuations in the initial states are random and uncontrolled. Thus, identifying their effect from event-averaged final state observable is difficult. However, it would be interesting to know the origin of such fluctuations and how these fluctuation are eventually translated to the final state. In this work, we at first introduce such localized fluctuations in the initial configurations, also called hot spots, by implementing spatial rearrangements of nucleon position in the colliding nuclei in the central Pb+Pb collisions at E$_{lab}$=20 AGeV ($\sqrt{s}$=6.27 GeV) using the UrQMD event generator. Then the final state distributions of one or two dimensional variables e.g., ($η$, $φ$, $p_T$) and ($η-p_T$, $φ-p_T$, $η-φ$) of the produced pions are analysed using the principal component analysis (PCA) technique. The eigenvalues of the principal components have been studied for various initial configurations, event fractions containing hot spots in the initial condition and for event centralities with an aim to find it's sensitivity to the initial hot spot configurations.&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 06:47:12 GMT</pubDate>
+      <guid isPermaLink="false">2607.20971v1</guid>
+      <dc:creator>Ekata Nandy</dc:creator>
+      <dc:creator>Subhasis Chattopadhyay</dc:creator>
+    </item>
     <item>
       <title>Charge-Exchange Reactions Accompanied by a Single $π^+$ Production in Medium-Energy Heavy-Ion Collisions</title>
       <link>http://arxiv.org/abs/2607.19924v1</link>
@@ -131,53 +168,6 @@
       <dc:creator>Maryam Bajalan</dc:creator>
       <dc:creator>Jean-Pierre Gazeau</dc:creator>
       <dc:creator>Hamed Pejhan</dc:creator>
-    </item>
-    <item>
-      <title>Wounded parton scaling of multiplicities in ultra-relativistic light- and heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2607.16485v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rupam Samanta, Piotr Bozek, Wojciech Broniowski&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multiplicities of charged particles produced in O+O, Ne+Ne, Xe+Xe, and Pb+Pb collisions at $\sqrt{s_{NN}} \sim 5$~TeV are studied in a uniform way within a wounded parton Glauber framework with overlaid negative binomial fluctuations. In this model, the nucleon's inelastic interaction is modeled via its constituent partons, whose number is a parameter, with best description obtained with four partons per nucleon. We fit directly the experimental multiplicity distributions (histograms), using {\it the same model parameters} for each reaction. The fit is performed in the c=1--80 $\%$ centrality range. Avoiding the most peripheral events makes the method insensitive to the normalization issues caused by the difficulty in separating the Coulomb interactions, whereas the most central collisions may involve a different particle production mechanism. We find a proper model description of multiplicity distributions across all the studied systems for $c \lesssim 1\%$.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 20:20:13 GMT</pubDate>
-      <guid isPermaLink="false">2607.16485v1</guid>
-      <dc:creator>Rupam Samanta</dc:creator>
-      <dc:creator>Piotr Bozek</dc:creator>
-      <dc:creator>Wojciech Broniowski</dc:creator>
-    </item>
-    <item>
-      <title>Long-Lived Dark Hadrons at the Electron-Ion Collider</title>
-      <link>http://arxiv.org/abs/2607.16400v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hooman Davoudiasl, Hongkai Liu, Ethan T. Neil&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study a dark non-Abelian gauge sector with GeV-scale confinement. The dark sector is assumed to couple only feebly to the Standard Model, while its low-energy spectrum may contain long-lived flavor-diagonal dark pions. Signals of these states are particularly well suited to the Electron-Ion Collider (EIC), where the absence of a hard trigger requirement and the capability to record soft final-state particles offer a complementary probe of dark hadronization dynamics. We present a benchmark portal construction, discuss the mixing between an axion-like mediator and dark pions, and identify the resulting displaced-decay signature.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 18:00:02 GMT</pubDate>
-      <guid isPermaLink="false">2607.16400v1</guid>
-      <dc:creator>Hooman Davoudiasl</dc:creator>
-      <dc:creator>Hongkai Liu</dc:creator>
-      <dc:creator>Ethan T. Neil</dc:creator>
-    </item>
-    <item>
-      <title>Lorentz-Covariant Spectral Bounds from Thermal Quantum Field Theory</title>
-      <link>http://arxiv.org/abs/2607.16365v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alisher Sanetullaev, Sarbinaz Bazarbaeva, Marhabo Beymamatova, Shokir Tursunov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive rigorous Lorentz-covariant bounds on relaxation spectra directly from the analytic structure of retarded Green's functions in thermal quantum field theory, using only causality, unitarity, the Kubo-Martin-Schwinger condition, and Lorentz covariance, without reference to any specific dynamical model. A single rest-frame quasinormal pole is generically smeared into a continuum of excitations in boosted frames, with width set by the maximal signal velocity. We prove that the non-hydrodynamic gap $Γ_{\mathrm{gap}}$ transforms as $\tildeΓ_{\mathrm{gap}} \geq Γ_{\mathrm{gap}}/[γ(1 + v v_{\mathrm{max}})]$, and that the convergence radius of the hydrodynamic gradient expansion satisfies $\tilde{k}_c \in [k_c/γ(1+v v_s), k_c/γ(1-v v_s)]$ under a boost of velocity $v$. We verify the bounds by a numerical quasinormal-mode computation in the ${N}=4$ super-Yang-Mills plasma: the leading boosted pole moves deeper into the complex plane -- the observed relaxation rate increases with boost velocity, in sharp contrast to naive time dilation -- while respecting the bound throughout. The results apply non-perturbatively to the quark-gluon plasma, neutron star merger dynamics, and quantum critical systems.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 13:24:41 GMT</pubDate>
-      <guid isPermaLink="false">2607.16365v1</guid>
-      <dc:creator>Alisher Sanetullaev</dc:creator>
-      <dc:creator>Sarbinaz Bazarbaeva</dc:creator>
-      <dc:creator>Marhabo Beymamatova</dc:creator>
-      <dc:creator>Shokir Tursunov</dc:creator>
-    </item>
-    <item>
-      <title>Viscous Accretion Disks around Regular Black Holes Embedded in a Quintessence Dark Energy Field: Beyond the Novikov--Thorne Approximation</title>
-      <link>http://arxiv.org/abs/2607.15679v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sandip Dutta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a comprehensive relativistic framework for geometrically thin, optically thick Shakura--Sunyaev $α$-viscous accretion disks around rotating Hayward regular black holes embedded in a quintessence dark energy (DE) field. The static, spherically symmetric building blocks of our spacetime are each exact solutions of the Einstein field equations, sourced respectively by the Hayward non-linear electromagnetic field and a quintessence fluid with equation-of-state parameter $ω&lt;-1/3$; we combine and rotate them following standard practice for this class of models, and we are explicit throughout about the resulting metric's phenomenological status. Abandoning the stress-free inner boundary of the Novikov--Thorne--Page (NTP) model, we analytically incorporate a non-zero viscous torque $\Tcal_{\rm in}$ at the innermost stable circular orbit (ISCO) via the relativistic vertical epicyclic frequency $\Obot(r)$. We prove that the bolometric efficiency $η=[1-E(\rISCO)]\times100\,\%$ is strictly independent of the viscosity parameter $α$ but sensitive to both the Hayward length scale $l$ and the DE density $ρ_0$, establishing a rigorous two-observable degeneracy-breaking strategy. At benchmark parameters ($j=0.4$, $l=0.5M_{\BH}$, $ρ_0=2\times10^{-4}$), the combined geometry yields $η=8.71\,\%$, substantially above the vacuum Kerr value $7.51\,\%$ at the same spin. The viscosity correction $δ\Fcal/\Fcal_{\rm NTP}$ diverges at $r\to\rISCO^+$, amplified by the geometric odification of the boundary pressure: the viscosity amplification ratio rises from $0.80$--$4.52\,\%$ (vacuum Kerr) to $0.87$--$6.76\,\%$ (Hayward+DE) at $α=0.1$, providing a clean, monotonic observational discriminator accessible to \textit{NICER} and \textit{NuSTAR}, independent of the bulk spectral normalisation.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:43:24 GMT</pubDate>
-      <guid isPermaLink="false">2607.15679v1</guid>
-      <dc:creator>Sandip Dutta</dc:creator>
-    </item>
-    <item>
-      <title>Nonequilibrium approach to heavy-quark transport</title>
-      <link>http://arxiv.org/abs/2607.15618v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Juhee Hong&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A nonequilibrium Green's function approach to heavy-quark transport is discussed within the framework of the Kadanoff-Baym equation. One- and two-loop self-energy diagrams with hard-thermal-loop resummed propagators are calculated in the real-time formalism. Under the quasiparticle approximation, the kinetic equation reduces to the Boltzmann equation that accounts for elastic scattering and medium-induced gluon emission from a single scattering. Numerical studies suggest that off-shell and memory effects in quark-gluon plasmas influence heavy-quark dynamics, particularly near the critical temperature.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 04:31:48 GMT</pubDate>
-      <guid isPermaLink="false">2607.15618v1</guid>
-      <dc:creator>Juhee Hong</dc:creator>
     </item>
   </channel>
 </rss>
