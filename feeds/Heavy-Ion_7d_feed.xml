@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2026 00:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:34:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -158,16 +158,6 @@
       <pubDate>Mon, 20 Jul 2026 00:40:01 GMT</pubDate>
       <guid isPermaLink="false">2607.17449v1</guid>
       <dc:creator>Niseem Magdy</dc:creator>
-    </item>
-    <item>
-      <title>The de Sitter Scalar Discrete Series: Gupta-Bleuler Structure and Holography</title>
-      <link>http://arxiv.org/abs/2607.17124v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maryam Bajalan, Jean-Pierre Gazeau, Hamed Pejhan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that scalar discrete-series unitary irreducible representations (UIRs) $Π_{p,0}$ ($p=1,2,\cdots$) of the de Sitter (dS) group $\mathrm{SO}_0(1,4)$ admit a dS-covariant Krein realization on the dS hyperboloid, endowed with a dS-invariant non-degenerate Klein-Gordon (KG) sesquilinear form, in which the group action is indecomposable and organizes naturally into a Gupta-Bleuler triplet. The positive- and negative-norm sectors are already present in the underlying Krein space, whereas a null sector emerges only at an intermediate stage, where the induced KG form becomes degenerate and its radical leads canonically to the physical quotient carrying the UIR $Π_{p,0}$. We further show that suitable limits of the bulk theory at the ``future'' and ``past'' conformal boundaries ${\mathcal{I}}^\pm$ give rise to dS-invariant boundary realizations endowed with induced kernel inner products. While the bulk negative-norm sector admits no independent boundary counterpart, the boundary realization retains the physical and gauge structures inherited from the bulk. The resulting boundary module nevertheless remains indecomposable, with its physical quotient carrying the discrete-series representation $Π_{p,0}$. The antipodal symmetry provides a natural relation between the realizations on ${\mathcal{I}}^+$ and ${\mathcal{I}}^-$, ensuring the consistency of the boundary construction and its geometric interpretation. At the heart of the analysis lies a Fourier-type bulk-boundary transform that provides a dS-covariant identification of the bulk and boundary physical sectors, establishing a one-to-one intertwining correspondence between the bulk and boundary realizations of $Π_{p,0}$ while preserving reflection positivity.&lt;/p&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 08:21:56 GMT</pubDate>
-      <guid isPermaLink="false">2607.17124v1</guid>
-      <dc:creator>Maryam Bajalan</dc:creator>
-      <dc:creator>Jean-Pierre Gazeau</dc:creator>
-      <dc:creator>Hamed Pejhan</dc:creator>
     </item>
   </channel>
 </rss>
