@@ -5,9 +5,73 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:31:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:29:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Interaction fingerprints in temperature-fluctuation cumulants from the QCD crossover to nuclear liquid-gas criticality</title>
+      <link>http://arxiv.org/abs/2607.24616v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Debasish Mallick&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Temperature fluctuations of the matter produced in relativistic heavy-ion collisions are related to event-by-event fluctuations of the mean transverse momentum and, through the specific heat, to the QCD equation of state. We calculate the temperature-fluctuation cumulants $c_2$, $c_3$, and $c_4$ in the ideal hadron resonance gas (HRG), in an excluded-volume HRG consistent with lattice QCD constraints on baryon repulsion, and in a van der Waals HRG that reproduces the nuclear ground state. At zero baryon density all three models agree with lattice QCD thermodynamics up to the chiral crossover and separate above it. Along the chemical freeze-out curve the models remain close for $\sqrt{s_{NN}} \gtrsim 20$ GeV and separate strongly at lower energies, where baryonic interactions dominate the thermal response. In the van der Waals model the variance $c_2$ develops a minimum along the Widom line of the nuclear liquid-gas transition and $c_3$ changes sign across it. Temperature cumulants thus connect mean-transverse-momentum fluctuations to thermodynamic structures in two regions of the QCD phase diagram.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 16:14:39 GMT</pubDate>
+      <guid isPermaLink="false">2607.24616v1</guid>
+      <dc:creator>Debasish Mallick</dc:creator>
+    </item>
+    <item>
+      <title>Study the Longitudinal Entropy Deposition using d+Au Collision</title>
+      <link>http://arxiv.org/abs/2607.24153v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhu Meng, Weiyao Ke, Long-Gang Pang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic hydrodynamics successfully describes bulk observables in symmetric heavy-ion collisions, but struggles to reproduce charged-particle rapidity distributions in asymmetric systems such as d+Au collisions. To address this challenge, we introduce two key improvements to the initial-state modeling: sampling deuteron configurations from an ab initio wavefunction, and developing a new longitudinal entropy deposition model that incorporates a transverse entropy deposition coefficient $β$ and a rapidity loss term scaling with the number of binary collisions $n_{\rm BC}$. Using the (3+1)-dimensional viscous hydrodynamic model CLVisc coupled with the SMASH afterburner, we simulate d+Au collisions at $\sqrt{s_{\rm NN}} = 200$ GeV and successfully reproduce the experimental charged-particle pseudorapidity distributions across five centrality classes with $β= 0.35$, as well as the transverse momentum spectra and anisotropic flow $v_n$. The entropy deposition coefficient $β$ and the $n_{\rm BC}$-dependent rapidity loss are found to play crucial roles in achieving this agreement. Furthermore, this longitudinal entropy deposition framework demonstrates excellent universality, as validated in p+Au, $^3$He+Au, and Au+Au collisions. Our entropy deposition mechanism could be widely applied to recent light-nucleus collisions such as O+O, Ne+Ne, and asymmetric systems like Pb+Ne at LHC energies, thereby better constraining the nuclear structure of light nuclei through an improved longitudinal description.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 08:32:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.24153v1</guid>
+      <dc:creator>Zhu Meng</dc:creator>
+      <dc:creator>Weiyao Ke</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+    </item>
+    <item>
+      <title>Systematic Parameter Optimization of Quantum Molecular Dynamics Models for Hadron Therapy Using Multi-Ion Fragmentation Data</title>
+      <link>http://arxiv.org/abs/2607.24034v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Akihiro Haga, Yoshi-hide Sato, Daiyu Fujiwara, Dousatsu Sakata, Yuki Tominaga, David Bolst, Edward C. Simpson, Susanna Guatelli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quantum molecular dynamics (QMD) models are widely used to simulate nuclear fragmentation in hadron therapy, but their predictive accuracy depends strongly on parameters that are often selected empirically. We developed an optimized QMD framework by systematically calibrating three parameters for a relativistic mean-field model with the NS2 parameter set and Skyrme models with the SLy4 and SkM* parameter sets: the wave-packet width L, maximum evolution time Tm, and impact-parameter envelope factor benv. The wave-packet width was determined from experimental charge radii, whereas Tm and benv were parameterized as functions of incident kinetic energy and reaction-system mass and optimized using proton- and heavy-ion-induced fragmentation data over 30-400 MeV/u. Performance was compared with the original LiQMD, Binary Cascade, and Liege Intranuclear Cascade models. The optimized Tm depended strongly on incident energy but only weakly on system mass, indicating that the transition from the dynamical QMD stage to statistical de-excitation is governed mainly by collision energy. In contrast, benv showed model-dependent behavior: NS2 favored larger peripheral-collision contributions for lighter systems at low energies, whereas the Skyrme models showed relatively weak energy and mass dependence. The optimized parameterizations improved agreement with experimental fragment production cross sections, angular distributions, and energy distributions. The optimized Skyrme models achieved the best overall performance and outperformed the cascade models for most datasets. This framework provides a physically consistent description of nuclear fragmentation across multiple observables and may improve calculations of secondary-particle transport, dose deposition, and linear energy transfer in hadron therapy.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 06:14:22 GMT</pubDate>
+      <guid isPermaLink="false">2607.24034v1</guid>
+      <dc:creator>Akihiro Haga</dc:creator>
+      <dc:creator>Yoshi-hide Sato</dc:creator>
+      <dc:creator>Daiyu Fujiwara</dc:creator>
+      <dc:creator>Dousatsu Sakata</dc:creator>
+      <dc:creator>Yuki Tominaga</dc:creator>
+      <dc:creator>David Bolst</dc:creator>
+      <dc:creator>Edward C. Simpson</dc:creator>
+      <dc:creator>Susanna Guatelli</dc:creator>
+    </item>
+    <item>
+      <title>$^{15}$C inelastic $1/2^+ \rightarrow 5/2^+$ excitation: A single-particle versus a collective process</title>
+      <link>http://arxiv.org/abs/2607.23291v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; C. Beckman, M. Catacora-Rios, C. Hebborn, F. M. Nunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Background: The excitation of one-neutron halo nucleus $^{15}$C from the $1/2^+$ ground state to the $5/2^+$ first excited state was measured at Argonne National Laboratory by impinging $^{15}$C on a deuterated target at $7.1 A$ MeV. This data was then analyzed in the Distorted Wave Born Approximation using a rigid rotor model for the excitation. Purpose: Being a one-neutron halo, we expect a single-particle excitation to better represent the excitation of $^{15}$C rather than a collective process. We expect the breakup of $^{15}$C to influence the reaction mechanisms because of the low one-neutron separation threshold, which is close in energy to $^{15}$C's first excited state. The goal of this work is to explore various the reaction mechanisms to reinterpret the data of Ref.[1] for the inelastic excitation of $^{15}$C. Method: We solve the scattering problem assuming a three-body model $^{14}$C$+n+d$. We use the Continuum Discretized Coupled Channel method (CDCC) and compare the results with those obtained assuming 1-step DWBA with quadrupole deformation, as done in the original experimental analysis. We also use Bayesian uncertainty quantification to estimate the uncertainties in our predictions coming from the $n$-$d$ interaction. Results: We analyze both the elastic and inelastic angular distributions for $^{15}$C(d,d')$^{15}\text{C}^*$ at $7.1 A$ MeV. Our results show that $^{15}$C breakup effects are important. Conclusions: While CDCC predicts the elastic angular distribution correctly, it is not able to fully describe the experimental inelastic angular distribution. We discuss additional effects that may be responsible for the remaining discrepancy.&lt;/p&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 17:02:54 GMT</pubDate>
+      <guid isPermaLink="false">2607.23291v1</guid>
+      <dc:creator>C. Beckman</dc:creator>
+      <dc:creator>M. Catacora-Rios</dc:creator>
+      <dc:creator>C. Hebborn</dc:creator>
+      <dc:creator>F. M. Nunes</dc:creator>
+    </item>
+    <item>
+      <title>Proton Collectivity in Au+Au Collisions at $\sqrt{s_{\rm NN}}=2.4-4.5$~GeV from a Unified Purely Hadronic EOS without QCD Phase Transition</title>
+      <link>http://arxiv.org/abs/2607.23195v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gao-Feng Wei, Shuang-Jie Liu, Yu-Liang Zhao, Qi-Jun Zhi, Zhigang Xiao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The nuclear equation of state (EOS) is generally considered to soften in the density range of $2-5$ times the saturation density $ρ_0$. Using a purely hadronic transport model, we calculate the proton directed, sideward, and elliptic flows and their excitation functions in heavy-ion collisions (HICs) at $\sqrt{s_{\rm NN}}=2.4-4.5$~GeV and compare with the HADES, E895, and STAR data. We find that a momentum-dependent mean field with a unified incompressibility $K_0=230$~MeV quantitatively reproduces the experimental proton flows up to 4.3 GeV, at which the maximum density reaches approximately $5ρ_0$. At 4.5 GeV, however, the pure hadronic model fails to reproduce the proton directed and elliptic flow data, providing circumstantial evidence for the onset of partonic degrees of freedom in HICs. Our results provide a hadronic baseline to characterize the high-density nuclear matter and to map the region of hadron-quark phase transition.&lt;/p&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 13:17:21 GMT</pubDate>
+      <guid isPermaLink="false">2607.23195v1</guid>
+      <dc:creator>Gao-Feng Wei</dc:creator>
+      <dc:creator>Shuang-Jie Liu</dc:creator>
+      <dc:creator>Yu-Liang Zhao</dc:creator>
+      <dc:creator>Qi-Jun Zhi</dc:creator>
+      <dc:creator>Zhigang Xiao</dc:creator>
+    </item>
+    <item>
+      <title>Light hadron production measurements with Au+Au Collisions from $\sqrt{s_{NN}} = 3.2$--$4.5$ GeV with STAR</title>
+      <link>http://arxiv.org/abs/2607.22945v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mathias C. Labonté&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One of the main physics goals of the Beam Energy Scan program at RHIC is to study the QCD phase diagram, specifically around the phase transition between the quark-gluon plasma and hadronic matter. Beam Energy Scan Phase-I studied Au+Au collisions from center-of-mass energy ($\sqrt{s_{NN}}$) of 7.7 to 62.4 GeV. Beam Energy Scan Phase-II extended these measurements in several important ways, one of which was the addition of a fixed-target program that pushed the collision energy down to 3.0 GeV (or baryon chemical potential, $μ_B$, up to 720 MeV). Fixed-target collisions at STAR allow for a more extensive scanning of the QCD phase diagram to an important region where the QCD critical point may lie, and to a region dominated by dense baryonic matter. One key measurement in the fixed-target program is the spectrum of the lightest hadrons ($π^{\pm}$, $K^{\pm}$, p) as a function of transverse momentum, rapidity, and collision centrality. From the $p_T$ spectra, a blast-wave model is used to study the temperature at kinetic freeze-out and the surface velocity of the expanding matter. These results provide important input to models of heavy ion collisions at these energies, and can help constrain the equation of state of QCD matter. Here, results are shown for four collision energies in the fixed-target range: $\sqrt{s_{NN}} = 3.2$, 3.5, 3.9, and 4.5 GeV.&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 23:10:54 GMT</pubDate>
+      <guid isPermaLink="false">2607.22945v1</guid>
+      <dc:creator>Mathias C. Labonté</dc:creator>
+    </item>
     <item>
       <title>The future fixed-target program at the CERN SPS</title>
       <link>http://arxiv.org/abs/2607.22328v1</link>
@@ -253,14 +317,6 @@
       <dc:creator>Ethan T. Neil</dc:creator>
     </item>
     <item>
-      <title>Viscous Accretion Disks around Regular Black Holes Embedded in a Quintessence Dark Energy Field: Beyond the Novikov--Thorne Approximation</title>
-      <link>http://arxiv.org/abs/2607.15679v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sandip Dutta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a comprehensive relativistic framework for geometrically thin, optically thick Shakura--Sunyaev $α$-viscous accretion disks around rotating Hayward regular black holes embedded in a quintessence dark energy (DE) field. The static, spherically symmetric building blocks of our spacetime are each exact solutions of the Einstein field equations, sourced respectively by the Hayward non-linear electromagnetic field and a quintessence fluid with equation-of-state parameter $ω&lt;-1/3$; we combine and rotate them following standard practice for this class of models, and we are explicit throughout about the resulting metric's phenomenological status. Abandoning the stress-free inner boundary of the Novikov--Thorne--Page (NTP) model, we analytically incorporate a non-zero viscous torque $\Tcal_{\rm in}$ at the innermost stable circular orbit (ISCO) via the relativistic vertical epicyclic frequency $\Obot(r)$. We prove that the bolometric efficiency $η=[1-E(\rISCO)]\times100\,\%$ is strictly independent of the viscosity parameter $α$ but sensitive to both the Hayward length scale $l$ and the DE density $ρ_0$, establishing a rigorous two-observable degeneracy-breaking strategy. At benchmark parameters ($j=0.4$, $l=0.5M_{\BH}$, $ρ_0=2\times10^{-4}$), the combined geometry yields $η=8.71\,\%$, substantially above the vacuum Kerr value $7.51\,\%$ at the same spin. The viscosity correction $δ\Fcal/\Fcal_{\rm NTP}$ diverges at $r\to\rISCO^+$, amplified by the geometric odification of the boundary pressure: the viscosity amplification ratio rises from $0.80$--$4.52\,\%$ (vacuum Kerr) to $0.87$--$6.76\,\%$ (Hayward+DE) at $α=0.1$, providing a clean, monotonic observational discriminator accessible to \textit{NICER} and \textit{NuSTAR}, independent of the bulk spectral normalisation.&lt;/p&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:43:24 GMT</pubDate>
-      <guid isPermaLink="false">2607.15679v1</guid>
-      <dc:creator>Sandip Dutta</dc:creator>
-    </item>
-    <item>
       <title>Nonequilibrium approach to heavy-quark transport</title>
       <link>http://arxiv.org/abs/2607.15618v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Juhee Hong&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A nonequilibrium Green's function approach to heavy-quark transport is discussed within the framework of the Kadanoff-Baym equation. One- and two-loop self-energy diagrams with hard-thermal-loop resummed propagators are calculated in the real-time formalism. Under the quasiparticle approximation, the kinetic equation reduces to the Boltzmann equation that accounts for elastic scattering and medium-induced gluon emission from a single scattering. Numerical studies suggest that off-shell and memory effects in quark-gluon plasmas influence heavy-quark dynamics, particularly near the critical temperature.&lt;/p&gt;</description>
@@ -482,17 +538,6 @@
       <dc:creator>Gabriele Coci</dc:creator>
       <dc:creator>Salvatore Plumari</dc:creator>
       <dc:creator>Giuseppe Falci</dc:creator>
-    </item>
-    <item>
-      <title>Relativistic Vorticity in the Quark-Gluon Plasma: Generation Symmetries, Explosive Dilution, and Azimuthal Spin Alignment</title>
-      <link>http://arxiv.org/abs/2607.03716v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Malak Ait Tamlihat, Ghizlane Ez-Zobayr, Laurent Schoeffel, Yahya Tayalati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This article provides a self-contained bridge between classical vortex dynamics and the relativistic, subatomic domain of the Quark-Gluon Plasma (QGP) produced in ultra-relativistic heavy-ion collisions. While the QGP is widely studied for its near-perfect fluidity, we focus on its role as the most vortical medium in the Universe ($ω\sim 10^{22}\text{ s}^{-1}$). The originality of our approach lies in isolating the explicit physical competition between non-linear vortex stretching and violent relativistic volumetric dilatation. By solving the covariant transport equations and tracking the comoving enstrophy density, we demonstrate that the explosive kinematics of the QGP provide an innate geometric shield that naturally regularizes the continuous flow, suppressing the self-amplification of vortex tubes before any microscopic viscosity is required. Furthermore, we connect this expansion phase back to the highly non-equilibrium initial state. We quantitatively predict that under a peripheral dipole initial topology, the global mid-rapidity hyperon polarization vanishes ($P_Λ\lesssim 10^{-4}$), establishing that the definitive signature of the QGP's rotation must be sought in azimuthal differential measurements within the LHC and RHIC experimental programs.&lt;/p&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 08:49:34 GMT</pubDate>
-      <guid isPermaLink="false">2607.03716v2</guid>
-      <dc:creator>Malak Ait Tamlihat</dc:creator>
-      <dc:creator>Ghizlane Ez-Zobayr</dc:creator>
-      <dc:creator>Laurent Schoeffel</dc:creator>
-      <dc:creator>Yahya Tayalati</dc:creator>
     </item>
     <item>
       <title>Nonlinear Causality and Strong Hyperbolicity of Einstein-Israel-Stewart Theories of Transient Relativistic Fluid Dynamics</title>
@@ -877,15 +922,6 @@
       <dc:creator>J. Zhang</dc:creator>
     </item>
     <item>
-      <title>Polarized Nucleon as a Topological Dipole</title>
-      <link>http://arxiv.org/abs/2607.03123v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kenji Fukushima, Tomoya Uji&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that a polarized nucleon generically carries a dipole distribution of topological charge density. This topological dipole follows robustly from the definition of the topological form factor and the pseudoscalar nature of the topological charge density. The strength of the topological dipole is fixed, in the chiral limit, by the flavor-singlet axial charge. We demonstrate the mechanism in a two-flavor chiral soliton model with vector mesons and the $U(1)_A$ anomaly, where the rotation of the soliton induces a singlet pseudoscalar profile and realizes the predicted dipole pattern. We also discuss possible experimental probes through exclusive $η$, $η^\prime$ production and directed-flow-like pseudoscalar-meson asymmetries correlated with magnetic fields or vorticity in relativistic heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 09:05:48 GMT</pubDate>
-      <guid isPermaLink="false">2607.03123v1</guid>
-      <dc:creator>Kenji Fukushima</dc:creator>
-      <dc:creator>Tomoya Uji</dc:creator>
-    </item>
-    <item>
       <title>Studying baryon number transport dynamics via hyperon-kaon correlations in $p + \mathrm{Au}$ collisions at $\sqrt{s_{_{\rm NN}}}=20$, $39$ and $62$ GeV</title>
       <link>http://arxiv.org/abs/2607.02867v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Siyuan Ping, Xiaozhou Yu, Long Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The observation of positive net hyperon baryon numbers at mid-rapidity in heavy-ion collisions indicates that baryon numbers from incident nucleons can be transported across a large rapidity gap to hyperons where strange quarks of $s-\bar{s}$ are pair-produced. Consequently, hyperons and kaons are expected to be correlated, providing a sensitive probe of both baryon number transport mechanism and strange quark pair correlation. Such correlation may be used to test the gluon-junction interaction mechanism where a $Y$-shaped gluonic field may carry the baryon number and be responsible for the baryon number transport to hyperons over a large rapidity gap. We present hyperon-kaon correlations as a function of their relative rapidity in $p + \mathrm{Au}$ collisions at $\sqrt{s_{NN}} = 20$, $39$, and $62$ GeV using a multiphase transport ($\texttt{AMPT}$) model and Ultra-relativistic Quantum Molecular Dynamics ($\texttt{UrQMD}$) models where hyperon-kaon pairs are originated from fragmentation scheme. We quantify the correlation function using the Wasserstein distance method and systematically investigate the correlation dependence on the beam energy, hyperon emission direction and detector acceptance. Our simulation results provide a baseline without the baryon junction mechanism for future experimental measurements.&lt;/p&gt;</description>
@@ -903,40 +939,6 @@
       <guid isPermaLink="false">2606.16966v2</guid>
       <dc:creator>Samuel Corey</dc:creator>
       <dc:creator>James Daniel Brandenburg</dc:creator>
-    </item>
-    <item>
-      <title>$Λ$ hyperons in core-collapse supernovae: Equilibration and neutrino opacities</title>
-      <link>http://arxiv.org/abs/2607.02086v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruben Zatini, Jorge Martin Camalich, Pasquale Dario Serpico, Tobias Fischer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strange hadrons are commonly included in dense-matter equation-of-state models by imposing chemical equilibrium, but the weak-interaction timescales required to establish it in core-collapse supernovae have not been systematically assessed. In this paper we compute the $Λ$-hyperon production rates in the hot, dense, and isospin-asymmetric conditions characteristic of post-collapse proto-neutron stars. We find that local $Λ$ chemical equilibration is driven by nonleptonic strangeness-changing reactions, especially $NN\leftrightarrow NΛ$ scattering, on timescales of order $10^{-11}$-$10^{-10}$ s, many orders of magnitude shorter than macroscopic proto-neutron-star evolution timescales. Using an effective-field-theory framework constrained by hypernuclear weak-decay data, we find that short-range contact interactions dominate the nonleptonic rates, beyond a pure one-meson-exchange description. Semileptonic channels are too slow to set the equilibrium $Λ$ abundance, but they open additional absorption channels for low-energy muon neutrinos and antineutrinos, such as $ν_μ+Λ\toμ^-+p$ and $p+μ^-+\barν_μ\toΛ$. At low energies, these $Λ$-induced neutrino opacities exceed the corresponding nucleonic contributions for muon (anti)neutrinos, possibly influencing the evolution of the muon lepton number during proto-neutron-star deleptonization. These results support local chemical equilibrium for $Λ$ hyperons under the conditions studied and provide new weak-interaction input for flavor-dependent neutrino transport, muonization, and proto-neutron-star evolution.&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 12:26:28 GMT</pubDate>
-      <guid isPermaLink="false">2607.02086v1</guid>
-      <dc:creator>Ruben Zatini</dc:creator>
-      <dc:creator>Jorge Martin Camalich</dc:creator>
-      <dc:creator>Pasquale Dario Serpico</dc:creator>
-      <dc:creator>Tobias Fischer</dc:creator>
-    </item>
-    <item>
-      <title>Probing hot QCD medium with heavy quarkonium in small and large collision systems</title>
-      <link>http://arxiv.org/abs/2607.02042v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiamin Liu, Baoyi Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The yield ratios of different heavy quarkonium states serve as sensitive probes of final-state interactions in relativistic nuclear collisions, as they effectively cancel out common cold-nuclear-matter effects. To quantify hot QCD medium effects in small collision systems, such as proton-nucleus collisions, we employ a time-dependent Schrodinger equation framework to consistently simulate the real-time evolution of both bottomonium and charmonium states in the presence of in-medium complex heavy-quark potentials. In $p$-Pb collisions at $\sqrt{s_{\rm NN}}=8.16$ TeV, our model successfully describes the observed suppression in the yield ratios of excited-to-ground states-specifically $Υ(nS)/Υ(1S)$ and $ψ(2S)/J/ψ$-as a function of charged-particle multiplicity. This agreement supports the formation of a transient, hot QCD medium in small systems. Furthermore, the framework is employed to study the ratio of bottomonium nuclear modification factors in $\sqrt{s_{\rm NN}}=5.02$ TeV Pb-Pb collisions, where hot medium effects become stronger. By establishing a unified description across two distinct heavy-quark flavors and different collision systems, our study indicates that the yield ratio of bottomonium states serves as a clean probe of the hot QCD medium generated in small collision systems.&lt;/p&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 11:09:33 GMT</pubDate>
-      <guid isPermaLink="false">2607.02042v1</guid>
-      <dc:creator>Jiamin Liu</dc:creator>
-      <dc:creator>Baoyi Chen</dc:creator>
-    </item>
-    <item>
-      <title>Purifying one-neutron removal as a probe of single-particle strength</title>
-      <link>http://arxiv.org/abs/2607.01078v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Erxi Xiao, Guangshuai Li, Yu Yang, Long Zhu, Jianwei Zhao, Jun Su, Baohua Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One-neutron removal reactions exhibit a strong proton-neutron asymmetry dependence in the inclusive reduction factor $R_s$, a long-standing issue that has been discussed in terms of both possible intrinsic isospin dependence of single-particle strength and reaction-mechanism effects. We address this issue by reframing inclusive removal as a coupled fast-dynamics and deexcitation process, and by validating this transport-deexcitation chain against a global, mutually constraining data set. Confronting 73 one-neutron removal cross sections and 28 residue parallel-momentum distributions with isospin-dependent quantum molecular dynamics followed by GEMINI evaporation shows that the apparent $R_s$-$ΔS$ trend is correlated with evaporation feeding and evaporation loss. By subtracting the feeding contribution and correcting for the loss component in the measured cross sections, we construct a purified reduction factor $R_{\rm dir}$, that more closely reflects single-particle strength than the inclusive $R_s$. The resulting $R_{\rm dir}$ exhibits a much weaker $ΔS$ dependence within current uncertainties, consistent with the weak isospin-asymmetry dependence observed in nucleon-transfer and quasifree-knockout systematics.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 15:37:16 GMT</pubDate>
-      <guid isPermaLink="false">2607.01078v1</guid>
-      <dc:creator>Erxi Xiao</dc:creator>
-      <dc:creator>Guangshuai Li</dc:creator>
-      <dc:creator>Yu Yang</dc:creator>
-      <dc:creator>Long Zhu</dc:creator>
-      <dc:creator>Jianwei Zhao</dc:creator>
-      <dc:creator>Jun Su</dc:creator>
-      <dc:creator>Baohua Sun</dc:creator>
     </item>
     <item>
       <title>Spin Femtoscopy: A Framework for Revealing Genuine Spin Correlations</title>
@@ -1545,261 +1547,6 @@
       <dc:creator>Ze-Fang Jiang</dc:creator>
       <dc:creator>Xiang Fan</dc:creator>
       <dc:creator>Jing Jing</dc:creator>
-    </item>
-    <item>
-      <title>Measurement of energy-level splitting from Charge-Symmetry Breaking in $A$ = 4 mirror hypernuclei</title>
-      <link>http://arxiv.org/abs/2606.06873v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Breaking of fundamental symmetries is a ubiquitous phenomenon in physics, underlying the origin of mass and the emerging structure in the universe. The charge symmetry of $Λ$ hyperon-nucleon interactions can be probed through the difference in the $Λ$ binding energy ($B_Λ$) between mirror hypernuclei. In this paper, the $B_Λ$ of mirror hypernuclei with atomic mass number $A$ = 4, $\rm ^4_ΛH$ and $\rm ^4_ΛHe$, are measured in Au+Au collisions at the center-of-mass energy of $\sqrt{s_{\rm NN}}$ = 3 GeV with the STAR experiment at RHIC. For the ground states, we obtain $B_Λ$($\rm ^4_ΛH$) = 2.24 $\pm$ 0.02 (stat.) $\pm$ 0.04 (syst.) MeV and $B_Λ$($\rm ^4_ΛHe$) = 2.39 $\pm$ 0.05 (stat.) $\pm$ 0.05 (syst.) MeV, yielding a charge-symmetry breaking (CSB) effect at the level of 0.15 $\pm$ 0.05 (stat.) $\pm$ 0.04 (syst.) MeV. In combination with previous measurements of $γ$-ray transitions from their $1^+$ excited states, the CSB in excited states is determined to be $-$0.17 $\pm$ 0.05 (stat.) $\pm$ 0.04 (syst.) MeV. These measurements provide a precise determination of CSB in the hypernuclear system, and establish that the $Λ$ binding energy differences in ground and excited states are comparable in magnitude but opposite in sign, offering new insight to the CSB effect in $Λ$-nucleon interactions.&lt;/p&gt;</description>
-      <pubDate>Fri, 05 Jun 2026 03:40:32 GMT</pubDate>
-      <guid isPermaLink="false">2606.06873v1</guid>
-      <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Hyperon-Nucleon Spectrometer</title>
-      <link>http://arxiv.org/abs/2606.06553v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiaozhi Bai, Xu Cao, Zhe Cao, Jinhui Chen, Kai Chen, Qibo Chen, Shi Chen, Xin Chen, Yuquan Chen, Zhenyu Chen, Jianping Dai, Heng-Tong Ding, Dongshuo Du, Shuxian Du, Limin Duan, Zhe Duan, Anhui Feng, Jie Feng, Yicheng Feng, Jinlin Fu, Xiaofeng Fu, Chaosong Gao, Liang Ge, Wenwen Ge, Lisheng Geng, Boxing Gou, An Gu, Yinghui Guan, Yutian Guan, Aiqiang Guo, Fengkun Guo, Lu Guo, Hao Han, Weijia Han, Yunxiang Hao, Wanbing He, Xionghong He, Zhixuan He, Defu Hou, Tingting Hou, Jinniu Hu, Shouyang Hu, Zhen Hu, Fei Huang, Kaixuan Huang, Linqin Huang, Mei Huang, Xuguang Huang, Yuanjing Ji, Xincai Kang, Jie Kong, Cheng Li, Demin Li, Haibo Li, Jibo Li, Lixuan Li, Min Li, Peilian Li, Peiyu Li, Ronghua Li, Suxian Li, Weilong Li, Wuyuan Li, Xin Li, Xiaomei Li, Xiaqing Li, Yang Li, Yangu Li, Yutie Liang, Zheng Liang, Zuotang Liang, Chuangxin Lin, Dexu Lin, Shoulong Lin, Ting Lin, Bo Liu, Bo-Chao Liu, Feng Liu, Hang Liu, Hongna Liu, Hui Liu, Kai Liu, Liuming Liu, Qian Liu, Tianbo Liu, Tong Liu, Xiang Liu, Yanwen Liu, Pengzhong Lu, Weijian Lu, Xiaofeng Luo, Xiao-Rui Lyu, Bo-Qiang Ma, Jianping Ma, Kuo Ma, Weihu Ma, Yugang Ma, Lijun Mao, Ruishi Mao, Yu Meng, Norihito Muramatsu, Maowu Nie, Xiaoyang Niu, Hua Pei, Ronggang Ping, Shi Pu, Tianlei Pu, Cheng Qian, Wenbin Qian, Yi Qian, Guangyou Qin, Jiajun Qin, Cong-Feng Qiao, Zan Ren, Dingyu Shao, Qianshun She, Diyu Shen, Guodong Shen, Wenhan Shen, Xiaomin Shen, Lina Sheng, Shusu Shi, Jinxing Song, Qintao Song, Yuan Song, Zihe Su, Baohua Sun, Hao Sun, Kai-Jia Sun, Liangting Sun, Peng Sun, Pengfei Sun, Xiangming Sun, Xu Sun, Yelei Sun, Zhipeng Sun, Zhiyu Sun, Shuwen Tang, Zebo Tang, Jing Tian, Ye Tian, Yu Tian, Yapeng Wan, Boqun Wang, Changxin Wang, En Wang, Enke Wang, Haozhen Wang, Hulin Wang, Jiansong Wang, Ling Wang, Qun Wang, Tianao Wang, Xiangang Wang, Xiang-Peng Wang, Xiaoyu Wang, Xinyu Wang, Xiongfei Wang, Xiuhua Wang, Yaping Wang, Shuyi Wei, Xianglun Wei, Xiangjie Wen, Fengjun Wu, Jia-jun Wu, Xin Wu, Bowen Xiao, Le Xiao, Zhigang Xiao, Guannan Xie, Yaping Xie, Hongxi Xing, Weizhi Xiong, Ji Xu, Lailin Xu, Nu Xu, Qinghua Xu, Xiaowei Xu, Junwei Yan, Wenbiao Yan, Wencheng Yan, Xiaoyu Yan, Bo Yang, Chi Yang, Haibo Yang, Herun Yang, Jiancheng Yang, Qian Yang, Shuai Yang, Tongjun Yang, Yadong Yang, Yuansheng Yang, Yuna Yang, Zaochen Ye, Zhihong Ye, Li Yi, Hang Yin, Junhao Yin, Yi Yin, Kejie You, Zhengyun You, Chunxu Yu, Yuhong Yu, Zhaoyang Yuan, Wangmei Zha, Honglin Zhang, Jianyu Zhang, Jin Zhang, Jinlong Zhang, Jinqun Zhang, Shisheng Zhang, Weibin Zhang, Xiang Zhang, Xueheng Zhang, Yapeng Zhang, Yateng Zhang, Yifei Zhang, Yumei Zhang, Yuqiao Zhang, Zhe Zhang, He Zhao, Hongyun Zhao, Lei Zhao, Yuxiang Zhao, Zhengguo Zhao, Yajun Zheng, Yangheng Zheng, Zhiyang Zheng, Daicui Zhou, Jian Zhou, Jiangpeng Zhou, Jing Zhou, Kai Zhou, Xianrong Zhou, Xiaorong Zhou, Yiyu Zhou, Sitao Zhu, Xiao Zhuang, Xinyu Zong, Bingsong Zou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chirality lies at the heart of low-energy QCD, governing the symmetry structure that shapes hadron masses and strong interaction dynamics. Among the most compelling open questions tied to chiral dynamics and spontaneous chiral symmetry breaking is the longstanding $Λ$ polarization puzzle, in which $Λ$ hyperons produced in unpolarized hadronic collisions exhibit a surprisingly large transverse polarization that remains theoretically unexplained. This whitepaper presents the proposal for the Hyperon-Nucleon Spectrometer (H-NS) at the High-Intensity heavy-ion Accelerator Facility (HIAF). Leveraging the high energy and high intensity of HIAF's proton and heavy-ion beams, the H-NS experiment will perform systematic studies of hyperon polarization phenomena and their underlying mechanisms in proton-proton ($pp$), proton-nucleus ($pA$), and nucleus-nucleus ($AA$) collisions in the fixed target mode. A wide-range beam energy scan, including proton beams from 3 GeV up to 9.3 GeV (HIAF) and up to 32 GeV (upgraded HIAF), will be conducted to examine the dependence of polarization on collision energy. The spectrometer is designed with specialized detectors capable of high-precision reconstruction of final-state baryon polarizations. Among its many interesting and important measurements, H-NS will simultaneously measure hyperon and proton spin observables to explore the polarization mechanism in hadronic interactions and the spin structure of baryons. Furthermore, the use of $pA$ and $AA$ collisions will enable detailed investigations of cold and hot nuclear matter effects on spin polarization. Its physics program and detector development will significantly benefit the future Electron-ion Collider in China.&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Jun 2026 09:25:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.06553v1</guid>
-      <dc:creator>Xiaozhi Bai</dc:creator>
-      <dc:creator>Xu Cao</dc:creator>
-      <dc:creator>Zhe Cao</dc:creator>
-      <dc:creator>Jinhui Chen</dc:creator>
-      <dc:creator>Kai Chen</dc:creator>
-      <dc:creator>Qibo Chen</dc:creator>
-      <dc:creator>Shi Chen</dc:creator>
-      <dc:creator>Xin Chen</dc:creator>
-      <dc:creator>Yuquan Chen</dc:creator>
-      <dc:creator>Zhenyu Chen</dc:creator>
-      <dc:creator>Jianping Dai</dc:creator>
-      <dc:creator>Heng-Tong Ding</dc:creator>
-      <dc:creator>Dongshuo Du</dc:creator>
-      <dc:creator>Shuxian Du</dc:creator>
-      <dc:creator>Limin Duan</dc:creator>
-      <dc:creator>Zhe Duan</dc:creator>
-      <dc:creator>Anhui Feng</dc:creator>
-      <dc:creator>Jie Feng</dc:creator>
-      <dc:creator>Yicheng Feng</dc:creator>
-      <dc:creator>Jinlin Fu</dc:creator>
-      <dc:creator>Xiaofeng Fu</dc:creator>
-      <dc:creator>Chaosong Gao</dc:creator>
-      <dc:creator>Liang Ge</dc:creator>
-      <dc:creator>Wenwen Ge</dc:creator>
-      <dc:creator>Lisheng Geng</dc:creator>
-      <dc:creator>Boxing Gou</dc:creator>
-      <dc:creator>An Gu</dc:creator>
-      <dc:creator>Yinghui Guan</dc:creator>
-      <dc:creator>Yutian Guan</dc:creator>
-      <dc:creator>Aiqiang Guo</dc:creator>
-      <dc:creator>Fengkun Guo</dc:creator>
-      <dc:creator>Lu Guo</dc:creator>
-      <dc:creator>Hao Han</dc:creator>
-      <dc:creator>Weijia Han</dc:creator>
-      <dc:creator>Yunxiang Hao</dc:creator>
-      <dc:creator>Wanbing He</dc:creator>
-      <dc:creator>Xionghong He</dc:creator>
-      <dc:creator>Zhixuan He</dc:creator>
-      <dc:creator>Defu Hou</dc:creator>
-      <dc:creator>Tingting Hou</dc:creator>
-      <dc:creator>Jinniu Hu</dc:creator>
-      <dc:creator>Shouyang Hu</dc:creator>
-      <dc:creator>Zhen Hu</dc:creator>
-      <dc:creator>Fei Huang</dc:creator>
-      <dc:creator>Kaixuan Huang</dc:creator>
-      <dc:creator>Linqin Huang</dc:creator>
-      <dc:creator>Mei Huang</dc:creator>
-      <dc:creator>Xuguang Huang</dc:creator>
-      <dc:creator>Yuanjing Ji</dc:creator>
-      <dc:creator>Xincai Kang</dc:creator>
-      <dc:creator>Jie Kong</dc:creator>
-      <dc:creator>Cheng Li</dc:creator>
-      <dc:creator>Demin Li</dc:creator>
-      <dc:creator>Haibo Li</dc:creator>
-      <dc:creator>Jibo Li</dc:creator>
-      <dc:creator>Lixuan Li</dc:creator>
-      <dc:creator>Min Li</dc:creator>
-      <dc:creator>Peilian Li</dc:creator>
-      <dc:creator>Peiyu Li</dc:creator>
-      <dc:creator>Ronghua Li</dc:creator>
-      <dc:creator>Suxian Li</dc:creator>
-      <dc:creator>Weilong Li</dc:creator>
-      <dc:creator>Wuyuan Li</dc:creator>
-      <dc:creator>Xin Li</dc:creator>
-      <dc:creator>Xiaomei Li</dc:creator>
-      <dc:creator>Xiaqing Li</dc:creator>
-      <dc:creator>Yang Li</dc:creator>
-      <dc:creator>Yangu Li</dc:creator>
-      <dc:creator>Yutie Liang</dc:creator>
-      <dc:creator>Zheng Liang</dc:creator>
-      <dc:creator>Zuotang Liang</dc:creator>
-      <dc:creator>Chuangxin Lin</dc:creator>
-      <dc:creator>Dexu Lin</dc:creator>
-      <dc:creator>Shoulong Lin</dc:creator>
-      <dc:creator>Ting Lin</dc:creator>
-      <dc:creator>Bo Liu</dc:creator>
-      <dc:creator>Bo-Chao Liu</dc:creator>
-      <dc:creator>Feng Liu</dc:creator>
-      <dc:creator>Hang Liu</dc:creator>
-      <dc:creator>Hongna Liu</dc:creator>
-      <dc:creator>Hui Liu</dc:creator>
-      <dc:creator>Kai Liu</dc:creator>
-      <dc:creator>Liuming Liu</dc:creator>
-      <dc:creator>Qian Liu</dc:creator>
-      <dc:creator>Tianbo Liu</dc:creator>
-      <dc:creator>Tong Liu</dc:creator>
-      <dc:creator>Xiang Liu</dc:creator>
-      <dc:creator>Yanwen Liu</dc:creator>
-      <dc:creator>Pengzhong Lu</dc:creator>
-      <dc:creator>Weijian Lu</dc:creator>
-      <dc:creator>Xiaofeng Luo</dc:creator>
-      <dc:creator>Xiao-Rui Lyu</dc:creator>
-      <dc:creator>Bo-Qiang Ma</dc:creator>
-      <dc:creator>Jianping Ma</dc:creator>
-      <dc:creator>Kuo Ma</dc:creator>
-      <dc:creator>Weihu Ma</dc:creator>
-      <dc:creator>Yugang Ma</dc:creator>
-      <dc:creator>Lijun Mao</dc:creator>
-      <dc:creator>Ruishi Mao</dc:creator>
-      <dc:creator>Yu Meng</dc:creator>
-      <dc:creator>Norihito Muramatsu</dc:creator>
-      <dc:creator>Maowu Nie</dc:creator>
-      <dc:creator>Xiaoyang Niu</dc:creator>
-      <dc:creator>Hua Pei</dc:creator>
-      <dc:creator>Ronggang Ping</dc:creator>
-      <dc:creator>Shi Pu</dc:creator>
-      <dc:creator>Tianlei Pu</dc:creator>
-      <dc:creator>Cheng Qian</dc:creator>
-      <dc:creator>Wenbin Qian</dc:creator>
-      <dc:creator>Yi Qian</dc:creator>
-      <dc:creator>Guangyou Qin</dc:creator>
-      <dc:creator>Jiajun Qin</dc:creator>
-      <dc:creator>Cong-Feng Qiao</dc:creator>
-      <dc:creator>Zan Ren</dc:creator>
-      <dc:creator>Dingyu Shao</dc:creator>
-      <dc:creator>Qianshun She</dc:creator>
-      <dc:creator>Diyu Shen</dc:creator>
-      <dc:creator>Guodong Shen</dc:creator>
-      <dc:creator>Wenhan Shen</dc:creator>
-      <dc:creator>Xiaomin Shen</dc:creator>
-      <dc:creator>Lina Sheng</dc:creator>
-      <dc:creator>Shusu Shi</dc:creator>
-      <dc:creator>Jinxing Song</dc:creator>
-      <dc:creator>Qintao Song</dc:creator>
-      <dc:creator>Yuan Song</dc:creator>
-      <dc:creator>Zihe Su</dc:creator>
-      <dc:creator>Baohua Sun</dc:creator>
-      <dc:creator>Hao Sun</dc:creator>
-      <dc:creator>Kai-Jia Sun</dc:creator>
-      <dc:creator>Liangting Sun</dc:creator>
-      <dc:creator>Peng Sun</dc:creator>
-      <dc:creator>Pengfei Sun</dc:creator>
-      <dc:creator>Xiangming Sun</dc:creator>
-      <dc:creator>Xu Sun</dc:creator>
-      <dc:creator>Yelei Sun</dc:creator>
-      <dc:creator>Zhipeng Sun</dc:creator>
-      <dc:creator>Zhiyu Sun</dc:creator>
-      <dc:creator>Shuwen Tang</dc:creator>
-      <dc:creator>Zebo Tang</dc:creator>
-      <dc:creator>Jing Tian</dc:creator>
-      <dc:creator>Ye Tian</dc:creator>
-      <dc:creator>Yu Tian</dc:creator>
-      <dc:creator>Yapeng Wan</dc:creator>
-      <dc:creator>Boqun Wang</dc:creator>
-      <dc:creator>Changxin Wang</dc:creator>
-      <dc:creator>En Wang</dc:creator>
-      <dc:creator>Enke Wang</dc:creator>
-      <dc:creator>Haozhen Wang</dc:creator>
-      <dc:creator>Hulin Wang</dc:creator>
-      <dc:creator>Jiansong Wang</dc:creator>
-      <dc:creator>Ling Wang</dc:creator>
-      <dc:creator>Qun Wang</dc:creator>
-      <dc:creator>Tianao Wang</dc:creator>
-      <dc:creator>Xiangang Wang</dc:creator>
-      <dc:creator>Xiang-Peng Wang</dc:creator>
-      <dc:creator>Xiaoyu Wang</dc:creator>
-      <dc:creator>Xinyu Wang</dc:creator>
-      <dc:creator>Xiongfei Wang</dc:creator>
-      <dc:creator>Xiuhua Wang</dc:creator>
-      <dc:creator>Yaping Wang</dc:creator>
-      <dc:creator>Shuyi Wei</dc:creator>
-      <dc:creator>Xianglun Wei</dc:creator>
-      <dc:creator>Xiangjie Wen</dc:creator>
-      <dc:creator>Fengjun Wu</dc:creator>
-      <dc:creator>Jia-jun Wu</dc:creator>
-      <dc:creator>Xin Wu</dc:creator>
-      <dc:creator>Bowen Xiao</dc:creator>
-      <dc:creator>Le Xiao</dc:creator>
-      <dc:creator>Zhigang Xiao</dc:creator>
-      <dc:creator>Guannan Xie</dc:creator>
-      <dc:creator>Yaping Xie</dc:creator>
-      <dc:creator>Hongxi Xing</dc:creator>
-      <dc:creator>Weizhi Xiong</dc:creator>
-      <dc:creator>Ji Xu</dc:creator>
-      <dc:creator>Lailin Xu</dc:creator>
-      <dc:creator>Nu Xu</dc:creator>
-      <dc:creator>Qinghua Xu</dc:creator>
-      <dc:creator>Xiaowei Xu</dc:creator>
-      <dc:creator>Junwei Yan</dc:creator>
-      <dc:creator>Wenbiao Yan</dc:creator>
-      <dc:creator>Wencheng Yan</dc:creator>
-      <dc:creator>Xiaoyu Yan</dc:creator>
-      <dc:creator>Bo Yang</dc:creator>
-      <dc:creator>Chi Yang</dc:creator>
-      <dc:creator>Haibo Yang</dc:creator>
-      <dc:creator>Herun Yang</dc:creator>
-      <dc:creator>Jiancheng Yang</dc:creator>
-      <dc:creator>Qian Yang</dc:creator>
-      <dc:creator>Shuai Yang</dc:creator>
-      <dc:creator>Tongjun Yang</dc:creator>
-      <dc:creator>Yadong Yang</dc:creator>
-      <dc:creator>Yuansheng Yang</dc:creator>
-      <dc:creator>Yuna Yang</dc:creator>
-      <dc:creator>Zaochen Ye</dc:creator>
-      <dc:creator>Zhihong Ye</dc:creator>
-      <dc:creator>Li Yi</dc:creator>
-      <dc:creator>Hang Yin</dc:creator>
-      <dc:creator>Junhao Yin</dc:creator>
-      <dc:creator>Yi Yin</dc:creator>
-      <dc:creator>Kejie You</dc:creator>
-      <dc:creator>Zhengyun You</dc:creator>
-      <dc:creator>Chunxu Yu</dc:creator>
-      <dc:creator>Yuhong Yu</dc:creator>
-      <dc:creator>Zhaoyang Yuan</dc:creator>
-      <dc:creator>Wangmei Zha</dc:creator>
-      <dc:creator>Honglin Zhang</dc:creator>
-      <dc:creator>Jianyu Zhang</dc:creator>
-      <dc:creator>Jin Zhang</dc:creator>
-      <dc:creator>Jinlong Zhang</dc:creator>
-      <dc:creator>Jinqun Zhang</dc:creator>
-      <dc:creator>Shisheng Zhang</dc:creator>
-      <dc:creator>Weibin Zhang</dc:creator>
-      <dc:creator>Xiang Zhang</dc:creator>
-      <dc:creator>Xueheng Zhang</dc:creator>
-      <dc:creator>Yapeng Zhang</dc:creator>
-      <dc:creator>Yateng Zhang</dc:creator>
-      <dc:creator>Yifei Zhang</dc:creator>
-      <dc:creator>Yumei Zhang</dc:creator>
-      <dc:creator>Yuqiao Zhang</dc:creator>
-      <dc:creator>Zhe Zhang</dc:creator>
-      <dc:creator>He Zhao</dc:creator>
-      <dc:creator>Hongyun Zhao</dc:creator>
-      <dc:creator>Lei Zhao</dc:creator>
-      <dc:creator>Yuxiang Zhao</dc:creator>
-      <dc:creator>Zhengguo Zhao</dc:creator>
-      <dc:creator>Yajun Zheng</dc:creator>
-      <dc:creator>Yangheng Zheng</dc:creator>
-      <dc:creator>Zhiyang Zheng</dc:creator>
-      <dc:creator>Daicui Zhou</dc:creator>
-      <dc:creator>Jian Zhou</dc:creator>
-      <dc:creator>Jiangpeng Zhou</dc:creator>
-      <dc:creator>Jing Zhou</dc:creator>
-      <dc:creator>Kai Zhou</dc:creator>
-      <dc:creator>Xianrong Zhou</dc:creator>
-      <dc:creator>Xiaorong Zhou</dc:creator>
-      <dc:creator>Yiyu Zhou</dc:creator>
-      <dc:creator>Sitao Zhu</dc:creator>
-      <dc:creator>Xiao Zhuang</dc:creator>
-      <dc:creator>Xinyu Zong</dc:creator>
-      <dc:creator>Bingsong Zou</dc:creator>
     </item>
   </channel>
 </rss>

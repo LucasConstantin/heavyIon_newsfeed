@@ -5,9 +5,73 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:28:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Interaction fingerprints in temperature-fluctuation cumulants from the QCD crossover to nuclear liquid-gas criticality</title>
+      <link>http://arxiv.org/abs/2607.24616v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Debasish Mallick&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Temperature fluctuations of the matter produced in relativistic heavy-ion collisions are related to event-by-event fluctuations of the mean transverse momentum and, through the specific heat, to the QCD equation of state. We calculate the temperature-fluctuation cumulants $c_2$, $c_3$, and $c_4$ in the ideal hadron resonance gas (HRG), in an excluded-volume HRG consistent with lattice QCD constraints on baryon repulsion, and in a van der Waals HRG that reproduces the nuclear ground state. At zero baryon density all three models agree with lattice QCD thermodynamics up to the chiral crossover and separate above it. Along the chemical freeze-out curve the models remain close for $\sqrt{s_{NN}} \gtrsim 20$ GeV and separate strongly at lower energies, where baryonic interactions dominate the thermal response. In the van der Waals model the variance $c_2$ develops a minimum along the Widom line of the nuclear liquid-gas transition and $c_3$ changes sign across it. Temperature cumulants thus connect mean-transverse-momentum fluctuations to thermodynamic structures in two regions of the QCD phase diagram.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 16:14:39 GMT</pubDate>
+      <guid isPermaLink="false">2607.24616v1</guid>
+      <dc:creator>Debasish Mallick</dc:creator>
+    </item>
+    <item>
+      <title>Study the Longitudinal Entropy Deposition using d+Au Collision</title>
+      <link>http://arxiv.org/abs/2607.24153v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhu Meng, Weiyao Ke, Long-Gang Pang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic hydrodynamics successfully describes bulk observables in symmetric heavy-ion collisions, but struggles to reproduce charged-particle rapidity distributions in asymmetric systems such as d+Au collisions. To address this challenge, we introduce two key improvements to the initial-state modeling: sampling deuteron configurations from an ab initio wavefunction, and developing a new longitudinal entropy deposition model that incorporates a transverse entropy deposition coefficient $β$ and a rapidity loss term scaling with the number of binary collisions $n_{\rm BC}$. Using the (3+1)-dimensional viscous hydrodynamic model CLVisc coupled with the SMASH afterburner, we simulate d+Au collisions at $\sqrt{s_{\rm NN}} = 200$ GeV and successfully reproduce the experimental charged-particle pseudorapidity distributions across five centrality classes with $β= 0.35$, as well as the transverse momentum spectra and anisotropic flow $v_n$. The entropy deposition coefficient $β$ and the $n_{\rm BC}$-dependent rapidity loss are found to play crucial roles in achieving this agreement. Furthermore, this longitudinal entropy deposition framework demonstrates excellent universality, as validated in p+Au, $^3$He+Au, and Au+Au collisions. Our entropy deposition mechanism could be widely applied to recent light-nucleus collisions such as O+O, Ne+Ne, and asymmetric systems like Pb+Ne at LHC energies, thereby better constraining the nuclear structure of light nuclei through an improved longitudinal description.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 08:32:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.24153v1</guid>
+      <dc:creator>Zhu Meng</dc:creator>
+      <dc:creator>Weiyao Ke</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+    </item>
+    <item>
+      <title>Systematic Parameter Optimization of Quantum Molecular Dynamics Models for Hadron Therapy Using Multi-Ion Fragmentation Data</title>
+      <link>http://arxiv.org/abs/2607.24034v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Akihiro Haga, Yoshi-hide Sato, Daiyu Fujiwara, Dousatsu Sakata, Yuki Tominaga, David Bolst, Edward C. Simpson, Susanna Guatelli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quantum molecular dynamics (QMD) models are widely used to simulate nuclear fragmentation in hadron therapy, but their predictive accuracy depends strongly on parameters that are often selected empirically. We developed an optimized QMD framework by systematically calibrating three parameters for a relativistic mean-field model with the NS2 parameter set and Skyrme models with the SLy4 and SkM* parameter sets: the wave-packet width L, maximum evolution time Tm, and impact-parameter envelope factor benv. The wave-packet width was determined from experimental charge radii, whereas Tm and benv were parameterized as functions of incident kinetic energy and reaction-system mass and optimized using proton- and heavy-ion-induced fragmentation data over 30-400 MeV/u. Performance was compared with the original LiQMD, Binary Cascade, and Liege Intranuclear Cascade models. The optimized Tm depended strongly on incident energy but only weakly on system mass, indicating that the transition from the dynamical QMD stage to statistical de-excitation is governed mainly by collision energy. In contrast, benv showed model-dependent behavior: NS2 favored larger peripheral-collision contributions for lighter systems at low energies, whereas the Skyrme models showed relatively weak energy and mass dependence. The optimized parameterizations improved agreement with experimental fragment production cross sections, angular distributions, and energy distributions. The optimized Skyrme models achieved the best overall performance and outperformed the cascade models for most datasets. This framework provides a physically consistent description of nuclear fragmentation across multiple observables and may improve calculations of secondary-particle transport, dose deposition, and linear energy transfer in hadron therapy.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 06:14:22 GMT</pubDate>
+      <guid isPermaLink="false">2607.24034v1</guid>
+      <dc:creator>Akihiro Haga</dc:creator>
+      <dc:creator>Yoshi-hide Sato</dc:creator>
+      <dc:creator>Daiyu Fujiwara</dc:creator>
+      <dc:creator>Dousatsu Sakata</dc:creator>
+      <dc:creator>Yuki Tominaga</dc:creator>
+      <dc:creator>David Bolst</dc:creator>
+      <dc:creator>Edward C. Simpson</dc:creator>
+      <dc:creator>Susanna Guatelli</dc:creator>
+    </item>
+    <item>
+      <title>$^{15}$C inelastic $1/2^+ \rightarrow 5/2^+$ excitation: A single-particle versus a collective process</title>
+      <link>http://arxiv.org/abs/2607.23291v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; C. Beckman, M. Catacora-Rios, C. Hebborn, F. M. Nunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Background: The excitation of one-neutron halo nucleus $^{15}$C from the $1/2^+$ ground state to the $5/2^+$ first excited state was measured at Argonne National Laboratory by impinging $^{15}$C on a deuterated target at $7.1 A$ MeV. This data was then analyzed in the Distorted Wave Born Approximation using a rigid rotor model for the excitation. Purpose: Being a one-neutron halo, we expect a single-particle excitation to better represent the excitation of $^{15}$C rather than a collective process. We expect the breakup of $^{15}$C to influence the reaction mechanisms because of the low one-neutron separation threshold, which is close in energy to $^{15}$C's first excited state. The goal of this work is to explore various the reaction mechanisms to reinterpret the data of Ref.[1] for the inelastic excitation of $^{15}$C. Method: We solve the scattering problem assuming a three-body model $^{14}$C$+n+d$. We use the Continuum Discretized Coupled Channel method (CDCC) and compare the results with those obtained assuming 1-step DWBA with quadrupole deformation, as done in the original experimental analysis. We also use Bayesian uncertainty quantification to estimate the uncertainties in our predictions coming from the $n$-$d$ interaction. Results: We analyze both the elastic and inelastic angular distributions for $^{15}$C(d,d')$^{15}\text{C}^*$ at $7.1 A$ MeV. Our results show that $^{15}$C breakup effects are important. Conclusions: While CDCC predicts the elastic angular distribution correctly, it is not able to fully describe the experimental inelastic angular distribution. We discuss additional effects that may be responsible for the remaining discrepancy.&lt;/p&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 17:02:54 GMT</pubDate>
+      <guid isPermaLink="false">2607.23291v1</guid>
+      <dc:creator>C. Beckman</dc:creator>
+      <dc:creator>M. Catacora-Rios</dc:creator>
+      <dc:creator>C. Hebborn</dc:creator>
+      <dc:creator>F. M. Nunes</dc:creator>
+    </item>
+    <item>
+      <title>Proton Collectivity in Au+Au Collisions at $\sqrt{s_{\rm NN}}=2.4-4.5$~GeV from a Unified Purely Hadronic EOS without QCD Phase Transition</title>
+      <link>http://arxiv.org/abs/2607.23195v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gao-Feng Wei, Shuang-Jie Liu, Yu-Liang Zhao, Qi-Jun Zhi, Zhigang Xiao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The nuclear equation of state (EOS) is generally considered to soften in the density range of $2-5$ times the saturation density $ρ_0$. Using a purely hadronic transport model, we calculate the proton directed, sideward, and elliptic flows and their excitation functions in heavy-ion collisions (HICs) at $\sqrt{s_{\rm NN}}=2.4-4.5$~GeV and compare with the HADES, E895, and STAR data. We find that a momentum-dependent mean field with a unified incompressibility $K_0=230$~MeV quantitatively reproduces the experimental proton flows up to 4.3 GeV, at which the maximum density reaches approximately $5ρ_0$. At 4.5 GeV, however, the pure hadronic model fails to reproduce the proton directed and elliptic flow data, providing circumstantial evidence for the onset of partonic degrees of freedom in HICs. Our results provide a hadronic baseline to characterize the high-density nuclear matter and to map the region of hadron-quark phase transition.&lt;/p&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 13:17:21 GMT</pubDate>
+      <guid isPermaLink="false">2607.23195v1</guid>
+      <dc:creator>Gao-Feng Wei</dc:creator>
+      <dc:creator>Shuang-Jie Liu</dc:creator>
+      <dc:creator>Yu-Liang Zhao</dc:creator>
+      <dc:creator>Qi-Jun Zhi</dc:creator>
+      <dc:creator>Zhigang Xiao</dc:creator>
+    </item>
+    <item>
+      <title>Light hadron production measurements with Au+Au Collisions from $\sqrt{s_{NN}} = 3.2$--$4.5$ GeV with STAR</title>
+      <link>http://arxiv.org/abs/2607.22945v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mathias C. Labonté&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One of the main physics goals of the Beam Energy Scan program at RHIC is to study the QCD phase diagram, specifically around the phase transition between the quark-gluon plasma and hadronic matter. Beam Energy Scan Phase-I studied Au+Au collisions from center-of-mass energy ($\sqrt{s_{NN}}$) of 7.7 to 62.4 GeV. Beam Energy Scan Phase-II extended these measurements in several important ways, one of which was the addition of a fixed-target program that pushed the collision energy down to 3.0 GeV (or baryon chemical potential, $μ_B$, up to 720 MeV). Fixed-target collisions at STAR allow for a more extensive scanning of the QCD phase diagram to an important region where the QCD critical point may lie, and to a region dominated by dense baryonic matter. One key measurement in the fixed-target program is the spectrum of the lightest hadrons ($π^{\pm}$, $K^{\pm}$, p) as a function of transverse momentum, rapidity, and collision centrality. From the $p_T$ spectra, a blast-wave model is used to study the temperature at kinetic freeze-out and the surface velocity of the expanding matter. These results provide important input to models of heavy ion collisions at these energies, and can help constrain the equation of state of QCD matter. Here, results are shown for four collision energies in the fixed-target range: $\sqrt{s_{NN}} = 3.2$, 3.5, 3.9, and 4.5 GeV.&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 23:10:54 GMT</pubDate>
+      <guid isPermaLink="false">2607.22945v1</guid>
+      <dc:creator>Mathias C. Labonté</dc:creator>
+    </item>
     <item>
       <title>The future fixed-target program at the CERN SPS</title>
       <link>http://arxiv.org/abs/2607.22328v1</link>
@@ -90,29 +154,6 @@
       <dc:creator>Bao-wei Ding</dc:creator>
       <dc:creator>Bi-tao Hu</dc:creator>
       <dc:creator>Xi-yu Qiu</dc:creator>
-    </item>
-    <item>
-      <title>Temperature fluctuations in a realistic Polyakov-loop extended Nambu--Jona-Lasinio Model along the freeze-out line</title>
-      <link>http://arxiv.org/abs/2607.19275v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; He Liu, Peng Wu, Hong-Ming Liu, Peng-Cheng Chu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We extend and reparameterize the Polyakov--Nambu--Jona-Lasinio (PNJL) model to reproduce lattice simulation data at zero baryon chemical potential and to position its critical endpoint (CEP) within the BES-II experimental energy range. Using this realistic PNJL model, we investigate the behavior of the second-order temperature cumulant $C_2$ along the freeze-out line, aiming to understand the non-monotonic energy dependence of the two-particle transverse momentum correlation $C_{p_T}$ observed by the STAR Collaboration. Our results show a distinct dip structure in $C_2$ near the CEP and the first-order phase boundary on the phase diagram. Along the experimentally extracted freeze-out line, the dip minimum occurs around 7.7 GeV, and its trend is consistent with that observed by STAR, suggesting that the non-monotonic dependence of $C_{p_T}$ may be related to the CEP. Our results also indicate that cumulant ratios such as $C_3/C_2^2$ or $C_4/C_2^3$ eliminate the influence of initial volume fluctuations and may better reveal the underlying critical fluctuations. Further verification could be pursued through hydrodynamic or transport simulations that incorporate critical dynamics. These results and predictions might provide an a priori theoretical basis for future experimental measurements of higher-order event-mean transverse momentum fluctuations.&lt;/p&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 16:47:01 GMT</pubDate>
-      <guid isPermaLink="false">2607.19275v1</guid>
-      <dc:creator>He Liu</dc:creator>
-      <dc:creator>Peng Wu</dc:creator>
-      <dc:creator>Hong-Ming Liu</dc:creator>
-      <dc:creator>Peng-Cheng Chu</dc:creator>
-    </item>
-    <item>
-      <title>Nonlinear collective flow reveals the breakdown of quadrupole--hexadecapole scaling in heavy ion collisions</title>
-      <link>http://arxiv.org/abs/2607.18752v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hadi Mehrabpour, Zahra Sheibani, Li Yan, Chunjian Zhang, Abolfazl Mirjalili&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Determining the role of intrinsic hexadecapole deformation ($β_4$) in nuclear structure remains a long-standing challenge. Relativistic heavy-ion collisions provide a unique opportunity to address this problem by converting the initial nuclear geometry into the collective motion of the quark--gluon plasma (QGP). Using event-by-event viscous hydrodynamic simulations of ultra-central $^{238}$U+$^{238}$U collisions at $\sqrt{s_{NN}}=193$ GeV, we investigate whether higher-order collective flow can isolate the contribution of $β_4$ and test the $β_2-β_4$ correlation. We demonstrate that information carried by the sign of $β_4$ survives the QGP evolution and is enhanced through nonlinear hydrodynamic response: the fourth-order flow harmonic acquires its topology dependence predominantly from the linear response, whereas the sensitivity of the sixth-order harmonic originates almost entirely from nonlinear mode coupling. As a consequence, the nonlinear response coefficient $ξ_{6,222}$ cleanly separates the $(β_2,β_4)$ intrinsic nuclear topologies. These results establish the sign of $β_4$ as an experimentally accessible signature of deviations from the quadrupole--hexadecapole correlation, demonstrating that higher-order collective flow provides a direct probe of nuclear multipole structure while revealing how nonlinear QGP dynamics encode subtle higher-order geometric information into final-state observables.&lt;/p&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 06:19:16 GMT</pubDate>
-      <guid isPermaLink="false">2607.18752v1</guid>
-      <dc:creator>Hadi Mehrabpour</dc:creator>
-      <dc:creator>Zahra Sheibani</dc:creator>
-      <dc:creator>Li Yan</dc:creator>
-      <dc:creator>Chunjian Zhang</dc:creator>
-      <dc:creator>Abolfazl Mirjalili</dc:creator>
     </item>
   </channel>
 </rss>
