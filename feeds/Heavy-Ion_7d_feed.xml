@@ -5,9 +5,64 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:29:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Nuclear matter equation of state and astrophysics</title>
+      <link>http://arxiv.org/abs/2607.25854v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mateus Reinke Pelicer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neutron-star masses, radii, and inspiral tidal deformabilities now provide quantitative constraints on the cold equation of state (\eos), favoring relatively soft matter around one to two times nuclear saturation density and substantial stiffening at larger density. These bulk constraints, however, do not uniquely determine the microscopic composition of the stellar core. Hyperons, deconfined quarks, quarkyonic matter, and strong first-order phase transitions remain viable possibilities. This article summarizes the present multimessenger status and emphasizes the next challenge---a unified description of strongly interacting matter across catalyzed neutron stars, binary mergers, and heavy-ion collisions. Recent results presented at SQM2026, including new constraints on hyperon interactions and advances in multidimensional equation-of-state modeling, highlight the complementary experimental and theoretical inputs required for this program. The MUSES Calculation Engine provides modular software infrastructure for connecting these inputs to astrophysical and heavy-ion applications.&lt;/p&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 15:26:03 GMT</pubDate>
+      <guid isPermaLink="false">2607.25854v1</guid>
+      <dc:creator>Mateus Reinke Pelicer</dc:creator>
+    </item>
+    <item>
+      <title>Path-length dependence of parton energy loss across collision systems: a Bayesian analysis of charged-particle RAA, consistent with a universal exponent from O+O to Pb+Pb</title>
+      <link>http://arxiv.org/abs/2607.25727v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fouad A. Majeed, Hussein Ali Hussein Al Naffakh, Sarah M. Obaid, Muntaha Abdullah Reishaan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How parton energy loss in the quark-gluon plasma (QGP) scales with the in-medium path length $L$ encodes the mechanism: collisional ($ΔE \propto L$), radiative ($ΔE \propto L^2$), or strong-coupling ($ΔE \propto L^3$). Exploiting the new CERN LHC light-ion data, we extract this scaling from the system size itself, jointly analysing CMS charged-particle nuclear modification factors $R_{AA}$ in four systems - O+O, Ne+Ne, Xe+Xe and Pb+Pb - spanning mass number $A = 16$ to $208$. A Bayesian analysis with a data-driven spectral baseline and a Monte-Carlo Glauber geometry yields an effective system-size exponent $n = 1.78 \pm 0.15\,\mathrm{(stat)} \pm 0.05\,\mathrm{(syst)}$. Nested-sampling model selection decisively favours an effective exponent near the radiative value ($n = 2$) over the collisional ($n = 1$) and strong-coupling ($n = 3$) values, a conclusion stable across all 160 analysis variants. Because fluctuations can only lower the effective exponent below its microscopic counterpart, the measurement bounds the latter from below at fixed geometry, excluding purely collisional energy loss. The medium density and the path length are degenerate across system size, so we quote the effective exponent as our primary result. A Bayes-factor test finds no change of regime between small and large systems, consistent with a universal exponent; the same framework gives decisive evidence for non-zero energy loss in O+O alone, quantifying the onset of suppression in the smallest system. The energy-loss magnitude corresponds to $\hat{q}/T^3 \approx 2$--$5$, consistent with the JETSCAPE determination.&lt;/p&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 13:50:58 GMT</pubDate>
+      <guid isPermaLink="false">2607.25727v1</guid>
+      <dc:creator>Fouad A. Majeed</dc:creator>
+      <dc:creator>Hussein Ali Hussein Al Naffakh</dc:creator>
+      <dc:creator>Sarah M. Obaid</dc:creator>
+      <dc:creator>Muntaha Abdullah Reishaan</dc:creator>
+    </item>
+    <item>
+      <title>String theory mathematics and matrix data analysis</title>
+      <link>http://arxiv.org/abs/2607.25500v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanjaye Ramgoolam&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Inspired by matrix techniques in quantum field theory and string theory, we review Permutation Invariant Gaussian Matrix Models (PIGMM), which replace the continuous symmetries of traditional Random Matrix Theory, for $ N \times N$ matrices, with finite permutation symmetry, $S_N$. This symmetry-driven approach reduces highly multivariate $N^2$-variable matrix data analysis problems to a rich but tractable space of parameters. The representation theory of $S_N$ brings a highly correlated quadratic matrix action to a near-diagonal form with $13$ parameters. The invariant observables are parameterised by graphs and their expectation values are computed with Wick contractions implemented algorithmically. We review the successful application of PIGMM for data reduction and anomaly detection in computational linguistics, statistical finance and neural network weights. We conclude with a brief discussion of potential future applications to matrix data analysis tasks that exploit hadronization algorithms and the modular structure of collider-physics data.&lt;/p&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 09:36:39 GMT</pubDate>
+      <guid isPermaLink="false">2607.25500v1</guid>
+      <dc:creator>Sanjaye Ramgoolam</dc:creator>
+    </item>
+    <item>
+      <title>Analytic and Approximate Solutions to Color Glass Condensate in the Classical Weak-Field Limit</title>
+      <link>http://arxiv.org/abs/2607.25137v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Robicheaux, R. J. Fries&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We discuss two-point functions and the energy momentum tensor of the classical gluon field after the collision of sheets of color charges on the light cone in the weak-field limit. The classical fields created by such a setup is thought to approximate the behavior of the gluon matter created right after the collision of heavy nuclei at large energies. Our discussion is based on a general expression for the gluon distribution in a nucleus, which contains the McLerran-Venugopalan (MV) Model as a special case. We derive the time-dependence of the energy momentum tensor in this general scenario. We show that the large-time behavior is universal, i.e.\ independent of the specific model for the gluon distribution, e.g.\ for energy density, transverse pressure and longitudinal pressure $ε, P_T \sim 1/τ$ and $P_L \sim 1/τ^3$, where $τ$ is longitudinal proper time.
+  Subsequently, we focus on two special cases, the MV model and a proposed improved Gaussian (iG) model with improved ultraviolet (UV) and infrared (IR) behavior, the latter inspired by earlier work by Lam and Mahlon. We explicitly discuss the time dependence of the energy momentum tensor in both models. In the case of the MV-model, for infinite colliding nuclei, it is possible to give closed-formed analytic solutions for the energy momentum tensor in terms of special functions. Components of the energy momentum tensor take the form $\sim C (mτ)^{-n} H(mτ)$, where $n$ is an integer power, $m$ is the infrared cutoff, $H$ is a linear combination of Meijer-G functions with constant asymptotic value, and $C$ is a known constant. For the iG-model, we obtain reliable series expansions for both small and large times and show that the MV-model is recovered qualitatively in the UV limit. We briefly comment on implications for the angular momentum carried by the gluon field.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 23:09:18 GMT</pubDate>
+      <guid isPermaLink="false">2607.25137v1</guid>
+      <dc:creator>S. Robicheaux</dc:creator>
+      <dc:creator>R. J. Fries</dc:creator>
+    </item>
+    <item>
+      <title>Few-gluon interactions and multipole radiation in high energy nuclear collisions</title>
+      <link>http://arxiv.org/abs/2607.25017v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Thomas A. Trainor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Broad claims have been made over years about achievement of quark-gluon plasma (QGP) formation in high-energy heavy-ion collisions based on certain phenomena anticipated for QGP formation. More recently, similar phenomena have appeared in smaller collision systems. In response, the original narrative associated with QGP formation has been altered, with introduction of novel concepts such as ``QGP droplets'' appearing even in p-p collisions. In contrast, alternative research has revealed novel aspects of p-p and p-Pb collisions such as exclusivity for N-N interactions and consequences of time dilation for interacting partons. Collision geometry for A-B collisions has also been shifted from conventional Glauber Monte Carlo simulations (strongly biased) to inversion of ensemble-mean $\bar p_t$ data. The present study demonstrates that jet production dominates all aspects of $p_t$ spectrum structure and minimum-bias angular correlations over the full $p_t$ range of accessible data. Recently, progress has been made on interpretation of azimuth quadrupole ($v_2$) data, reexpressed in terms of total correlated-pair number as an extensive measure, leading to inference of quadrupole $m_t$ spectra and quadrupole amplitude variation across all A-B collision systems that show strong indication of the effects of exclusivity. The same approach applied to jet angular correlations shows similar trends. A comprehensive quantitative description of the two QCD phenomena across all collision systems has emerged. The underlying processes are few-gluon interactions producing characteristic correlation structures corresponding to color-dipole (two-gluon, dijet) and color-quadrupole (three-gluon) radiation. That description does not rely on any role for a dense medium, multiple scattering, QGP droplets or hydro theory. It applies the same rules uniformly to small and large collision systems.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 19:17:46 GMT</pubDate>
+      <guid isPermaLink="false">2607.25017v1</guid>
+      <dc:creator>Thomas A. Trainor</dc:creator>
+    </item>
+    <item>
+      <title>Beyond leading-logarithm photon production from two-loop diagrams in a hot QCD medium</title>
+      <link>http://arxiv.org/abs/2607.24950v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sumit, Ritesh Ghosh, Munshi G. Mustafa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate high-energy photon production from a quark-gluon plasma by evaluating the imaginary part of the two-loop photon self-energies in thermal QCD. Working within the imaginary-time formalism, we derive analytical expressions for both the leading-logarithmic and the beyond-leading-logarithmic contributions to the photon production rate. The rates obtained within the thermal field theoretical framework agree with those derived from kinetic theory calculations for the relevant photon-production processes.&lt;/p&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 18:02:05 GMT</pubDate>
+      <guid isPermaLink="false">2607.24950v1</guid>
+      <dc:creator>Sumit</dc:creator>
+      <dc:creator>Ritesh Ghosh</dc:creator>
+      <dc:creator>Munshi G. Mustafa</dc:creator>
+    </item>
     <item>
       <title>Interaction fingerprints in temperature-fluctuation cumulants from the QCD crossover to nuclear liquid-gas criticality</title>
       <link>http://arxiv.org/abs/2607.24616v1</link>
@@ -141,19 +196,6 @@
       <guid isPermaLink="false">2607.20971v1</guid>
       <dc:creator>Ekata Nandy</dc:creator>
       <dc:creator>Subhasis Chattopadhyay</dc:creator>
-    </item>
-    <item>
-      <title>Charge-Exchange Reactions Accompanied by a Single $π^+$ Production in Medium-Energy Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2607.19924v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-lei Chen, Jin-yu Yang, Shi-kang Dong, Bao-wei Ding, Bi-tao Hu, Xi-yu Qiu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Heavy-ion charge-exchange (CE) reactions provide a sensitive probe of isospin dynamics in nuclear collisions. We investigate the reaction $^{12}\mathrm{C}(^{12}\mathrm{C},\,^{12}\mathrm{N}\,π^{+})\,^{12}\mathrm{Be}$ at 400--600 A MeV within the ultra-relativistic quantum molecular dynamics model combined with a phase-space coalescence approach. This reaction represents a nontrivial CE channel accompanied by a single $π^+$ production in heavy-ion collisions, extending previous studies from lepton-induced to hadronic systems. The $^{12}\mathrm{N}$ fragment is formed via nucleon and meson exchange, whereas $π^+$ production is primarily governed by $Δ$ resonance excitation and decay, enabling simultaneous investigations of CE processes and $Δ$-induced pion production within the same reaction system. We calculate the reaction cross section and analyze the four-momentum distributions of $^{12}\mathrm{N}$ and $π^+$. Characteristic phase-space features reflect different production mechanisms and provide guidance for future experimental designs. Additionally, this reaction may serve as a potential pathway for rare-isotope production.&lt;/p&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 08:58:34 GMT</pubDate>
-      <guid isPermaLink="false">2607.19924v1</guid>
-      <dc:creator>Xiao-lei Chen</dc:creator>
-      <dc:creator>Jin-yu Yang</dc:creator>
-      <dc:creator>Shi-kang Dong</dc:creator>
-      <dc:creator>Bao-wei Ding</dc:creator>
-      <dc:creator>Bi-tao Hu</dc:creator>
-      <dc:creator>Xi-yu Qiu</dc:creator>
     </item>
   </channel>
 </rss>
