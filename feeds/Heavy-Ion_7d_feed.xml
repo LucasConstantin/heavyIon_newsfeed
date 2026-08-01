@@ -5,9 +5,52 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:33:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:32:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Probing (Hyper)Nuclei Wave Functions and Production Mechanisms in $\sqrt{s_{\rm{NN}}}=200$ GeV Isobar Collisions at RHIC</title>
+      <link>http://arxiv.org/abs/2607.28113v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The study of nuclei and hypernuclei production is a powerful tool to investigate the formation mechanism of loosely bound states in high-energy heavy-ion collisions. A key prediction from coalescence models is a strong suppression of the hypertriton (${}^{3}_Λ\rm{H}$) compared to ${}^{3}\rm{He}$ production in small collision systems due to the larger radius of ${}^{3}_Λ\rm{H}$. In this letter, the STAR collaboration reports measurements on (hyper)nuclei ($^{3}_Λ\rm{H}, {}^{3}_{\barΛ}\rm{\bar{H}}, {}^{3}\rm{He}, {}^{3}\rm{\overline{He}}, t$) production at mid-rapidity in Ru+Ru and Zr+Zr collisions at $\sqrt{s_{\rm{NN}}}=200$ GeV as a function of collision centrality. We find that the ratios $N_{t}N_{p}/N_{d}^{2}$ and $S_{3} =(N_{{}^{3}_Λ\rm{H}}/N_{{}^{3}_{}\rm{He}})/(N_Λ/N_{p})$ deviate significantly from thermal model expectations. Coalescence calculations incorporating realistic non-Gaussian wave functions for the $d$ and ${}^{3}_Λ\rm{H}$ provide an improved description of the data, while Gaussian descriptions of the ${}^{3}_Λ\rm{H}$ wave function fail to simultaneously reproduce the measured $S_{3}$ and the binding energy of ${}^{3}_Λ\rm{H}$. These results suggest that the ${}^{3}_Λ\rm{H}$ wave function contains larger short-distance $d$--$Λ$ probability than implied by a Gaussian ansatz, demonstrating the potential of heavy-ion production measurements as a probe of hypernuclear wave functions and the underlying hyperon--nucleon interaction.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 12:20:42 GMT</pubDate>
+      <guid isPermaLink="false">2607.28113v1</guid>
+      <dc:creator>The STAR Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>CLVisc Agent for autonomous relativistic hydrodynamics studies</title>
+      <link>http://arxiv.org/abs/2607.27822v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Wang, Long-Gang Pang, Shi Pu, Xin-Nian Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We enable large language model (LLM) agents to autonomously perform end-to-end hydrodynamic simulations of the quark-gluon plasma evolution and calculation of final hadron spectra in relativistic heavy-ion collisions. We design a meta skill that allows an agent to explore a project's source code, craft a specialized skill, and iteratively refine it. Applying this meta skill to the (3+1)D viscous hydrodynamic code CLVisc, the agent builds a CLVisc skill encoding its operational knowledge and then independently executes full scientific workflows: designing parameter scans, running simulations, comparing ensemble results, and producing publication-ready figures. Crucially, the agent draws on literature-informed heavy-ion physics to select physically meaningful observables and interpret outcomes without explicit instruction. We demonstrate the pipeline in two scenarios: temperature-dependent shear viscosity over entropy density $η/s$, and nuclear-structure effects in O+O collisions at $\sqrt{s_{\mathrm{NN}}} = 5.36$~TeV using four \textit{ab initio} descriptions of $^{16}$O. In both, the agent plans, executes, and analyzes autonomously, devising new initial-state observables to explain final observations and extract qualitative knowledge. The meta skill is agnostic to code versions and Monte Carlo generators, promising future multi-agent systems in high-energy nuclear physics.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 08:02:33 GMT</pubDate>
+      <guid isPermaLink="false">2607.27822v1</guid>
+      <dc:creator>Qi Wang</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+      <dc:creator>Shi Pu</dc:creator>
+      <dc:creator>Xin-Nian Wang</dc:creator>
+    </item>
+    <item>
+      <title>Unbiased Data-Driven Determination of the Nuclear Dipole Amplitude in the Color Glass Condensate</title>
+      <link>http://arxiv.org/abs/2607.27603v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Si-Wei Dai, Haowu Duan, Long-Gang Pang, Guang-You Qin, Shu-Yi Wei, Han-Zhong Zhang, Wenbin Zhao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Gluon saturation limits the growth of parton densities at small Bjorken-$x$ and is expected to be most pronounced in heavy nuclei. Yet quantitative extractions of the nuclear gluon dipole amplitude have long relied on parametrized initial conditions, introducing uncontrolled model dependence that obscures genuine nuclear effects. We introduce a physics-informed neural-network framework that embeds the collinearly improved Balitsky-Kovchegov evolution equation directly into the training objective, allowing the impact-parameter-averaged dipole amplitude to be determined from data without assuming a functional form for its initial condition. Applying this framework to forward-hadron nuclear-modification-factor and coherent $J/ψ$ photoproduction data, we extract the $^{208}$Pb dipole amplitude at $x_0=0.01$ with QCD evolution and momentum-space positivity enforced throughout training. The evolved amplitude reproduces the measured cross sections across the available kinematic range and yields a saturation-scale ratio $Q_{s0,\mathrm{Pb}}^2/Q_{s0,p}^2 = 3.17^{+0.17}_{-0.10}$, consistent with simple geometric scaling. The extracted Pb initial condition is well described by a McLerran-Venugopalan-type form, in contrast to the proton, reflecting the higher color-charge density of a large nucleus. Using the same amplitude, we predict the rapidity dependence of the transverse-momentum ratio in $pp$, $p$Pb, and Pb$p$ collisions, finding agreement with recent LHCb measurements at low multiplicity without any system-dependent parameters. This work provides the first unbiased, data-driven determination of nuclear structure in the saturation regime and establishes a general strategy for embedding nonlinear evolution equations into machine-learning extractions of dynamically constrained observables.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 02:48:18 GMT</pubDate>
+      <guid isPermaLink="false">2607.27603v1</guid>
+      <dc:creator>Si-Wei Dai</dc:creator>
+      <dc:creator>Haowu Duan</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+      <dc:creator>Guang-You Qin</dc:creator>
+      <dc:creator>Shu-Yi Wei</dc:creator>
+      <dc:creator>Han-Zhong Zhang</dc:creator>
+      <dc:creator>Wenbin Zhao</dc:creator>
+    </item>
+    <item>
+      <title>Photon-calibrated event-activity bias and subcollision geometry in d+Au collisions at $\sqrt{s_{NN}}$ = 200 GeV with PYTHIA 8 Angantyr</title>
+      <link>http://arxiv.org/abs/2607.27572v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Muhammad Ajaz, Haifa I. Alrebdi, Muhammad Waqas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Event-activity selections in small nuclear collision systems couple collision geometry to the soft response accompanying a hard scattering. We examine this coupling in d+Au collisions at $\sqrt{s_{NN}}$ = 200 GeV with PYTHIA 8.316 Angantyr, using direct photons, terminal pre-decay neutral pions, and anti-kT jets. A hard-bias factor compares the probability for a hard event to enter an activity class with an $N^{ND}_{coll}$ -weighted minimum-bias reference. The model predicts a depleted most-active class and an enhanced peripheral class for both photons and pions. Photon-tagged events also sample a smaller mean impact parameter and more nondiffractive subcollisions than pion-tagged or inclusive HardQCD events. Comparing fully correlated Angantyr events with an Ncoll-reweighted minimum-bias reference and a factorized diagnostic separates the explicit geometric contribution from residual hard-soft correlations. STAR-like and PHENIX-like particle-level activity proxies preserve the class ordering but give different class probabilities. The calculation is generator-level and does not identify a unique microscopic origin for the residual correlations.&lt;/p&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 01:24:29 GMT</pubDate>
+      <guid isPermaLink="false">2607.27572v1</guid>
+      <dc:creator>Muhammad Ajaz</dc:creator>
+      <dc:creator>Haifa I. Alrebdi</dc:creator>
+      <dc:creator>Muhammad Waqas</dc:creator>
+    </item>
     <item>
       <title>Critical net-proton number fluctuations with hydrodynamics</title>
       <link>http://arxiv.org/abs/2607.26912v1</link>
@@ -163,22 +206,6 @@
       <dc:creator>Yu-Liang Zhao</dc:creator>
       <dc:creator>Qi-Jun Zhi</dc:creator>
       <dc:creator>Zhigang Xiao</dc:creator>
-    </item>
-    <item>
-      <title>Light hadron production measurements with Au+Au Collisions from $\sqrt{s_{NN}} = 3.2$--$4.5$ GeV with STAR</title>
-      <link>http://arxiv.org/abs/2607.22945v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mathias C. Labonté&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;One of the main physics goals of the Beam Energy Scan program at RHIC is to study the QCD phase diagram, specifically around the phase transition between the quark-gluon plasma and hadronic matter. Beam Energy Scan Phase-I studied Au+Au collisions from center-of-mass energy ($\sqrt{s_{NN}}$) of 7.7 to 62.4 GeV. Beam Energy Scan Phase-II extended these measurements in several important ways, one of which was the addition of a fixed-target program that pushed the collision energy down to 3.0 GeV (or baryon chemical potential, $μ_B$, up to 720 MeV). Fixed-target collisions at STAR allow for a more extensive scanning of the QCD phase diagram to an important region where the QCD critical point may lie, and to a region dominated by dense baryonic matter. One key measurement in the fixed-target program is the spectrum of the lightest hadrons ($π^{\pm}$, $K^{\pm}$, p) as a function of transverse momentum, rapidity, and collision centrality. From the $p_T$ spectra, a blast-wave model is used to study the temperature at kinetic freeze-out and the surface velocity of the expanding matter. These results provide important input to models of heavy ion collisions at these energies, and can help constrain the equation of state of QCD matter. Here, results are shown for four collision energies in the fixed-target range: $\sqrt{s_{NN}} = 3.2$, 3.5, 3.9, and 4.5 GeV.&lt;/p&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 23:10:54 GMT</pubDate>
-      <guid isPermaLink="false">2607.22945v1</guid>
-      <dc:creator>Mathias C. Labonté</dc:creator>
-    </item>
-    <item>
-      <title>The future fixed-target program at the CERN SPS</title>
-      <link>http://arxiv.org/abs/2607.22328v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Enrico Scomparin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The CERN Super Proton Synchrotron (SPS) can currently accelerate heavy ions in the energy range from 13.5 up to 150 A GeV and deliver them to fixed-target experiments. It is the facility where Quark-Gluon Plasma (QGP) experimental studies began in 1986. After a first phase until 2000, with several fundamental discoveries made by a number of dedicated experiments, the physics program continued until today with the NA60 (dileptons, 2003-2004) and NA61 (hadronic observables, from 2009) experiments. As of today, a continuation of QGP studies, after the current shutdown of CERN accelerators, is foreseen, involving NA61 and a newly approved experiments, NA60+/DiCE. In this contribution, I will briefly describe the main achievements of the CERN SPS program, discuss the proposed new measurements and their impact on our knowledge of the QGP in the finite $μ_{\rm B}$ region of the QCD phase diagram.&lt;/p&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 14:06:54 GMT</pubDate>
-      <guid isPermaLink="false">2607.22328v1</guid>
-      <dc:creator>Enrico Scomparin</dc:creator>
     </item>
   </channel>
 </rss>
