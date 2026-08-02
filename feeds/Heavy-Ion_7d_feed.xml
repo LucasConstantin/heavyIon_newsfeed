@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:33:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -183,29 +183,6 @@
       <dc:creator>David Bolst</dc:creator>
       <dc:creator>Edward C. Simpson</dc:creator>
       <dc:creator>Susanna Guatelli</dc:creator>
-    </item>
-    <item>
-      <title>$^{15}$C inelastic $1/2^+ \rightarrow 5/2^+$ excitation: A single-particle versus a collective process</title>
-      <link>http://arxiv.org/abs/2607.23291v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; C. Beckman, M. Catacora-Rios, C. Hebborn, F. M. Nunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Background: The excitation of one-neutron halo nucleus $^{15}$C from the $1/2^+$ ground state to the $5/2^+$ first excited state was measured at Argonne National Laboratory by impinging $^{15}$C on a deuterated target at $7.1 A$ MeV. This data was then analyzed in the Distorted Wave Born Approximation using a rigid rotor model for the excitation. Purpose: Being a one-neutron halo, we expect a single-particle excitation to better represent the excitation of $^{15}$C rather than a collective process. We expect the breakup of $^{15}$C to influence the reaction mechanisms because of the low one-neutron separation threshold, which is close in energy to $^{15}$C's first excited state. The goal of this work is to explore various the reaction mechanisms to reinterpret the data of Ref.[1] for the inelastic excitation of $^{15}$C. Method: We solve the scattering problem assuming a three-body model $^{14}$C$+n+d$. We use the Continuum Discretized Coupled Channel method (CDCC) and compare the results with those obtained assuming 1-step DWBA with quadrupole deformation, as done in the original experimental analysis. We also use Bayesian uncertainty quantification to estimate the uncertainties in our predictions coming from the $n$-$d$ interaction. Results: We analyze both the elastic and inelastic angular distributions for $^{15}$C(d,d')$^{15}\text{C}^*$ at $7.1 A$ MeV. Our results show that $^{15}$C breakup effects are important. Conclusions: While CDCC predicts the elastic angular distribution correctly, it is not able to fully describe the experimental inelastic angular distribution. We discuss additional effects that may be responsible for the remaining discrepancy.&lt;/p&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 17:02:54 GMT</pubDate>
-      <guid isPermaLink="false">2607.23291v1</guid>
-      <dc:creator>C. Beckman</dc:creator>
-      <dc:creator>M. Catacora-Rios</dc:creator>
-      <dc:creator>C. Hebborn</dc:creator>
-      <dc:creator>F. M. Nunes</dc:creator>
-    </item>
-    <item>
-      <title>Proton Collectivity in Au+Au Collisions at $\sqrt{s_{\rm NN}}=2.4-4.5$~GeV from a Unified Purely Hadronic EOS without QCD Phase Transition</title>
-      <link>http://arxiv.org/abs/2607.23195v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gao-Feng Wei, Shuang-Jie Liu, Yu-Liang Zhao, Qi-Jun Zhi, Zhigang Xiao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The nuclear equation of state (EOS) is generally considered to soften in the density range of $2-5$ times the saturation density $ρ_0$. Using a purely hadronic transport model, we calculate the proton directed, sideward, and elliptic flows and their excitation functions in heavy-ion collisions (HICs) at $\sqrt{s_{\rm NN}}=2.4-4.5$~GeV and compare with the HADES, E895, and STAR data. We find that a momentum-dependent mean field with a unified incompressibility $K_0=230$~MeV quantitatively reproduces the experimental proton flows up to 4.3 GeV, at which the maximum density reaches approximately $5ρ_0$. At 4.5 GeV, however, the pure hadronic model fails to reproduce the proton directed and elliptic flow data, providing circumstantial evidence for the onset of partonic degrees of freedom in HICs. Our results provide a hadronic baseline to characterize the high-density nuclear matter and to map the region of hadron-quark phase transition.&lt;/p&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 13:17:21 GMT</pubDate>
-      <guid isPermaLink="false">2607.23195v1</guid>
-      <dc:creator>Gao-Feng Wei</dc:creator>
-      <dc:creator>Shuang-Jie Liu</dc:creator>
-      <dc:creator>Yu-Liang Zhao</dc:creator>
-      <dc:creator>Qi-Jun Zhi</dc:creator>
-      <dc:creator>Zhigang Xiao</dc:creator>
     </item>
   </channel>
 </rss>
