@@ -5,9 +5,1316 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:32:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:30:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Effects of light-cluster degrees of freedom on collective flows in heavy-ion collisions at FOPI energies</title>
+      <link>http://arxiv.org/abs/2608.02383v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xin Li, Si-Pei Wang, Rui Wang, Zhen Zhang, Jie Pu, Chun-Wang Ma, Lie-Wen Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Within a lattice Boltzmann-Uehling-Uhlenbeck transport model coupled to a kinetic approach for light-cluster formation, we investigate the impact of explicit light-cluster degrees of freedom on collective flows in Au+Au collisions at FOPI energies with beam energies $E_{\rm beam}$= $120$--$1500 A$ MeV by using a density-, momentum-, and isospin-dependent N$5$LO Skyrme pseudopotential. We first benchmark the kinetic approach by comparing the calculated light-cluster yields with FOPI data in central Au+Au collisions. We then analyze the collective flows of protons and light nuclei (deuterons, tritons, $^{3}\mathrm{He}$, and $^{4}\mathrm{He}$) in mid-central collisions. For protons, calculations with and without dynamical light-cluster degrees of freedom are compared to quantify the influence of dynamical cluster formation on proton directed ($v_1$), elliptic ($v_2$), triangular ($v_3$), and quadrangular ($v_4$) flows. We find that the dynamical light-cluster effect appreciably modifies proton $v_1$--$v_4$ flows at $E_{\rm beam}=120$--$150 A$ MeV, remains visible at $E_{\rm beam}=250$--$400 A$ MeV, and gradually weakens at $E_{\rm beam}\gtrsim 600 A$ MeV. For light nuclei, the kinetic approach captures the overall beam-energy dependence of the FOPI flow data, with better agreement for $E_{\rm beam}\geq 400 A$ MeV. We further examine the nucleon-number scaling of $v_2/A$ in both model calculations and experimental data, finding that the kinetic light-cluster formation approach qualitatively reproduces the observed scaling behavior. These results highlight the importance of a dynamical treatment of light-cluster formation for interpreting collective flows in heavy-ion collisions below about $600 A$ MeV, although the clustering effects on proton flows are minor at higher collision energies.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 15:26:50 GMT</pubDate>
+      <guid isPermaLink="false">2608.02383v1</guid>
+      <dc:creator>Xin Li</dc:creator>
+      <dc:creator>Si-Pei Wang</dc:creator>
+      <dc:creator>Rui Wang</dc:creator>
+      <dc:creator>Zhen Zhang</dc:creator>
+      <dc:creator>Jie Pu</dc:creator>
+      <dc:creator>Chun-Wang Ma</dc:creator>
+      <dc:creator>Lie-Wen Chen</dc:creator>
+    </item>
+    <item>
+      <title>Charm-quark collectivity from small to large systems with ALICE</title>
+      <link>http://arxiv.org/abs/2608.02161v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marcello Di Costanzo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In these proceedings, the elliptic flow ($v_2$) measurement of prompt charm hadrons in lead-lead (Pb-Pb) and oxygen-oxygen (OO) collisions at $\sqrt{s_{\mathrm{NN}}} = 5.36$ TeV, using the data collected during LHC Run 3 by the ALICE detector, is presented. The analysis is performed at midrapidity ($|y| &lt; 0.8$) and hadronic decay channels are used to reconstruct the signal candidates. The $v_2$ coefficient is measured via the Scalar Product (SP) technique. The $v_2$ of prompt D$^0$, D$^+$, D$_\text{s}^+$ mesons, and $Λ_{\text{c}}^+$ baryons in semicentral Pb-Pb collisions is reported. These results achieve unprecedented precision and low-$p_{\text{T}}$ reach for the D mesons and highlight the first observation of the splitting of baryon and meson elliptic flow at intermediate $p_{\text{T}}$ in the charm sector. The prompt D-meson $v_2$ is also measured in peripheral Pb-Pb collisions and central OO collisions, probing the degree of thermal equilibration reached by charm quarks propagating in progressively smaller quark-gluon plasma media.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 12:41:59 GMT</pubDate>
+      <guid isPermaLink="false">2608.02161v1</guid>
+      <dc:creator>Marcello Di Costanzo</dc:creator>
+    </item>
+    <item>
+      <title>Diffusion and shear viscosity coefficients of hot isospin asymmetric strange hadronic matter using a chiral SU(3) model</title>
+      <link>http://arxiv.org/abs/2608.01971v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Amruta Mishra, Shujun Zhao, Tetsufumi Hirano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the diffusion and shear viscosity coefficients of hot isospin asymmetric strange hadronic matter. The effects due to the baryon density, isospin, strangeness, and temperature on the nucleons and hyperons are studied within a chiral SU(3) model. The medium modifications of the baryons arise due to interactions with the mean scalar and vector fields within the model. The thermodynamic and transport properties are studied in the hot strange hadronic matter. The diffusion matrix associated with the multiple charges (baryon number, isospin, and strangeness), as well as the coefficient of shear viscosity, are computed from the Boltzmann equation using first-order Chapman--Enskog expansion within the relaxation time approximation. There are observed to be significant effects from the isospin asymmetry as well as the strangeness of the medium on the diffusion coefficients. The coefficient of shear viscosity, $η$ is observed to have a large enhancement in the presence of finite strangeness in the medium due to additional contributions from the hyperons. The effects due to isospin asymmetry on the shear viscosity coefficient is however observed to be marginal both in nuclear and hyperonic matter. The present study can be relevant for the experimental observables of asymmetric relativistic heavy-ion collisions, e.g., in the compressed baryonic matter (CBM) experiment at the FAIR facility at GSI as well as in the future J-PARC-HI program.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 09:35:32 GMT</pubDate>
+      <guid isPermaLink="false">2608.01971v1</guid>
+      <dc:creator>Amruta Mishra</dc:creator>
+      <dc:creator>Shujun Zhao</dc:creator>
+      <dc:creator>Tetsufumi Hirano</dc:creator>
+    </item>
+    <item>
+      <title>Theoretical Review of Critical Point Predictions</title>
+      <link>http://arxiv.org/abs/2608.01957v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maneesha Sushama Pradeep&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This review summarizes recent theoretical progress on the QCD equation of state near the critical point and developments in the maximum entropy freeze-out framework, which provides a systematic connection between hydrodynamic fluctuations and hadronic multiplicity cumulants. We also discuss recent applications of this framework, together with advances in the dynamical evolution of critical fluctuations.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 09:27:01 GMT</pubDate>
+      <guid isPermaLink="false">2608.01957v1</guid>
+      <dc:creator>Maneesha Sushama Pradeep</dc:creator>
+    </item>
+    <item>
+      <title>Necessary and sufficient conditions of nonlinear causality in viscous anisotropic hydrodynamics</title>
+      <link>http://arxiv.org/abs/2608.01900v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kento Yoshida, Shujun Zhao, Tetsufumi Hirano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive the necessary and sufficient conditions for nonlinear causality in viscous anisotropic hydrodynamics (VAH) within the approximation that neglects small correction terms. Relativistic hydrodynamics provides a successful description of the space-time evolution of the matter produced in relativistic heavy-ion collisions, yet the earliest stage at which a hydrodynamic description becomes valid remains an open question. VAH has been proposed as an extension of conventional viscous hydrodynamics (VH) that can accommodate the large pressure anisotropies of the early-time dynamics. However, in such far-from-equilibrium regimes, the nonlinear causality of the theory is not guaranteed. By analyzing the characteristic velocities of the VAH equations of motion, we derive a set of inequalities that ensures causal signal propagation in all directions. The resulting conditions take a remarkably simple form and admit a clear physical interpretation in terms of the characteristic modes of the anisotropic medium. These results establish the regime of validity of VAH and provide a foundation for its application to the early-time dynamics of relativistic heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 08:36:42 GMT</pubDate>
+      <guid isPermaLink="false">2608.01900v1</guid>
+      <dc:creator>Kento Yoshida</dc:creator>
+      <dc:creator>Shujun Zhao</dc:creator>
+      <dc:creator>Tetsufumi Hirano</dc:creator>
+    </item>
+    <item>
+      <title>Gluon condensate effects on heavy quarkonium spectral functions and thermal dissociation</title>
+      <link>http://arxiv.org/abs/2608.01801v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fei Wang, Zi-qiang Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate how the gluon condensate modifies the thermal spectral functions and melting patterns of heavy vector mesons, specifically charmonium and bottomonium, using an improved soft-wall AdS/QCD model. The framework is extended to finite temperature via a dilaton black hole geometry that consistently incorporates the backreaction from the gluon condensate. We numerically track the evolution of spectral resonance peaks as functions of both temperature and gluon condensate strength. Our calculations reveal that increasing temperature systematically broadens and suppresses spectral peaks, signaling in-medium dissociation. In contrast, a stronger gluon condensate considerably mitigates peak broadening and enhances the spectral weight of both ground and excited states. This behavior indicates that the gluon condensate hinders thermal dissociation, thereby stabilizing heavy quarkonia within the quark-gluon plasma. These findings are consistent with existing studies and provide new holographic evidence for the stabilising role of the gluon condensate from the perspective of thermal spectral functions.&lt;/p&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 07:10:35 GMT</pubDate>
+      <guid isPermaLink="false">2608.01801v1</guid>
+      <dc:creator>Fei Wang</dc:creator>
+      <dc:creator>Zi-qiang Zhang</dc:creator>
+    </item>
+    <item>
+      <title>The CKM sector of the exceptional-Jordan programme: finite-Dirac mass moduli, two conditional angle estimates, and the weak-to-mass bridge</title>
+      <link>http://arxiv.org/abs/2608.01445v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tejinder P. Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Standard Model does not determine quark masses or the CKM matrix. In the exceptional-Jordan programme, square-root masses occupy short $\operatorname{Sym}^{3}(\mathbf{3})$ chains. Compressing the symmetric-cube lift onto occupied nodes gives a root-mass operator whose square yields the proposed mass ratios, packaging that spectrum and relative left frames in one finite Dirac operator without deriving the frames. Conditional on the transport, virtual-node-amplitude, real-$(2,3)$ and balanced-quadrature choices, the no-fit layer gives $|V_{us}|=0.2371$ ($5.3\%$ high) and $|V_{cb}|=0.0422$ ($0.8\%$ high) at $M_Z$. The relation $|V_{ub}|/|V_{cb}|=\sqrt{m_u/m_c}$ is a factor two low; one complex long edge is fitted. The two balanced orientations give branches $(\varepsilon,ω)=(0.002079,288.2^\circ)$ and $(0.005358,202.2^\circ)$, so the former $\varepsilon$ ratio is not robust and raw $ω$ is convention-dependent.
+  For an adopted $F_1$--$F_2$ family embedding, we construct an exact Peirce-changing Albert lift in $\mathfrak f_4(\mathbb C)$, reproducing conjugate up/anti-down transport and $\varphi_{12}=-2χ$. For an adopted cyclic Majorana placement and real-linear projection, its completion has real $(e_4,e_3,e_6)$ support while the $e_1$ quadrature vanishes; $J_\ell=0$ and $δ^\ell_{CP}=0$ or $π$ are compatibility results in this class. The minimal radial-quartic cyclic truncation has equal-magnitude full-rank extrema or a flat direction; a mixed Albert cubic gives stable alignment only in a chosen three-edge subspace. Six diagonal mass links plus three directed Peirce links would form a connected one-cycle nine-link graph if the Yukawa block is linear in the projected bridge. This is a candidate Arkani-Hamed et al. texture skeleton, not a derivation: family-vacuum selection, chiral projection and right-frame locking remain open.&lt;/p&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 18:59:27 GMT</pubDate>
+      <guid isPermaLink="false">2608.01445v1</guid>
+      <dc:creator>Tejinder P. Singh</dc:creator>
+    </item>
+    <item>
+      <title>Proton-proton Femtoscopy as a Probe of Short-range Structure in High-Energy O+O Collisions</title>
+      <link>http://arxiv.org/abs/2608.01190v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Baoshan Xi, Pei Li, Chunjian Zhang, Jinhui Chen, Su-Ya-La-Tu Zhang, Yu-Gang Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Short-range nucleon-nucleon correlations are a defining feature of the nuclear many-body wave function, yet they are invisible in the one-body density and therefore inaccessible to observables that measure a nuclear size. We show that proton-proton femtoscopy supplies the missing sub-femtometer sensitivity. In $^{16}$O+$^{16}$O collisions at $\rm \sqrt{s_{NN}}=$ 200 GeV, we compare three nuclear-structure inputs spanning mean-field, low-resolution cluster, and short-range-correlated descriptions. The $p$-$p$ correlation function separates all three, most sharply in peripheral collisions, where the \textit{ab initio} input suppresses the extracted source radius by $\sim5\%$ relative to the mean-field baseline. Under identical conditions $π^{+}$-$π^{+}$ correlations respond an order of magnitude more weakly, and the $C_{pp}/C_{π^{+}π^{+}}$ double ratio retains the full effect, pointing to the short-distance weighting of the $^{1}S_{0}$ pair rather than to an overall rescaling of the source. The signal survives the leading theoretical systematic, the choice of strong-interaction potential, which we quantify explicitly. These results identify $p$-$p$ femtoscopy as a short-distance-resolved probe of light-nucleus structure, complementary to flow observables that constrain only the low-order moments of the initial geometry.&lt;/p&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 12:15:41 GMT</pubDate>
+      <guid isPermaLink="false">2608.01190v1</guid>
+      <dc:creator>Baoshan Xi</dc:creator>
+      <dc:creator>Pei Li</dc:creator>
+      <dc:creator>Chunjian Zhang</dc:creator>
+      <dc:creator>Jinhui Chen</dc:creator>
+      <dc:creator>Su-Ya-La-Tu Zhang</dc:creator>
+      <dc:creator>Yu-Gang Ma</dc:creator>
+    </item>
+    <item>
+      <title>Deformation effects on reaction observables of beryllium nuclei from ab initio densities</title>
+      <link>http://arxiv.org/abs/2608.01131v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Lu, Rui-Feng Tian, Shi-Sheng Zhang, Ulf-G. Meißner, Shihang Shen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We combine three-dimensional intrinsic densities from ab initio nuclear lattice effective field theory with a deformed Glauber model to study high-energy reactions of {7-12}Be. To connect the correlated many-body configurations to the core-plus-neutron reaction formalism without imposing a single-particle orbital, we introduce a configuration-resolved prescription that identifies the spatially outermost valence neutron after the two-cluster decomposition. For Be projectiles on 12C and 9Be targets at 790 MeV/A, explicit orientation averaging lowers the calculated reaction cross section of 11Be by up to approximately 50 mb relative to a calculation with the spherically averaged density. The deformed calculation reproduces the pronounced increase from 10Be to the established one-neutron halo nucleus 11Be for both targets. We further calculate the momentum distribution of the fragments after the one-neutron removal reaction of 11Be + 9Be , finding good agreement in shape with the measurement at 63 MeV/A and providing a prediction at 790 MeV/A. These results quantify how intrinsic deformation and weak binding are transmitted from microscopic many-body densities to reaction observables.&lt;/p&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 10:17:16 GMT</pubDate>
+      <guid isPermaLink="false">2608.01131v1</guid>
+      <dc:creator>Qi Lu</dc:creator>
+      <dc:creator>Rui-Feng Tian</dc:creator>
+      <dc:creator>Shi-Sheng Zhang</dc:creator>
+      <dc:creator>Ulf-G. Meißner</dc:creator>
+      <dc:creator>Shihang Shen</dc:creator>
+    </item>
+    <item>
+      <title>Nelson-Barr Inflation</title>
+      <link>http://arxiv.org/abs/2608.00498v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fuminobu Takahashi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Nelson-Barr mechanism solves the strong CP problem through spontaneous CP violation, but the resulting CP-conjugate vacua generically lead to stable domain walls. We propose that the Nelson-Barr scalar itself drives hilltop inflation. A CP-symmetric double-well potential for its imaginary component forms two CP-breaking valleys, with inflation proceeding along one of them. Since the lowest CP-invariant ridge is generically much higher than the energy available after inflation, transitions between the two branches are energetically inaccessible, and the domain walls cannot be regenerated after inflation. A small CP-preserving linear deformation raises the scalar spectral index of quartic hilltop inflation and yields CMB-compatible parameter regions. The Nelson-Barr sector necessarily provides a portal to visible-sector reheating. When coupled to right-handed neutrinos, it can also transmit the spontaneous CP phase to the lepton sector and, in an extension that allows a higher CP-breaking scale, even realize nonthermal leptogenesis. This establishes a unified cosmological realization of the Nelson--Barr mechanism in which the same CP-breaking dynamics solves the strong CP problem, can generate quark and lepton CP violation, drives inflation and reheating, and enables baryogenesis, while simultaneously eliminating the associated domain-wall problem.&lt;/p&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 07:43:56 GMT</pubDate>
+      <guid isPermaLink="false">2608.00498v1</guid>
+      <dc:creator>Fuminobu Takahashi</dc:creator>
+    </item>
+    <item>
+      <title>Collision energy and system size dependence of $p_{\mathrm{T}}$-differential radial flow fluctuations $v_{0}(p_{\mathrm{T}})$ at RHIC</title>
+      <link>http://arxiv.org/abs/2608.00190v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zaining Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the first RHIC measurements of $v_{0}(p_\mathrm{T})$ in Au+Au collisions at $\sqrt{s_\mathrm{NN}}=7.7$--$200$ GeV and O+O collisions at $\sqrt{s_\mathrm{NN}}=200$ GeV. The integral fluctuation $v_0$ follows a common $N_{\rm ch}$ dependence in large and small systems, suggesting that the fluctuation magnitude is predominantly controlled by event-by-event fluctuations of the initial transverse size. The normalized response $v_0(p_\mathrm{T})/v_0$ factorizes across centralities and systems, revealing a universal hydrodynamic response $κ_0(p_\mathrm{T})/κ_0$ largely independent of the fluctuation amplitude. Identified-hadron mass ordering and viscous model comparisons demonstrate sensitivity to bulk viscosity ($ζ/s$). These results establish $v_0(p_\mathrm{T})$ as a probe of the radial hydrodynamic response, collectivity across large and small collision systems, and QGP transport properties.&lt;/p&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 18:15:27 GMT</pubDate>
+      <guid isPermaLink="false">2608.00190v1</guid>
+      <dc:creator>Zaining Wang</dc:creator>
+    </item>
+    <item>
+      <title>Modification of $Υ$ production in $p$O and OO collisions at LHCb</title>
+      <link>http://arxiv.org/abs/2608.00182v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; LHCb collaboration, R. Aaij, M. Abdelfatah, A. S. W. Abdelmotteleb, C. Abellan Beteta, F. Abudinén, T. Ackernley, A. A. Adefisoye, B. Adeva, M. Adinolfi, P. Adlarson, C. Agapopoulou, C. A. Aidala, S. Akar, K. Akiba, H. Al Saleh, P. Albicocco, J. Albrecht, R. Aleksiejunas, F. Alessio, P. Alvarez Cartelle, S. Amato, J. L. Amey, Y. Amhis, Z. Amos, L. An, L. Anderlini, P. Andreola, M. Andreotti, S. Andres Estrada, A. Anelli, D. Ao, C. Arata, F. Archilli, Z. Areg, M. Argenton, S. Arguedas Cuendis, L. Arnone, M. Artuso, E. Aslanides, R. Ataíde Da Silva, M. Atzeni, B. Audurier, J. A. Authier, D. Bacher, I. Bachiller Perea, S. Bachmann, M. Bachmayer, J. J. Back, M. Bai, Z. B. Bai, V. Balagura, A. Balboni, W. Baldini, Z. Baldwin, L. Balzani, H. Bao, J. Baptista de Souza Leite, C. Barbero Pretel, M. Barbetti, I. R. Barbosa, W. Barker, R. J. Barlow, M. Barnyakov, S. Baron, S. Barsuk, W. Barter, J. Bartz, S. Bashir, B. Batsukh, P. B. Battista, A. Bavarchee, A. Bay, A. Beck, M. Becker, F. Bedeschi, I. B. Bediaga, N. A. Behling, S. Belin, A. Bellavista, I. Belyaev, G. Bencivenni, E. Ben-Haim, J. L. M. Berkey, R. Bernet, A. Bertolin, L. Bertsch, F. Betti, J. Bex, O. Bezshyyko, S. Bhattacharya, M. S. Bieker, N. V. Biesuz, A. Biolchini, M. Birch, F. C. R. Bishop, A. Bitadze, A. Bizzeti, T. Blake, F. Blanc, J. E. Blank, S. Blusk, J. A. Boelhauve, O. Boente Garcia, T. Boettcher, A. Bohare, C. Bolognani, R. B. Bonacci, A. Bordelius, F. Borgato, S. Borghi, M. Borsato, J. T. Borsuk, E. Bottalico, S. A. Bouchiba, M. Bovill, T. J. V. Bowcock, A. Boyer, C. Bozzi, J. D. Brandenburg, A. Brea Rodriguez, N. Breer, C. Breitfeld, J. Brodzicka, J. Brown, E. Buchanan, M. Burgos Marcos, C. Burr, E. Butera, C. Buti, J. S. Butter, J. Buytaert, W. Byczynski, S. Cadeddu, H. Cai, Y. Cai, Y. Cai, A. Caillet, R. Calabrese, L. Calefice, M. Calvi, M. Calvo Gomez, P. Camargo Magalhaes, J. I. Cambon Bouzas, P. Campana, A. Campomagnani, A. C. Campos, A. F. Campoverde Quezada, Y. Cao, S. Capelli, M. Caporale, L. Capriotti, R. Caravaca-Mora, A. Carbone, L. Carcedo Salgado, R. Cardinale, A. Cardini, P. Carniti, L. Carus, R. Caspary, G. Casse, M. Cattaneo, G. Cavallero, V. Cavallini, S. Celani, I. Celestino, S. Cesare, A. J. Chadwick, M. Charles, Ph. Charpentier, E. Chatzianagnostou, R. Cheaib, M. Chefdeville, C. Chen, J. Chen, S. Chen, Z. Chen, A. Chen Hu, M. Cherif, S. Chernyshenko, X. Chiotopoulos, G. Chizhik, V. Chobanova, A. Christakakis, M. Chrzaszcz, Y. Chu, V. Chulikov, P. Ciambrone, X. Cid Vidal, P. Cifra, P. E. L. Clarke, M. Clemencic, H. V. Cliff, J. Closier, C. Cocha Toapaxi, V. Coco, A. Codovini, C. Codovini, J. Cogan, E. Cogneras, L. Cojocariu, S. Collaviti, P. Collins, T. Colombo, M. Colonna, A. Comerma-Montells, L. Congedo, J. Connaughton, A. Contu, N. Cooke, A. Corallo, G. Cordova, C. Coronel, I. Corredoira, A. Correia, G. Corti, G. C. Costantino, C. Cotirlan, J. Cottee Meldrum, B. Couturier, D. C. Craik, N. Crepet, M. Cruz Torres, M. Cubero Campos, E. Curras Rivera, R. Currie, C. L. Da Silva, X. Dai, J. Dalseno, C. D'Ambrosio, G. Darze, A. Davidson, O. De Aguiar Francisco, C. De Angelis, F. De Benedetti, J. de Boer, K. De Bruyn, S. De Capua, M. De Cian, U. De Freitas Carneiro Da Graca, F. De Gregorio, E. De Lucia, J. M. De Miranda, L. De Paula, A. De Robertis, E. De Santis, M. De Serio, P. De Simone, F. De Vellis, J. A. de Vries, F. Debernardis, D. Decamp, S. Dekkers, L. Del Buono, B. Delaney, B. Demaire-Lepape, J. Deng, O. Deschamps, F. Dettori, B. Dey, P. Di Nezza, S. Ding, Y. Ding, L. Dittmann, J. F. Diverchy, A. D. Docheva, A. Doheny, C. Dong, F. Dordei, J. Dorta Moreno, A. C. dos Reis, J. Dos Santos Oliveira, A. D. Dowling, L. Dreyfus, W. Duan, P. Duda, L. Dufour, V. Duk, P. Durante, M. M. Duras, J. M. Durham, O. D. Durmus, K. Duwe, A. Dziurda, S. Easo, E. Eckstein, U. Egede, S. Eisenhardt, E. Ejopu, L. Eklund, M. Elashri, D. Elizondo Blanco, J. Ellbracht, S. Ely, A. Ene, T. Evans, F. Fabiano, S. Faghih, L. N. Falcao, B. Fang, R. Fantechi, L. Fantini, M. Faria, K. Farmer, F. Fassin, D. Fazzini, L. Felkowski, C. Feng, M. Feng, A. Fernandez Casani, M. Fernandez Gomez, B. Fernandez Rodino, J. Fernandez-John, A. D. Fernez, F. Ferrari, F. Ferreira Rodrigues, R. A. Fini, R. Fiorenza, M. Fiorini, M. Firlej, D. S. Fitzgerald, C. Fitzpatrick, T. Fiutowski, F. Fleuret, A. Fomin, M. Fontana, M. Fontes Vaz, L. A. Foreman, R. Forty, D. Foulds-Holt, V. Franco Lima, M. Franco Sevilla, M. Frank, E. Franzoso, G. Frau, C. Frei, D. A. Friday, J. Fu, Y. Fu, Q. Führing, T. Fulghesu, G. Galati, M. D. Galati, A. Gallas Torreira, D. Galli, S. Gambetta, M. Gandelman, P. Gandini, B. Ganie, H. Gao, R. Gao, T. Q. Gao, Y. Gao, Y. Gao, Y. Gao, L. M. Garcia Martin, P. Garcia Moreno, J. García Pardiñas, P. Gardner, L. Garrido, C. Gaspar, A. Gavrikov, J. George, E. Gersabeck, M. Gersabeck, T. Gershon, S. Ghizzo, Z. Ghorbanimoghaddam, F. I. Giasemis, V. Gibson, H. K. Giemza, A. L. Gilman, M. Giovannetti, A. Gioventù, L. Girardey, M. A. Giza, F. C. Glaser, V. V. Gligorov, C. Göbel, L. Golinka-Bezshyyko, E. Golobardes, A. Golutvin, S. Gomez Fernandez, A. G. Gomez Mongui, W. Gomulka, F. Goncalves Abrantes, I. Gonçales Vaz, M. Goncerz, G. Gong, S. Gong, J. A. Gooding, C. Gotti, E. Govorkova, J. P. Grabowski, L. A. Granado Cardoso, R. Grande Quartieri, E. Graugés, E. Graverini, L. Grazette, G. Graziani, A. T. Grecu, N. A. Grieser, L. Grillo, C. Gu, M. Guarise, L. Guerry, A. -K. Guseinov, Y. Guz, T. Gys, K. Habermann, T. Hadavizadeh, C. Hadjivasiliou, G. Haefeli, C. Haen, S. Haken, G. Hallett, P. M. Hamilton, Q. Han, S. Han, X. Han, S. Hansmann-Menzemer, N. Harnew, T. J. Harris, L. Hartman, M. Hartmann, S. Hashmi, J. He, N. Heatley, A. Hedes, F. Hemmer, C. Henderson, R. Henderson, R. D. L. Henderson, A. M. Hennequin, K. Hennessy, A. Henrot, J. Herd, P. Herrero Gascon, J. Heuel, A. Heyn, A. Hicheur, G. Hijano Mendizabal, J. Horswill, R. Hou, Y. Hou, D. C. Houston, N. Howarth, W. Hu, X. Hu, W. Hulsbergen, R. J. Hunter, D. Hutchcroft, M. Idzik, P. Ilten, A. Iohner, S. Jacevicius, H. Jage, S. J. Jaimes Elles, S. Jakobsen, T. Jakoubek, E. Jans, A. Jawahery, C. Jayaweera, A. Jelavic, V. Jevtic, Z. Jia, E. Jiang, X. Jiang, Y. Jiang, Y. J. Jiang, E. Jimenez Moya, N. Jindal, M. John, A. John Rubesh Rajan, D. Johnson, C. R. Jones, S. Joshi, B. Jost, J. Juan Castella, N. Jurik, I. Juszczak, K. Kalecinska, D. Kaminaris, S. Kandybei, M. Kane, Y. Kang, C. Kar, M. Karacson, A. Kauniskangas, J. W. Kautz, M. K. Kazanecki, F. Keizer, M. Kenzie, T. Ketel, B. Khanji, S. Kholodenko, V. Kholoimov, G. Khreich, F. Kiraz, T. Kirn, V. S. Kirsebom, N. Kleijne, A. Kleimenova, D. Klekots, K. Klimaszewski, M. R. Kmiec, T. Knospe, R. Kolb, S. Koliiev, L. Kolk, A. Konoplyannikov, P. Kopciewicz, P. Koppenburg, A. Korchin, I. Kostiuk, O. Kot, S. Kotriakhova, E. Kowalczyk, O. Kravcov, M. Kreps, W. Krupa, W. Krzemien, O. Kshyvanskyi, S. Kubis, M. Kucharczyk, A. Kupsc, A. Kurzina, V. Kushnir, B. Kutsenko, J. Kvapil, I. Kyryllin, D. Lacarrere, P. Laguarta Gonzalez, A. Lai, A. Lampis, D. Lancierini, C. Landesa Gomez, G. Lanfranchi, C. Langenbruch, T. Latham, F. Lazzari, C. Lazzeroni, R. Le Gac, H. Lee, R. Lefèvre, M. Lehuraux, E. Lemos Cid, O. Leroy, T. Lesiak, E. D. Lesser, B. Leverington, A. Li, C. Li, C. Li, H. Li, J. Li, K. Li, L. Li, L. Li, P. Li, P. -R. Li, Q. Li, T. Li, T. Li, W. Li, Y. Li, Y. Li, Y. Li, Z. Li, Z. Lian, Q. Liang, X. Liang, Z. Liang, S. Libralon, A. Lightbody, J. Lin, S. Lin, T. Lin, R. Lindner, H. Linton, R. Litvinov, D. Liu, F. L. Liu, G. Liu, K. Liu, S. Liu, W. Liu, X. Liu, Y. Liu, Y. Liu, Y. L. Liu, G. Loachamin Ordonez, I. Lobo, A. Lobo Salvia, A. Loi, T. Long, F. C. L. Lopes, J. H. Lopes, A. Lopez Huertas, C. Lopez Iribarnegaray, Q. Lu, C. Lucarelli, D. Lucchesi, M. Lucio Martinez, Y. Luo, A. Lupato, M. Lupberger, E. Luppi, K. Lynch, J. Lyu, S. Lyu, X. -R. Lyu, H. Ma, S. Maccolini, F. Machefert, F. Maciuc, B. Mack, I. Mackay, L. M. Mackey, L. R. Madhan Mohan, M. J. Madurai, D. Magdalinski, J. J. Malczewski, S. Malde, L. Malentacca, G. Manca, C. Mancuso, R. Manera Escalero, A. Mangalasseri, F. M. Manganella, R. Mangrulkar, D. Manuzzi, S. Mao, D. Marangotto, J. F. Marchand, R. Marchevski, U. Marconi, L. Mareso, E. Mariani, S. Mariani, C. Marin Benito, J. Marks, A. M. Marshall, L. Martel, G. Martelli, G. Martellotti, L. Martinazzoli, M. Martinelli, C. Martinez, A. Martinez Armas, D. Martinez Gomez, D. Martinez Santos, F. Martinez Vidal, A. Martorell i Granollers, A. Massafferri, R. Matev, A. Mathad, C. Matteuzzi, K. R. Mattioli, L. Matzner, A. Mauri, E. Maurice, J. Mauricio, P. Mayencourt, J. Mazorra de Cos, M. Mazurek, D. Mazzanti Tarancon, M. McCann, N. T. McHugh, A. McNab, R. McNulty, B. Meadows, S. E. R. Medaer, D. Melnychuk, D. Mendoza Granada, P. Menendez Valdes Perez, F. M. Meng, M. Merk, A. Merli, L. Meyer Garcia, D. Miao, H. Miao, S. Mico, M. Mikhasenko, D. A. Milanes, A. Minotti, E. Minucci, B. Mitreska, D. S. Mitzel, R. Mocanu, A. Modak, L. Moeser, R. D. Moise, E. F. Molina Cardenas, T. Mombächer, M. Monk, T. Monnard, S. Monteil, A. Morcillo Gomez, G. Morello, M. J. Morello, M. P. Morgenthaler, A. Moro, J. Moron, W. Morren, A. B. Morris, A. G. Morris, R. Mountain, Z. Mu, N. Muangkod, E. Muhammad, F. Muheim, M. Mulder, K. Müller, F. Muñoz-Rojas, V. Mytrochenko, P. Naik, T. Nakada, R. Nandakumar, G. Napoletano, I. Nasteva, M. Needham, N. Neri, S. Neubert, N. Neufeld, J. Nicolini, D. Nicotra, E. M. Niel, L. Nisi, Q. Niu, B. K. Njoki, P. Nogarolli, P. Nogga, J. Nombela Royo, C. Normand, A. Novo Cal, J. Novoa Fernandez, G. Nowak, H. N. Nur, A. Oblakowska-Mucha, T. Oeser, O. Okhrimenko, R. Oldeman, F. Oliva, E. Olivart Pino, M. Olocco, R. H. O'Neil, J. S. Ordonez Soto, D. Osthues, J. M. Otalora Goicochea, P. Owen, A. Oyanguren, O. Ozcelik, F. Paciolla, A. Padee, K. O. Padeken, B. Pagare, T. Pajero, A. Palano, L. Palini, L. Palombini, M. Palutan, C. Pan, X. Pan, S. Panebianco, S. Paniskaki, L. Paolucci, A. Papanestis, M. Pappagallo, L. L. Pappalardo, C. Pappenheimer, C. Parkes, D. Parmar, G. Passaleva, D. Passaro, A. Pastore, M. Patel, J. Patoc, C. Patrignani, A. Paul, C. J. Pawley, A. Pellegrino, J. Peng, X. Peng, M. Pepe Altarelli, S. Perazzini, H. Pereira Da Costa, M. Pereira Martinez, A. Pereiro Castro, C. Perez, A. Perez Casas, P. Perret, A. Perrevoort, A. Perro, M. J. Peters, A. Petkovic, K. Petridis, A. Petrolini, S. Pezzulo, J. P. Pfaller, H. Pham, L. Pica, M. Piccini, L. Piccolo, B. Pietrzyk, R. N. Pilato, D. Pinci, F. Pisani, M. Pizzichemi, V. M. Placinta, M. Plo Casasus, T. Poeschl, F. Polci, M. Poli Lener, A. Poluektov, I. Polyakov, E. Polycarpo, S. Ponce, D. Popov, K. Popp, K. Prasanth, C. Prouve, D. Provenzano, V. Pugatch, A. Puicercus Gomez, G. Punzi, J. R. Pybus, Q. Qian, W. Qian, N. Qin, R. Quagliani, R. I. Rabadan Trejo, B. Rachwal, R. Racz, J. H. Rademacker, M. Rama, M. Ramírez García, V. Ramos De Oliveira, M. Ramos Pernas, G. Ramsey, M. S. Rangel, G. Raven, M. Rebollo De Miguel, F. Redi, J. Reich, F. Reiss, Z. Ren, P. K. Resmi, M. Ribalda Galvez, R. Ribatti, G. Ricart, D. Riccardi, S. Ricciardi, K. Richardson, M. Richardson-Slipper, F. Riehn, K. Rinnert, P. Robbe, G. Robertson, E. Rodrigues, A. Rodriguez Alvarez, E. Rodriguez Fernandez, J. A. Rodriguez Lopez, E. Rodriguez Rodriguez, J. Roensch, A. Rogovskiy, D. L. Rolf, P. Roloff, A. Romano, V. Romanovskiy, A. Romero Vidal, G. Romolini, F. Ronchetti, T. Rong, W. Rose, M. Rotondo, M. S. Rudolph, G. Ruggiero, M. Ruiz Diaz, J. Ruiz Vidal, J. Ruz Armendariz, J. J. Saavedra-Arias, J. J. Saborido Silva, D. Sahoo, N. Sahoo, B. Saitta, M. Salomoni, I. Sanderswood, R. Santacesaria, C. Santamarina Rios, M. Santimaria, L. Santoro, E. Santovetti, A. Saputi, A. Sarnatskiy, G. Sarpis, M. Sarpis, C. Satriano, A. Satta, M. Saur, H. Sazak, F. Sborzacchi, A. Scarabotto, S. Schael, S. Scherl, M. Schiller, H. Schindler, M. Schmelling, B. Schmidt, N. Schmidt, S. Schmitt, H. Schmitz, O. Schneider, A. Schopper, N. Schulte, H. Schumacher, M. H. Schune, G. Schwering, B. Sciascia, A. Sciuccati, G. Scriven, I. Segal, S. Sellam, M. Senghi Soares, A. Sergi, N. Serra, L. Sestini, B. Sevilla Sanjuan, Y. Shang, D. M. Shangase, R. S. Sharma, L. Shchutska, T. Shears, S. Shelton, J. Shen, Z. Shen, S. Sheng, B. Shi, J. Shi, Q. Shi, W. S. Shi, E. Shmanin, R. Silva Coutinho, G. Simi, S. Simone, M. Singha, I. Siral, N. Skidmore, T. Skwarnicki, M. W. Slater, E. Smith, M. Smith, L. Soares Lavra, M. D. Sokoloff, F. J. P. Soler, A. Solomin, K. Solovieva, N. S. Sommerfeld, R. Song, Y. Song, Y. Song, Y. S. Song, F. L. Souza De Almeida, G. Souza De Castro, B. Souza De Paula, K. M. Sowa, E. Spadaro Norella, E. Spedicato, J. G. Speer, P. Spradlin, F. Stagni, M. Stahl, S. Stahl, S. Stanislaus, M. Stefaniak, O. Steinkamp, F. Suljik, J. Sun, L. Sun, M. Sun, D. Sundfeld, P. Svihra, V. Svintozelskyi, J. Swallow, K. Swientek, F. Swystun, A. Szabelski, T. Szumlak, Y. Tan, Y. Tang, Y. T. Tang, M. D. Tat, J. A. Teijeiro Jimenez, F. Terzuoli, F. Teubert, E. Thomas, D. J. D. Thompson, A. R. Thomson-Strong, R. Thornton, H. Tilquin, V. Tisserand, S. T'Jampens, M. Tobin, T. T. Todorov, L. Tomassetti, G. Tonani, X. Tong, T. Tork, L. Torlai, L. Toscano, D. Y. Tou, C. Trippl, G. Tuci, N. Tuning, L. H. Uecker, A. Ukleja, A. Upadhyay, B. Urbach, A. Usachov, U. Uwer, V. Vagnoni, A. Vaitkevicius, A. Valassi, V. Valcarce Cadenas, G. Valenti, N. Valls Canudas, J. van Eldik, H. Van Hecke, E. van Herwijnen, C. B. Van Hulse, R. Van Laak, M. van Veghel, P. Varrella, R. Vazquez Gomez, P. Vazquez Regueiro, C. Vázquez Sierra, S. Vecchi, J. Velilla Serna, J. J. Velthuis, M. Veltri, A. Venkateswaran, M. Verdoglia, M. Vesterinen, W. Vetens, D. Vico Benet, P. Vidrier Villalba, M. Vieites Diaz, X. Vilasis-Cardona, E. Vilella Figueras, A. Villa, P. Vincent, B. Vivacqua, F. C. Volle, D. vom Bruch, K. Vos, C. Vrahas, J. Wagner, J. Walsh, N. Walter, E. J. Walton, G. Wan, A. Wang, B. Wang, C. Wang, C. Wang, C. Wang, G. Wang, H. Wang, J. Wang, J. Wang, J. Wang, J. Wang, M. Wang, N. W. Wang, X. Wang, X. Wang, X. Wang, X. W. Wang, Y. Wang, Y. Wang, Y. Wang, Y. H. Wang, Z. Wang, Z. Wang, J. A. Ward, A. Wasili, M. Waterlaat, N. K. Watson, D. Websdale, Y. Wei, Z. Weida, J. Wendel, B. D. C. Westhenry, A. S. White, C. White, M. Whitehead, E. Whiter, A. R. Wiederhold, D. Wiedner, M. A. Wiegertjes, C. Wild, G. Wilkinson, M. K. Wilkinson, M. Williams, M. J. Williams, M. R. J. Williams, R. Williams, S. Williams, Z. Williams, F. F. Wilson, M. Winn, W. Wislicki, M. Witek, L. Witola, T. Wolf, E. Wood, G. Wormser, S. A. Wotton, H. Wu, J. Wu, T. Wu, X. Wu, Y. Wu, Z. Wu, K. Wyllie, S. Xian, Z. Xiang, Y. Xie, T. X. Xing, A. Xu, L. Xu, M. Xu, R. Xu, Z. Xu, Z. Xu, Z. Xu, Z. Xu, S. Yadav, K. Yang, X. Yang, Y. Yang, Y. Yang, Z. Yang, Z. Yang, H. Yeung, H. Yin, X. Yin, C. Y. Yu, J. Yu, K. Yu, X. Yuan, Y Yuan, S. Zalambani, J. A. Zamora Saa, F. Zangari, M. Zavertyaev, M. Zdybal, F. Zenesini, C. Zeng, M. Zeng, S. H Zeng, C. Zhang, C. Zhang, D. Zhang, J. Zhang, L. Zhang, Q. Z. Zhang, R. Zhang, S. Zhang, S. L. Zhang, Y. Zhang, Z. Zhang, J. Zhao, M. Zhao, Y. Zhao, A. Zhelezov, S. Z. Zheng, X. Z. Zheng, Y. Zheng, T. Zhou, X. Zhou, V. Zhovkovska, L. Z. Zhu, X. Zhu, X. Zhu, Y. Zhu, V. Zhukov, J. Zhuo, T. Zies, D. Zuliani, X. Zuo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The production rates of $\mathitΥ(2S)$ and $\mathitΥ(3S)$ mesons relative to that of the $\mathitΥ(1S)$ state are measured in $pp$, $p$O, and OO collisions by the LHCb collaboration. The ratios measured in $pp$ data are consistent with previous LHCb measurements at different center-of-mass energies. Only slight relative suppression of the $\mathitΥ(2S)$ and $\mathitΥ(3S)$ states is found in $p$O collisions, while in OO collisions the $\mathitΥ(2S)$ is suppressed by a factor of $\sim2$, with evidence for suppression of the $\mathitΥ(3S)$. The significant suppression in OO data, compared to the small effect in $p$O data, shows the emergence of additional suppression mechanisms in the relatively small OO collision system. Models incorporating quark-gluon plasma formation in OO collisions successfully describe the data. Implications for the interplay between cold nuclear matter effects and color screening in a deconfined quark-gluon plasma are discussed.&lt;/p&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 18:06:29 GMT</pubDate>
+      <guid isPermaLink="false">2608.00182v1</guid>
+      <dc:creator>LHCb collaboration</dc:creator>
+      <dc:creator>R. Aaij</dc:creator>
+      <dc:creator>M. Abdelfatah</dc:creator>
+      <dc:creator>A. S. W. Abdelmotteleb</dc:creator>
+      <dc:creator>C. Abellan Beteta</dc:creator>
+      <dc:creator>F. Abudinén</dc:creator>
+      <dc:creator>T. Ackernley</dc:creator>
+      <dc:creator>A. A. Adefisoye</dc:creator>
+      <dc:creator>B. Adeva</dc:creator>
+      <dc:creator>M. Adinolfi</dc:creator>
+      <dc:creator>P. Adlarson</dc:creator>
+      <dc:creator>C. Agapopoulou</dc:creator>
+      <dc:creator>C. A. Aidala</dc:creator>
+      <dc:creator>S. Akar</dc:creator>
+      <dc:creator>K. Akiba</dc:creator>
+      <dc:creator>H. Al Saleh</dc:creator>
+      <dc:creator>P. Albicocco</dc:creator>
+      <dc:creator>J. Albrecht</dc:creator>
+      <dc:creator>R. Aleksiejunas</dc:creator>
+      <dc:creator>F. Alessio</dc:creator>
+      <dc:creator>P. Alvarez Cartelle</dc:creator>
+      <dc:creator>S. Amato</dc:creator>
+      <dc:creator>J. L. Amey</dc:creator>
+      <dc:creator>Y. Amhis</dc:creator>
+      <dc:creator>Z. Amos</dc:creator>
+      <dc:creator>L. An</dc:creator>
+      <dc:creator>L. Anderlini</dc:creator>
+      <dc:creator>P. Andreola</dc:creator>
+      <dc:creator>M. Andreotti</dc:creator>
+      <dc:creator>S. Andres Estrada</dc:creator>
+      <dc:creator>A. Anelli</dc:creator>
+      <dc:creator>D. Ao</dc:creator>
+      <dc:creator>C. Arata</dc:creator>
+      <dc:creator>F. Archilli</dc:creator>
+      <dc:creator>Z. Areg</dc:creator>
+      <dc:creator>M. Argenton</dc:creator>
+      <dc:creator>S. Arguedas Cuendis</dc:creator>
+      <dc:creator>L. Arnone</dc:creator>
+      <dc:creator>M. Artuso</dc:creator>
+      <dc:creator>E. Aslanides</dc:creator>
+      <dc:creator>R. Ataíde Da Silva</dc:creator>
+      <dc:creator>M. Atzeni</dc:creator>
+      <dc:creator>B. Audurier</dc:creator>
+      <dc:creator>J. A. Authier</dc:creator>
+      <dc:creator>D. Bacher</dc:creator>
+      <dc:creator>I. Bachiller Perea</dc:creator>
+      <dc:creator>S. Bachmann</dc:creator>
+      <dc:creator>M. Bachmayer</dc:creator>
+      <dc:creator>J. J. Back</dc:creator>
+      <dc:creator>M. Bai</dc:creator>
+      <dc:creator>Z. B. Bai</dc:creator>
+      <dc:creator>V. Balagura</dc:creator>
+      <dc:creator>A. Balboni</dc:creator>
+      <dc:creator>W. Baldini</dc:creator>
+      <dc:creator>Z. Baldwin</dc:creator>
+      <dc:creator>L. Balzani</dc:creator>
+      <dc:creator>H. Bao</dc:creator>
+      <dc:creator>J. Baptista de Souza Leite</dc:creator>
+      <dc:creator>C. Barbero Pretel</dc:creator>
+      <dc:creator>M. Barbetti</dc:creator>
+      <dc:creator>I. R. Barbosa</dc:creator>
+      <dc:creator>W. Barker</dc:creator>
+      <dc:creator>R. J. Barlow</dc:creator>
+      <dc:creator>M. Barnyakov</dc:creator>
+      <dc:creator>S. Baron</dc:creator>
+      <dc:creator>S. Barsuk</dc:creator>
+      <dc:creator>W. Barter</dc:creator>
+      <dc:creator>J. Bartz</dc:creator>
+      <dc:creator>S. Bashir</dc:creator>
+      <dc:creator>B. Batsukh</dc:creator>
+      <dc:creator>P. B. Battista</dc:creator>
+      <dc:creator>A. Bavarchee</dc:creator>
+      <dc:creator>A. Bay</dc:creator>
+      <dc:creator>A. Beck</dc:creator>
+      <dc:creator>M. Becker</dc:creator>
+      <dc:creator>F. Bedeschi</dc:creator>
+      <dc:creator>I. B. Bediaga</dc:creator>
+      <dc:creator>N. A. Behling</dc:creator>
+      <dc:creator>S. Belin</dc:creator>
+      <dc:creator>A. Bellavista</dc:creator>
+      <dc:creator>I. Belyaev</dc:creator>
+      <dc:creator>G. Bencivenni</dc:creator>
+      <dc:creator>E. Ben-Haim</dc:creator>
+      <dc:creator>J. L. M. Berkey</dc:creator>
+      <dc:creator>R. Bernet</dc:creator>
+      <dc:creator>A. Bertolin</dc:creator>
+      <dc:creator>L. Bertsch</dc:creator>
+      <dc:creator>F. Betti</dc:creator>
+      <dc:creator>J. Bex</dc:creator>
+      <dc:creator>O. Bezshyyko</dc:creator>
+      <dc:creator>S. Bhattacharya</dc:creator>
+      <dc:creator>M. S. Bieker</dc:creator>
+      <dc:creator>N. V. Biesuz</dc:creator>
+      <dc:creator>A. Biolchini</dc:creator>
+      <dc:creator>M. Birch</dc:creator>
+      <dc:creator>F. C. R. Bishop</dc:creator>
+      <dc:creator>A. Bitadze</dc:creator>
+      <dc:creator>A. Bizzeti</dc:creator>
+      <dc:creator>T. Blake</dc:creator>
+      <dc:creator>F. Blanc</dc:creator>
+      <dc:creator>J. E. Blank</dc:creator>
+      <dc:creator>S. Blusk</dc:creator>
+      <dc:creator>J. A. Boelhauve</dc:creator>
+      <dc:creator>O. Boente Garcia</dc:creator>
+      <dc:creator>T. Boettcher</dc:creator>
+      <dc:creator>A. Bohare</dc:creator>
+      <dc:creator>C. Bolognani</dc:creator>
+      <dc:creator>R. B. Bonacci</dc:creator>
+      <dc:creator>A. Bordelius</dc:creator>
+      <dc:creator>F. Borgato</dc:creator>
+      <dc:creator>S. Borghi</dc:creator>
+      <dc:creator>M. Borsato</dc:creator>
+      <dc:creator>J. T. Borsuk</dc:creator>
+      <dc:creator>E. Bottalico</dc:creator>
+      <dc:creator>S. A. Bouchiba</dc:creator>
+      <dc:creator>M. Bovill</dc:creator>
+      <dc:creator>T. J. V. Bowcock</dc:creator>
+      <dc:creator>A. Boyer</dc:creator>
+      <dc:creator>C. Bozzi</dc:creator>
+      <dc:creator>J. D. Brandenburg</dc:creator>
+      <dc:creator>A. Brea Rodriguez</dc:creator>
+      <dc:creator>N. Breer</dc:creator>
+      <dc:creator>C. Breitfeld</dc:creator>
+      <dc:creator>J. Brodzicka</dc:creator>
+      <dc:creator>J. Brown</dc:creator>
+      <dc:creator>E. Buchanan</dc:creator>
+      <dc:creator>M. Burgos Marcos</dc:creator>
+      <dc:creator>C. Burr</dc:creator>
+      <dc:creator>E. Butera</dc:creator>
+      <dc:creator>C. Buti</dc:creator>
+      <dc:creator>J. S. Butter</dc:creator>
+      <dc:creator>J. Buytaert</dc:creator>
+      <dc:creator>W. Byczynski</dc:creator>
+      <dc:creator>S. Cadeddu</dc:creator>
+      <dc:creator>H. Cai</dc:creator>
+      <dc:creator>Y. Cai</dc:creator>
+      <dc:creator>Y. Cai</dc:creator>
+      <dc:creator>A. Caillet</dc:creator>
+      <dc:creator>R. Calabrese</dc:creator>
+      <dc:creator>L. Calefice</dc:creator>
+      <dc:creator>M. Calvi</dc:creator>
+      <dc:creator>M. Calvo Gomez</dc:creator>
+      <dc:creator>P. Camargo Magalhaes</dc:creator>
+      <dc:creator>J. I. Cambon Bouzas</dc:creator>
+      <dc:creator>P. Campana</dc:creator>
+      <dc:creator>A. Campomagnani</dc:creator>
+      <dc:creator>A. C. Campos</dc:creator>
+      <dc:creator>A. F. Campoverde Quezada</dc:creator>
+      <dc:creator>Y. Cao</dc:creator>
+      <dc:creator>S. Capelli</dc:creator>
+      <dc:creator>M. Caporale</dc:creator>
+      <dc:creator>L. Capriotti</dc:creator>
+      <dc:creator>R. Caravaca-Mora</dc:creator>
+      <dc:creator>A. Carbone</dc:creator>
+      <dc:creator>L. Carcedo Salgado</dc:creator>
+      <dc:creator>R. Cardinale</dc:creator>
+      <dc:creator>A. Cardini</dc:creator>
+      <dc:creator>P. Carniti</dc:creator>
+      <dc:creator>L. Carus</dc:creator>
+      <dc:creator>R. Caspary</dc:creator>
+      <dc:creator>G. Casse</dc:creator>
+      <dc:creator>M. Cattaneo</dc:creator>
+      <dc:creator>G. Cavallero</dc:creator>
+      <dc:creator>V. Cavallini</dc:creator>
+      <dc:creator>S. Celani</dc:creator>
+      <dc:creator>I. Celestino</dc:creator>
+      <dc:creator>S. Cesare</dc:creator>
+      <dc:creator>A. J. Chadwick</dc:creator>
+      <dc:creator>M. Charles</dc:creator>
+      <dc:creator>Ph. Charpentier</dc:creator>
+      <dc:creator>E. Chatzianagnostou</dc:creator>
+      <dc:creator>R. Cheaib</dc:creator>
+      <dc:creator>M. Chefdeville</dc:creator>
+      <dc:creator>C. Chen</dc:creator>
+      <dc:creator>J. Chen</dc:creator>
+      <dc:creator>S. Chen</dc:creator>
+      <dc:creator>Z. Chen</dc:creator>
+      <dc:creator>A. Chen Hu</dc:creator>
+      <dc:creator>M. Cherif</dc:creator>
+      <dc:creator>S. Chernyshenko</dc:creator>
+      <dc:creator>X. Chiotopoulos</dc:creator>
+      <dc:creator>G. Chizhik</dc:creator>
+      <dc:creator>V. Chobanova</dc:creator>
+      <dc:creator>A. Christakakis</dc:creator>
+      <dc:creator>M. Chrzaszcz</dc:creator>
+      <dc:creator>Y. Chu</dc:creator>
+      <dc:creator>V. Chulikov</dc:creator>
+      <dc:creator>P. Ciambrone</dc:creator>
+      <dc:creator>X. Cid Vidal</dc:creator>
+      <dc:creator>P. Cifra</dc:creator>
+      <dc:creator>P. E. L. Clarke</dc:creator>
+      <dc:creator>M. Clemencic</dc:creator>
+      <dc:creator>H. V. Cliff</dc:creator>
+      <dc:creator>J. Closier</dc:creator>
+      <dc:creator>C. Cocha Toapaxi</dc:creator>
+      <dc:creator>V. Coco</dc:creator>
+      <dc:creator>A. Codovini</dc:creator>
+      <dc:creator>C. Codovini</dc:creator>
+      <dc:creator>J. Cogan</dc:creator>
+      <dc:creator>E. Cogneras</dc:creator>
+      <dc:creator>L. Cojocariu</dc:creator>
+      <dc:creator>S. Collaviti</dc:creator>
+      <dc:creator>P. Collins</dc:creator>
+      <dc:creator>T. Colombo</dc:creator>
+      <dc:creator>M. Colonna</dc:creator>
+      <dc:creator>A. Comerma-Montells</dc:creator>
+      <dc:creator>L. Congedo</dc:creator>
+      <dc:creator>J. Connaughton</dc:creator>
+      <dc:creator>A. Contu</dc:creator>
+      <dc:creator>N. Cooke</dc:creator>
+      <dc:creator>A. Corallo</dc:creator>
+      <dc:creator>G. Cordova</dc:creator>
+      <dc:creator>C. Coronel</dc:creator>
+      <dc:creator>I. Corredoira</dc:creator>
+      <dc:creator>A. Correia</dc:creator>
+      <dc:creator>G. Corti</dc:creator>
+      <dc:creator>G. C. Costantino</dc:creator>
+      <dc:creator>C. Cotirlan</dc:creator>
+      <dc:creator>J. Cottee Meldrum</dc:creator>
+      <dc:creator>B. Couturier</dc:creator>
+      <dc:creator>D. C. Craik</dc:creator>
+      <dc:creator>N. Crepet</dc:creator>
+      <dc:creator>M. Cruz Torres</dc:creator>
+      <dc:creator>M. Cubero Campos</dc:creator>
+      <dc:creator>E. Curras Rivera</dc:creator>
+      <dc:creator>R. Currie</dc:creator>
+      <dc:creator>C. L. Da Silva</dc:creator>
+      <dc:creator>X. Dai</dc:creator>
+      <dc:creator>J. Dalseno</dc:creator>
+      <dc:creator>C. D'Ambrosio</dc:creator>
+      <dc:creator>G. Darze</dc:creator>
+      <dc:creator>A. Davidson</dc:creator>
+      <dc:creator>O. De Aguiar Francisco</dc:creator>
+      <dc:creator>C. De Angelis</dc:creator>
+      <dc:creator>F. De Benedetti</dc:creator>
+      <dc:creator>J. de Boer</dc:creator>
+      <dc:creator>K. De Bruyn</dc:creator>
+      <dc:creator>S. De Capua</dc:creator>
+      <dc:creator>M. De Cian</dc:creator>
+      <dc:creator>U. De Freitas Carneiro Da Graca</dc:creator>
+      <dc:creator>F. De Gregorio</dc:creator>
+      <dc:creator>E. De Lucia</dc:creator>
+      <dc:creator>J. M. De Miranda</dc:creator>
+      <dc:creator>L. De Paula</dc:creator>
+      <dc:creator>A. De Robertis</dc:creator>
+      <dc:creator>E. De Santis</dc:creator>
+      <dc:creator>M. De Serio</dc:creator>
+      <dc:creator>P. De Simone</dc:creator>
+      <dc:creator>F. De Vellis</dc:creator>
+      <dc:creator>J. A. de Vries</dc:creator>
+      <dc:creator>F. Debernardis</dc:creator>
+      <dc:creator>D. Decamp</dc:creator>
+      <dc:creator>S. Dekkers</dc:creator>
+      <dc:creator>L. Del Buono</dc:creator>
+      <dc:creator>B. Delaney</dc:creator>
+      <dc:creator>B. Demaire-Lepape</dc:creator>
+      <dc:creator>J. Deng</dc:creator>
+      <dc:creator>O. Deschamps</dc:creator>
+      <dc:creator>F. Dettori</dc:creator>
+      <dc:creator>B. Dey</dc:creator>
+      <dc:creator>P. Di Nezza</dc:creator>
+      <dc:creator>S. Ding</dc:creator>
+      <dc:creator>Y. Ding</dc:creator>
+      <dc:creator>L. Dittmann</dc:creator>
+      <dc:creator>J. F. Diverchy</dc:creator>
+      <dc:creator>A. D. Docheva</dc:creator>
+      <dc:creator>A. Doheny</dc:creator>
+      <dc:creator>C. Dong</dc:creator>
+      <dc:creator>F. Dordei</dc:creator>
+      <dc:creator>J. Dorta Moreno</dc:creator>
+      <dc:creator>A. C. dos Reis</dc:creator>
+      <dc:creator>J. Dos Santos Oliveira</dc:creator>
+      <dc:creator>A. D. Dowling</dc:creator>
+      <dc:creator>L. Dreyfus</dc:creator>
+      <dc:creator>W. Duan</dc:creator>
+      <dc:creator>P. Duda</dc:creator>
+      <dc:creator>L. Dufour</dc:creator>
+      <dc:creator>V. Duk</dc:creator>
+      <dc:creator>P. Durante</dc:creator>
+      <dc:creator>M. M. Duras</dc:creator>
+      <dc:creator>J. M. Durham</dc:creator>
+      <dc:creator>O. D. Durmus</dc:creator>
+      <dc:creator>K. Duwe</dc:creator>
+      <dc:creator>A. Dziurda</dc:creator>
+      <dc:creator>S. Easo</dc:creator>
+      <dc:creator>E. Eckstein</dc:creator>
+      <dc:creator>U. Egede</dc:creator>
+      <dc:creator>S. Eisenhardt</dc:creator>
+      <dc:creator>E. Ejopu</dc:creator>
+      <dc:creator>L. Eklund</dc:creator>
+      <dc:creator>M. Elashri</dc:creator>
+      <dc:creator>D. Elizondo Blanco</dc:creator>
+      <dc:creator>J. Ellbracht</dc:creator>
+      <dc:creator>S. Ely</dc:creator>
+      <dc:creator>A. Ene</dc:creator>
+      <dc:creator>T. Evans</dc:creator>
+      <dc:creator>F. Fabiano</dc:creator>
+      <dc:creator>S. Faghih</dc:creator>
+      <dc:creator>L. N. Falcao</dc:creator>
+      <dc:creator>B. Fang</dc:creator>
+      <dc:creator>R. Fantechi</dc:creator>
+      <dc:creator>L. Fantini</dc:creator>
+      <dc:creator>M. Faria</dc:creator>
+      <dc:creator>K. Farmer</dc:creator>
+      <dc:creator>F. Fassin</dc:creator>
+      <dc:creator>D. Fazzini</dc:creator>
+      <dc:creator>L. Felkowski</dc:creator>
+      <dc:creator>C. Feng</dc:creator>
+      <dc:creator>M. Feng</dc:creator>
+      <dc:creator>A. Fernandez Casani</dc:creator>
+      <dc:creator>M. Fernandez Gomez</dc:creator>
+      <dc:creator>B. Fernandez Rodino</dc:creator>
+      <dc:creator>J. Fernandez-John</dc:creator>
+      <dc:creator>A. D. Fernez</dc:creator>
+      <dc:creator>F. Ferrari</dc:creator>
+      <dc:creator>F. Ferreira Rodrigues</dc:creator>
+      <dc:creator>R. A. Fini</dc:creator>
+      <dc:creator>R. Fiorenza</dc:creator>
+      <dc:creator>M. Fiorini</dc:creator>
+      <dc:creator>M. Firlej</dc:creator>
+      <dc:creator>D. S. Fitzgerald</dc:creator>
+      <dc:creator>C. Fitzpatrick</dc:creator>
+      <dc:creator>T. Fiutowski</dc:creator>
+      <dc:creator>F. Fleuret</dc:creator>
+      <dc:creator>A. Fomin</dc:creator>
+      <dc:creator>M. Fontana</dc:creator>
+      <dc:creator>M. Fontes Vaz</dc:creator>
+      <dc:creator>L. A. Foreman</dc:creator>
+      <dc:creator>R. Forty</dc:creator>
+      <dc:creator>D. Foulds-Holt</dc:creator>
+      <dc:creator>V. Franco Lima</dc:creator>
+      <dc:creator>M. Franco Sevilla</dc:creator>
+      <dc:creator>M. Frank</dc:creator>
+      <dc:creator>E. Franzoso</dc:creator>
+      <dc:creator>G. Frau</dc:creator>
+      <dc:creator>C. Frei</dc:creator>
+      <dc:creator>D. A. Friday</dc:creator>
+      <dc:creator>J. Fu</dc:creator>
+      <dc:creator>Y. Fu</dc:creator>
+      <dc:creator>Q. Führing</dc:creator>
+      <dc:creator>T. Fulghesu</dc:creator>
+      <dc:creator>G. Galati</dc:creator>
+      <dc:creator>M. D. Galati</dc:creator>
+      <dc:creator>A. Gallas Torreira</dc:creator>
+      <dc:creator>D. Galli</dc:creator>
+      <dc:creator>S. Gambetta</dc:creator>
+      <dc:creator>M. Gandelman</dc:creator>
+      <dc:creator>P. Gandini</dc:creator>
+      <dc:creator>B. Ganie</dc:creator>
+      <dc:creator>H. Gao</dc:creator>
+      <dc:creator>R. Gao</dc:creator>
+      <dc:creator>T. Q. Gao</dc:creator>
+      <dc:creator>Y. Gao</dc:creator>
+      <dc:creator>Y. Gao</dc:creator>
+      <dc:creator>Y. Gao</dc:creator>
+      <dc:creator>L. M. Garcia Martin</dc:creator>
+      <dc:creator>P. Garcia Moreno</dc:creator>
+      <dc:creator>J. García Pardiñas</dc:creator>
+      <dc:creator>P. Gardner</dc:creator>
+      <dc:creator>L. Garrido</dc:creator>
+      <dc:creator>C. Gaspar</dc:creator>
+      <dc:creator>A. Gavrikov</dc:creator>
+      <dc:creator>J. George</dc:creator>
+      <dc:creator>E. Gersabeck</dc:creator>
+      <dc:creator>M. Gersabeck</dc:creator>
+      <dc:creator>T. Gershon</dc:creator>
+      <dc:creator>S. Ghizzo</dc:creator>
+      <dc:creator>Z. Ghorbanimoghaddam</dc:creator>
+      <dc:creator>F. I. Giasemis</dc:creator>
+      <dc:creator>V. Gibson</dc:creator>
+      <dc:creator>H. K. Giemza</dc:creator>
+      <dc:creator>A. L. Gilman</dc:creator>
+      <dc:creator>M. Giovannetti</dc:creator>
+      <dc:creator>A. Gioventù</dc:creator>
+      <dc:creator>L. Girardey</dc:creator>
+      <dc:creator>M. A. Giza</dc:creator>
+      <dc:creator>F. C. Glaser</dc:creator>
+      <dc:creator>V. V. Gligorov</dc:creator>
+      <dc:creator>C. Göbel</dc:creator>
+      <dc:creator>L. Golinka-Bezshyyko</dc:creator>
+      <dc:creator>E. Golobardes</dc:creator>
+      <dc:creator>A. Golutvin</dc:creator>
+      <dc:creator>S. Gomez Fernandez</dc:creator>
+      <dc:creator>A. G. Gomez Mongui</dc:creator>
+      <dc:creator>W. Gomulka</dc:creator>
+      <dc:creator>F. Goncalves Abrantes</dc:creator>
+      <dc:creator>I. Gonçales Vaz</dc:creator>
+      <dc:creator>M. Goncerz</dc:creator>
+      <dc:creator>G. Gong</dc:creator>
+      <dc:creator>S. Gong</dc:creator>
+      <dc:creator>J. A. Gooding</dc:creator>
+      <dc:creator>C. Gotti</dc:creator>
+      <dc:creator>E. Govorkova</dc:creator>
+      <dc:creator>J. P. Grabowski</dc:creator>
+      <dc:creator>L. A. Granado Cardoso</dc:creator>
+      <dc:creator>R. Grande Quartieri</dc:creator>
+      <dc:creator>E. Graugés</dc:creator>
+      <dc:creator>E. Graverini</dc:creator>
+      <dc:creator>L. Grazette</dc:creator>
+      <dc:creator>G. Graziani</dc:creator>
+      <dc:creator>A. T. Grecu</dc:creator>
+      <dc:creator>N. A. Grieser</dc:creator>
+      <dc:creator>L. Grillo</dc:creator>
+      <dc:creator>C. Gu</dc:creator>
+      <dc:creator>M. Guarise</dc:creator>
+      <dc:creator>L. Guerry</dc:creator>
+      <dc:creator>A. -K. Guseinov</dc:creator>
+      <dc:creator>Y. Guz</dc:creator>
+      <dc:creator>T. Gys</dc:creator>
+      <dc:creator>K. Habermann</dc:creator>
+      <dc:creator>T. Hadavizadeh</dc:creator>
+      <dc:creator>C. Hadjivasiliou</dc:creator>
+      <dc:creator>G. Haefeli</dc:creator>
+      <dc:creator>C. Haen</dc:creator>
+      <dc:creator>S. Haken</dc:creator>
+      <dc:creator>G. Hallett</dc:creator>
+      <dc:creator>P. M. Hamilton</dc:creator>
+      <dc:creator>Q. Han</dc:creator>
+      <dc:creator>S. Han</dc:creator>
+      <dc:creator>X. Han</dc:creator>
+      <dc:creator>S. Hansmann-Menzemer</dc:creator>
+      <dc:creator>N. Harnew</dc:creator>
+      <dc:creator>T. J. Harris</dc:creator>
+      <dc:creator>L. Hartman</dc:creator>
+      <dc:creator>M. Hartmann</dc:creator>
+      <dc:creator>S. Hashmi</dc:creator>
+      <dc:creator>J. He</dc:creator>
+      <dc:creator>N. Heatley</dc:creator>
+      <dc:creator>A. Hedes</dc:creator>
+      <dc:creator>F. Hemmer</dc:creator>
+      <dc:creator>C. Henderson</dc:creator>
+      <dc:creator>R. Henderson</dc:creator>
+      <dc:creator>R. D. L. Henderson</dc:creator>
+      <dc:creator>A. M. Hennequin</dc:creator>
+      <dc:creator>K. Hennessy</dc:creator>
+      <dc:creator>A. Henrot</dc:creator>
+      <dc:creator>J. Herd</dc:creator>
+      <dc:creator>P. Herrero Gascon</dc:creator>
+      <dc:creator>J. Heuel</dc:creator>
+      <dc:creator>A. Heyn</dc:creator>
+      <dc:creator>A. Hicheur</dc:creator>
+      <dc:creator>G. Hijano Mendizabal</dc:creator>
+      <dc:creator>J. Horswill</dc:creator>
+      <dc:creator>R. Hou</dc:creator>
+      <dc:creator>Y. Hou</dc:creator>
+      <dc:creator>D. C. Houston</dc:creator>
+      <dc:creator>N. Howarth</dc:creator>
+      <dc:creator>W. Hu</dc:creator>
+      <dc:creator>X. Hu</dc:creator>
+      <dc:creator>W. Hulsbergen</dc:creator>
+      <dc:creator>R. J. Hunter</dc:creator>
+      <dc:creator>D. Hutchcroft</dc:creator>
+      <dc:creator>M. Idzik</dc:creator>
+      <dc:creator>P. Ilten</dc:creator>
+      <dc:creator>A. Iohner</dc:creator>
+      <dc:creator>S. Jacevicius</dc:creator>
+      <dc:creator>H. Jage</dc:creator>
+      <dc:creator>S. J. Jaimes Elles</dc:creator>
+      <dc:creator>S. Jakobsen</dc:creator>
+      <dc:creator>T. Jakoubek</dc:creator>
+      <dc:creator>E. Jans</dc:creator>
+      <dc:creator>A. Jawahery</dc:creator>
+      <dc:creator>C. Jayaweera</dc:creator>
+      <dc:creator>A. Jelavic</dc:creator>
+      <dc:creator>V. Jevtic</dc:creator>
+      <dc:creator>Z. Jia</dc:creator>
+      <dc:creator>E. Jiang</dc:creator>
+      <dc:creator>X. Jiang</dc:creator>
+      <dc:creator>Y. Jiang</dc:creator>
+      <dc:creator>Y. J. Jiang</dc:creator>
+      <dc:creator>E. Jimenez Moya</dc:creator>
+      <dc:creator>N. Jindal</dc:creator>
+      <dc:creator>M. John</dc:creator>
+      <dc:creator>A. John Rubesh Rajan</dc:creator>
+      <dc:creator>D. Johnson</dc:creator>
+      <dc:creator>C. R. Jones</dc:creator>
+      <dc:creator>S. Joshi</dc:creator>
+      <dc:creator>B. Jost</dc:creator>
+      <dc:creator>J. Juan Castella</dc:creator>
+      <dc:creator>N. Jurik</dc:creator>
+      <dc:creator>I. Juszczak</dc:creator>
+      <dc:creator>K. Kalecinska</dc:creator>
+      <dc:creator>D. Kaminaris</dc:creator>
+      <dc:creator>S. Kandybei</dc:creator>
+      <dc:creator>M. Kane</dc:creator>
+      <dc:creator>Y. Kang</dc:creator>
+      <dc:creator>C. Kar</dc:creator>
+      <dc:creator>M. Karacson</dc:creator>
+      <dc:creator>A. Kauniskangas</dc:creator>
+      <dc:creator>J. W. Kautz</dc:creator>
+      <dc:creator>M. K. Kazanecki</dc:creator>
+      <dc:creator>F. Keizer</dc:creator>
+      <dc:creator>M. Kenzie</dc:creator>
+      <dc:creator>T. Ketel</dc:creator>
+      <dc:creator>B. Khanji</dc:creator>
+      <dc:creator>S. Kholodenko</dc:creator>
+      <dc:creator>V. Kholoimov</dc:creator>
+      <dc:creator>G. Khreich</dc:creator>
+      <dc:creator>F. Kiraz</dc:creator>
+      <dc:creator>T. Kirn</dc:creator>
+      <dc:creator>V. S. Kirsebom</dc:creator>
+      <dc:creator>N. Kleijne</dc:creator>
+      <dc:creator>A. Kleimenova</dc:creator>
+      <dc:creator>D. Klekots</dc:creator>
+      <dc:creator>K. Klimaszewski</dc:creator>
+      <dc:creator>M. R. Kmiec</dc:creator>
+      <dc:creator>T. Knospe</dc:creator>
+      <dc:creator>R. Kolb</dc:creator>
+      <dc:creator>S. Koliiev</dc:creator>
+      <dc:creator>L. Kolk</dc:creator>
+      <dc:creator>A. Konoplyannikov</dc:creator>
+      <dc:creator>P. Kopciewicz</dc:creator>
+      <dc:creator>P. Koppenburg</dc:creator>
+      <dc:creator>A. Korchin</dc:creator>
+      <dc:creator>I. Kostiuk</dc:creator>
+      <dc:creator>O. Kot</dc:creator>
+      <dc:creator>S. Kotriakhova</dc:creator>
+      <dc:creator>E. Kowalczyk</dc:creator>
+      <dc:creator>O. Kravcov</dc:creator>
+      <dc:creator>M. Kreps</dc:creator>
+      <dc:creator>W. Krupa</dc:creator>
+      <dc:creator>W. Krzemien</dc:creator>
+      <dc:creator>O. Kshyvanskyi</dc:creator>
+      <dc:creator>S. Kubis</dc:creator>
+      <dc:creator>M. Kucharczyk</dc:creator>
+      <dc:creator>A. Kupsc</dc:creator>
+      <dc:creator>A. Kurzina</dc:creator>
+      <dc:creator>V. Kushnir</dc:creator>
+      <dc:creator>B. Kutsenko</dc:creator>
+      <dc:creator>J. Kvapil</dc:creator>
+      <dc:creator>I. Kyryllin</dc:creator>
+      <dc:creator>D. Lacarrere</dc:creator>
+      <dc:creator>P. Laguarta Gonzalez</dc:creator>
+      <dc:creator>A. Lai</dc:creator>
+      <dc:creator>A. Lampis</dc:creator>
+      <dc:creator>D. Lancierini</dc:creator>
+      <dc:creator>C. Landesa Gomez</dc:creator>
+      <dc:creator>G. Lanfranchi</dc:creator>
+      <dc:creator>C. Langenbruch</dc:creator>
+      <dc:creator>T. Latham</dc:creator>
+      <dc:creator>F. Lazzari</dc:creator>
+      <dc:creator>C. Lazzeroni</dc:creator>
+      <dc:creator>R. Le Gac</dc:creator>
+      <dc:creator>H. Lee</dc:creator>
+      <dc:creator>R. Lefèvre</dc:creator>
+      <dc:creator>M. Lehuraux</dc:creator>
+      <dc:creator>E. Lemos Cid</dc:creator>
+      <dc:creator>O. Leroy</dc:creator>
+      <dc:creator>T. Lesiak</dc:creator>
+      <dc:creator>E. D. Lesser</dc:creator>
+      <dc:creator>B. Leverington</dc:creator>
+      <dc:creator>A. Li</dc:creator>
+      <dc:creator>C. Li</dc:creator>
+      <dc:creator>C. Li</dc:creator>
+      <dc:creator>H. Li</dc:creator>
+      <dc:creator>J. Li</dc:creator>
+      <dc:creator>K. Li</dc:creator>
+      <dc:creator>L. Li</dc:creator>
+      <dc:creator>L. Li</dc:creator>
+      <dc:creator>P. Li</dc:creator>
+      <dc:creator>P. -R. Li</dc:creator>
+      <dc:creator>Q. Li</dc:creator>
+      <dc:creator>T. Li</dc:creator>
+      <dc:creator>T. Li</dc:creator>
+      <dc:creator>W. Li</dc:creator>
+      <dc:creator>Y. Li</dc:creator>
+      <dc:creator>Y. Li</dc:creator>
+      <dc:creator>Y. Li</dc:creator>
+      <dc:creator>Z. Li</dc:creator>
+      <dc:creator>Z. Lian</dc:creator>
+      <dc:creator>Q. Liang</dc:creator>
+      <dc:creator>X. Liang</dc:creator>
+      <dc:creator>Z. Liang</dc:creator>
+      <dc:creator>S. Libralon</dc:creator>
+      <dc:creator>A. Lightbody</dc:creator>
+      <dc:creator>J. Lin</dc:creator>
+      <dc:creator>S. Lin</dc:creator>
+      <dc:creator>T. Lin</dc:creator>
+      <dc:creator>R. Lindner</dc:creator>
+      <dc:creator>H. Linton</dc:creator>
+      <dc:creator>R. Litvinov</dc:creator>
+      <dc:creator>D. Liu</dc:creator>
+      <dc:creator>F. L. Liu</dc:creator>
+      <dc:creator>G. Liu</dc:creator>
+      <dc:creator>K. Liu</dc:creator>
+      <dc:creator>S. Liu</dc:creator>
+      <dc:creator>W. Liu</dc:creator>
+      <dc:creator>X. Liu</dc:creator>
+      <dc:creator>Y. Liu</dc:creator>
+      <dc:creator>Y. Liu</dc:creator>
+      <dc:creator>Y. L. Liu</dc:creator>
+      <dc:creator>G. Loachamin Ordonez</dc:creator>
+      <dc:creator>I. Lobo</dc:creator>
+      <dc:creator>A. Lobo Salvia</dc:creator>
+      <dc:creator>A. Loi</dc:creator>
+      <dc:creator>T. Long</dc:creator>
+      <dc:creator>F. C. L. Lopes</dc:creator>
+      <dc:creator>J. H. Lopes</dc:creator>
+      <dc:creator>A. Lopez Huertas</dc:creator>
+      <dc:creator>C. Lopez Iribarnegaray</dc:creator>
+      <dc:creator>Q. Lu</dc:creator>
+      <dc:creator>C. Lucarelli</dc:creator>
+      <dc:creator>D. Lucchesi</dc:creator>
+      <dc:creator>M. Lucio Martinez</dc:creator>
+      <dc:creator>Y. Luo</dc:creator>
+      <dc:creator>A. Lupato</dc:creator>
+      <dc:creator>M. Lupberger</dc:creator>
+      <dc:creator>E. Luppi</dc:creator>
+      <dc:creator>K. Lynch</dc:creator>
+      <dc:creator>J. Lyu</dc:creator>
+      <dc:creator>S. Lyu</dc:creator>
+      <dc:creator>X. -R. Lyu</dc:creator>
+      <dc:creator>H. Ma</dc:creator>
+      <dc:creator>S. Maccolini</dc:creator>
+      <dc:creator>F. Machefert</dc:creator>
+      <dc:creator>F. Maciuc</dc:creator>
+      <dc:creator>B. Mack</dc:creator>
+      <dc:creator>I. Mackay</dc:creator>
+      <dc:creator>L. M. Mackey</dc:creator>
+      <dc:creator>L. R. Madhan Mohan</dc:creator>
+      <dc:creator>M. J. Madurai</dc:creator>
+      <dc:creator>D. Magdalinski</dc:creator>
+      <dc:creator>J. J. Malczewski</dc:creator>
+      <dc:creator>S. Malde</dc:creator>
+      <dc:creator>L. Malentacca</dc:creator>
+      <dc:creator>G. Manca</dc:creator>
+      <dc:creator>C. Mancuso</dc:creator>
+      <dc:creator>R. Manera Escalero</dc:creator>
+      <dc:creator>A. Mangalasseri</dc:creator>
+      <dc:creator>F. M. Manganella</dc:creator>
+      <dc:creator>R. Mangrulkar</dc:creator>
+      <dc:creator>D. Manuzzi</dc:creator>
+      <dc:creator>S. Mao</dc:creator>
+      <dc:creator>D. Marangotto</dc:creator>
+      <dc:creator>J. F. Marchand</dc:creator>
+      <dc:creator>R. Marchevski</dc:creator>
+      <dc:creator>U. Marconi</dc:creator>
+      <dc:creator>L. Mareso</dc:creator>
+      <dc:creator>E. Mariani</dc:creator>
+      <dc:creator>S. Mariani</dc:creator>
+      <dc:creator>C. Marin Benito</dc:creator>
+      <dc:creator>J. Marks</dc:creator>
+      <dc:creator>A. M. Marshall</dc:creator>
+      <dc:creator>L. Martel</dc:creator>
+      <dc:creator>G. Martelli</dc:creator>
+      <dc:creator>G. Martellotti</dc:creator>
+      <dc:creator>L. Martinazzoli</dc:creator>
+      <dc:creator>M. Martinelli</dc:creator>
+      <dc:creator>C. Martinez</dc:creator>
+      <dc:creator>A. Martinez Armas</dc:creator>
+      <dc:creator>D. Martinez Gomez</dc:creator>
+      <dc:creator>D. Martinez Santos</dc:creator>
+      <dc:creator>F. Martinez Vidal</dc:creator>
+      <dc:creator>A. Martorell i Granollers</dc:creator>
+      <dc:creator>A. Massafferri</dc:creator>
+      <dc:creator>R. Matev</dc:creator>
+      <dc:creator>A. Mathad</dc:creator>
+      <dc:creator>C. Matteuzzi</dc:creator>
+      <dc:creator>K. R. Mattioli</dc:creator>
+      <dc:creator>L. Matzner</dc:creator>
+      <dc:creator>A. Mauri</dc:creator>
+      <dc:creator>E. Maurice</dc:creator>
+      <dc:creator>J. Mauricio</dc:creator>
+      <dc:creator>P. Mayencourt</dc:creator>
+      <dc:creator>J. Mazorra de Cos</dc:creator>
+      <dc:creator>M. Mazurek</dc:creator>
+      <dc:creator>D. Mazzanti Tarancon</dc:creator>
+      <dc:creator>M. McCann</dc:creator>
+      <dc:creator>N. T. McHugh</dc:creator>
+      <dc:creator>A. McNab</dc:creator>
+      <dc:creator>R. McNulty</dc:creator>
+      <dc:creator>B. Meadows</dc:creator>
+      <dc:creator>S. E. R. Medaer</dc:creator>
+      <dc:creator>D. Melnychuk</dc:creator>
+      <dc:creator>D. Mendoza Granada</dc:creator>
+      <dc:creator>P. Menendez Valdes Perez</dc:creator>
+      <dc:creator>F. M. Meng</dc:creator>
+      <dc:creator>M. Merk</dc:creator>
+      <dc:creator>A. Merli</dc:creator>
+      <dc:creator>L. Meyer Garcia</dc:creator>
+      <dc:creator>D. Miao</dc:creator>
+      <dc:creator>H. Miao</dc:creator>
+      <dc:creator>S. Mico</dc:creator>
+      <dc:creator>M. Mikhasenko</dc:creator>
+      <dc:creator>D. A. Milanes</dc:creator>
+      <dc:creator>A. Minotti</dc:creator>
+      <dc:creator>E. Minucci</dc:creator>
+      <dc:creator>B. Mitreska</dc:creator>
+      <dc:creator>D. S. Mitzel</dc:creator>
+      <dc:creator>R. Mocanu</dc:creator>
+      <dc:creator>A. Modak</dc:creator>
+      <dc:creator>L. Moeser</dc:creator>
+      <dc:creator>R. D. Moise</dc:creator>
+      <dc:creator>E. F. Molina Cardenas</dc:creator>
+      <dc:creator>T. Mombächer</dc:creator>
+      <dc:creator>M. Monk</dc:creator>
+      <dc:creator>T. Monnard</dc:creator>
+      <dc:creator>S. Monteil</dc:creator>
+      <dc:creator>A. Morcillo Gomez</dc:creator>
+      <dc:creator>G. Morello</dc:creator>
+      <dc:creator>M. J. Morello</dc:creator>
+      <dc:creator>M. P. Morgenthaler</dc:creator>
+      <dc:creator>A. Moro</dc:creator>
+      <dc:creator>J. Moron</dc:creator>
+      <dc:creator>W. Morren</dc:creator>
+      <dc:creator>A. B. Morris</dc:creator>
+      <dc:creator>A. G. Morris</dc:creator>
+      <dc:creator>R. Mountain</dc:creator>
+      <dc:creator>Z. Mu</dc:creator>
+      <dc:creator>N. Muangkod</dc:creator>
+      <dc:creator>E. Muhammad</dc:creator>
+      <dc:creator>F. Muheim</dc:creator>
+      <dc:creator>M. Mulder</dc:creator>
+      <dc:creator>K. Müller</dc:creator>
+      <dc:creator>F. Muñoz-Rojas</dc:creator>
+      <dc:creator>V. Mytrochenko</dc:creator>
+      <dc:creator>P. Naik</dc:creator>
+      <dc:creator>T. Nakada</dc:creator>
+      <dc:creator>R. Nandakumar</dc:creator>
+      <dc:creator>G. Napoletano</dc:creator>
+      <dc:creator>I. Nasteva</dc:creator>
+      <dc:creator>M. Needham</dc:creator>
+      <dc:creator>N. Neri</dc:creator>
+      <dc:creator>S. Neubert</dc:creator>
+      <dc:creator>N. Neufeld</dc:creator>
+      <dc:creator>J. Nicolini</dc:creator>
+      <dc:creator>D. Nicotra</dc:creator>
+      <dc:creator>E. M. Niel</dc:creator>
+      <dc:creator>L. Nisi</dc:creator>
+      <dc:creator>Q. Niu</dc:creator>
+      <dc:creator>B. K. Njoki</dc:creator>
+      <dc:creator>P. Nogarolli</dc:creator>
+      <dc:creator>P. Nogga</dc:creator>
+      <dc:creator>J. Nombela Royo</dc:creator>
+      <dc:creator>C. Normand</dc:creator>
+      <dc:creator>A. Novo Cal</dc:creator>
+      <dc:creator>J. Novoa Fernandez</dc:creator>
+      <dc:creator>G. Nowak</dc:creator>
+      <dc:creator>H. N. Nur</dc:creator>
+      <dc:creator>A. Oblakowska-Mucha</dc:creator>
+      <dc:creator>T. Oeser</dc:creator>
+      <dc:creator>O. Okhrimenko</dc:creator>
+      <dc:creator>R. Oldeman</dc:creator>
+      <dc:creator>F. Oliva</dc:creator>
+      <dc:creator>E. Olivart Pino</dc:creator>
+      <dc:creator>M. Olocco</dc:creator>
+      <dc:creator>R. H. O'Neil</dc:creator>
+      <dc:creator>J. S. Ordonez Soto</dc:creator>
+      <dc:creator>D. Osthues</dc:creator>
+      <dc:creator>J. M. Otalora Goicochea</dc:creator>
+      <dc:creator>P. Owen</dc:creator>
+      <dc:creator>A. Oyanguren</dc:creator>
+      <dc:creator>O. Ozcelik</dc:creator>
+      <dc:creator>F. Paciolla</dc:creator>
+      <dc:creator>A. Padee</dc:creator>
+      <dc:creator>K. O. Padeken</dc:creator>
+      <dc:creator>B. Pagare</dc:creator>
+      <dc:creator>T. Pajero</dc:creator>
+      <dc:creator>A. Palano</dc:creator>
+      <dc:creator>L. Palini</dc:creator>
+      <dc:creator>L. Palombini</dc:creator>
+      <dc:creator>M. Palutan</dc:creator>
+      <dc:creator>C. Pan</dc:creator>
+      <dc:creator>X. Pan</dc:creator>
+      <dc:creator>S. Panebianco</dc:creator>
+      <dc:creator>S. Paniskaki</dc:creator>
+      <dc:creator>L. Paolucci</dc:creator>
+      <dc:creator>A. Papanestis</dc:creator>
+      <dc:creator>M. Pappagallo</dc:creator>
+      <dc:creator>L. L. Pappalardo</dc:creator>
+      <dc:creator>C. Pappenheimer</dc:creator>
+      <dc:creator>C. Parkes</dc:creator>
+      <dc:creator>D. Parmar</dc:creator>
+      <dc:creator>G. Passaleva</dc:creator>
+      <dc:creator>D. Passaro</dc:creator>
+      <dc:creator>A. Pastore</dc:creator>
+      <dc:creator>M. Patel</dc:creator>
+      <dc:creator>J. Patoc</dc:creator>
+      <dc:creator>C. Patrignani</dc:creator>
+      <dc:creator>A. Paul</dc:creator>
+      <dc:creator>C. J. Pawley</dc:creator>
+      <dc:creator>A. Pellegrino</dc:creator>
+      <dc:creator>J. Peng</dc:creator>
+      <dc:creator>X. Peng</dc:creator>
+      <dc:creator>M. Pepe Altarelli</dc:creator>
+      <dc:creator>S. Perazzini</dc:creator>
+      <dc:creator>H. Pereira Da Costa</dc:creator>
+      <dc:creator>M. Pereira Martinez</dc:creator>
+      <dc:creator>A. Pereiro Castro</dc:creator>
+      <dc:creator>C. Perez</dc:creator>
+      <dc:creator>A. Perez Casas</dc:creator>
+      <dc:creator>P. Perret</dc:creator>
+      <dc:creator>A. Perrevoort</dc:creator>
+      <dc:creator>A. Perro</dc:creator>
+      <dc:creator>M. J. Peters</dc:creator>
+      <dc:creator>A. Petkovic</dc:creator>
+      <dc:creator>K. Petridis</dc:creator>
+      <dc:creator>A. Petrolini</dc:creator>
+      <dc:creator>S. Pezzulo</dc:creator>
+      <dc:creator>J. P. Pfaller</dc:creator>
+      <dc:creator>H. Pham</dc:creator>
+      <dc:creator>L. Pica</dc:creator>
+      <dc:creator>M. Piccini</dc:creator>
+      <dc:creator>L. Piccolo</dc:creator>
+      <dc:creator>B. Pietrzyk</dc:creator>
+      <dc:creator>R. N. Pilato</dc:creator>
+      <dc:creator>D. Pinci</dc:creator>
+      <dc:creator>F. Pisani</dc:creator>
+      <dc:creator>M. Pizzichemi</dc:creator>
+      <dc:creator>V. M. Placinta</dc:creator>
+      <dc:creator>M. Plo Casasus</dc:creator>
+      <dc:creator>T. Poeschl</dc:creator>
+      <dc:creator>F. Polci</dc:creator>
+      <dc:creator>M. Poli Lener</dc:creator>
+      <dc:creator>A. Poluektov</dc:creator>
+      <dc:creator>I. Polyakov</dc:creator>
+      <dc:creator>E. Polycarpo</dc:creator>
+      <dc:creator>S. Ponce</dc:creator>
+      <dc:creator>D. Popov</dc:creator>
+      <dc:creator>K. Popp</dc:creator>
+      <dc:creator>K. Prasanth</dc:creator>
+      <dc:creator>C. Prouve</dc:creator>
+      <dc:creator>D. Provenzano</dc:creator>
+      <dc:creator>V. Pugatch</dc:creator>
+      <dc:creator>A. Puicercus Gomez</dc:creator>
+      <dc:creator>G. Punzi</dc:creator>
+      <dc:creator>J. R. Pybus</dc:creator>
+      <dc:creator>Q. Qian</dc:creator>
+      <dc:creator>W. Qian</dc:creator>
+      <dc:creator>N. Qin</dc:creator>
+      <dc:creator>R. Quagliani</dc:creator>
+      <dc:creator>R. I. Rabadan Trejo</dc:creator>
+      <dc:creator>B. Rachwal</dc:creator>
+      <dc:creator>R. Racz</dc:creator>
+      <dc:creator>J. H. Rademacker</dc:creator>
+      <dc:creator>M. Rama</dc:creator>
+      <dc:creator>M. Ramírez García</dc:creator>
+      <dc:creator>V. Ramos De Oliveira</dc:creator>
+      <dc:creator>M. Ramos Pernas</dc:creator>
+      <dc:creator>G. Ramsey</dc:creator>
+      <dc:creator>M. S. Rangel</dc:creator>
+      <dc:creator>G. Raven</dc:creator>
+      <dc:creator>M. Rebollo De Miguel</dc:creator>
+      <dc:creator>F. Redi</dc:creator>
+      <dc:creator>J. Reich</dc:creator>
+      <dc:creator>F. Reiss</dc:creator>
+      <dc:creator>Z. Ren</dc:creator>
+      <dc:creator>P. K. Resmi</dc:creator>
+      <dc:creator>M. Ribalda Galvez</dc:creator>
+      <dc:creator>R. Ribatti</dc:creator>
+      <dc:creator>G. Ricart</dc:creator>
+      <dc:creator>D. Riccardi</dc:creator>
+      <dc:creator>S. Ricciardi</dc:creator>
+      <dc:creator>K. Richardson</dc:creator>
+      <dc:creator>M. Richardson-Slipper</dc:creator>
+      <dc:creator>F. Riehn</dc:creator>
+      <dc:creator>K. Rinnert</dc:creator>
+      <dc:creator>P. Robbe</dc:creator>
+      <dc:creator>G. Robertson</dc:creator>
+      <dc:creator>E. Rodrigues</dc:creator>
+      <dc:creator>A. Rodriguez Alvarez</dc:creator>
+      <dc:creator>E. Rodriguez Fernandez</dc:creator>
+      <dc:creator>J. A. Rodriguez Lopez</dc:creator>
+      <dc:creator>E. Rodriguez Rodriguez</dc:creator>
+      <dc:creator>J. Roensch</dc:creator>
+      <dc:creator>A. Rogovskiy</dc:creator>
+      <dc:creator>D. L. Rolf</dc:creator>
+      <dc:creator>P. Roloff</dc:creator>
+      <dc:creator>A. Romano</dc:creator>
+      <dc:creator>V. Romanovskiy</dc:creator>
+      <dc:creator>A. Romero Vidal</dc:creator>
+      <dc:creator>G. Romolini</dc:creator>
+      <dc:creator>F. Ronchetti</dc:creator>
+      <dc:creator>T. Rong</dc:creator>
+      <dc:creator>W. Rose</dc:creator>
+      <dc:creator>M. Rotondo</dc:creator>
+      <dc:creator>M. S. Rudolph</dc:creator>
+      <dc:creator>G. Ruggiero</dc:creator>
+      <dc:creator>M. Ruiz Diaz</dc:creator>
+      <dc:creator>J. Ruiz Vidal</dc:creator>
+      <dc:creator>J. Ruz Armendariz</dc:creator>
+      <dc:creator>J. J. Saavedra-Arias</dc:creator>
+      <dc:creator>J. J. Saborido Silva</dc:creator>
+      <dc:creator>D. Sahoo</dc:creator>
+      <dc:creator>N. Sahoo</dc:creator>
+      <dc:creator>B. Saitta</dc:creator>
+      <dc:creator>M. Salomoni</dc:creator>
+      <dc:creator>I. Sanderswood</dc:creator>
+      <dc:creator>R. Santacesaria</dc:creator>
+      <dc:creator>C. Santamarina Rios</dc:creator>
+      <dc:creator>M. Santimaria</dc:creator>
+      <dc:creator>L. Santoro</dc:creator>
+      <dc:creator>E. Santovetti</dc:creator>
+      <dc:creator>A. Saputi</dc:creator>
+      <dc:creator>A. Sarnatskiy</dc:creator>
+      <dc:creator>G. Sarpis</dc:creator>
+      <dc:creator>M. Sarpis</dc:creator>
+      <dc:creator>C. Satriano</dc:creator>
+      <dc:creator>A. Satta</dc:creator>
+      <dc:creator>M. Saur</dc:creator>
+      <dc:creator>H. Sazak</dc:creator>
+      <dc:creator>F. Sborzacchi</dc:creator>
+      <dc:creator>A. Scarabotto</dc:creator>
+      <dc:creator>S. Schael</dc:creator>
+      <dc:creator>S. Scherl</dc:creator>
+      <dc:creator>M. Schiller</dc:creator>
+      <dc:creator>H. Schindler</dc:creator>
+      <dc:creator>M. Schmelling</dc:creator>
+      <dc:creator>B. Schmidt</dc:creator>
+      <dc:creator>N. Schmidt</dc:creator>
+      <dc:creator>S. Schmitt</dc:creator>
+      <dc:creator>H. Schmitz</dc:creator>
+      <dc:creator>O. Schneider</dc:creator>
+      <dc:creator>A. Schopper</dc:creator>
+      <dc:creator>N. Schulte</dc:creator>
+      <dc:creator>H. Schumacher</dc:creator>
+      <dc:creator>M. H. Schune</dc:creator>
+      <dc:creator>G. Schwering</dc:creator>
+      <dc:creator>B. Sciascia</dc:creator>
+      <dc:creator>A. Sciuccati</dc:creator>
+      <dc:creator>G. Scriven</dc:creator>
+      <dc:creator>I. Segal</dc:creator>
+      <dc:creator>S. Sellam</dc:creator>
+      <dc:creator>M. Senghi Soares</dc:creator>
+      <dc:creator>A. Sergi</dc:creator>
+      <dc:creator>N. Serra</dc:creator>
+      <dc:creator>L. Sestini</dc:creator>
+      <dc:creator>B. Sevilla Sanjuan</dc:creator>
+      <dc:creator>Y. Shang</dc:creator>
+      <dc:creator>D. M. Shangase</dc:creator>
+      <dc:creator>R. S. Sharma</dc:creator>
+      <dc:creator>L. Shchutska</dc:creator>
+      <dc:creator>T. Shears</dc:creator>
+      <dc:creator>S. Shelton</dc:creator>
+      <dc:creator>J. Shen</dc:creator>
+      <dc:creator>Z. Shen</dc:creator>
+      <dc:creator>S. Sheng</dc:creator>
+      <dc:creator>B. Shi</dc:creator>
+      <dc:creator>J. Shi</dc:creator>
+      <dc:creator>Q. Shi</dc:creator>
+      <dc:creator>W. S. Shi</dc:creator>
+      <dc:creator>E. Shmanin</dc:creator>
+      <dc:creator>R. Silva Coutinho</dc:creator>
+      <dc:creator>G. Simi</dc:creator>
+      <dc:creator>S. Simone</dc:creator>
+      <dc:creator>M. Singha</dc:creator>
+      <dc:creator>I. Siral</dc:creator>
+      <dc:creator>N. Skidmore</dc:creator>
+      <dc:creator>T. Skwarnicki</dc:creator>
+      <dc:creator>M. W. Slater</dc:creator>
+      <dc:creator>E. Smith</dc:creator>
+      <dc:creator>M. Smith</dc:creator>
+      <dc:creator>L. Soares Lavra</dc:creator>
+      <dc:creator>M. D. Sokoloff</dc:creator>
+      <dc:creator>F. J. P. Soler</dc:creator>
+      <dc:creator>A. Solomin</dc:creator>
+      <dc:creator>K. Solovieva</dc:creator>
+      <dc:creator>N. S. Sommerfeld</dc:creator>
+      <dc:creator>R. Song</dc:creator>
+      <dc:creator>Y. Song</dc:creator>
+      <dc:creator>Y. Song</dc:creator>
+      <dc:creator>Y. S. Song</dc:creator>
+      <dc:creator>F. L. Souza De Almeida</dc:creator>
+      <dc:creator>G. Souza De Castro</dc:creator>
+      <dc:creator>B. Souza De Paula</dc:creator>
+      <dc:creator>K. M. Sowa</dc:creator>
+      <dc:creator>E. Spadaro Norella</dc:creator>
+      <dc:creator>E. Spedicato</dc:creator>
+      <dc:creator>J. G. Speer</dc:creator>
+      <dc:creator>P. Spradlin</dc:creator>
+      <dc:creator>F. Stagni</dc:creator>
+      <dc:creator>M. Stahl</dc:creator>
+      <dc:creator>S. Stahl</dc:creator>
+      <dc:creator>S. Stanislaus</dc:creator>
+      <dc:creator>M. Stefaniak</dc:creator>
+      <dc:creator>O. Steinkamp</dc:creator>
+      <dc:creator>F. Suljik</dc:creator>
+      <dc:creator>J. Sun</dc:creator>
+      <dc:creator>L. Sun</dc:creator>
+      <dc:creator>M. Sun</dc:creator>
+      <dc:creator>D. Sundfeld</dc:creator>
+      <dc:creator>P. Svihra</dc:creator>
+      <dc:creator>V. Svintozelskyi</dc:creator>
+      <dc:creator>J. Swallow</dc:creator>
+      <dc:creator>K. Swientek</dc:creator>
+      <dc:creator>F. Swystun</dc:creator>
+      <dc:creator>A. Szabelski</dc:creator>
+      <dc:creator>T. Szumlak</dc:creator>
+      <dc:creator>Y. Tan</dc:creator>
+      <dc:creator>Y. Tang</dc:creator>
+      <dc:creator>Y. T. Tang</dc:creator>
+      <dc:creator>M. D. Tat</dc:creator>
+      <dc:creator>J. A. Teijeiro Jimenez</dc:creator>
+      <dc:creator>F. Terzuoli</dc:creator>
+      <dc:creator>F. Teubert</dc:creator>
+      <dc:creator>E. Thomas</dc:creator>
+      <dc:creator>D. J. D. Thompson</dc:creator>
+      <dc:creator>A. R. Thomson-Strong</dc:creator>
+      <dc:creator>R. Thornton</dc:creator>
+      <dc:creator>H. Tilquin</dc:creator>
+      <dc:creator>V. Tisserand</dc:creator>
+      <dc:creator>S. T'Jampens</dc:creator>
+      <dc:creator>M. Tobin</dc:creator>
+      <dc:creator>T. T. Todorov</dc:creator>
+      <dc:creator>L. Tomassetti</dc:creator>
+      <dc:creator>G. Tonani</dc:creator>
+      <dc:creator>X. Tong</dc:creator>
+      <dc:creator>T. Tork</dc:creator>
+      <dc:creator>L. Torlai</dc:creator>
+      <dc:creator>L. Toscano</dc:creator>
+      <dc:creator>D. Y. Tou</dc:creator>
+      <dc:creator>C. Trippl</dc:creator>
+      <dc:creator>G. Tuci</dc:creator>
+      <dc:creator>N. Tuning</dc:creator>
+      <dc:creator>L. H. Uecker</dc:creator>
+      <dc:creator>A. Ukleja</dc:creator>
+      <dc:creator>A. Upadhyay</dc:creator>
+      <dc:creator>B. Urbach</dc:creator>
+      <dc:creator>A. Usachov</dc:creator>
+      <dc:creator>U. Uwer</dc:creator>
+      <dc:creator>V. Vagnoni</dc:creator>
+      <dc:creator>A. Vaitkevicius</dc:creator>
+      <dc:creator>A. Valassi</dc:creator>
+      <dc:creator>V. Valcarce Cadenas</dc:creator>
+      <dc:creator>G. Valenti</dc:creator>
+      <dc:creator>N. Valls Canudas</dc:creator>
+      <dc:creator>J. van Eldik</dc:creator>
+      <dc:creator>H. Van Hecke</dc:creator>
+      <dc:creator>E. van Herwijnen</dc:creator>
+      <dc:creator>C. B. Van Hulse</dc:creator>
+      <dc:creator>R. Van Laak</dc:creator>
+      <dc:creator>M. van Veghel</dc:creator>
+      <dc:creator>P. Varrella</dc:creator>
+      <dc:creator>R. Vazquez Gomez</dc:creator>
+      <dc:creator>P. Vazquez Regueiro</dc:creator>
+      <dc:creator>C. Vázquez Sierra</dc:creator>
+      <dc:creator>S. Vecchi</dc:creator>
+      <dc:creator>J. Velilla Serna</dc:creator>
+      <dc:creator>J. J. Velthuis</dc:creator>
+      <dc:creator>M. Veltri</dc:creator>
+      <dc:creator>A. Venkateswaran</dc:creator>
+      <dc:creator>M. Verdoglia</dc:creator>
+      <dc:creator>M. Vesterinen</dc:creator>
+      <dc:creator>W. Vetens</dc:creator>
+      <dc:creator>D. Vico Benet</dc:creator>
+      <dc:creator>P. Vidrier Villalba</dc:creator>
+      <dc:creator>M. Vieites Diaz</dc:creator>
+      <dc:creator>X. Vilasis-Cardona</dc:creator>
+      <dc:creator>E. Vilella Figueras</dc:creator>
+      <dc:creator>A. Villa</dc:creator>
+      <dc:creator>P. Vincent</dc:creator>
+      <dc:creator>B. Vivacqua</dc:creator>
+      <dc:creator>F. C. Volle</dc:creator>
+      <dc:creator>D. vom Bruch</dc:creator>
+      <dc:creator>K. Vos</dc:creator>
+      <dc:creator>C. Vrahas</dc:creator>
+      <dc:creator>J. Wagner</dc:creator>
+      <dc:creator>J. Walsh</dc:creator>
+      <dc:creator>N. Walter</dc:creator>
+      <dc:creator>E. J. Walton</dc:creator>
+      <dc:creator>G. Wan</dc:creator>
+      <dc:creator>A. Wang</dc:creator>
+      <dc:creator>B. Wang</dc:creator>
+      <dc:creator>C. Wang</dc:creator>
+      <dc:creator>C. Wang</dc:creator>
+      <dc:creator>C. Wang</dc:creator>
+      <dc:creator>G. Wang</dc:creator>
+      <dc:creator>H. Wang</dc:creator>
+      <dc:creator>J. Wang</dc:creator>
+      <dc:creator>J. Wang</dc:creator>
+      <dc:creator>J. Wang</dc:creator>
+      <dc:creator>J. Wang</dc:creator>
+      <dc:creator>M. Wang</dc:creator>
+      <dc:creator>N. W. Wang</dc:creator>
+      <dc:creator>X. Wang</dc:creator>
+      <dc:creator>X. Wang</dc:creator>
+      <dc:creator>X. Wang</dc:creator>
+      <dc:creator>X. W. Wang</dc:creator>
+      <dc:creator>Y. Wang</dc:creator>
+      <dc:creator>Y. Wang</dc:creator>
+      <dc:creator>Y. Wang</dc:creator>
+      <dc:creator>Y. H. Wang</dc:creator>
+      <dc:creator>Z. Wang</dc:creator>
+      <dc:creator>Z. Wang</dc:creator>
+      <dc:creator>J. A. Ward</dc:creator>
+      <dc:creator>A. Wasili</dc:creator>
+      <dc:creator>M. Waterlaat</dc:creator>
+      <dc:creator>N. K. Watson</dc:creator>
+      <dc:creator>D. Websdale</dc:creator>
+      <dc:creator>Y. Wei</dc:creator>
+      <dc:creator>Z. Weida</dc:creator>
+      <dc:creator>J. Wendel</dc:creator>
+      <dc:creator>B. D. C. Westhenry</dc:creator>
+      <dc:creator>A. S. White</dc:creator>
+      <dc:creator>C. White</dc:creator>
+      <dc:creator>M. Whitehead</dc:creator>
+      <dc:creator>E. Whiter</dc:creator>
+      <dc:creator>A. R. Wiederhold</dc:creator>
+      <dc:creator>D. Wiedner</dc:creator>
+      <dc:creator>M. A. Wiegertjes</dc:creator>
+      <dc:creator>C. Wild</dc:creator>
+      <dc:creator>G. Wilkinson</dc:creator>
+      <dc:creator>M. K. Wilkinson</dc:creator>
+      <dc:creator>M. Williams</dc:creator>
+      <dc:creator>M. J. Williams</dc:creator>
+      <dc:creator>M. R. J. Williams</dc:creator>
+      <dc:creator>R. Williams</dc:creator>
+      <dc:creator>S. Williams</dc:creator>
+      <dc:creator>Z. Williams</dc:creator>
+      <dc:creator>F. F. Wilson</dc:creator>
+      <dc:creator>M. Winn</dc:creator>
+      <dc:creator>W. Wislicki</dc:creator>
+      <dc:creator>M. Witek</dc:creator>
+      <dc:creator>L. Witola</dc:creator>
+      <dc:creator>T. Wolf</dc:creator>
+      <dc:creator>E. Wood</dc:creator>
+      <dc:creator>G. Wormser</dc:creator>
+      <dc:creator>S. A. Wotton</dc:creator>
+      <dc:creator>H. Wu</dc:creator>
+      <dc:creator>J. Wu</dc:creator>
+      <dc:creator>T. Wu</dc:creator>
+      <dc:creator>X. Wu</dc:creator>
+      <dc:creator>Y. Wu</dc:creator>
+      <dc:creator>Z. Wu</dc:creator>
+      <dc:creator>K. Wyllie</dc:creator>
+      <dc:creator>S. Xian</dc:creator>
+      <dc:creator>Z. Xiang</dc:creator>
+      <dc:creator>Y. Xie</dc:creator>
+      <dc:creator>T. X. Xing</dc:creator>
+      <dc:creator>A. Xu</dc:creator>
+      <dc:creator>L. Xu</dc:creator>
+      <dc:creator>M. Xu</dc:creator>
+      <dc:creator>R. Xu</dc:creator>
+      <dc:creator>Z. Xu</dc:creator>
+      <dc:creator>Z. Xu</dc:creator>
+      <dc:creator>Z. Xu</dc:creator>
+      <dc:creator>Z. Xu</dc:creator>
+      <dc:creator>S. Yadav</dc:creator>
+      <dc:creator>K. Yang</dc:creator>
+      <dc:creator>X. Yang</dc:creator>
+      <dc:creator>Y. Yang</dc:creator>
+      <dc:creator>Y. Yang</dc:creator>
+      <dc:creator>Z. Yang</dc:creator>
+      <dc:creator>Z. Yang</dc:creator>
+      <dc:creator>H. Yeung</dc:creator>
+      <dc:creator>H. Yin</dc:creator>
+      <dc:creator>X. Yin</dc:creator>
+      <dc:creator>C. Y. Yu</dc:creator>
+      <dc:creator>J. Yu</dc:creator>
+      <dc:creator>K. Yu</dc:creator>
+      <dc:creator>X. Yuan</dc:creator>
+      <dc:creator>Y Yuan</dc:creator>
+      <dc:creator>S. Zalambani</dc:creator>
+      <dc:creator>J. A. Zamora Saa</dc:creator>
+      <dc:creator>F. Zangari</dc:creator>
+      <dc:creator>M. Zavertyaev</dc:creator>
+      <dc:creator>M. Zdybal</dc:creator>
+      <dc:creator>F. Zenesini</dc:creator>
+      <dc:creator>C. Zeng</dc:creator>
+      <dc:creator>M. Zeng</dc:creator>
+      <dc:creator>S. H Zeng</dc:creator>
+      <dc:creator>C. Zhang</dc:creator>
+      <dc:creator>C. Zhang</dc:creator>
+      <dc:creator>D. Zhang</dc:creator>
+      <dc:creator>J. Zhang</dc:creator>
+      <dc:creator>L. Zhang</dc:creator>
+      <dc:creator>Q. Z. Zhang</dc:creator>
+      <dc:creator>R. Zhang</dc:creator>
+      <dc:creator>S. Zhang</dc:creator>
+      <dc:creator>S. L. Zhang</dc:creator>
+      <dc:creator>Y. Zhang</dc:creator>
+      <dc:creator>Z. Zhang</dc:creator>
+      <dc:creator>J. Zhao</dc:creator>
+      <dc:creator>M. Zhao</dc:creator>
+      <dc:creator>Y. Zhao</dc:creator>
+      <dc:creator>A. Zhelezov</dc:creator>
+      <dc:creator>S. Z. Zheng</dc:creator>
+      <dc:creator>X. Z. Zheng</dc:creator>
+      <dc:creator>Y. Zheng</dc:creator>
+      <dc:creator>T. Zhou</dc:creator>
+      <dc:creator>X. Zhou</dc:creator>
+      <dc:creator>V. Zhovkovska</dc:creator>
+      <dc:creator>L. Z. Zhu</dc:creator>
+      <dc:creator>X. Zhu</dc:creator>
+      <dc:creator>X. Zhu</dc:creator>
+      <dc:creator>Y. Zhu</dc:creator>
+      <dc:creator>V. Zhukov</dc:creator>
+      <dc:creator>J. Zhuo</dc:creator>
+      <dc:creator>T. Zies</dc:creator>
+      <dc:creator>D. Zuliani</dc:creator>
+      <dc:creator>X. Zuo</dc:creator>
+    </item>
     <item>
       <title>Weak Bose-Einstein condensation in a rigidly rotating magnetized charged Bose gas</title>
       <link>http://arxiv.org/abs/2607.29297v1</link>
@@ -95,42 +1402,6 @@
       <dc:creator>Neelkamal Mallick</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
       <dc:creator>Gergely Gábor Barnaföldi</dc:creator>
-    </item>
-    <item>
-      <title>An Equilibrating Parton Shower for Jet Quenching and Medium Response</title>
-      <link>http://arxiv.org/abs/2607.26143v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ismail Soudi, Adam Takacs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the weak-coupling approach, thermalization of the quark-gluon plasma and the evolution of jet-like perturbations in the medium can be described by the same underlying QCD effective kinetic theory (EKT). In this work, we show how the EKT reduces to the standard energy-loss and angular-broadening evolution of jet-quenching in the high-energy regime, while providing a consistent description near the thermal scales. Building on this, we derive a parton shower directly from EKT that reproduces the full linearized Boltzmann equation, combining elastic and inelastic collisions to capture both hard-parton energy loss and thermal equilibration on an equal footing. This shower lets us extend EKT to inhomogeneous perturbations, connecting jet evolution to the medium's hydrodynamic response, including wakes, Mach cones, and multi-particle correlations.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 18:00:06 GMT</pubDate>
-      <guid isPermaLink="false">2607.26143v1</guid>
-      <dc:creator>Ismail Soudi</dc:creator>
-      <dc:creator>Adam Takacs</dc:creator>
-    </item>
-    <item>
-      <title>Nuclear matter equation of state and astrophysics</title>
-      <link>http://arxiv.org/abs/2607.25854v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mateus Reinke Pelicer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neutron-star masses, radii, and inspiral tidal deformabilities now provide quantitative constraints on the cold equation of state (\eos), favoring relatively soft matter around one to two times nuclear saturation density and substantial stiffening at larger density. These bulk constraints, however, do not uniquely determine the microscopic composition of the stellar core. Hyperons, deconfined quarks, quarkyonic matter, and strong first-order phase transitions remain viable possibilities. This article summarizes the present multimessenger status and emphasizes the next challenge---a unified description of strongly interacting matter across catalyzed neutron stars, binary mergers, and heavy-ion collisions. Recent results presented at SQM2026, including new constraints on hyperon interactions and advances in multidimensional equation-of-state modeling, highlight the complementary experimental and theoretical inputs required for this program. The MUSES Calculation Engine provides modular software infrastructure for connecting these inputs to astrophysical and heavy-ion applications.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 15:26:03 GMT</pubDate>
-      <guid isPermaLink="false">2607.25854v1</guid>
-      <dc:creator>Mateus Reinke Pelicer</dc:creator>
-    </item>
-    <item>
-      <title>Path-length dependence of parton energy loss across collision systems: a Bayesian analysis of charged-particle RAA, consistent with a universal exponent from O+O to Pb+Pb</title>
-      <link>http://arxiv.org/abs/2607.25727v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fouad A. Majeed, Hussein Ali Hussein Al Naffakh, Sarah M. Obaid, Muntaha Abdullah Reishaan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How parton energy loss in the quark-gluon plasma (QGP) scales with the in-medium path length $L$ encodes the mechanism: collisional ($ΔE \propto L$), radiative ($ΔE \propto L^2$), or strong-coupling ($ΔE \propto L^3$). Exploiting the new CERN LHC light-ion data, we extract this scaling from the system size itself, jointly analysing CMS charged-particle nuclear modification factors $R_{AA}$ in four systems - O+O, Ne+Ne, Xe+Xe and Pb+Pb - spanning mass number $A = 16$ to $208$. A Bayesian analysis with a data-driven spectral baseline and a Monte-Carlo Glauber geometry yields an effective system-size exponent $n = 1.78 \pm 0.15\,\mathrm{(stat)} \pm 0.05\,\mathrm{(syst)}$. Nested-sampling model selection decisively favours an effective exponent near the radiative value ($n = 2$) over the collisional ($n = 1$) and strong-coupling ($n = 3$) values, a conclusion stable across all 160 analysis variants. Because fluctuations can only lower the effective exponent below its microscopic counterpart, the measurement bounds the latter from below at fixed geometry, excluding purely collisional energy loss. The medium density and the path length are degenerate across system size, so we quote the effective exponent as our primary result. A Bayes-factor test finds no change of regime between small and large systems, consistent with a universal exponent; the same framework gives decisive evidence for non-zero energy loss in O+O alone, quantifying the onset of suppression in the smallest system. The energy-loss magnitude corresponds to $\hat{q}/T^3 \approx 2$--$5$, consistent with the JETSCAPE determination.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 13:50:58 GMT</pubDate>
-      <guid isPermaLink="false">2607.25727v1</guid>
-      <dc:creator>Fouad A. Majeed</dc:creator>
-      <dc:creator>Hussein Ali Hussein Al Naffakh</dc:creator>
-      <dc:creator>Sarah M. Obaid</dc:creator>
-      <dc:creator>Muntaha Abdullah Reishaan</dc:creator>
-    </item>
-    <item>
-      <title>String theory mathematics and matrix data analysis</title>
-      <link>http://arxiv.org/abs/2607.25500v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanjaye Ramgoolam&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Inspired by matrix techniques in quantum field theory and string theory, we review Permutation Invariant Gaussian Matrix Models (PIGMM), which replace the continuous symmetries of traditional Random Matrix Theory, for $ N \times N$ matrices, with finite permutation symmetry, $S_N$. This symmetry-driven approach reduces highly multivariate $N^2$-variable matrix data analysis problems to a rich but tractable space of parameters. The representation theory of $S_N$ brings a highly correlated quadratic matrix action to a near-diagonal form with $13$ parameters. The invariant observables are parameterised by graphs and their expectation values are computed with Wick contractions implemented algorithmically. We review the successful application of PIGMM for data reduction and anomaly detection in computational linguistics, statistical finance and neural network weights. We conclude with a brief discussion of potential future applications to matrix data analysis tasks that exploit hadronization algorithms and the modular structure of collider-physics data.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 09:36:39 GMT</pubDate>
-      <guid isPermaLink="false">2607.25500v1</guid>
-      <dc:creator>Sanjaye Ramgoolam</dc:creator>
     </item>
   </channel>
 </rss>
