@@ -5,7 +5,7 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (7d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:59:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -162,15 +162,6 @@
       <guid isPermaLink="false">2608.09608v1</guid>
       <dc:creator>Allencris John Rubesh Rajan</dc:creator>
       <dc:creator>Laboni Manna</dc:creator>
-    </item>
-    <item>
-      <title>Improved Regge Kinematics and All-Path-Length Corrections to Momentum Broadening in the Quark-Gluon Plasma</title>
-      <link>http://arxiv.org/abs/2608.08894v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dario van den Berg, Isobel Kolbe&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a study of transverse momentum broadening for high-energy partons propagating through the quark-gluon plasma (QGP), extending the Gyulassy-Levai-Vitev (GLV) formalism to include both all-path-length (APL) corrections and improved sub-Regge kinematics. The standard GLV framework relies on the large separation distance and large formation time approximations, which are well justified in large nuclei but may become unreliable in small collision systems, where the relevant length and coherence scales are comparable. Working to first order in the opacity expansion, we derive analytic expressions for the transverse momentum broadening distribution and the corresponding momentum transport coefficient, $\hat{q}$, while systematically relaxing these approximations. The APL correction arises from relaxing the large separation distance approximation, whereas the sub-Regge and combined sub-Regge-APL corrections are obtained using an improved set of Regge kinematics beyond the strict Regge limit. We find that these corrections can substantially modify both the transverse momentum broadening distribution and the momentum transport coefficient, particularly for short path lengths and high exchanged momentum, providing a more complete theoretical description of momentum broadening in the QGP.&lt;/p&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 20:15:59 GMT</pubDate>
-      <guid isPermaLink="false">2608.08894v1</guid>
-      <dc:creator>Dario van den Berg</dc:creator>
-      <dc:creator>Isobel Kolbe</dc:creator>
     </item>
   </channel>
 </rss>
