@@ -5,9 +5,118 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:19:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Rotation modified QCD equation of state across crossover at finite chemical potential</title>
+      <link>http://arxiv.org/abs/2608.16478v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Ipsita Sahoo, Sanjeebani Biswal, Dipanwita Dutta, Dipak Kumar Mishra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It is well-established that at low baryon chemical potential, the transition from the confined hadronic phase to the deconfined partonic phase is a smooth crossover rather than a first or second-order phase transition. We develop a thermodynamically consistent hybrid equation of state to study the effect of global rotation on the equation of state across the QCD crossover that interpolates the hadronic and partonic phases. The temperature dependence of normalized thermodynamic observables, such as entropy density ($s/T^3$), pressure ($P/T^4$), energy density ($\varepsilon/T^4$), specific heat ($C_V/T^3$), and the square of speed of sound ($c_s^2$) in presence of rotation are investigated. The effect of non-zero chemical potential on thermodynamic quantities in presence of rotation is also studied. Our results show that increasing chemical potential enhances the thermodynamic quantities, whereas rotation suppresses them in the crossover region. Further, we investigate the effect of rotation on the conserved numbers susceptibilities and their correlations as a function of temperature. The susceptibilities and their correlations exhibit a systematic enhancement with increase in rotation in both the hadronic and partonic phases. These findings provide new insights into the interplay between rotation and QCD thermodynamics, which can have important implications for rapidly rotating strongly interacting matter produced in ultra-relativistic heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 12:18:46 GMT</pubDate>
+      <guid isPermaLink="false">2608.16478v1</guid>
+      <dc:creator>S. Ipsita Sahoo</dc:creator>
+      <dc:creator>Sanjeebani Biswal</dc:creator>
+      <dc:creator>Dipanwita Dutta</dc:creator>
+      <dc:creator>Dipak Kumar Mishra</dc:creator>
+    </item>
+    <item>
+      <title>Origin and limits of intermediate-mass dilepton thermometry</title>
+      <link>http://arxiv.org/abs/2608.16102v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lipei Du&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We identify the physical origin and limits of intermediate-mass dilepton thermometry in relativistic heavy-ion collisions. Using a controlled expanding-fireball framework with thermal dilepton rates, we show that the local inverse-slope parameter of the invariant-mass spectrum follows, to percent-level accuracy, the emission-weighted harmonic mean of the temperatures contributing to the spectrum. As the thermal-stage initial temperature increases, the temperatures sampled by the radiation shift upward with the overall thermal scale, causing their harmonic mean to track the initial temperature closely. This provides the physical basis for the strong inverse-slope--initial-temperature correlation, while the resulting mapping remains nonuniversal: changes that only rescale the amount of radiation leave it unchanged, whereas changes in the cooling history or source composition redistribute the radiation among different temperatures and modify the response. The mapping is nevertheless nearly linear over the temperature range studied here. Because different invariant-mass windows weight the emission history differently, source scenarios with the same inverse-slope parameter in $1&lt;M&lt;3~{\rm GeV}$ develop different inverse slopes in harder mass windows. Intermediate-mass dilepton spectra therefore provide a quantitative but nonuniversal probe of the early thermal history, while measurements in multiple mass windows, when confronted with realistic calculations, can provide additional constraints on the thermal evolution and early electromagnetic source content.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 04:46:54 GMT</pubDate>
+      <guid isPermaLink="false">2608.16102v1</guid>
+      <dc:creator>Lipei Du</dc:creator>
+    </item>
+    <item>
+      <title>Neutron Stars consistent Equations of State with Phase Transitions and their Impact in Heavy Ion Collision Observables</title>
+      <link>http://arxiv.org/abs/2608.15737v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; D. E. Lluis González, J. Steinheimer, M. Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We explore the impact of different equations of state (EoS) on heavy ion collision observables using a Chiral Mean Field (CMF) framework constrained by astrophysical and lattice QCD inputs. The investigated family of EoS simultaneously reproduce neutron stars with masses above two solar masses and exhibit a first order phase transition around two times the nuclear saturation density. This is achieved by varying the relative vector and scalar couplings of $Δ$ resonances with the scalar $σ$ and vector $ω$ fields with respect to nucleons. These EoS are compared to the QCD trace anomaly at finite temperature. We implement both, the default CMF EoS and the modified EoS featuring a phase transition into the UrQMD transport model to study the effects of the phase transition on a qualitative and quantitative level. In particular Au+Au collisions at beam energies of 0.5-3 GeV, the GSI/FAIR energy range of the HADES and CBM experiments, shows visible sensitivity on the EoS. Transverse momentum distributions for protons, the directed flow ($v_1$) and its slope near mid-rapidity for $π^+$ as well as the $K^+/π^+$ ratio is analyzed. Clear differences emerge between the results obtained with the default CMF EoS, the modified EoS, and the cascade mode, particularly the slope of $v_1$ of the pions and in strangeness production. These findings demonstrate the sensitivity of heavy ion observables to the nuclear EoS and highlight potential experimental signatures of a phase transition.&lt;/p&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 13:29:14 GMT</pubDate>
+      <guid isPermaLink="false">2608.15737v1</guid>
+      <dc:creator>D. E. Lluis González</dc:creator>
+      <dc:creator>J. Steinheimer</dc:creator>
+      <dc:creator>M. Bleicher</dc:creator>
+    </item>
+    <item>
+      <title>Renormalization-group locking of finite anisotropic propagation cones in Yukawa networks</title>
+      <link>http://arxiv.org/abs/2608.15661v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuai Zeng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Different field species can begin with finite anisotropic propagation geometries whose principal axes need not coincide. We ask whether local Yukawa interactions on a finite graph can nevertheless generate one common infrared spatial cone, even when the interactions that drive the locking become marginally irrelevant. Retaining the full finite mismatch between positive-definite spatial kinetic matrices, we derive the one-loop nonlinear matrix flow and show that its Thompson diameter is globally nonexpansive. On a connected graph, persistent normalized edge activity upgrades this to a uniform finite-window contraction, so all interacting sectors asymptotically share one relative propagation geometry. An explicit two-channel Pauli-Dirac Yukawa-quartic completion realizes the persistence conditions on an open weak-coupling set of finite-mismatch initial data. In four dimensions the Yukawa couplings vanish in the infrared, yet their accumulated interaction time diverges, leaving a Gaussian endpoint with a common spatial cone. For a controlled two-plateau extremal class, graph distance also fixes the first nonzero short-time order of the diameter decrease. Thus a common cone can be collectively selected by renormalization-group dynamics rather than imposed as a microscopic common structure.&lt;/p&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 10:10:58 GMT</pubDate>
+      <guid isPermaLink="false">2608.15661v1</guid>
+      <dc:creator>Shuai Zeng</dc:creator>
+    </item>
+    <item>
+      <title>Physics of the Electron-Ion Collider in China</title>
+      <link>http://arxiv.org/abs/2608.11712v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bo-Wen Xiao, Yuxiang Zhao, Jian Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Electron-Ion Collider in China (EicC), a cutting-edge facility under development, aims to unveil the internal structure of nucleons and nuclei by leveraging collisions of high-intensity polarized electrons and ions (polarized protons, polarized deuterons, polarized $^{3}$He, and unpolarized heavy ions up to Uranium) at center-of-mass energies of 15-20 GeV and luminosity of (2-4)$\times 10^{33}$cm$^{-2}$s$^{-1}$. Its primary physics objectives include 3D tomography of nucleon spin and momentum structure, fundamental questions regarding the origin of nucleon mass, partonic structure of nuclei and parton interactions with the nuclear environment, and exploration of exotic hadronic states. In this paper, we review the physics potential of the EicC and highlight its unique capabilities for advancing precision nucleon structure studies by combining its specialized kinematic coverage and high luminosity. Since traditional topics like 3D nucleon structure have already been well-covered by several extensive reviews, we have deliberately dedicated significant space to recent progress in nucleon mass decomposition, nucleon energy-energy correlation, quantum information, and artificial intelligence applications in high-energy nuclear physics, which have been emerging rapidly and attracted a tremendous amount of attention in the community.&lt;/p&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 09:57:32 GMT</pubDate>
+      <guid isPermaLink="false">2608.11712v2</guid>
+      <dc:creator>Bo-Wen Xiao</dc:creator>
+      <dc:creator>Yuxiang Zhao</dc:creator>
+      <dc:creator>Jian Zhou</dc:creator>
+    </item>
+    <item>
+      <title>Strong CP Problem in Type IIA Toroidal Orientifold String Theory</title>
+      <link>http://arxiv.org/abs/2608.15611v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yang Liu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a globally consistent Type IIA $T^6/(\mathbb{Z}_2 \times \mathbb{Z}_2)$ orientifold with intersecting D6-branes that dynamically solves the strong CP problem via the four-form flux mechanism. The construction satisfies all RR tadpole, K-theory, and SUSY conditions, stabilizes all moduli, and uplifts to dS vacuum with an anti-D6-brane. Four new results beyond our earlier proof-of-principle \cite{Liu:2025tnx} are given: (i) an explicit one-to-one dictionary between field-theory four-form parameters and string fluxes, including flux quantization constraints; (ii) a quantitative anti-D6 backreaction estimate showing $|δ\barθ|&lt;10^{-11}$; (iii) an analysis of swampland constraints that are simultaneously satisfied only in a parameter window; (iv) a comparison with Type IIB LVS and heterotic solutions. The predicted axion decay constant $f_a$ and mass $m_a$ are within reach of next generation observations.&lt;/p&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 08:20:47 GMT</pubDate>
+      <guid isPermaLink="false">2608.15611v1</guid>
+      <dc:creator>Yang Liu</dc:creator>
+    </item>
+    <item>
+      <title>General Lindblad equation for quarkonium evolution in a quark-gluon plasma</title>
+      <link>http://arxiv.org/abs/2608.15347v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aoumeur Daddi Hammou, Jean-Paul Blaizot, Pol Bernard Gossiaux, Thierry Gousset&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Accurate modelling and understanding of quarkonium production in ultrarelativistic heavy ion collisions requires a formalism that preserves the quantum properties of microscopic $\bar{Q}Q$ systems while treating the interaction of such pairs with the quark-gluon plasma (QGP). The open quantum system approach has recently emerged as one of the most fruitful schemes to meet such requirements. However, the quantum master equations obtained so far in this context are derived assuming a strict ordering between the QGP temperature $T$ and the $\bar{Q}Q$ energy gaps ($ΔE$) of the quarkonia bound states. This limits their predictive power since, as the QGP expands and cools down, the system traverse all regimes between the quantum Brownian motion (QBM) regime for $T\gtrsim ΔE$ to the quantum optical (QO) regime for $ΔE\gtrsim T$. In this paper, we derive and present a more general non-abelian quantum master equation of the Lindblad type, which does not suffer from these limitations and thus allows to faithfully describe the quantum evolution of the $Q\bar{Q}$ pairs during the whole QGP-evolution. We also provide some illustration of the key quantities governing this equation.&lt;/p&gt;</description>
+      <pubDate>Sat, 15 Aug 2026 18:02:07 GMT</pubDate>
+      <guid isPermaLink="false">2608.15347v1</guid>
+      <dc:creator>Aoumeur Daddi Hammou</dc:creator>
+      <dc:creator>Jean-Paul Blaizot</dc:creator>
+      <dc:creator>Pol Bernard Gossiaux</dc:creator>
+      <dc:creator>Thierry Gousset</dc:creator>
+    </item>
+    <item>
+      <title>Statistical validation of calorimeter inpainting with generative diffusion priors</title>
+      <link>http://arxiv.org/abs/2608.14801v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Himanshu Raj, Roli Esha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.data-an&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Localized detector inefficiencies produce incomplete calorimeter data that limit the ability to perform precision measurements. We address this problem in relativistic heavy-ion collisions from a Bayesian perspective using pretrained calorimeter diffusion models as priors to reconstruct the missing signal conditioned on surrounding measurements. In this work, we conduct a systematic comparison of several diffusion-based inpainting algorithms, whose performance is evaluated using Bayesian posterior diagnostics of energy response, spatial bias, and uncertainty calibration. The reconstruction fidelity is also analyzed across collision centralities and masked region sizes. This study establishes a general validation strategy for probabilistic reconstruction of missing detector information.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 18:14:23 GMT</pubDate>
+      <guid isPermaLink="false">2608.14801v1</guid>
+      <dc:creator>Himanshu Raj</dc:creator>
+      <dc:creator>Roli Esha</dc:creator>
+    </item>
+    <item>
+      <title>Neural network maximum entropy framework for distribution reconstruction in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2608.14056v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qian-Ru Lin, Fu-Peng Li, YiGe Huang, Long-Gang Pang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a neural-network maximum-entropy (NN+MaxEnt) framework for reconstructing probability distributions from limited observables in heavy-ion collisions. The method combines flexible neural-network representations with Shannon-entropy regularization, preserving positivity and normalization without assuming a fixed analytic form. After validation with Gaussian, Poisson, and mixed-Poisson closure tests, we apply the framework to two physics-motivated inverse problems: an effective multiplicity reconstruction constrained by functional renormalization group cumulants, used as a closure test, and the conditional jet-energy-loss distribution extracted from single-inclusive jet $R_{AA}$ data in Pb+Pb collisions at $\sqrt{s_{NN}}=2.76$~TeV. For the fRG closure test, NN+MaxEnt accurately reproduces the imposed cumulants and yields distributions consistent with conventional MaxEnt solutions. For jets, the reconstructed energy-loss distributions reproduce the measured $R_{AA}$; at an initial jet momentum $x=50~\mathrm{GeV}$, the conditional mean energy loss is $\langleΔp_T\rangle\simeq11.8~\mathrm{GeV}$, with a central $16\text{--}84\%$ interval of $9.0\text{--}15.0~\mathrm{GeV}$. The extracted energy-loss profile is qualitatively consistent with Bayesian MCMC and LBT results. NN+MaxEnt thus provides a flexible, less ansatz-dependent framework for regularized distribution reconstruction from observables connected to the underlying distribution through differentiable forward maps.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 07:59:59 GMT</pubDate>
+      <guid isPermaLink="false">2608.14056v1</guid>
+      <dc:creator>Qian-Ru Lin</dc:creator>
+      <dc:creator>Fu-Peng Li</dc:creator>
+      <dc:creator>YiGe Huang</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+    </item>
+    <item>
+      <title>Bayesian inference of event-by-event collision geometry from charged-particle multiplicity in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2608.14045v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yige Huang, Fu-Peng Li, Hanwen Feng, Nu Xu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose the Inference-driven Participant Determination (IPD) method, a Bayesian framework for inferring event-by-event posterior distributions of the number of participants ($N_{\text{part}}$) and binary collisions ($N_{\text{coll}}$) from final-state charged-particle multiplicities in relativistic heavy-ion collisions. The joint distribution of $(N_{\text{part}}, N_{\text{coll}})$ obtained from the Monte-Carlo Glauber model is used as the prior, while negative binomial distributions calibrated to charged-particle multiplicity fluctuations define the likelihood. This approach replaces conventional hard-cut centrality classification with a probabilistic assignment based on $N_{\text{part}}$, making the multiplicity--geometry smearing explicit and reducing the impact of volume fluctuations on downstream observables. A closure test using an UrQMD-MCG hybrid model at $\sqrt{s_{NN}} = 19.6$~GeV shows that the method yields well-calibrated posterior distributions with negligible bias and improves the reconstruction of net-proton cumulants relative to conventional multiplicity-based centrality selection.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 07:46:09 GMT</pubDate>
+      <guid isPermaLink="false">2608.14045v1</guid>
+      <dc:creator>Yige Huang</dc:creator>
+      <dc:creator>Fu-Peng Li</dc:creator>
+      <dc:creator>Hanwen Feng</dc:creator>
+      <dc:creator>Nu Xu</dc:creator>
+    </item>
+    <item>
+      <title>Extraction of Neutron-Skin Parameters in Zr+Zr and Ru+Ru Collisions at $\sqrt{s_{\text{NN}}}$ = 200 GeV</title>
+      <link>http://arxiv.org/abs/2608.13935v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junjian Zhou, Dongsheng Li, Fan Si, Xiujun Li, Yifei Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The initial nuclear geometry of colliding nuclei, manifested in proton and neutron density profiles, plays a key role in determining final-state effects in high-energy heavy-ion collisions. We study ${^{96}\text{Ru}}+{^{96}\text{Ru}}$ and ${^{96}\text{Zr}}+{^{96}\text{Zr}}$ collisions at $\sqrt{s_{\text{NN}}}=200$ GeV incorporating an isospin-dependent Woods-Saxon distribution to account for neutron-skin effects in the UrQMD model. By systematically scanning the proton surface diffuseness parameter $a_{\text{p,Zr}}$ of the $^{96}\text{Zr}$ nucleus and performing a $χ^2$ analysis by comparing with STAR experimental data, we extract the relative neutron-skin thickness difference $0.278 \pm 0.018$ fm between the two isobaric systems using the net-charge yield difference $ΔQ$. We further show that the neutron-skin effect evidently modifies the baryon-to-charge transport ratio $R_{B/Q}=\langle B \rangle/ΔQ \times ΔZ/A$, and substantially influences the observed $R_{B/Q}&gt;1$ behavior in central collisions. This work indicates that nuclear structure effects contribute non-negligibly to baryon transport observables without a baryon junction hypothesis, and underscores the importance of precise initial-state geometry constraints for exploring novel QCD phenomena in relativistic heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 04:16:15 GMT</pubDate>
+      <guid isPermaLink="false">2608.13935v1</guid>
+      <dc:creator>Junjian Zhou</dc:creator>
+      <dc:creator>Dongsheng Li</dc:creator>
+      <dc:creator>Fan Si</dc:creator>
+      <dc:creator>Xiujun Li</dc:creator>
+      <dc:creator>Yifei Zhang</dc:creator>
+    </item>
     <item>
       <title>Non-perturbative quark production and transport in the evolving glasma: the WAGASHI event generator</title>
       <link>http://arxiv.org/abs/2608.13393v1</link>
@@ -45,16 +154,6 @@
       <pubDate>Wed, 12 Aug 2026 14:20:40 GMT</pubDate>
       <guid isPermaLink="false">2608.12098v1</guid>
       <dc:creator>Kirill Tuchin</dc:creator>
-    </item>
-    <item>
-      <title>Physics of the Electron-Ion Collider in China</title>
-      <link>http://arxiv.org/abs/2608.11712v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bo-Wen Xiao, Yuxiang Zhao, Jian Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Electron-Ion Collider in China (EicC), a cutting-edge facility under development, aims to unveil the internal structure of nucleons and nuclei by leveraging collisions of high-intensity polarized electrons and ions (polarized protons, polarized deuterons, polarized $^{3}$He, and unpolarized heavy ions up to Uranium) at center-of-mass energies of 15-20 GeV and luminosity of (2-4)$\times 10^{33}$cm$^{-2}$s$^{-1}$. Its primary physics objectives include 3D tomography of nucleon spin and momentum structure, fundamental questions regarding the origin of nucleon mass, partonic structure of nuclei and parton interactions with the nuclear environment, and exploration of exotic hadronic states. In this paper, we review the physics potential of the EicC and highlight its unique capabilities for advancing precision nucleon structure studies by combining its specialized kinematic coverage and high luminosity. Since traditional topics like 3D nucleon structure have already been well-covered by several extensive reviews, we have deliberately dedicated significant space to recent progress in nucleon mass decomposition, nucleon energy-energy correlation, quantum information, and artificial intelligence applications in high-energy nuclear physics, which have been emerging rapidly and attracted a tremendous amount of attention in the community.&lt;/p&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:52:06 GMT</pubDate>
-      <guid isPermaLink="false">2608.11712v1</guid>
-      <dc:creator>Bo-Wen Xiao</dc:creator>
-      <dc:creator>Yuxiang Zhao</dc:creator>
-      <dc:creator>Jian Zhou</dc:creator>
     </item>
     <item>
       <title>Particle Production, Equilibration, and Quantum Recurrences from Classical Fields</title>
@@ -2173,20 +2272,6 @@
       <dc:creator>Enrico Scomparin</dc:creator>
     </item>
     <item>
-      <title>Deformation, halo, and bubble structure: A paradigm shift of exotic phenomena in light to medium mass nuclei</title>
-      <link>http://arxiv.org/abs/2607.21730v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; R. Barman, R. Chatterjee, W. Horiuchi, M. Kimura, G. Singh, Jagjit Singh, Shubhchintak&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The emergence of exotic nuclear structures, such as deformation, one- and two-neutron halos, and bubble configurations, marks a paradigm shift in our understanding of light- to medium-mass nuclei far from stability, particularly near and within the island of inversion extending across $N=20-28$. In this review, we integrate microscopic structure calculations using the antisymmetrized molecular dynamics method with reaction theories such as the Glauber model for high-energy collisions, and highlight the use of the fully quantum mechanical finite-range distorted wave Born approximation for calculating both inclusive and exclusive Coulomb breakup observables for these medium mass systems. These theoretical frameworks enable precise probing of nuclear density profiles through observables such as total reaction cross sections, neutron removal cross sections, relative energy spectra, parallel momentum distributions, and angular distributions. Applications to several nuclei in the island of inversion reveal enhanced halo extensions, neutron-neutron correlations in Borromean nuclei, and central density depletions in bubbles, challenging traditional shell-model paradigms. Furthermore, the sensitivity of astrophysical reaction rates to these exotic inputs is explored, demonstrating their role in the refinement of r-process nucleosynthesis models and elemental abundance predictions. This unified approach not only bridges nuclear structure and reactions, but also highlights the driplines as frontiers for unraveling nuclear matter under extreme conditions, with implications for rare-isotope beam experiments and beyond.&lt;/p&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 18:27:53 GMT</pubDate>
-      <guid isPermaLink="false">2607.21730v1</guid>
-      <dc:creator>R. Barman</dc:creator>
-      <dc:creator>R. Chatterjee</dc:creator>
-      <dc:creator>W. Horiuchi</dc:creator>
-      <dc:creator>M. Kimura</dc:creator>
-      <dc:creator>G. Singh</dc:creator>
-      <dc:creator>Jagjit Singh</dc:creator>
-      <dc:creator>Shubhchintak</dc:creator>
-    </item>
-    <item>
       <title>Lattice study of spin interactions between heavy quarks in the quark-gluon plasma</title>
       <link>http://arxiv.org/abs/2607.21729v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dibyendu Bala, Olaf Kaczmarek, Sayantan Sharma, Swagatam Tah&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We calculate the spin-dependent potential, which is the $\mathcal{O}(1/M^2)$ correction term to the thermal potential between a static quark-antiquark pair within non-relativistic QCD. At leading order in hard thermal loop perturbation theory, we show that this spin-dependent potential has an imaginary part which is different in magnitude for pseudoscalar and vector quarkonium states. For the first time, we extract the imaginary part non-perturbatively using lattice techniques, in the deconfined phase of quenched QCD at $T\sim 470$ MeV, after performing a continuum estimation and subsequent renormalization. We have found that the spin-dependent potential in the quark-gluon plasma phase is complex, and its imaginary part has a remarkably significant contribution over the thermal static potential for charmonium states. Consequences of this thermal spin-dependent potential on the quarkonium spectral functions are also discussed.&lt;/p&gt;</description>
@@ -2206,33 +2291,6 @@
       <dc:creator>Rupam Samanta</dc:creator>
       <dc:creator>Tribhuban Parida</dc:creator>
       <dc:creator>Jean-Yves Ollitrault</dc:creator>
-    </item>
-    <item>
-      <title>Intrinsic coupling between transverse spherocity and elliptic flow in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2607.21161v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Subikash Choudhury, Ekata Nandy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Transverse spherocity ($S_{0}$) is an event-shape observable widely used to classify collision events according to their topology, particularly to distinguish jet-like from isotropic events. Low-spherocity events are generally interpreted as being associated with enhanced jet activity. This event classification has also been applied to heavy-ion collisions to investigate the influence of event topology on several observables, including elliptic flow and constituent-quark-number scaling. In this work, we demonstrate that such an interpretation requires careful reconsideration. Using toy Monte Carlo simulations, A Multiphase Transport (AMPT) model calculations, and an analytical formulation of the spherocity observable, we show that transverse spherocity is intrinsically related to the elliptic flow coefficient, $v_{2}$. This connection arises because the axis that minimizes the spherocity aligns with the event symmetry plane, causing events with larger elliptic anisotropy to naturally exhibit smaller spherocity values even in the absence of genuine jet-like topologies. We further show that this intrinsic relation gives rise to an inherent anti-correlation between transverse spherocity and $v_{2}$, implying that several characteristics previously attributed to the enhanced jet-like nature of low-spherocity events in heavy-ion collisions can instead be understood as consequences of collective anisotropic flow. Our results indicate that, in heavy-ion collisions, transverse spherocity should be interpreted primarily as a probe of the collective momentum-space anisotropy rather than as a direct measure of jetty event topology. Consequently, physics conclusions drawn from spherocity-selected events should explicitly account for its intrinsic correlation with elliptic flow.&lt;/p&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:46:07 GMT</pubDate>
-      <guid isPermaLink="false">2607.21161v1</guid>
-      <dc:creator>Subikash Choudhury</dc:creator>
-      <dc:creator>Ekata Nandy</dc:creator>
-    </item>
-    <item>
-      <title>Impact of Baryon anti-Baryon annihilation on hyperon ($Λ$, $\barΛ$) production and apparent strangeness enhancement in $\barΛ/\bar{p}$ in heavy ion collisions at SPS energy</title>
-      <link>http://arxiv.org/abs/2607.21146v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ekata Nandy, Subhasis Chattopadhyay&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A deconfined medium of quarks and gluon, called the Quark-Gluon Plasma (QGP) is produced when heavy-nuclei are collided at relativistic energies. The QGP formation is often characterized by a phenomenon called strangeness enhancement where, the relative production of strange-to-non-strange particles are enhanced in central collisions compared to peripheral or proton-proton interactions. Besides the enhancement in K/$π$ ratios, a non-monotonic energy dependence was also reported for $\barΛ$ to $\bar{p}$ ratios at CERN SPS, attributed to a signature for the strangeness enhancement as well. As anti-particles are produced directly from the reaction, the $\barΛ$/$\bar{p}$ ratios are considered as a cleaner probe for the strangeness enhancement. However, at this energy range hadronic interactions have a dominant role to play and, importantly for $\barΛ$ and $\bar{p}$, processes like baryon-anti-baryon ($\mathrm{B\bar{B}}$) annihilation can have a significant impact. In this work, we use a hadronic transport model UrQMD, to investigate the role of baryon-anti-baryon ($\mathrm{B\bar{B}}$) annihilation on $Λ$, $\barΛ$ hyperon production and its effect on $\barΛ$/$\bar{p}$ ratios. The UrQMD calculations that include $\mathrm{B\bar{B}}$ annihilation can produce the trend of average transverse mass spectra for $Λ$ and $\barΛ$, as well as, the characteristic enhancement in $\barΛ$/$\bar{p}$ ratios in data as a function of centrality and collision energy. Furthermore, $\barΛ$/$\bar{p}$ ratios extracted from the feed-down corrected SPS data are seen to be in good agreement with UrQMD model calculations with $\mathrm{B\bar{B}}$ annihilation. This suggests that $\barΛ$/$\bar{p}$ enhancement is not necessarily because of strangeness enhancement and $\mathrm{B\bar{B}}$ annihilation has a significant role to play.&lt;/p&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:27:04 GMT</pubDate>
-      <guid isPermaLink="false">2607.21146v1</guid>
-      <dc:creator>Ekata Nandy</dc:creator>
-      <dc:creator>Subhasis Chattopadhyay</dc:creator>
-    </item>
-    <item>
-      <title>Searching for initial state fluctuations in heavy ion collisions at FAIR energy using Principal Component Analysis</title>
-      <link>http://arxiv.org/abs/2607.20971v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ekata Nandy, Subhasis Chattopadhyay&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In high energy heavy ion collisions, the initial configurations of the colliding nuclei play an important role in determining the reaction type and the products of the reaction. The initial arrangement of nucleons within the overlap region of two colliding nuclei is generally asymmetric and such asymmetries reflect themselves in the measurement final state momentum anisotropy. Also initial distribution of the nucleons are subjected to large quantum fluctuation causing large energy deposition in a small region. The final state observables related momentum anisotropies although sensitive to such localized fluctuations but their true effect gets diluted because these observables are calculated by averaging over a set of events. Also, such fluctuations in the initial states are random and uncontrolled. Thus, identifying their effect from event-averaged final state observable is difficult. However, it would be interesting to know the origin of such fluctuations and how these fluctuation are eventually translated to the final state. In this work, we at first introduce such localized fluctuations in the initial configurations, also called hot spots, by implementing spatial rearrangements of nucleon position in the colliding nuclei in the central Pb+Pb collisions at E$_{lab}$=20 AGeV ($\sqrt{s}$=6.27 GeV) using the UrQMD event generator. Then the final state distributions of one or two dimensional variables e.g., ($η$, $φ$, $p_T$) and ($η-p_T$, $φ-p_T$, $η-φ$) of the produced pions are analysed using the principal component analysis (PCA) technique. The eigenvalues of the principal components have been studied for various initial configurations, event fractions containing hot spots in the initial condition and for event centralities with an aim to find it's sensitivity to the initial hot spot configurations.&lt;/p&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 06:47:12 GMT</pubDate>
-      <guid isPermaLink="false">2607.20971v1</guid>
-      <dc:creator>Ekata Nandy</dc:creator>
-      <dc:creator>Subhasis Chattopadhyay</dc:creator>
     </item>
     <item>
       <title>Temperature fluctuations in a realistic Polyakov-loop extended Nambu--Jona-Lasinio Model along the freeze-out line</title>
@@ -2856,16 +2914,6 @@
       <guid isPermaLink="false">2606.27156v1</guid>
       <dc:creator>Tribhuban Parida</dc:creator>
       <dc:creator>Sandeep Chatterjee</dc:creator>
-    </item>
-    <item>
-      <title>Mapping jet substructure in heavy-ion collisions with track functions</title>
-      <link>http://arxiv.org/abs/2606.23971v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Yeonju Go, Daniel Pablos&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the dynamics of high-energy QCD cascades in heavy-ion collisions, focusing on modifications to jets' substructure induced by the presence of a quark-gluon plasma (QGP). To this end, we study the properties and scale evolution of track functions, non-perturbative objects encoding the flow of energy from an initiating parton to all charged hadrons. In contrast to the more standard fragmentation functions, these objects have a non-linear renormalization group (RG) evolution, being sensitive to the entire jet fragmentation process. Using the JEWEL and HYBRID Monte-Carlo models of jet quenching, we find that in both frameworks the higher moments and cumulants of the track functions' distributions exhibit sizable deviations from their vacuum baselines, demonstrating that medium-induced energy loss imprints itself in the in-medium jet fragmentation pattern. We find that the quantitative magnitude of these modifications differs significantly between the two models. This identifies track functions as a class of observables capable of discriminating between competing microscopic pictures of jet-medium interactions. We further examined the (in-medium) RG flows for the leading moments, which remain in qualitative agreement with the in-vacuum evolution. This provides an avenue to directly test the RG flows inside a QGP, linking heavy-ion jet measurements to basic QFT understanding of partonic branching. Finally, we comment on the feasibility and challenges associated with extracting track functions from experimental data.&lt;/p&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 21:56:57 GMT</pubDate>
-      <guid isPermaLink="false">2606.23971v1</guid>
-      <dc:creator>João Barata</dc:creator>
-      <dc:creator>Yeonju Go</dc:creator>
-      <dc:creator>Daniel Pablos</dc:creator>
     </item>
   </channel>
 </rss>
