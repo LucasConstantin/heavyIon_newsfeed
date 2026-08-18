@@ -25,13 +25,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate 7-day feed
-        run: |
-          python create_arxiv_feed.py --search \
-            -c Heavy-Ion \
-            --lookback_days 7 \
-            --base_feed_url https://lucasconstantin.github.io/heavyIon_newsfeed/feeds
-
       - name: Generate 100-day feed
         run: |
           python create_arxiv_feed.py --search \
