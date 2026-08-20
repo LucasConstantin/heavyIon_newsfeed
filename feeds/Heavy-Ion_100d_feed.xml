@@ -5,9 +5,80 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:58:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>The elliptic wind on jet wakes in high-energy heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2608.17967v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kai-Yi Wu, Zhong Yang, Xin-Nian Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Energy loss by fast partons induces Mach-cone-like medium response as they propagate inside the hot quark-gluon plasma (QGP) in high-energy heavy-ion collisions. Since the hot QGP is nonuniform whose initial density gradient also generates collective flow, jet-induced medium response in this dynamic system should also be distorted by the flow and density gradient. The distortion is shown to lead to a broadened jet wake whose transverse width depends on the azimuthal angle of the jet propagation due to the elliptic anisotropy of the density gradient and the flow velocity in non-central heavy-ion collisions. We propose and calculate the in-plane and out-plane differences of the azimuthal-dependent jet-hadron correlations for soft charged hadrons in $γ$-jet events as measures of the elliptic broadening of the wake front and deepening of the diffusion wake. We also study the sensitivity of this observable to the shear viscosity of the QGP medium. Experimental measurements of the azimuthal modulation of the jet wake due to the wind of the elliptic flow at RHIC and LHC can provide further constraints on the transport properties of the QGP medium.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 16:20:38 GMT</pubDate>
+      <guid isPermaLink="false">2608.17967v1</guid>
+      <dc:creator>Kai-Yi Wu</dc:creator>
+      <dc:creator>Zhong Yang</dc:creator>
+      <dc:creator>Xin-Nian Wang</dc:creator>
+    </item>
+    <item>
+      <title>Symbolic Regression for Interpretable Emulation of Proton Collective Flow in Intermediate-Energy Heavy-Ion Collisions</title>
+      <link>http://arxiv.org/abs/2608.17828v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicholas Cox, Xavier Grundler, Bao-An Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Symbolic regression provides an interpretable machine-learning approach for constructing explicit analytic relations between physical inputs and observables. In this work, we develop symbolic-regression emulators for the isospin-dependent Boltzmann-Uehling-Uhlenbeck (IBUU) transport model and compare their performance with deep neural network (DNN) emulators. Using the same transport-model data employed in our previous emulator studies, we show that symbolic regression can reproduce the proton mid-rapidity slope $F_1$ of transverse flow $v_1$ and elliptic flow $v_2$ with accuracy comparable to that of DNNs, while providing explicit analytic expressions and substantially faster prediction once trained. We further demonstrate the use of symbolic regression in the reverse direction by constructing analytic relations that predict the in-medium nucleon-nucleon cross-section modification factor $X$ from the flow observables. Although the symbolic-regression models require substantially longer training times and exhibit greater run-to-run variation than DNNs, their analytic form and rapid evaluation make them promising tools for future transport-model sensitivity and uncertainty analyses.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 14:28:47 GMT</pubDate>
+      <guid isPermaLink="false">2608.17828v1</guid>
+      <dc:creator>Nicholas Cox</dc:creator>
+      <dc:creator>Xavier Grundler</dc:creator>
+      <dc:creator>Bao-An Li</dc:creator>
+    </item>
+    <item>
+      <title>Revised $^{45}$V($p,γ$)$^{46}$Cr reaction rate and its impact on the production of $^{44}$Ti in core-collapse supernovae</title>
+      <link>http://arxiv.org/abs/2608.17757v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; R. S. Sidhu, Y. Luo, C. Sarma, M. Wiescher, X. Xu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The thermonuclear $^{45}$V($p,γ$)$^{46}$Cr reaction is the primary leakage pathway from the $^{44}$Ti--$^{45}$V quasi-equilibrium cluster during $α$-rich freeze-out in core-collapse supernovae (CCSN), governing the final abundance of the $γ$-ray-emitting isotope $^{44}$Ti. A recent high-resolution $γ$-ray study [C. Cousins \textit{et al.}, Phys. Rev. Lett. 136, 252701 (2026)] identified ten previously unknown low-spin proton-unbound states in $^{46}$Cr, enabling the first experimentally constrained $^{45}$V($p,γ$)$^{46}$Cr reaction rate using the AME2020 mass excess, $\text{ME}(^{46}\text{Cr}) = -29472(11)$~keV. Here, we adopt the four-fold more precise CSRe mass excess $\text{ME}(^{46}\text{Cr}) = -29477.2(2.6)$~keV [M.~Wang \textit{et al.}, Phys. Rev. C \textbf{106}, L051301 (2022)] to recalculate the reaction rate. Including proton capture on the ground and first two excited states of $^{45}$V alongside new shell-model proton spectroscopic factors, we reduce mass-related rate uncertainties to a subdominant level. The revised rate is up to 69% higher than that of Cousins \textit{et al.} at $α$-rich freeze-out temperatures ($T \simeq 1.5$--$2$~GK). CCSN nucleosynthesis calculations show this revised rate increases the ejected $^{44}$Ti yield by $\sim$26% in a $20\,M_\odot$ model compared to The \textit{et al.} [ApJ \textbf{504}, 500 (1998)], while causing negligible changes for the SN~1987A trajectory. We demonstrate that $^{44}$Ti production sensitivity is dictated by the ejecta electron fraction ($Y_e$): the reaction significantly affects proton-rich ejecta ($Y_e \approx 0.50$) but has little impact on neutron-rich ejecta ($Y_e \approx 0.496$), where lower free-proton abundances suppress reaction flow. This reconciles conflicting results from past sensitivity studies.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 13:18:41 GMT</pubDate>
+      <guid isPermaLink="false">2608.17757v1</guid>
+      <dc:creator>R. S. Sidhu</dc:creator>
+      <dc:creator>Y. Luo</dc:creator>
+      <dc:creator>C. Sarma</dc:creator>
+      <dc:creator>M. Wiescher</dc:creator>
+      <dc:creator>X. Xu</dc:creator>
+    </item>
+    <item>
+      <title>From the universal Lindblad equation to Boltzmann equations: in-QGP quarkonium dynamics</title>
+      <link>http://arxiv.org/abs/2608.17372v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aoumeur Daddi Hammou, Pol Bernard Gossiaux&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recently, a set of coupled singlet-octet universal Lindblad equations (ULEs) was derived within the framework of non-relativistic QCD (NRQCD) to describe quarkonium dynamics in the quark-gluon plasma (QGP). These equations provide a unified quantum description spanning the quantum Brownian and quantum optical regimes. In this work, we further develop this framework and establish its connection with semiclassical transport. We first derive the universal Lindblad equations within the potential non-relativistic QCD (pNRQCD) effective field theory and show that they coincide with the small-dipole limit of the NRQCD ULEs. We then derive the semiclassical limit of the NRQCD ULEs, obtaining a set of coupled singlet-octet Boltzmann equations. To our knowledge, this is the first derivation of Boltzmann transport equations directly from the universal Lindblad framework. The resulting equations are valid beyond the small-dipole approximation, allowing the evolution of heavy-quark pairs from compact to widely separated configurations. Taking their small-dipole limit allows a direct comparison with the Boltzmann equations of Yao et al. [Phys. Rev. D 99, 096028 (2019)], which were derived within pNRQCD from the Davies secular equation, relying on the rotating-wave approximation (RWA). While the singlet equations are found to be in near-complete agreement, the octet equation contains an additional collision term describing transitions within the continuum of octet scattering states, which is absent from the RWA-based derivation. Finally, we derive the leading quantum correction to the singlet Boltzmann equation. Our results establish a more general and systematic theoretical foundation for the semiclassical transport description of quarkonium in the QGP.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 05:06:15 GMT</pubDate>
+      <guid isPermaLink="false">2608.17372v1</guid>
+      <dc:creator>Aoumeur Daddi Hammou</dc:creator>
+      <dc:creator>Pol Bernard Gossiaux</dc:creator>
+    </item>
+    <item>
+      <title>Variable-mass sine-Gordon with point defects: integrability, soliton transmission, and quasi-conservation</title>
+      <link>http://arxiv.org/abs/2608.17211v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. R. Aguirre, H. Blas, H. F. Callisaya, M. C. de Oliveira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study integrable variable-mass sine-Gordon model (vmSG) with point defects. Using the Lax and Bäcklund-gauge formulations, we construct type-I and type-II defect matrices, derive the corresponding sewing conditions, and generate the bulk and defect contributions to an infinite hierarchy of conserved charges. The lowest members reduce to the standard sine-Gordon energy and momentum in the homogeneous limit, while for inhomogeneous backgrounds they define integrability-generated energy- and momentum-type quantities. Defect compatibility imposes matching conditions on the variable-mass functions across the defect. An analytical transmission factor $z$ characterizes soliton transmission, topological conversion, and absorption/emission processes. We then deform the type-I sewing conditions by parameters $α$ and $β$ and derive the associated defect anomalies. Consistent one-soliton transmission is recovered for $αβ=1$, whereas for $αβ\neq 1$ parity-centered kink-kink and kink-antikink transmissions display vanishing lowest order integrated anomalies but no generic vanishing at higher order. Numerical simulations reproduce the integrable transmission/conversion regimes and show that non-integrable defects generate weak radiative tails and lowest order quasi-conserved charges, while quasi-conservation of the higher order charges remains unestablished. These results elucidate how exact defect integrability deforms into charge-dependent quasi-conservation and establish a framework for defect-controlled soliton transport in inhomogeneous media, with potential applications to nonuniform Josephson junctions, magnetic and nonlinear-optical systems, and effective molecular and DNA models.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 23:46:54 GMT</pubDate>
+      <guid isPermaLink="false">2608.17211v1</guid>
+      <dc:creator>A. R. Aguirre</dc:creator>
+      <dc:creator>H. Blas</dc:creator>
+      <dc:creator>H. F. Callisaya</dc:creator>
+      <dc:creator>M. C. de Oliveira</dc:creator>
+    </item>
+    <item>
+      <title>The high-energy behavior of tree-level scattering in finite-temperature QCD: estimates of theoretical systematic uncertainty in jet-medium Monte Carlo simulations</title>
+      <link>http://arxiv.org/abs/2608.17160v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lukas Opitz, Hemanth Regi, Gojko Vujanovic&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We examine the behavior of tree-level scattering in thermal QCD at high energies and find significant deviations away from the commonly used approximations [Phys. Rev. D 44, 1298 (1991), Phys. Rev. D 44, R2625 (1991), Phys. Rev. D.77, 014015 (2008), Phys. Rev. D. 77.114017 (2008)]. These deviations in the scattering rate also affect jet-medium transport coefficients at the partonic level, leading to a different kinematic dependence of the transverse momentum broadening per unit length $\hat{q}$. As scattering rates and $\hat{q}$ are used by large-scale Monte Carlo simulations of jets in the quark-gluon plasma (QGP), such as [Phys. Rev. C 111,054913 (2025)], current constraints on $\hat q$ are biased owing to the approximations used therein. Besides theoretically improving $\hat q$, the differences between the $\hat q$ herein and the approximate $\hat q$ used in jet Monte Carlo simulations are used to construct a theoretical systematic uncertainty, which in turn can be employed to devise a covariance matrix for $\hat q$ and enables updating the uncertainty bands on $\hat q$ obtained by Bayesian analysis.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 21:54:02 GMT</pubDate>
+      <guid isPermaLink="false">2608.17160v1</guid>
+      <dc:creator>Lukas Opitz</dc:creator>
+      <dc:creator>Hemanth Regi</dc:creator>
+      <dc:creator>Gojko Vujanovic</dc:creator>
+    </item>
+    <item>
+      <title>Hydrodynamization in 1D Bose gases at nonzero temperature</title>
+      <link>http://arxiv.org/abs/2608.16980v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jeff Leiberton, Marcos Rigol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.quant-gas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hydrodynamization refers to the remarkably rapid process in relativistic heavy-ion collisions by which hydrodynamic descriptions become applicable. Following the observation of analogous behavior in ultracold one-dimensional (1D) Bose gases, hydrodynamization has been conjectured to be a universal dynamical phenomenon in quantum systems following high-energy quenches. Theoretical studies in this cold-atom setting have so far been restricted to quenches from ground states. Here we study how nonzero temperatures affect hydrodynamization. Specifically, using a homogeneous 1D gas of hard-core bosons, we explore how the initial temperature affects the timescales associated with hydrodynamization and prethermalization following a Bragg-pulse quench. We find that while the hydrodynamization coherence time remains unchanged, increasing temperature shortens both the damping time of the hydrodynamization oscillations and the prethermalization time. We argue that this is mainly the result of the broadening of the initial rapidity distribution, and introduce a nonzero-temperature dephasing time defined in terms of the extent of the rapidity distribution.&lt;/p&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2608.16980v1</guid>
+      <dc:creator>Jeff Leiberton</dc:creator>
+      <dc:creator>Marcos Rigol</dc:creator>
+    </item>
     <item>
       <title>Rotation modified QCD equation of state across crossover at finite chemical potential</title>
       <link>http://arxiv.org/abs/2608.16478v1</link>
@@ -2208,31 +2279,6 @@
       <dc:creator>Munshi G. Mustafa</dc:creator>
     </item>
     <item>
-      <title>Study the Longitudinal Entropy Deposition using d+Au Collision</title>
-      <link>http://arxiv.org/abs/2607.24153v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhu Meng, Weiyao Ke, Long-Gang Pang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic hydrodynamics successfully describes bulk observables in symmetric heavy-ion collisions, but struggles to reproduce charged-particle rapidity distributions in asymmetric systems such as d+Au collisions. To address this challenge, we introduce two key improvements to the initial-state modeling: sampling deuteron configurations from an ab initio wavefunction, and developing a new longitudinal entropy deposition model that incorporates a transverse entropy deposition coefficient $β$ and a rapidity loss term scaling with the number of binary collisions $n_{\rm BC}$. Using the (3+1)-dimensional viscous hydrodynamic model CLVisc coupled with the SMASH afterburner, we simulate d+Au collisions at $\sqrt{s_{\rm NN}} = 200$ GeV and successfully reproduce the experimental charged-particle pseudorapidity distributions across five centrality classes with $β= 0.35$, as well as the transverse momentum spectra and anisotropic flow $v_n$. The entropy deposition coefficient $β$ and the $n_{\rm BC}$-dependent rapidity loss are found to play crucial roles in achieving this agreement. Furthermore, this longitudinal entropy deposition framework demonstrates excellent universality, as validated in p+Au, $^3$He+Au, and Au+Au collisions. Our entropy deposition mechanism could be widely applied to recent light-nucleus collisions such as O+O, Ne+Ne, and asymmetric systems like Pb+Ne at LHC energies, thereby better constraining the nuclear structure of light nuclei through an improved longitudinal description.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 08:32:03 GMT</pubDate>
-      <guid isPermaLink="false">2607.24153v1</guid>
-      <dc:creator>Zhu Meng</dc:creator>
-      <dc:creator>Weiyao Ke</dc:creator>
-      <dc:creator>Long-Gang Pang</dc:creator>
-    </item>
-    <item>
-      <title>Systematic Parameter Optimization of Quantum Molecular Dynamics Models for Hadron Therapy Using Multi-Ion Fragmentation Data</title>
-      <link>http://arxiv.org/abs/2607.24034v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Akihiro Haga, Yoshi-hide Sato, Daiyu Fujiwara, Dousatsu Sakata, Yuki Tominaga, David Bolst, Edward C. Simpson, Susanna Guatelli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quantum molecular dynamics (QMD) models are widely used to simulate nuclear fragmentation in hadron therapy, but their predictive accuracy depends strongly on parameters that are often selected empirically. We developed an optimized QMD framework by systematically calibrating three parameters for a relativistic mean-field model with the NS2 parameter set and Skyrme models with the SLy4 and SkM* parameter sets: the wave-packet width L, maximum evolution time Tm, and impact-parameter envelope factor benv. The wave-packet width was determined from experimental charge radii, whereas Tm and benv were parameterized as functions of incident kinetic energy and reaction-system mass and optimized using proton- and heavy-ion-induced fragmentation data over 30-400 MeV/u. Performance was compared with the original LiQMD, Binary Cascade, and Liege Intranuclear Cascade models. The optimized Tm depended strongly on incident energy but only weakly on system mass, indicating that the transition from the dynamical QMD stage to statistical de-excitation is governed mainly by collision energy. In contrast, benv showed model-dependent behavior: NS2 favored larger peripheral-collision contributions for lighter systems at low energies, whereas the Skyrme models showed relatively weak energy and mass dependence. The optimized parameterizations improved agreement with experimental fragment production cross sections, angular distributions, and energy distributions. The optimized Skyrme models achieved the best overall performance and outperformed the cascade models for most datasets. This framework provides a physically consistent description of nuclear fragmentation across multiple observables and may improve calculations of secondary-particle transport, dose deposition, and linear energy transfer in hadron therapy.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 06:14:22 GMT</pubDate>
-      <guid isPermaLink="false">2607.24034v1</guid>
-      <dc:creator>Akihiro Haga</dc:creator>
-      <dc:creator>Yoshi-hide Sato</dc:creator>
-      <dc:creator>Daiyu Fujiwara</dc:creator>
-      <dc:creator>Dousatsu Sakata</dc:creator>
-      <dc:creator>Yuki Tominaga</dc:creator>
-      <dc:creator>David Bolst</dc:creator>
-      <dc:creator>Edward C. Simpson</dc:creator>
-      <dc:creator>Susanna Guatelli</dc:creator>
-    </item>
-    <item>
       <title>$^{15}$C inelastic $1/2^+ \rightarrow 5/2^+$ excitation: A single-particle versus a collective process</title>
       <link>http://arxiv.org/abs/2607.23291v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; C. Beckman, M. Catacora-Rios, C. Hebborn, F. M. Nunes&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Background: The excitation of one-neutron halo nucleus $^{15}$C from the $1/2^+$ ground state to the $5/2^+$ first excited state was measured at Argonne National Laboratory by impinging $^{15}$C on a deuterated target at $7.1 A$ MeV. This data was then analyzed in the Distorted Wave Born Approximation using a rigid rotor model for the excitation. Purpose: Being a one-neutron halo, we expect a single-particle excitation to better represent the excitation of $^{15}$C rather than a collective process. We expect the breakup of $^{15}$C to influence the reaction mechanisms because of the low one-neutron separation threshold, which is close in energy to $^{15}$C's first excited state. The goal of this work is to explore various the reaction mechanisms to reinterpret the data of Ref.[1] for the inelastic excitation of $^{15}$C. Method: We solve the scattering problem assuming a three-body model $^{14}$C$+n+d$. We use the Continuum Discretized Coupled Channel method (CDCC) and compare the results with those obtained assuming 1-step DWBA with quadrupole deformation, as done in the original experimental analysis. We also use Bayesian uncertainty quantification to estimate the uncertainties in our predictions coming from the $n$-$d$ interaction. Results: We analyze both the elastic and inelastic angular distributions for $^{15}$C(d,d')$^{15}\text{C}^*$ at $7.1 A$ MeV. Our results show that $^{15}$C breakup effects are important. Conclusions: While CDCC predicts the elastic angular distribution correctly, it is not able to fully describe the experimental inelastic angular distribution. We discuss additional effects that may be responsible for the remaining discrepancy.&lt;/p&gt;</description>
@@ -2905,15 +2951,6 @@
       <dc:creator>M. Sangroula</dc:creator>
       <dc:creator>P. Shanmuganathan</dc:creator>
       <dc:creator>V. Shmakova</dc:creator>
-    </item>
-    <item>
-      <title>Rapidity-even directed flow splitting of protons and antiprotons as a probe of baryon stopping in relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.27156v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tribhuban Parida, Sandeep Chatterjee&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compare the rapidity-even directed flow $v_1^{\rm even}$ in Au+Au collisions at Beam Energy Scan (BES) energies for baryons and anti-baryons within a (3+1)-dimensional viscous relativistic hydrodynamics coupled to hadronic transport framework. The double-junction baryon stopping picture motivates a rapidity-even component in the baryon deposition in the initial state. We demonstrate that the split in the $v_1^{\rm even}$ of protons and anti-protons is sensitive to the rapidity extension of the baryon deposition that we associate with the double junction baryon stopping. Particularly, we find that the mid-rapidity curvature $\frac{d^2 Δv_1^{\rm even} (p-\bar{p})}{dy^2}\vert_{y=0}$ is a robust discriminator of the initial state baryon rapidity profiles. A simultaneous measurement of $Δv_1^{\rm even}$ and its curvature at mid-rapidity could constrain both the baryon diffusion strength and the baryon stopping profile, providing access to the physics of baryon stopping in relativistic heavy ion collisions.&lt;/p&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 15:26:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.27156v1</guid>
-      <dc:creator>Tribhuban Parida</dc:creator>
-      <dc:creator>Sandeep Chatterjee</dc:creator>
     </item>
   </channel>
 </rss>
