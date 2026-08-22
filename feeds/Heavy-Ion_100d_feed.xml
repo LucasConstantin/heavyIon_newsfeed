@@ -5,9 +5,79 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:58:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Correspondence between hydrodynamic frames, transport coefficients, and hydrodynamic modes in relativistic fluids</title>
+      <link>http://arxiv.org/abs/2608.20324v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Md Hasanujjaman, Mahfuzur Rahaman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The choice of hydrodynamic frame directly influences the numerical values of transport coefficients in relativistic dissipative hydrodynamics. We derive the exact transformation between the Eckart and Landau--Lifshitz frames and show that their thermal conductivities are related by an enthalpy-dependent factor. Using a baryon-rich relativistic fluid described by a Boltzmann nucleon gas equation of state, we find that the Landau--Lifshitz thermal conductivity is suppressed relative to the Eckart conductivity, with the difference increasing with temperature and baryon chemical potential. A linearized analysis of sound propagation demonstrates that the sound attenuation coefficient remains identical in both frames, confirming the frame invariance of physical observables. Our results show that the frame dependence of transport coefficients reflects only the different decomposition of dissipative effects into heat-flow and diffusion currents, while the underlying transport physics remains unchanged. These findings underscore the importance of specifying the hydrodynamic frame when comparing transport coefficients from heavy-ion collisions, lattice QCD, and kinetic-theory calculations.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 17:58:43 GMT</pubDate>
+      <guid isPermaLink="false">2608.20324v1</guid>
+      <dc:creator>Md Hasanujjaman</dc:creator>
+      <dc:creator>Mahfuzur Rahaman</dc:creator>
+    </item>
+    <item>
+      <title>Negative diffusion in the Functional Renormalization Group flow for the Quark-Diquark Model</title>
+      <link>http://arxiv.org/abs/2608.20196v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Johannes Poeplau, Ashutosh Dash, Dirk H. Rischke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the Quark-Diquark Model (QDM) with the Functional Renormalization Group (FRG) in the Local Potential Approximation. In a recent work [arXiv:2510.01066 [hep-ph]], problems were reported in applying this method at low temperatures and large quark chemical potentials, which were attributed to numerical artifacts. In this work, we trace the origin of these problems to the occurrence of a negative diffusion coefficient during the FRG flow of the derivative of the effective potential, leading to strong oscillations of the latter quantity. We show that negative diffusion is a model feature and not a numerical artifact. We propose a regularization scheme which introduces a hyperdiffusion term to remove these oscillations and demonstrate its effectiveness for studies of the phase diagram of the QDM. Regularizing the negative diffusion in the FRG flow is particularly important to reliably study phenomena such as color superconductivity and inhomogeneous phases, which might emerge in the high-density, low-temperature region of the QCD phase diagram.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 15:52:42 GMT</pubDate>
+      <guid isPermaLink="false">2608.20196v1</guid>
+      <dc:creator>Johannes Poeplau</dc:creator>
+      <dc:creator>Ashutosh Dash</dc:creator>
+      <dc:creator>Dirk H. Rischke</dc:creator>
+    </item>
+    <item>
+      <title>Tracing Vacuum Hadronization with Conserved Currents</title>
+      <link>http://arxiv.org/abs/2608.19708v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Weiyao Ke, Hai Tao Li, Wanchen Li, Xiaohui Liu, Ding Yu Shao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that color triality constrains the nonperturbative states that screen a Wilson-line endpoint, allowing the joint flows of net electric charge, baryon number, and strangeness to probe QCD vacuum hadronization. Whether evaluated from resolved hadrons in a jet initiated by a quark of flavor $f$ or from the corresponding charge correlators, these flows satisfy the Gell-Mann--Nishijima relation $\langle Q_{\rm flow}\rangle_f \simeq I_{3,f} +\frac{1}{2}\left( \langle S_{\rm flow}\rangle_f +\langle B_{\rm flow}\rangle_f \right)$, where $I_{3,f}$ is the third component of the initiating-quark isospin. The net jet baryon number, $\langle B_{\rm flow}\rangle_f\simeq \frac{r_{qq}}{1+r_{qq}}$, directly probes the relative probability of a diquark--antidiquark vacuum excitation, with $r_{qq}$ the diquark-to-quark production ratio. Thus, for $r_{qq}\ll1$, the baryon number carried by the jet is substantially suppressed relative to the initiating-quark value $B_f=1/3$. Likewise, the strange-to-light pair-production ratio, defined by $u\bar u:d\bar d:s\bar s=1:1:r_s$, is encoded in the measured jet strangeness $\langle S_{\rm flow}\rangle_f \simeq S_f+\frac{3r_s}{2+r_s} \left(\frac{1}{3}- \langle B_{\rm flow}\rangle_f\right)$, predicting a nonzero mean net strangeness even in $u$- and $d$-initiated jets. The conserved-current moments appearing in these relations are independent of the renormalization scale. Their simultaneous measurement therefore provides a direct, flavor-resolved probe of vacuum pair production and quantum-number transport during hadronization.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 07:08:28 GMT</pubDate>
+      <guid isPermaLink="false">2608.19708v1</guid>
+      <dc:creator>Weiyao Ke</dc:creator>
+      <dc:creator>Hai Tao Li</dc:creator>
+      <dc:creator>Wanchen Li</dc:creator>
+      <dc:creator>Xiaohui Liu</dc:creator>
+      <dc:creator>Ding Yu Shao</dc:creator>
+    </item>
+    <item>
+      <title>Electroweak Baryogenesis in Top-Philic Type-III Two-Higgs-Doublet Model motivated by the $t\bar{t}$ Excess at the LHC</title>
+      <link>http://arxiv.org/abs/2608.19651v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yoshiki Matsuoka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recently, the CMS and ATLAS Collaborations reported an enhancement near the production threshold in the invariant-mass distribution of top-antitop pairs. Possible interpretations include a pseudoscalar toponium quasi-bound state and an additional elementary pseudoscalar that coexists or mixes with toponium.
+  Motivated by the latter interpretation, we identify the additional pseudoscalar with the CP-odd Higgs boson of a top-philic Type-III two-Higgs-doublet model (2HDM). This possibility is also interesting from the viewpoint of electroweak baryogenesis: the extended scalar sector can support a strong first-order electroweak phase transition, while the additional top-quark Yukawa interaction can provide a CP-violating source through the bubble-wall background. We therefore investigate whether the same parameter region motivated by the $t\bar{t}$ threshold enhancement can also account for the observed baryon asymmetry of the Universe (BAU).
+  We compare two scenarios with different origins of CP violation. In the explicit CP violation scenario, a complex phase is introduced into the additional top-quark Yukawa coupling $ρ_{tt}$. In the transitional CP violation (TCPV) scenario, a CP-odd field configuration is generated dynamically inside the bubble wall through finite-temperature effects. Within the present one-loop treatment, explicit CP violation remains a scheme-dependent possibility, whereas no viable transitional CP violation branch is identified. In addition, we discuss the physical differences and viability of these two scenarios.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 05:40:33 GMT</pubDate>
+      <guid isPermaLink="false">2608.19651v1</guid>
+      <dc:creator>Yoshiki Matsuoka</dc:creator>
+    </item>
+    <item>
+      <title>Heavy quark transport in quark-gluon plasma beyond the non-relativistic limit</title>
+      <link>http://arxiv.org/abs/2608.19313v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Krishna Rajagopal, Bruno Scheihing-Hitschfeld, Urs Achim Wiedemann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of heavy quarks in quark-gluon plasma (QGP) formed in heavy ion collisions provide a unique window to characterize its properties. Existing approaches to describe heavy quarks in medium rely either on quasiparticle-based models of QGP, or on assuming that the momentum transfer from the medium follows Gaussian statistics. However, neither of these assumptions can be taken for granted in QCD. In fact, in the prototypical theory that is strongly coupled $\mathcal{N}=4$ SYM, it has been long known there are no momentum-carrying quasiparticles, and furthermore, we have recently shown that the momentum transfer from the medium is far from being Gaussian [arXiv:2501.06289]. Since then, we showed that the asymmetry of said momentum transfer between energy loss and energy gain -- which affects all moments of the distribution, not only its Gaussian characteristics -- is, in fact, universal [arXiv:2504.21139]. Therefore, in order to connect the initial heavy quark production cross section with the final hadron spectrum in a way that is consistent with QFT principles, new methods are needed. In this talk, we present a new transport description of heavy quarks that encodes all of the non-Gaussian features of the momentum transfer from the medium, all of which can be defined and in principle calculated in QCD, without relying on any assumptions regarding the strength of the coupling. As a demonstrative example, we discuss heavy quark equilibration in $\mathcal{N}=4$ SYM. This paves the way towards extracting novel information about fundamental properties of QGP.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2608.19313v1</guid>
+      <dc:creator>Krishna Rajagopal</dc:creator>
+      <dc:creator>Bruno Scheihing-Hitschfeld</dc:creator>
+      <dc:creator>Urs Achim Wiedemann</dc:creator>
+    </item>
+    <item>
+      <title>Fourier Transforms of Color Glass Condensate Multi-Wilson-Line Correlators via Filon Quadrature</title>
+      <link>http://arxiv.org/abs/2608.18589v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Haowu Duan, Si-Wei Dai, Cong Yi, Wenbin Zhao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Calculating cross sections in the Color Glass Condensate effective theory requires Fourier transforms of multi-Wilson-line correlators from transverse coordinate space to transverse momentum space. Under the common assumption of impact-parameter independence, each transform reduces to a set of Hankel transforms whose Bessel-function kernels oscillate rapidly at phenomenologically relevant momenta, making direct quadrature prohibitively expensive. We present a Filon-type quadrature, applicable to any integrand, that integrates these oscillatory factors in closed form on the stored coordinate grid, reducing each Hankel transform to a precomputed weight vector and the full nested transform chain to a sequence of matrix products. We develop and validate the method on the deep inelastic scattering dijet cross section beyond the correlation-limit approximation, where an exprel-based reformulation of the quadrupole Wilson-line correlator removes a numerical $0/0$ instability inherent to its standard parametrization. Porting the calculation to the Graphics Processing Unit (GPU), with custom CUDA kernels that fuse the momentum-space contraction directly into the correlator evaluation, brings the runtime for one dipole input down to about two minutes on a single NVIDIA A800, from several hours on a multi-core Central Processing Unit (CPU). We further generalize the algorithm to three sequential Hankel transforms and validate the resulting six-dimensional transform against an analytic Gaussian integrand family with closed-form results at every stage. This general, process-independent algorithm is directly applicable to next-to-leading-order proton-nucleus and electron-ion scattering cross-section calculations performed without the correlation-limit approximation. The code is publicly available at https://github.com/CCNU-CGC-py/FFT_filon.&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 06:31:09 GMT</pubDate>
+      <guid isPermaLink="false">2608.18589v1</guid>
+      <dc:creator>Haowu Duan</dc:creator>
+      <dc:creator>Si-Wei Dai</dc:creator>
+      <dc:creator>Cong Yi</dc:creator>
+      <dc:creator>Wenbin Zhao</dc:creator>
+    </item>
+    <item>
+      <title>Observation of enhanced baryon production using strange hadrons in oxygen-oxygen collisions</title>
+      <link>http://arxiv.org/abs/2608.18256v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CMS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A hot deconfined medium known as the quark-gluon plasma (QGP) is created in collisions of ultrarelativistic heavy nuclei. In these systems, hadron production is strongly modified relative to proton-proton (pp) interactions. In the hadron transverse momentum region 2 $\lt$ $p_\mathrm{T}$ $\lt$ 5 GeV, collective radial flow and quark coalescence are important mechanisms that can produce such modifications. While these effects are well-established for collisions of large ions, such as lead, it is unknown if they are present in systems produced using smaller ions. To address this question, the $p_\mathrm{T}$ spectra of two strange hadrons, K$^0_\mathrm{S}$ and $Λ$, are measured in oxygen-oxygen (OO) and pp collisions at a center-of-mass energy per nucleon pair of 5.36 TeV. The measurements are performed using the CMS detector at the LHC, and the OO and pp datasets correspond to integrated luminosities of 6.8 nb$^{-1}$ and 1.1 pb$^{-1}$, respectively. The spectral modification of K$^0_\mathrm{S}$ mesons in OO collisions relative to pp collisions is found to be similar to that of inclusive charged hadrons. Conversely, the $Λ$-to-K$^0_\mathrm{S}$ cross section ratio exhibits a pronounced enhancement in OO collisions when compared to pp collisions. The results provide the first observation of a baryon-to-meson enhancement in OO collisions and suggest the formation of a deconfined medium, offering insight into the roles of strangeness, radial flow, and quark coalescence in QGP.&lt;/p&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 19:13:07 GMT</pubDate>
+      <guid isPermaLink="false">2608.18256v1</guid>
+      <dc:creator>CMS Collaboration</dc:creator>
+    </item>
     <item>
       <title>The elliptic wind on jet wakes in high-energy heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2608.17967v1</link>
@@ -2200,17 +2270,6 @@
       <dc:creator>Wei-jie Fu</dc:creator>
     </item>
     <item>
-      <title>Imaging non-hydrodynamic modes with jet wakes</title>
-      <link>http://arxiv.org/abs/2607.26851v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aleksi Kurkela, Ian Moult, Alexander Soloviev, Urs Achim Wiedemann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;While studies of ultra-relativistic heavy-ion collisions have established that the quark--gluon plasma exhibits hydrodynamic behavior, direct signatures of non-hydrodynamic modes have remained elusive, and no observable is known to be exclusively sensitive to them. Here, we show that the angular structure of the jet wake provides such a probe. In the long-wavelength limit, hydrodynamics contributes only to the lowest angular moments of the detector image of the jet wake, while higher moments directly encode microscopic non-equilibrium dynamics. The jet wake thus serves as a spectroscopic probe of the medium's non-hydrodynamic sector. We develop a general kinetic-theory framework relating the angular moments of the late-time energy flux generated by a jet to the relaxation spectrum of the collision operator. In all models considered, non-hydrodynamic modes leave distinct imprints on the higher angular moments. Our results motivate precision measurements of the higher angular moments of the negative jet wake.&lt;/p&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 12:36:40 GMT</pubDate>
-      <guid isPermaLink="false">2607.26851v1</guid>
-      <dc:creator>Aleksi Kurkela</dc:creator>
-      <dc:creator>Ian Moult</dc:creator>
-      <dc:creator>Alexander Soloviev</dc:creator>
-      <dc:creator>Urs Achim Wiedemann</dc:creator>
-    </item>
-    <item>
       <title>Constraining $α$-cluster compactness in $^{16}\rm O$ and $^{20}\rm Ne$ at TeV energies using azimuthal anisotropy</title>
       <link>http://arxiv.org/abs/2607.26758v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aswathy Menon Kavumpadikkal Radhakrishnan, Suraj Prasad, Neelkamal Mallick, Raghunath Sahoo, Gergely Gábor Barnaföldi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anisotropic flow in ultra-relativistic light-ion collisions is sensitive to the initial geometry of the colliding nuclei. We investigate whether elliptic flow measurements can constrain the parameters of the proposed $α$-clustered nuclear density distributions of $^{16}$O and $^{20}$Ne at LHC energies. Using the hybrid framework IP-Glasma+MUSIC+iSS+UrQMD, we simulate OO and Ne--Ne collisions at $\sqrt{s_{\mathrm{NN}}}=5.36$ TeV for the Woods--Saxon and $α$-clustered configurations with varying cluster compactness. The elliptic flow coefficient $v_2\{2,|Δη|&gt;1\}$ is calculated in the kinematic acceptances of ALICE, CMS, and ATLAS detectors and is compared with the Run~3 OO and Ne--Ne experimental measurements. It is observed that the final-state elliptic flow is significantly sensitive to the nuclear geometry, especially in OO collisions, where different configurations lead to distinct centrality dependencies and peak positions of $v_{2}$. By performing a systematic variation of the cluster size and inter-cluster separation in $^{16}$O and $^{20}$Ne nuclei, this work attempts to identify the cluster parameter range that provides the best agreement with the experimental data. These results show that the flow observables in TeV-energy light-ion collisions can be used to optimize the nuclear structure parameters of light nuclei.&lt;/p&gt;</description>
@@ -2221,62 +2280,6 @@
       <dc:creator>Neelkamal Mallick</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
       <dc:creator>Gergely Gábor Barnaföldi</dc:creator>
-    </item>
-    <item>
-      <title>An Equilibrating Parton Shower for Jet Quenching and Medium Response</title>
-      <link>http://arxiv.org/abs/2607.26143v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ismail Soudi, Adam Takacs&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the weak-coupling approach, thermalization of the quark-gluon plasma and the evolution of jet-like perturbations in the medium can be described by the same underlying QCD effective kinetic theory (EKT). In this work, we show how the EKT reduces to the standard energy-loss and angular-broadening evolution of jet-quenching in the high-energy regime, while providing a consistent description near the thermal scales. Building on this, we derive a parton shower directly from EKT that reproduces the full linearized Boltzmann equation, combining elastic and inelastic collisions to capture both hard-parton energy loss and thermal equilibration on an equal footing. This shower lets us extend EKT to inhomogeneous perturbations, connecting jet evolution to the medium's hydrodynamic response, including wakes, Mach cones, and multi-particle correlations.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 18:00:06 GMT</pubDate>
-      <guid isPermaLink="false">2607.26143v1</guid>
-      <dc:creator>Ismail Soudi</dc:creator>
-      <dc:creator>Adam Takacs</dc:creator>
-    </item>
-    <item>
-      <title>Nuclear matter equation of state and astrophysics</title>
-      <link>http://arxiv.org/abs/2607.25854v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mateus Reinke Pelicer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Neutron-star masses, radii, and inspiral tidal deformabilities now provide quantitative constraints on the cold equation of state (\eos), favoring relatively soft matter around one to two times nuclear saturation density and substantial stiffening at larger density. These bulk constraints, however, do not uniquely determine the microscopic composition of the stellar core. Hyperons, deconfined quarks, quarkyonic matter, and strong first-order phase transitions remain viable possibilities. This article summarizes the present multimessenger status and emphasizes the next challenge---a unified description of strongly interacting matter across catalyzed neutron stars, binary mergers, and heavy-ion collisions. Recent results presented at SQM2026, including new constraints on hyperon interactions and advances in multidimensional equation-of-state modeling, highlight the complementary experimental and theoretical inputs required for this program. The MUSES Calculation Engine provides modular software infrastructure for connecting these inputs to astrophysical and heavy-ion applications.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 15:26:03 GMT</pubDate>
-      <guid isPermaLink="false">2607.25854v1</guid>
-      <dc:creator>Mateus Reinke Pelicer</dc:creator>
-    </item>
-    <item>
-      <title>Path-length dependence of parton energy loss across collision systems: a Bayesian analysis of charged-particle RAA, consistent with a universal exponent from O+O to Pb+Pb</title>
-      <link>http://arxiv.org/abs/2607.25727v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fouad A. Majeed, Hussein Ali Hussein Al Naffakh, Sarah M. Obaid, Muntaha Abdullah Reishaan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How parton energy loss in the quark-gluon plasma (QGP) scales with the in-medium path length $L$ encodes the mechanism: collisional ($ΔE \propto L$), radiative ($ΔE \propto L^2$), or strong-coupling ($ΔE \propto L^3$). Exploiting the new CERN LHC light-ion data, we extract this scaling from the system size itself, jointly analysing CMS charged-particle nuclear modification factors $R_{AA}$ in four systems - O+O, Ne+Ne, Xe+Xe and Pb+Pb - spanning mass number $A = 16$ to $208$. A Bayesian analysis with a data-driven spectral baseline and a Monte-Carlo Glauber geometry yields an effective system-size exponent $n = 1.78 \pm 0.15\,\mathrm{(stat)} \pm 0.05\,\mathrm{(syst)}$. Nested-sampling model selection decisively favours an effective exponent near the radiative value ($n = 2$) over the collisional ($n = 1$) and strong-coupling ($n = 3$) values, a conclusion stable across all 160 analysis variants. Because fluctuations can only lower the effective exponent below its microscopic counterpart, the measurement bounds the latter from below at fixed geometry, excluding purely collisional energy loss. The medium density and the path length are degenerate across system size, so we quote the effective exponent as our primary result. A Bayes-factor test finds no change of regime between small and large systems, consistent with a universal exponent; the same framework gives decisive evidence for non-zero energy loss in O+O alone, quantifying the onset of suppression in the smallest system. The energy-loss magnitude corresponds to $\hat{q}/T^3 \approx 2$--$5$, consistent with the JETSCAPE determination.&lt;/p&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 13:50:58 GMT</pubDate>
-      <guid isPermaLink="false">2607.25727v1</guid>
-      <dc:creator>Fouad A. Majeed</dc:creator>
-      <dc:creator>Hussein Ali Hussein Al Naffakh</dc:creator>
-      <dc:creator>Sarah M. Obaid</dc:creator>
-      <dc:creator>Muntaha Abdullah Reishaan</dc:creator>
-    </item>
-    <item>
-      <title>Analytic and Approximate Solutions to Color Glass Condensate in the Classical Weak-Field Limit</title>
-      <link>http://arxiv.org/abs/2607.25137v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Robicheaux, R. J. Fries&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We discuss two-point functions and the energy momentum tensor of the classical gluon field after the collision of sheets of color charges on the light cone in the weak-field limit. The classical fields created by such a setup is thought to approximate the behavior of the gluon matter created right after the collision of heavy nuclei at large energies. Our discussion is based on a general expression for the gluon distribution in a nucleus, which contains the McLerran-Venugopalan (MV) Model as a special case. We derive the time-dependence of the energy momentum tensor in this general scenario. We show that the large-time behavior is universal, i.e.\ independent of the specific model for the gluon distribution, e.g.\ for energy density, transverse pressure and longitudinal pressure $ε, P_T \sim 1/τ$ and $P_L \sim 1/τ^3$, where $τ$ is longitudinal proper time.
-  Subsequently, we focus on two special cases, the MV model and a proposed improved Gaussian (iG) model with improved ultraviolet (UV) and infrared (IR) behavior, the latter inspired by earlier work by Lam and Mahlon. We explicitly discuss the time dependence of the energy momentum tensor in both models. In the case of the MV-model, for infinite colliding nuclei, it is possible to give closed-formed analytic solutions for the energy momentum tensor in terms of special functions. Components of the energy momentum tensor take the form $\sim C (mτ)^{-n} H(mτ)$, where $n$ is an integer power, $m$ is the infrared cutoff, $H$ is a linear combination of Meijer-G functions with constant asymptotic value, and $C$ is a known constant. For the iG-model, we obtain reliable series expansions for both small and large times and show that the MV-model is recovered qualitatively in the UV limit. We briefly comment on implications for the angular momentum carried by the gluon field.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 23:09:18 GMT</pubDate>
-      <guid isPermaLink="false">2607.25137v1</guid>
-      <dc:creator>S. Robicheaux</dc:creator>
-      <dc:creator>R. J. Fries</dc:creator>
-    </item>
-    <item>
-      <title>Few-gluon interactions and multipole radiation in high energy nuclear collisions</title>
-      <link>http://arxiv.org/abs/2607.25017v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Thomas A. Trainor&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Broad claims have been made over years about achievement of quark-gluon plasma (QGP) formation in high-energy heavy-ion collisions based on certain phenomena anticipated for QGP formation. More recently, similar phenomena have appeared in smaller collision systems. In response, the original narrative associated with QGP formation has been altered, with introduction of novel concepts such as ``QGP droplets'' appearing even in p-p collisions. In contrast, alternative research has revealed novel aspects of p-p and p-Pb collisions such as exclusivity for N-N interactions and consequences of time dilation for interacting partons. Collision geometry for A-B collisions has also been shifted from conventional Glauber Monte Carlo simulations (strongly biased) to inversion of ensemble-mean $\bar p_t$ data. The present study demonstrates that jet production dominates all aspects of $p_t$ spectrum structure and minimum-bias angular correlations over the full $p_t$ range of accessible data. Recently, progress has been made on interpretation of azimuth quadrupole ($v_2$) data, reexpressed in terms of total correlated-pair number as an extensive measure, leading to inference of quadrupole $m_t$ spectra and quadrupole amplitude variation across all A-B collision systems that show strong indication of the effects of exclusivity. The same approach applied to jet angular correlations shows similar trends. A comprehensive quantitative description of the two QCD phenomena across all collision systems has emerged. The underlying processes are few-gluon interactions producing characteristic correlation structures corresponding to color-dipole (two-gluon, dijet) and color-quadrupole (three-gluon) radiation. That description does not rely on any role for a dense medium, multiple scattering, QGP droplets or hydro theory. It applies the same rules uniformly to small and large collision systems.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 19:17:46 GMT</pubDate>
-      <guid isPermaLink="false">2607.25017v1</guid>
-      <dc:creator>Thomas A. Trainor</dc:creator>
-    </item>
-    <item>
-      <title>Beyond leading-logarithm photon production from two-loop diagrams in a hot QCD medium</title>
-      <link>http://arxiv.org/abs/2607.24950v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sumit, Ritesh Ghosh, Munshi G. Mustafa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate high-energy photon production from a quark-gluon plasma by evaluating the imaginary part of the two-loop photon self-energies in thermal QCD. Working within the imaginary-time formalism, we derive analytical expressions for both the leading-logarithmic and the beyond-leading-logarithmic contributions to the photon production rate. The rates obtained within the thermal field theoretical framework agree with those derived from kinetic theory calculations for the relevant photon-production processes.&lt;/p&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 18:02:05 GMT</pubDate>
-      <guid isPermaLink="false">2607.24950v1</guid>
-      <dc:creator>Sumit</dc:creator>
-      <dc:creator>Ritesh Ghosh</dc:creator>
-      <dc:creator>Munshi G. Mustafa</dc:creator>
     </item>
     <item>
       <title>$^{15}$C inelastic $1/2^+ \rightarrow 5/2^+$ excitation: A single-particle versus a collective process</title>
@@ -2385,14 +2388,6 @@
       <pubDate>Mon, 20 Jul 2026 11:45:04 GMT</pubDate>
       <guid isPermaLink="false">2607.17847v1</guid>
       <dc:creator>CMS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Nuclear equation-of-state at high density and multi-messenger astronomy: contribution of heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2606.29588v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. Le Fèvre&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the past decades, heavy-ion collisions (HIC) at intermediate energies have allowed to probe the nuclear equation-of-state (EoS) of both symmetric and asymmetric nuclear matter over a broad range of densities. In particular, flow has proven to be a powerful observable. Combining the symmetry energy and the symmetric nuclear matter constraints of the EoS from HIC allowed to predict a density dependence of the pressure in a neutron star, up to about 2.5 times saturation density ($n_{sat}$), which agrees with recent astronomical measurements deduced from gravitational waves and pulsar observations. So far, the accuracy from HIC expectations is comparable to the latter up to 1.5 $n_{sat}$. In these studies, a fundamental aspect is the determination of the profile of densities that are probed by experimental observables used to constrain the EoS. In the near future, new experiments like ASY-EOS performed at higher incident energy and with better accuracy will push further the frontier of the knowledge of the symmetry energy at higher density. These efforts cannot be conclusive without a reliable uncertainty determination, which is related to the reliability of transport model dependencies. Improvements and breakthroughs in transport model simulations and nuclear theory are therefore expected in a joint effort towards HIC contributions to the field of neutron-star physics, including the contribution of strangeness and of the QCD phase transition.&lt;/p&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 09:30:56 GMT</pubDate>
-      <guid isPermaLink="false">2606.29588v2</guid>
-      <dc:creator>A. Le Fèvre</dc:creator>
     </item>
     <item>
       <title>Wounded parton scaling of multiplicities in ultra-relativistic light- and heavy-ion collisions</title>
@@ -2918,39 +2913,6 @@
       <dc:creator>Siyuan Ping</dc:creator>
       <dc:creator>Xiaozhou Yu</dc:creator>
       <dc:creator>Long Ma</dc:creator>
-    </item>
-    <item>
-      <title>Spin Femtoscopy: A Framework for Revealing Genuine Spin Correlations</title>
-      <link>http://arxiv.org/abs/2607.00413v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kehao Zhang, Xuan Wang, Xiaofeng Luo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spin correlations are among the most fundamental quantum observables in many-body systems, yet they remain difficult to access experimentally in relativistic heavy-ion collisions. Existing spin measurements, including hyperon polarization and vector-meson spin alignment, have revealed important single-particle spin phenomena, but genuine two-particle spin correlations in the produced hadronic system remain largely unexplored. Here we propose spin femtoscopy, a framework for accessing genuine two-particle spin correlations through spin-resolved femtoscopic measurements. The key principle is that different two-particle spin configurations can give rise to different femtoscopic correlation functions because of quantum statistics, spin-dependent final-state interactions. Using $ΛΛ$ pairs as a proof of principle, we exploit the self-analyzing weak decay of $Λ$ hyperons to construct spin-sensitive femtoscopic correlation functions with different singlet and triplet admixtures. We show that these observables provide experimental access to the spin-state populations of the pair and allow genuine spin correlations to be separated from spin-dependent femtoscopic mixing caused by quantum statistics and final-state interactions. This work extends femtoscopy from a probe of source geometry and final-state interactions to a framework for revealing the quantum spin structure of strongly interacting matter.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 04:13:50 GMT</pubDate>
-      <guid isPermaLink="false">2607.00413v1</guid>
-      <dc:creator>Kehao Zhang</dc:creator>
-      <dc:creator>Xuan Wang</dc:creator>
-      <dc:creator>Xiaofeng Luo</dc:creator>
-    </item>
-    <item>
-      <title>Isospin-Driven Splitting of Chemical Potentials in Isobar Collisions from Lattice QCD</title>
-      <link>http://arxiv.org/abs/2606.30164v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Heng-Tong Ding, Jin-Biao Gu, Arpith Kumar, Jia Ni&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strong magnetic fields produced in relativistic heavy-ion collisions can modify fluctuations of conserved charges and, consequently, their associated chemical potentials. We present first-principles $(2+1)$-flavor lattice-QCD results for isospin-driven splittings of conserved-charge chemical potentials between the isobar systems $^{96}_{44}\mathrm{Ru}+^{96}_{44}\mathrm{Ru}$ and $^{96}_{40}\mathrm{Zr}+^{96}_{40}\mathrm{Zr}$ in the QCD crossover region, both at vanishing and nonzero magnetic fields along the pseudo-critical line $T_{pc}(eB)$. We outline a framework that, under strangeness neutrality and charge-to-baryon ratio $r\equiv n_{\rm Q}/n_{\rm B}$, maps the isospin difference between two nuclei, as encoded in $r_{\rm Zr}$ and $r_{\rm Ru}$, onto splitting ratios $Δμ_{\rm Q}/Δμ_{\rm B}$, $Δμ_{\rm S}/Δμ_{\rm B}$, and $Δμ_{\rm S}/Δμ_{\rm Q}$ as functions of $μ_{\rm B}(r_{\rm Ru})/Δμ_{\rm B}$. Using continuum-estimated lattice results for the leading-order coefficients $q_1\equiv(μ_{\rm Q}/μ_{\rm B})_{\rm LO}$ and $s_1\equiv(μ_{\rm S}/μ_{\rm B})_{\rm LO}$, we find that, at vanishing magnetic field, the splitting ratios are of similar magnitude to recent Bayesian extractions from STAR isobar data and yield $Δμ_{\rm Q}&lt;0$ and $Δμ_{\rm S}&gt;0$, with the electric-charge sector dominating. At nonzero magnetic fields, the splitting ratios show only moderate $eB$ dependence. We therefore further examine Ru--Zr differences in the normalized magnetic-field response of chemical-potential ratios, particularly those involving $μ_{\rm Q}/μ_{\rm B}$, which display a pronounced enhancement in lattice QCD. We also present hadron resonance gas (HRG) results and experimentally motivated proxy observables with kinematic cuts to facilitate contact with experiment.&lt;/p&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 11:42:19 GMT</pubDate>
-      <guid isPermaLink="false">2606.30164v1</guid>
-      <dc:creator>Heng-Tong Ding</dc:creator>
-      <dc:creator>Jin-Biao Gu</dc:creator>
-      <dc:creator>Arpith Kumar</dc:creator>
-      <dc:creator>Jia Ni</dc:creator>
-    </item>
-    <item>
-      <title>Thermal and electromechanical response of ultra-thin carbon-strip polarimeter targets in relativistic bunched beams</title>
-      <link>http://arxiv.org/abs/2606.29005v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; F. Rathmann, O. Eyser, M. Sangroula, P. Shanmuganathan, V. Shmakova&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-06-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.acc-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thin carbon-strip targets provide fast relative hadron beam polarimetry, but their response in intense relativistic bunched beams is not governed by local stopping-power heating alone. We develop a coupled response model that combines beam-target overlap, secondary-electron escape, retained heat, target motion, transient heat transport, RF-induced strip-end heating, beam-induced forces, resistance changes, and slack-strip deformation. RHIC target observations constrain the relevant motion, force, and nonlocal-heating scales and show that target survival depends on both beam-center heating and electromagnetic boundary conditions near the strip ends. Applying the model to Booster, AGS, RHIC, and EIC proton and $^{3}\mathrm{He}$ cases shows that the RHIC proton lifetime scale is reproduced at the order-of-magnitude level, while the RHIC target-holder fin results require the additional RF/end-heating mechanism. For EIC proton flattop operation, carbon-strip polarimetry may remain viable only with reduced dwell time, sufficient detector acceptance, and suppression of RF-induced end heating. For cooled-emittance $^{3}\mathrm{He}$, the calculated sublimation-loss scale is far beyond a straightforward RHIC-like carbon-strip extrapolation. Conventional carbon strips are therefore unlikely to remain viable for the most demanding EIC light-ion cases without major changes in target motion, target technology, or diagnostic concept.&lt;/p&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 16:44:15 GMT</pubDate>
-      <guid isPermaLink="false">2606.29005v1</guid>
-      <dc:creator>F. Rathmann</dc:creator>
-      <dc:creator>O. Eyser</dc:creator>
-      <dc:creator>M. Sangroula</dc:creator>
-      <dc:creator>P. Shanmuganathan</dc:creator>
-      <dc:creator>V. Shmakova</dc:creator>
     </item>
   </channel>
 </rss>
