@@ -5,9 +5,156 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:58:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:57:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Jet Quenching Meets Gluon Saturation</title>
+      <link>http://arxiv.org/abs/2608.25983v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Caucal, Kevin Eisenberg, Yacine Mehtar-Tani&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a theoretical framework for jet fragmentation in heavy-ion collisions based on the resummation of large energy logarithms. Exploiting the hierarchy of scales characteristic of jet quenching, we show that the jet function obeys the Banfi-Marchesini-Smye evolution equation, with medium-induced energy loss and color decoherence encoded in the initial condition. This structure reveals a close correspondence with saturation physics. In particular, the coherence angle emerges as the analog of the saturation scale and exhibits the same asymptotic scaling behavior under nonlinear evolution. As a proof of principle, we compute the jet nuclear modification factor to quantify the interplay between vacuum radiation and medium-induced color decoherence. Our framework provides a unified perturbative description of vacuum-like parton showers, medium-induced radiation, and color-coherence effects, paving the way for precision studies of jet quenching at RHIC and the LHC.&lt;/p&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 16:36:24 GMT</pubDate>
+      <guid isPermaLink="false">2608.25983v1</guid>
+      <dc:creator>Paul Caucal</dc:creator>
+      <dc:creator>Kevin Eisenberg</dc:creator>
+      <dc:creator>Yacine Mehtar-Tani</dc:creator>
+    </item>
+    <item>
+      <title>Impact of Nuclear Level Density on $r$-Process Rare-Earth Peak Nucleosynthesis</title>
+      <link>http://arxiv.org/abs/2608.25440v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hang Xu, Peng-Xiang Du, Jian Li, Dong-Liang Fang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The rare-earth peak ($A\sim164$) is a prominent feature of the $r$-process, and previous theoretical studies suggest that it is possibly linked to local nuclear structural effects. However, the nuclear level density (NLD), a physical quantity directly reflecting these properties, has been largely overlooked compared to other structural properties such as nuclear masses. To address this, we perform $r$-process simulations across three astrophysical scenarios using neutron-capture rates derived from six distinct NLD models. Our results reveal that microscopic models yield systematic deviations in NLD relative to phenomenological ones, leading to critical impacts on nucleosynthesis. Specifically, systematic NLD differences in even-$A$ nuclei redirect the nuclear flow, accelerating the early formation of the rare-earth peak and temporarily enhancing its magnitude. This underlying structural shift also fundamentally alters the $r$-process sensitivity to the neutron-capture rate, effectively eliminating its dependence on the odd-even nature of protons. Overall, these findings demonstrate that the internal nuclear structure encoded within NLDs can collectively induce a global redirection of the nucleosynthesis pathway, highlighting the critical need for self-consistent microscopic inputs in future simulations.&lt;/p&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 06:54:45 GMT</pubDate>
+      <guid isPermaLink="false">2608.25440v1</guid>
+      <dc:creator>Hang Xu</dc:creator>
+      <dc:creator>Peng-Xiang Du</dc:creator>
+      <dc:creator>Jian Li</dc:creator>
+      <dc:creator>Dong-Liang Fang</dc:creator>
+    </item>
+    <item>
+      <title>Anomalous behavior of Wilson fermions in the presence of monopoles</title>
+      <link>http://arxiv.org/abs/2608.25143v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Manuel Cortina, Rajamani Narayanan, Ray Romero&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Three dimensional compact U(1) gauge theory supports a finite density of monopoles at a fixed lattice gauge coupling. After showing evidence for the expected dependence on the lattice coupling of the density of monopoles, we study the low lying spectrum of a two flavors of two-component Wilson fermions as a function of the bare Wilson mass. The Wilson-Dirac operator that realizes the two flavors are hermitian conjugate of each other to restore parity invariance and the commutativity of the two operators expected in the typical continuum limit is not the case in the presence of monopoles for all values of the lattice gauge coupling. This results in an anomalous behavior where we see clear evidence for the presence of very small eigenvalues for a wide range of a particular sign of the bare Wilson mass. These eigenmodes are typically in one-to-one correspondence with the number of monopoles as defined by the gauge field and the spectrum associated with these modes are separated by a gap from the bulk in the asymptotic regime of the lattice gauge coupling. The eigenvalues come in pairs around zero and the eigenvalues of one sign couple to the monopoles while the modes of the opposite sign couple to the anti-monopole implying flavor symmetry breaking.&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:48:13 GMT</pubDate>
+      <guid isPermaLink="false">2608.25143v1</guid>
+      <dc:creator>Manuel Cortina</dc:creator>
+      <dc:creator>Rajamani Narayanan</dc:creator>
+      <dc:creator>Ray Romero</dc:creator>
+    </item>
+    <item>
+      <title>STAR Highlights II: Study of Small Systems and the Search for New, Exotic Physics</title>
+      <link>http://arxiv.org/abs/2608.24828v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiangyong Jia&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Twenty-five years of RHIC operation have produced a uniquely diverse dataset, which enables a broad physics program. This contribution highlights recent STAR results in four areas: exotic-state searches and ultra-peripheral collisions; the onset of quark--gluon plasma (QGP) signatures in small systems; radial flow and its fluctuations; and polarization and spin correlations.&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 17:09:35 GMT</pubDate>
+      <guid isPermaLink="false">2608.24828v1</guid>
+      <dc:creator>Jiangyong Jia</dc:creator>
+    </item>
+    <item>
+      <title>Resolving the $φ$-meson directed-flow puzzle by multi-step meson--baryon dynamics</title>
+      <link>http://arxiv.org/abs/2608.24573v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yingjie Zhou, Taesoo Song, Susanne Glässel, Jiaxing Zhao, Christoph Blume, Iouri Vassiliev, Vadim Voronyuk, Yaping Wang, Nu Xu, Jörg Aichelin, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent STAR measurements at fixed-target Beam Energy Scan energies have revealed an unexpectedly large directed flow of $φ$ mesons in Au+Au collisions, comparable to that of protons and $Λ$ baryons and much stronger than that of light strange mesons. Since the $φ$ is a hidden-strangeness meson with relatively weak interactions with non-strange hadrons, this observation has been interpreted as a possible signal of unconventional baryonic dynamics or exotic baryonic resonances coupled to the $φ$ channel. Within the framework of the Parton-Hadron-Quantum-Molecular-Dynamics(PHQMD) model, we demonstrate that in the high baryon density region, $φ$ mesons are produced predominantly through multi-step meson--baryon and meson--hyperon reactions, whose transition amplitudes are constrained by a coupled-channel $T$-matrix calculation based on an extended SU(6) chiral effective Lagrangian. Together with the in-medium broadening of the $φ$ spectral function, these baryon-driven production channels enhance near-threshold $φ$ production and imprint the collective motion of the baryon-rich source on the produced $φ$ mesons.&lt;/p&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 14:01:06 GMT</pubDate>
+      <guid isPermaLink="false">2608.24573v1</guid>
+      <dc:creator>Yingjie Zhou</dc:creator>
+      <dc:creator>Taesoo Song</dc:creator>
+      <dc:creator>Susanne Glässel</dc:creator>
+      <dc:creator>Jiaxing Zhao</dc:creator>
+      <dc:creator>Christoph Blume</dc:creator>
+      <dc:creator>Iouri Vassiliev</dc:creator>
+      <dc:creator>Vadim Voronyuk</dc:creator>
+      <dc:creator>Yaping Wang</dc:creator>
+      <dc:creator>Nu Xu</dc:creator>
+      <dc:creator>Jörg Aichelin</dc:creator>
+      <dc:creator>Elena Bratkovskaya</dc:creator>
+    </item>
+    <item>
+      <title>Open Quantum Systems Approaches for Heavy-Ion Collisions</title>
+      <link>http://arxiv.org/abs/2608.23147v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alexander Rothkopf&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this contribution to Strangeness in Quark Matter 2026, I review the open quantum systems approach, a modern theoretical framework for addressing the interaction of a quantum system with its environment, and highlight recent progress in its application to the understanding of in-medium heavy quarkonium in relativistic heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 11:52:48 GMT</pubDate>
+      <guid isPermaLink="false">2608.23147v1</guid>
+      <dc:creator>Alexander Rothkopf</dc:creator>
+    </item>
+    <item>
+      <title>Ab initio anatomy of quadrupole correlations in $^{16}$O and $^{20}$Ne</title>
+      <link>http://arxiv.org/abs/2608.22699v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chenrong Ding, Benjamin Bally, Stavros Bofos, Thomas Duguet, Yi Li, Jiangming Yao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Azimuthal hadronic flow measured in ultra-relativistic ion--ion collisions provides a new means of imaging multipole correlations in the ground state of atomic nuclei. Early interpretations largely relied on a classical-rotor picture, in which the measured mean-square elliptic flow is directly related to an intrinsic quadrupole deformation. Atomic nuclei, however, contain additional many-body correlations generated by the Pauli exclusion principle, collective shape fluctuations and non-collective dynamical processes, whose impact on this correspondence has not yet been elucidated. Here, we resolve this issue through an ab initio analysis of $^{16}$O and $^{20}$Ne based on chiral nuclear interactions, combining the in-medium similarity renormalization group with the quantum-number-projected generator coordinate method. By successively isolating antisymmetrization, collective rotational and vibrational, and non-collective dynamical correlations, we determine, for the first time, how each component contributes to the mean-square quadrupole eccentricity. We uncover an unexpected compensation among these distinct correlation mechanisms: despite sizable individual contributions, the squared effective quadrupole deformation inferred from the elliptic flow remains close to the square intrinsic deformation of the nucleus. This result provides a microscopic explanation for the surprising success of the classical-rotor approximation and establishes a quantitative foundation for interpreting $^{16}$O+$^{16}$O and $^{20}$Ne+$^{20}$Ne collision data recently collected at the Large Hadron Collider.&lt;/p&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 01:35:38 GMT</pubDate>
+      <guid isPermaLink="false">2608.22699v1</guid>
+      <dc:creator>Chenrong Ding</dc:creator>
+      <dc:creator>Benjamin Bally</dc:creator>
+      <dc:creator>Stavros Bofos</dc:creator>
+      <dc:creator>Thomas Duguet</dc:creator>
+      <dc:creator>Yi Li</dc:creator>
+      <dc:creator>Jiangming Yao</dc:creator>
+    </item>
+    <item>
+      <title>Charmonia at Finite Momentum and Spatial Correlators in Quark-Gluon Plasma</title>
+      <link>http://arxiv.org/abs/2608.22596v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Thomas Hardin, Ralf Rapp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spatial correlation functions of quarkonia in the quark-gluon plasma are available from finite- temperature lattice-QCD with good precision. However, their interpretation in terms of microscopic spectral functions has been challenging due to a highly oscillating momentum integral in their Fourier transform and the need for a reliable evaluation of their 3-momentum dependence. Utilizing the thermodynamic T-matrix approach we first obtain a Lorentz-covariant scattering equation by taking advantage of a separable-potential approximation. Medium effects are included through state-of-the- art heavy-quark selfenergies and a potential screening which we constrain by euclidean correlators from lattice QCD. In addition to the usual two-particle cut in the scattering equation we also include particle-hole excitations, also referred to as zero mode. We find that both the increase of euclidean correlators with 3-momentum and the suppression of the spatial correlators found in lattice-QCD can be qualitatively reproduced, with the zero mode playing an essential role for the former but not for the latter.&lt;/p&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 21:03:17 GMT</pubDate>
+      <guid isPermaLink="false">2608.22596v1</guid>
+      <dc:creator>Thomas Hardin</dc:creator>
+      <dc:creator>Ralf Rapp</dc:creator>
+    </item>
+    <item>
+      <title>The elliptic wind on jet wakes in high-energy heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2608.17967v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kai-Yi Wu, Zhong Yang, Xin-Nian Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Energy loss by fast partons induces a Mach-cone-like medium response as they propagate inside the hot quark-gluon plasma (QGP) in high-energy heavy-ion collisions. Because the QGP is nonuniform and its initial gradients generate collective flow, jet-induced medium response in this evolving system is also distorted by the flow and density gradient. This distortion leads to a broadened jet wake whose transverse width depends on the azimuthal angle of the jet propagation due to the elliptic anisotropy of the density gradient and the flow velocity in noncentral heavy-ion collisions. We propose and calculate the difference between the azimuth-dependent jet-hadron correlations for soft charged hadrons in in-plane and out-plane $γ$-jets as a measure of the elliptic broadening of the wake front and the deepening of the diffusion wake. We also study the sensitivity of this observable to the shear viscosity of the QGP. Experimental measurements of the azimuthal modulation of jet wakes induced by the wind of the elliptic flow at RHIC and LHC can provide additional constraints on the transport properties of the QGP.&lt;/p&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 16:09:34 GMT</pubDate>
+      <guid isPermaLink="false">2608.17967v2</guid>
+      <dc:creator>Kai-Yi Wu</dc:creator>
+      <dc:creator>Zhong Yang</dc:creator>
+      <dc:creator>Xin-Nian Wang</dc:creator>
+    </item>
+    <item>
+      <title>Photon production from gluon splitting and fusion induced by a magnetic field of arbitrary strength in relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2608.21600v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alejandro Ayala, Santiago Bernal-Langarica, José Jorge Medina-Serna, Ana Julia Mizher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compute the yield and elliptic flow coefficient for photons produced during the pre-equilibrium stage of semi-central relativistic heavy-ion collisions from the gluon fusion and splitting processes induced by the presence of a magnetic field. The calculation is performed for arbitrary values of the field strength. The pre-equilibrium gluon distribution is modeled with a glasma-inspired Bose-Einstein occupation factor, as well as with an anisotropic distribution that accounts for the rapid initial expansion along the beam axis. In both cases, we find a very good agreement between the calculation and the experimental data from PHENIX. Most notably, the shape and strength of the elliptic flow coefficient are described quite well, representing a step towards solving the outstanding photon puzzle.&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 20:05:32 GMT</pubDate>
+      <guid isPermaLink="false">2608.21600v1</guid>
+      <dc:creator>Alejandro Ayala</dc:creator>
+      <dc:creator>Santiago Bernal-Langarica</dc:creator>
+      <dc:creator>José Jorge Medina-Serna</dc:creator>
+      <dc:creator>Ana Julia Mizher</dc:creator>
+    </item>
+    <item>
+      <title>Bottomonium transport in the sQGP at RHIC and the LHC</title>
+      <link>http://arxiv.org/abs/2608.21344v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Biaogang Wu, Jacob Boyd, Ralf Rapp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bottomonium transport is studied in heavy-ion collisions at RHIC and the LHC by implementing a kinetic rate equation into (3+1)D viscous hydrodynamic simulations of an expanding quark-gluon plasma (QGP). The two main transport parameters are the inelastic reaction rates and equilibrium limits for each individual bottomonium state, $Y$. The former are taken from the thermodynamic $T$-matrix formalism with recent constraints from lattice-QCD and including interference effects and in-medium binding energies, resulting in large rates characteristic of a strongly coupled QGP. The equilibrium limits are evaluated from pertinent in-medium bottomonium and bottom-quark masses. The calculation of observables includes a total of nine $Y$ states (up to 3$S$ and 2$P$) with a feed-down matrix estimated from vacuum branching fractions. At the LHC, the large reaction rates rapidly suppress the initial population of excited states, rendering regeneration their main source even in rather peripheral collisions, while for the more strongly bound ground state $Υ(1S)$, a significant primordial component survives in central collisions. On the other hand, at RHIC energies, regeneration is overall a smaller effect. Together with effects from nuclear absorption, this offers an explanation for the experimental observation that $Υ(1S)$ production at RHIC and the LHC is of comparable magnitude despite the significantly higher temperatures reached in the QGP at the LHC.&lt;/p&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 17:51:24 GMT</pubDate>
+      <guid isPermaLink="false">2608.21344v1</guid>
+      <dc:creator>Biaogang Wu</dc:creator>
+      <dc:creator>Jacob Boyd</dc:creator>
+      <dc:creator>Ralf Rapp</dc:creator>
+    </item>
+    <item>
+      <title>Extraction of Neutron-Skin Parameters in Zr+Zr and Ru+Ru Collisions at $\sqrt{s_{\text{NN}}}$ = 200 GeV</title>
+      <link>http://arxiv.org/abs/2608.13935v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junjian Zhou, Dongsheng Li, Fan Si, Xiujun Li, Yifei Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The initial nuclear geometry of colliding nuclei, manifested in proton and neutron density profiles, plays a key role in determining final-state effects in high-energy heavy-ion collisions. We study ${^{96}\text{Ru}}+{^{96}\text{Ru}}$ and ${^{96}\text{Zr}}+{^{96}\text{Zr}}$ collisions at $\sqrt{s_{\text{NN}}}=200$ GeV incorporating an isospin-dependent Woods-Saxon distribution to account for neutron-skin effects in the UrQMD model. By systematically scanning the proton surface diffuseness parameter $a_{\text{p,Zr}}$ of the $^{96}\text{Zr}$ nucleus and performing a $χ^2$ analysis by comparing with STAR experimental data, we extract the relative neutron-skin thickness difference $0.278 \pm 0.018$ fm between the two isobaric systems using the net-charge yield difference $ΔQ$. We further show that the neutron-skin effect evidently modifies the baryon-to-charge transport ratio $R_{B/Q}=\langle B \rangle/ΔQ \times ΔZ/A$, and substantially influences the observed $R_{B/Q}&gt;1$ behavior in central collisions. This work indicates that nuclear structure effects contribute non-negligibly to baryon transport observables without a baryon junction hypothesis, and underscores the importance of precise initial-state geometry constraints for exploring novel QCD phenomena in relativistic heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 23:19:07 GMT</pubDate>
+      <guid isPermaLink="false">2608.13935v2</guid>
+      <dc:creator>Junjian Zhou</dc:creator>
+      <dc:creator>Dongsheng Li</dc:creator>
+      <dc:creator>Fan Si</dc:creator>
+      <dc:creator>Xiujun Li</dc:creator>
+      <dc:creator>Yifei Zhang</dc:creator>
+    </item>
+    <item>
+      <title>Thermodynamically Consistent Merging of Multidimensional QCD Equations of State</title>
+      <link>http://arxiv.org/abs/2608.20526v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Prachi Garella, Yumu Yang, Musa R. Khan, Tulio E. Restrepo, Joaquin Grefa, Johannes Jahan, Mauricio Hippert, Jorge Noronha, Claudia Ratti, Romulo Rougemont&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a thermodynamically consistent framework for merging complementary models into a multidimensional QCD equation of state. An internal mixing variable is determined by minimizing a single grand potential at fixed temperature and baryon chemical potential, ensuring thermodynamic consistency and stability. Interactions between the components allow for a crossover, a critical endpoint, and a first-order transition. As a proof of principle, we merge a quantum van der Waals hadron-resonance-gas model with a holographic Einstein--Maxwell--Dilaton model. The resulting equation of state reproduces the appropriate description in each regime, agrees well with available lattice-QCD results, and is suitable for heavy-ion phenomenology over a broad range of temperature and baryon chemical potential.&lt;/p&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 19:38:28 GMT</pubDate>
+      <guid isPermaLink="false">2608.20526v1</guid>
+      <dc:creator>Prachi Garella</dc:creator>
+      <dc:creator>Yumu Yang</dc:creator>
+      <dc:creator>Musa R. Khan</dc:creator>
+      <dc:creator>Tulio E. Restrepo</dc:creator>
+      <dc:creator>Joaquin Grefa</dc:creator>
+      <dc:creator>Johannes Jahan</dc:creator>
+      <dc:creator>Mauricio Hippert</dc:creator>
+      <dc:creator>Jorge Noronha</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Romulo Rougemont</dc:creator>
+    </item>
     <item>
       <title>Correspondence between hydrodynamic frames, transport coefficients, and hydrodynamic modes in relativistic fluids</title>
       <link>http://arxiv.org/abs/2608.20324v1</link>
@@ -79,16 +226,6 @@
       <dc:creator>CMS Collaboration</dc:creator>
     </item>
     <item>
-      <title>The elliptic wind on jet wakes in high-energy heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2608.17967v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kai-Yi Wu, Zhong Yang, Xin-Nian Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Energy loss by fast partons induces Mach-cone-like medium response as they propagate inside the hot quark-gluon plasma (QGP) in high-energy heavy-ion collisions. Since the hot QGP is nonuniform whose initial density gradient also generates collective flow, jet-induced medium response in this dynamic system should also be distorted by the flow and density gradient. The distortion is shown to lead to a broadened jet wake whose transverse width depends on the azimuthal angle of the jet propagation due to the elliptic anisotropy of the density gradient and the flow velocity in non-central heavy-ion collisions. We propose and calculate the in-plane and out-plane differences of the azimuthal-dependent jet-hadron correlations for soft charged hadrons in $γ$-jet events as measures of the elliptic broadening of the wake front and deepening of the diffusion wake. We also study the sensitivity of this observable to the shear viscosity of the QGP medium. Experimental measurements of the azimuthal modulation of the jet wake due to the wind of the elliptic flow at RHIC and LHC can provide further constraints on the transport properties of the QGP medium.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 16:20:38 GMT</pubDate>
-      <guid isPermaLink="false">2608.17967v1</guid>
-      <dc:creator>Kai-Yi Wu</dc:creator>
-      <dc:creator>Zhong Yang</dc:creator>
-      <dc:creator>Xin-Nian Wang</dc:creator>
-    </item>
-    <item>
       <title>Symbolic Regression for Interpretable Emulation of Proton Collective Flow in Intermediate-Energy Heavy-Ion Collisions</title>
       <link>http://arxiv.org/abs/2608.17828v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicholas Cox, Xavier Grundler, Bao-An Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Symbolic regression provides an interpretable machine-learning approach for constructing explicit analytic relations between physical inputs and observables. In this work, we develop symbolic-regression emulators for the isospin-dependent Boltzmann-Uehling-Uhlenbeck (IBUU) transport model and compare their performance with deep neural network (DNN) emulators. Using the same transport-model data employed in our previous emulator studies, we show that symbolic regression can reproduce the proton mid-rapidity slope $F_1$ of transverse flow $v_1$ and elliptic flow $v_2$ with accuracy comparable to that of DNNs, while providing explicit analytic expressions and substantially faster prediction once trained. We further demonstrate the use of symbolic regression in the reverse direction by constructing analytic relations that predict the in-medium nucleon-nucleon cross-section modification factor $X$ from the flow observables. Although the symbolic-regression models require substantially longer training times and exhibit greater run-to-run variation than DNNs, their analytic form and rapid evaluation make them promising tools for future transport-model sensitivity and uncertainty analyses.&lt;/p&gt;</description>
@@ -118,17 +255,6 @@
       <guid isPermaLink="false">2608.17372v1</guid>
       <dc:creator>Aoumeur Daddi Hammou</dc:creator>
       <dc:creator>Pol Bernard Gossiaux</dc:creator>
-    </item>
-    <item>
-      <title>Variable-mass sine-Gordon with point defects: integrability, soliton transmission, and quasi-conservation</title>
-      <link>http://arxiv.org/abs/2608.17211v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; A. R. Aguirre, H. Blas, H. F. Callisaya, M. C. de Oliveira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study integrable variable-mass sine-Gordon model (vmSG) with point defects. Using the Lax and Bäcklund-gauge formulations, we construct type-I and type-II defect matrices, derive the corresponding sewing conditions, and generate the bulk and defect contributions to an infinite hierarchy of conserved charges. The lowest members reduce to the standard sine-Gordon energy and momentum in the homogeneous limit, while for inhomogeneous backgrounds they define integrability-generated energy- and momentum-type quantities. Defect compatibility imposes matching conditions on the variable-mass functions across the defect. An analytical transmission factor $z$ characterizes soliton transmission, topological conversion, and absorption/emission processes. We then deform the type-I sewing conditions by parameters $α$ and $β$ and derive the associated defect anomalies. Consistent one-soliton transmission is recovered for $αβ=1$, whereas for $αβ\neq 1$ parity-centered kink-kink and kink-antikink transmissions display vanishing lowest order integrated anomalies but no generic vanishing at higher order. Numerical simulations reproduce the integrable transmission/conversion regimes and show that non-integrable defects generate weak radiative tails and lowest order quasi-conserved charges, while quasi-conservation of the higher order charges remains unestablished. These results elucidate how exact defect integrability deforms into charge-dependent quasi-conservation and establish a framework for defect-controlled soliton transport in inhomogeneous media, with potential applications to nonuniform Josephson junctions, magnetic and nonlinear-optical systems, and effective molecular and DNA models.&lt;/p&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 23:46:54 GMT</pubDate>
-      <guid isPermaLink="false">2608.17211v1</guid>
-      <dc:creator>A. R. Aguirre</dc:creator>
-      <dc:creator>H. Blas</dc:creator>
-      <dc:creator>H. F. Callisaya</dc:creator>
-      <dc:creator>M. C. de Oliveira</dc:creator>
     </item>
     <item>
       <title>The high-energy behavior of tree-level scattering in finite-temperature QCD: estimates of theoretical systematic uncertainty in jet-medium Monte Carlo simulations</title>
@@ -169,6 +295,19 @@
       <dc:creator>Lipei Du</dc:creator>
     </item>
     <item>
+      <title>Universality and Kinematic Dependence of Hadronization Effects in DIS Global Event Shapes</title>
+      <link>http://arxiv.org/abs/2608.15898v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Radja Boughezal, Haotian Cao, Zhong-Bo Kang, Xiaohui Liu, Sonny Mantry, Frank Petriello&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose a unified framework for a combined global analysis to constrain leading hadronization effects across the 1-Jettiness class of global event shapes for Deep Inelastic Scattering (DIS). We show that for the subclass of jet-based event shapes where the leading jet direction is determined dynamically event-by-event, the leading hadronization effects can acquire a non-trivial dependence on the hard scattering kinematics. However, this dependence is explicitly calculable, allowing for universality of leading hadronization effects in the 1-Jettiness class. The non-trivial kinematic dependence provides an independent lever arm for simultaneously constraining hadronization effects in the jet-based and DIS thrust event shapes. This universality, combined with the kinematic lever arm, could allow for including the typically ignored peak region, where hadronization effects are most severe, in precision extractions of the strong coupling. We demonstrate the need for such a unified treatment of hadronization effects through comparisons of theoretical predictions with simulation data.&lt;/p&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 19:19:46 GMT</pubDate>
+      <guid isPermaLink="false">2608.15898v1</guid>
+      <dc:creator>Radja Boughezal</dc:creator>
+      <dc:creator>Haotian Cao</dc:creator>
+      <dc:creator>Zhong-Bo Kang</dc:creator>
+      <dc:creator>Xiaohui Liu</dc:creator>
+      <dc:creator>Sonny Mantry</dc:creator>
+      <dc:creator>Frank Petriello</dc:creator>
+    </item>
+    <item>
       <title>Neutron Stars consistent Equations of State with Phase Transitions and their Impact in Heavy Ion Collision Observables</title>
       <link>http://arxiv.org/abs/2608.15737v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; D. E. Lluis González, J. Steinheimer, M. Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We explore the impact of different equations of state (EoS) on heavy ion collision observables using a Chiral Mean Field (CMF) framework constrained by astrophysical and lattice QCD inputs. The investigated family of EoS simultaneously reproduce neutron stars with masses above two solar masses and exhibit a first order phase transition around two times the nuclear saturation density. This is achieved by varying the relative vector and scalar couplings of $Δ$ resonances with the scalar $σ$ and vector $ω$ fields with respect to nucleons. These EoS are compared to the QCD trace anomaly at finite temperature. We implement both, the default CMF EoS and the modified EoS featuring a phase transition into the UrQMD transport model to study the effects of the phase transition on a qualitative and quantitative level. In particular Au+Au collisions at beam energies of 0.5-3 GeV, the GSI/FAIR energy range of the HADES and CBM experiments, shows visible sensitivity on the EoS. Transverse momentum distributions for protons, the directed flow ($v_1$) and its slope near mid-rapidity for $π^+$ as well as the $K^+/π^+$ ratio is analyzed. Clear differences emerge between the results obtained with the default CMF EoS, the modified EoS, and the cascade mode, particularly the slope of $v_1$ of the pions and in strangeness production. These findings demonstrate the sensitivity of heavy ion observables to the nuclear EoS and highlight potential experimental signatures of a phase transition.&lt;/p&gt;</description>
@@ -179,14 +318,6 @@
       <dc:creator>M. Bleicher</dc:creator>
     </item>
     <item>
-      <title>Renormalization-group locking of finite anisotropic propagation cones in Yukawa networks</title>
-      <link>http://arxiv.org/abs/2608.15661v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuai Zeng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Different field species can begin with finite anisotropic propagation geometries whose principal axes need not coincide. We ask whether local Yukawa interactions on a finite graph can nevertheless generate one common infrared spatial cone, even when the interactions that drive the locking become marginally irrelevant. Retaining the full finite mismatch between positive-definite spatial kinetic matrices, we derive the one-loop nonlinear matrix flow and show that its Thompson diameter is globally nonexpansive. On a connected graph, persistent normalized edge activity upgrades this to a uniform finite-window contraction, so all interacting sectors asymptotically share one relative propagation geometry. An explicit two-channel Pauli-Dirac Yukawa-quartic completion realizes the persistence conditions on an open weak-coupling set of finite-mismatch initial data. In four dimensions the Yukawa couplings vanish in the infrared, yet their accumulated interaction time diverges, leaving a Gaussian endpoint with a common spatial cone. For a controlled two-plateau extremal class, graph distance also fixes the first nonzero short-time order of the diameter decrease. Thus a common cone can be collectively selected by renormalization-group dynamics rather than imposed as a microscopic common structure.&lt;/p&gt;</description>
-      <pubDate>Sun, 16 Aug 2026 10:10:58 GMT</pubDate>
-      <guid isPermaLink="false">2608.15661v1</guid>
-      <dc:creator>Shuai Zeng</dc:creator>
-    </item>
-    <item>
       <title>Physics of the Electron-Ion Collider in China</title>
       <link>http://arxiv.org/abs/2608.11712v2</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bo-Wen Xiao, Yuxiang Zhao, Jian Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Electron-Ion Collider in China (EicC), a cutting-edge facility under development, aims to unveil the internal structure of nucleons and nuclei by leveraging collisions of high-intensity polarized electrons and ions (polarized protons, polarized deuterons, polarized $^{3}$He, and unpolarized heavy ions up to Uranium) at center-of-mass energies of 15-20 GeV and luminosity of (2-4)$\times 10^{33}$cm$^{-2}$s$^{-1}$. Its primary physics objectives include 3D tomography of nucleon spin and momentum structure, fundamental questions regarding the origin of nucleon mass, partonic structure of nuclei and parton interactions with the nuclear environment, and exploration of exotic hadronic states. In this paper, we review the physics potential of the EicC and highlight its unique capabilities for advancing precision nucleon structure studies by combining its specialized kinematic coverage and high luminosity. Since traditional topics like 3D nucleon structure have already been well-covered by several extensive reviews, we have deliberately dedicated significant space to recent progress in nucleon mass decomposition, nucleon energy-energy correlation, quantum information, and artificial intelligence applications in high-energy nuclear physics, which have been emerging rapidly and attracted a tremendous amount of attention in the community.&lt;/p&gt;</description>
@@ -195,14 +326,6 @@
       <dc:creator>Bo-Wen Xiao</dc:creator>
       <dc:creator>Yuxiang Zhao</dc:creator>
       <dc:creator>Jian Zhou</dc:creator>
-    </item>
-    <item>
-      <title>Strong CP Problem in Type IIA Toroidal Orientifold String Theory</title>
-      <link>http://arxiv.org/abs/2608.15611v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yang Liu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a globally consistent Type IIA $T^6/(\mathbb{Z}_2 \times \mathbb{Z}_2)$ orientifold with intersecting D6-branes that dynamically solves the strong CP problem via the four-form flux mechanism. The construction satisfies all RR tadpole, K-theory, and SUSY conditions, stabilizes all moduli, and uplifts to dS vacuum with an anti-D6-brane. Four new results beyond our earlier proof-of-principle \cite{Liu:2025tnx} are given: (i) an explicit one-to-one dictionary between field-theory four-form parameters and string fluxes, including flux quantization constraints; (ii) a quantitative anti-D6 backreaction estimate showing $|δ\barθ|&lt;10^{-11}$; (iii) an analysis of swampland constraints that are simultaneously satisfied only in a parameter window; (iv) a comparison with Type IIB LVS and heterotic solutions. The predicted axion decay constant $f_a$ and mass $m_a$ are within reach of next generation observations.&lt;/p&gt;</description>
-      <pubDate>Sun, 16 Aug 2026 08:20:47 GMT</pubDate>
-      <guid isPermaLink="false">2608.15611v1</guid>
-      <dc:creator>Yang Liu</dc:creator>
     </item>
     <item>
       <title>General Lindblad equation for quarkonium evolution in a quark-gluon plasma</title>
@@ -247,18 +370,6 @@
       <dc:creator>Nu Xu</dc:creator>
     </item>
     <item>
-      <title>Extraction of Neutron-Skin Parameters in Zr+Zr and Ru+Ru Collisions at $\sqrt{s_{\text{NN}}}$ = 200 GeV</title>
-      <link>http://arxiv.org/abs/2608.13935v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Junjian Zhou, Dongsheng Li, Fan Si, Xiujun Li, Yifei Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The initial nuclear geometry of colliding nuclei, manifested in proton and neutron density profiles, plays a key role in determining final-state effects in high-energy heavy-ion collisions. We study ${^{96}\text{Ru}}+{^{96}\text{Ru}}$ and ${^{96}\text{Zr}}+{^{96}\text{Zr}}$ collisions at $\sqrt{s_{\text{NN}}}=200$ GeV incorporating an isospin-dependent Woods-Saxon distribution to account for neutron-skin effects in the UrQMD model. By systematically scanning the proton surface diffuseness parameter $a_{\text{p,Zr}}$ of the $^{96}\text{Zr}$ nucleus and performing a $χ^2$ analysis by comparing with STAR experimental data, we extract the relative neutron-skin thickness difference $0.278 \pm 0.018$ fm between the two isobaric systems using the net-charge yield difference $ΔQ$. We further show that the neutron-skin effect evidently modifies the baryon-to-charge transport ratio $R_{B/Q}=\langle B \rangle/ΔQ \times ΔZ/A$, and substantially influences the observed $R_{B/Q}&gt;1$ behavior in central collisions. This work indicates that nuclear structure effects contribute non-negligibly to baryon transport observables without a baryon junction hypothesis, and underscores the importance of precise initial-state geometry constraints for exploring novel QCD phenomena in relativistic heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 04:16:15 GMT</pubDate>
-      <guid isPermaLink="false">2608.13935v1</guid>
-      <dc:creator>Junjian Zhou</dc:creator>
-      <dc:creator>Dongsheng Li</dc:creator>
-      <dc:creator>Fan Si</dc:creator>
-      <dc:creator>Xiujun Li</dc:creator>
-      <dc:creator>Yifei Zhang</dc:creator>
-    </item>
-    <item>
       <title>Non-perturbative quark production and transport in the evolving glasma: the WAGASHI event generator</title>
       <link>http://arxiv.org/abs/2608.13393v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicholas J. Benoit, Chiho Nonaka, Hidetoshi Taya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study non-perturbative quark-antiquark pair production and the subsequent quark dynamics in the earliest glasma stage of relativistic heavy-ion collisions. For that, we develop a new model, WAGASHI (Wong-precessing Anisotropic Glasma And ScHwinger-produced Initial-conditions), which combines classical Yang-Mills glasma evolution, Wong-equation transport, and Schwinger pair production on an event-by-event basis. We find that a sizeable number of quarks, comparable to the final hadron yields, are produced already during the glasma stage and subsequently undergo substantial momentum broadening and spin randomization, suggesting a significant contribution toward the early equilibration of the quark-gluon plasma. We also determine the event-by-event distributions of baryon number, electric charge, strangeness, and spin polarization in Pb-Pb and O-O collisions at LHC energies, finding particularly large fluctuations in the smaller O-O system. These results provide dynamical initial conditions for the subsequent hydrodynamic evolution of the quark-gluon plasma.&lt;/p&gt;</description>
@@ -277,15 +388,6 @@
       <dc:creator>Jing Jing</dc:creator>
       <dc:creator>Duan She</dc:creator>
       <dc:creator>Ze-Fang Jiang</dc:creator>
-    </item>
-    <item>
-      <title>Frame-dependency of the confinement temperature in a strongly-coupled plasma under rotation: a holographic description</title>
-      <link>http://arxiv.org/abs/2608.13301v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nelson R. F. Braga, Alexsandre L. Ferreira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recently, it was demonstrated that the disagreement between lattice calculations and holographic models, regarding rotational effects in the quark-gluon plasma (QGP), occurs due to different choices of reference frames. While a static observer measures a confinement temperature that decreases with rotation, one in a co-rotating frame finds the opposite behavior. Both results are correct, and a comprehension of the frame-dependency of the critical temperature is a significant step in the description of the QGP under rotation. In this article, we generalize this previous holographic result by describing the plasma through the most general Myers-Perry black hole solution. This breaks the spherical symmetry present in the equal angular momentum case, considered before. As a consequence, the local temperature measured by a co-rotating observer has a non-trivial angular dependence: it can decrease, increase or even behave non-monotonically when rotational velocity increases.&lt;/p&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 14:32:12 GMT</pubDate>
-      <guid isPermaLink="false">2608.13301v1</guid>
-      <dc:creator>Nelson R. F. Braga</dc:creator>
-      <dc:creator>Alexsandre L. Ferreira</dc:creator>
     </item>
     <item>
       <title>Photon emission from rotating plasmas: a generalized McLerran-Toimela formula and the onset of superradiance</title>
@@ -938,24 +1040,6 @@
       <dc:creator>Marcello Di Costanzo</dc:creator>
     </item>
     <item>
-      <title>Diffusion and shear viscosity coefficients of hot isospin asymmetric strange hadronic matter using a chiral SU(3) model</title>
-      <link>http://arxiv.org/abs/2608.01971v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Amruta Mishra, Shujun Zhao, Tetsufumi Hirano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the diffusion and shear viscosity coefficients of hot isospin asymmetric strange hadronic matter. The effects due to the baryon density, isospin, strangeness, and temperature on the nucleons and hyperons are studied within a chiral SU(3) model. The medium modifications of the baryons arise due to interactions with the mean scalar and vector fields within the model. The thermodynamic and transport properties are studied in the hot strange hadronic matter. The diffusion matrix associated with the multiple charges (baryon number, isospin, and strangeness), as well as the coefficient of shear viscosity, are computed from the Boltzmann equation using first-order Chapman--Enskog expansion within the relaxation time approximation. There are observed to be significant effects from the isospin asymmetry as well as the strangeness of the medium on the diffusion coefficients. The coefficient of shear viscosity, $η$ is observed to have a large enhancement in the presence of finite strangeness in the medium due to additional contributions from the hyperons. The effects due to isospin asymmetry on the shear viscosity coefficient is however observed to be marginal both in nuclear and hyperonic matter. The present study can be relevant for the experimental observables of asymmetric relativistic heavy-ion collisions, e.g., in the compressed baryonic matter (CBM) experiment at the FAIR facility at GSI as well as in the future J-PARC-HI program.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 09:35:32 GMT</pubDate>
-      <guid isPermaLink="false">2608.01971v1</guid>
-      <dc:creator>Amruta Mishra</dc:creator>
-      <dc:creator>Shujun Zhao</dc:creator>
-      <dc:creator>Tetsufumi Hirano</dc:creator>
-    </item>
-    <item>
-      <title>Theoretical Review of Critical Point Predictions</title>
-      <link>http://arxiv.org/abs/2608.01957v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Maneesha Sushama Pradeep&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This review summarizes recent theoretical progress on the QCD equation of state near the critical point and developments in the maximum entropy freeze-out framework, which provides a systematic connection between hydrodynamic fluctuations and hadronic multiplicity cumulants. We also discuss recent applications of this framework, together with advances in the dynamical evolution of critical fluctuations.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 09:27:01 GMT</pubDate>
-      <guid isPermaLink="false">2608.01957v1</guid>
-      <dc:creator>Maneesha Sushama Pradeep</dc:creator>
-    </item>
-    <item>
       <title>Necessary and sufficient conditions of nonlinear causality in viscous anisotropic hydrodynamics</title>
       <link>http://arxiv.org/abs/2608.01900v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kento Yoshida, Shujun Zhao, Tetsufumi Hirano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive the necessary and sufficient conditions for nonlinear causality in viscous anisotropic hydrodynamics (VAH) within the approximation that neglects small correction terms. Relativistic hydrodynamics provides a successful description of the space-time evolution of the matter produced in relativistic heavy-ion collisions, yet the earliest stage at which a hydrodynamic description becomes valid remains an open question. VAH has been proposed as an extension of conventional viscous hydrodynamics (VH) that can accommodate the large pressure anisotropies of the early-time dynamics. However, in such far-from-equilibrium regimes, the nonlinear causality of the theory is not guaranteed. By analyzing the characteristic velocities of the VAH equations of motion, we derive a set of inequalities that ensures causal signal propagation in all directions. The resulting conditions take a remarkably simple form and admit a clear physical interpretation in terms of the characteristic modes of the anisotropic medium. These results establish the regime of validity of VAH and provide a foundation for its application to the early-time dynamics of relativistic heavy-ion collisions.&lt;/p&gt;</description>
@@ -977,18 +1061,6 @@
       <dc:creator>Jinhui Chen</dc:creator>
       <dc:creator>Su-Ya-La-Tu Zhang</dc:creator>
       <dc:creator>Yu-Gang Ma</dc:creator>
-    </item>
-    <item>
-      <title>Deformation effects on reaction observables of beryllium nuclei from ab initio densities</title>
-      <link>http://arxiv.org/abs/2608.01131v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Lu, Rui-Feng Tian, Shi-Sheng Zhang, Ulf-G. Meißner, Shihang Shen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We combine three-dimensional intrinsic densities from ab initio nuclear lattice effective field theory with a deformed Glauber model to study high-energy reactions of {7-12}Be. To connect the correlated many-body configurations to the core-plus-neutron reaction formalism without imposing a single-particle orbital, we introduce a configuration-resolved prescription that identifies the spatially outermost valence neutron after the two-cluster decomposition. For Be projectiles on 12C and 9Be targets at 790 MeV/A, explicit orientation averaging lowers the calculated reaction cross section of 11Be by up to approximately 50 mb relative to a calculation with the spherically averaged density. The deformed calculation reproduces the pronounced increase from 10Be to the established one-neutron halo nucleus 11Be for both targets. We further calculate the momentum distribution of the fragments after the one-neutron removal reaction of 11Be + 9Be , finding good agreement in shape with the measurement at 63 MeV/A and providing a prediction at 790 MeV/A. These results quantify how intrinsic deformation and weak binding are transmitted from microscopic many-body densities to reaction observables.&lt;/p&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 10:17:16 GMT</pubDate>
-      <guid isPermaLink="false">2608.01131v1</guid>
-      <dc:creator>Qi Lu</dc:creator>
-      <dc:creator>Rui-Feng Tian</dc:creator>
-      <dc:creator>Shi-Sheng Zhang</dc:creator>
-      <dc:creator>Ulf-G. Meißner</dc:creator>
-      <dc:creator>Shihang Shen</dc:creator>
     </item>
     <item>
       <title>Interaction fingerprints in temperature-fluctuation cumulants from the QCD crossover to nuclear liquid-gas criticality</title>
@@ -2205,32 +2277,12 @@
       <dc:creator>X. Zuo</dc:creator>
     </item>
     <item>
-      <title>Weak Bose-Einstein condensation in a rigidly rotating magnetized charged Bose gas</title>
-      <link>http://arxiv.org/abs/2607.29297v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; E. Siri, N. Sadooghi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-31&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the weak Bose-Einstein condensation (BEC) scenario of a noninteracting charged Bose gas simultaneously subjected to a strong magnetic field and rigid rotation. Using standard methods of finite-temperature quantum field theory and the generalized Fock-Schwinger formalism, we derive the corresponding thermodynamic potential in the nonrelativistic and lowest Landau level approximations. An appropriate modification of the effective chemical potential yields a consistent thermodynamic description and naturally introduces a magnetorotational fugacity. Within the high-temperature approximation, rigid rotation enters the thermodynamics solely through the Tolman-Ehrenfest local temperature. We demonstrate that rigid rotation does not qualitatively modify the weak BEC scenario induced by Landau quantization. The magnetorotational fugacity remains below unity throughout the phenomenologically relevant temperature range, while the continuous evolution of the ground state population and the absence of a singularity in the specific heat provide complementary signatures of the persistence of weak BEC. We further study the thermodynamic properties of the system under conditions relevant to quark-gluon plasma and neutron-star matter. We show that rotational effects are much more pronounced in the former. Our analysis reveals a new magnetic response to rigid rotation: while magnetic fields enhance diamagnetism, rotation drives it toward paramagnetism. This behavior reflects a competition between magnetic quantization and rotational orbital motion, emphasizing the role of rotation in shaping the magnetic response of bosonic matter.&lt;/p&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 11:14:58 GMT</pubDate>
-      <guid isPermaLink="false">2607.29297v1</guid>
-      <dc:creator>E. Siri</dc:creator>
-      <dc:creator>N. Sadooghi</dc:creator>
-    </item>
-    <item>
       <title>Probing (Hyper)Nuclei Wave Functions and Production Mechanisms in $\sqrt{s_{\rm{NN}}}=200$ GeV Isobar Collisions at RHIC</title>
       <link>http://arxiv.org/abs/2607.28113v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The study of nuclei and hypernuclei production is a powerful tool to investigate the formation mechanism of loosely bound states in high-energy heavy-ion collisions. A key prediction from coalescence models is a strong suppression of the hypertriton (${}^{3}_Λ\rm{H}$) compared to ${}^{3}\rm{He}$ production in small collision systems due to the larger radius of ${}^{3}_Λ\rm{H}$. In this letter, the STAR collaboration reports measurements on (hyper)nuclei ($^{3}_Λ\rm{H}, {}^{3}_{\barΛ}\rm{\bar{H}}, {}^{3}\rm{He}, {}^{3}\rm{\overline{He}}, t$) production at mid-rapidity in Ru+Ru and Zr+Zr collisions at $\sqrt{s_{\rm{NN}}}=200$ GeV as a function of collision centrality. We find that the ratios $N_{t}N_{p}/N_{d}^{2}$ and $S_{3} =(N_{{}^{3}_Λ\rm{H}}/N_{{}^{3}_{}\rm{He}})/(N_Λ/N_{p})$ deviate significantly from thermal model expectations. Coalescence calculations incorporating realistic non-Gaussian wave functions for the $d$ and ${}^{3}_Λ\rm{H}$ provide an improved description of the data, while Gaussian descriptions of the ${}^{3}_Λ\rm{H}$ wave function fail to simultaneously reproduce the measured $S_{3}$ and the binding energy of ${}^{3}_Λ\rm{H}$. These results suggest that the ${}^{3}_Λ\rm{H}$ wave function contains larger short-distance $d$--$Λ$ probability than implied by a Gaussian ansatz, demonstrating the potential of heavy-ion production measurements as a probe of hypernuclear wave functions and the underlying hyperon--nucleon interaction.&lt;/p&gt;</description>
       <pubDate>Thu, 30 Jul 2026 12:20:42 GMT</pubDate>
       <guid isPermaLink="false">2607.28113v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>CLVisc Agent for autonomous relativistic hydrodynamics studies</title>
-      <link>http://arxiv.org/abs/2607.27822v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Wang, Long-Gang Pang, Shi Pu, Xin-Nian Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We enable large language model (LLM) agents to autonomously perform end-to-end hydrodynamic simulations of the quark-gluon plasma evolution and calculation of final hadron spectra in relativistic heavy-ion collisions. We design a meta skill that allows an agent to explore a project's source code, craft a specialized skill, and iteratively refine it. Applying this meta skill to the (3+1)D viscous hydrodynamic code CLVisc, the agent builds a CLVisc skill encoding its operational knowledge and then independently executes full scientific workflows: designing parameter scans, running simulations, comparing ensemble results, and producing publication-ready figures. Crucially, the agent draws on literature-informed heavy-ion physics to select physically meaningful observables and interpret outcomes without explicit instruction. We demonstrate the pipeline in two scenarios: temperature-dependent shear viscosity over entropy density $η/s$, and nuclear-structure effects in O+O collisions at $\sqrt{s_{\mathrm{NN}}} = 5.36$~TeV using four \textit{ab initio} descriptions of $^{16}$O. In both, the agent plans, executes, and analyzes autonomously, devising new initial-state observables to explain final observations and extract qualitative knowledge. The meta skill is agnostic to code versions and Monte Carlo generators, promising future multi-agent systems in high-energy nuclear physics.&lt;/p&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 08:02:33 GMT</pubDate>
-      <guid isPermaLink="false">2607.27822v1</guid>
-      <dc:creator>Qi Wang</dc:creator>
-      <dc:creator>Long-Gang Pang</dc:creator>
-      <dc:creator>Shi Pu</dc:creator>
-      <dc:creator>Xin-Nian Wang</dc:creator>
     </item>
     <item>
       <title>Unbiased Data-Driven Determination of the Nuclear Dipole Amplitude in the Color Glass Condensate</title>
@@ -2546,373 +2598,6 @@
       <dc:creator>Sanatan Digal</dc:creator>
       <dc:creator>P. S. Saumia</dc:creator>
       <dc:creator>Ajit M. Srivastava</dc:creator>
-    </item>
-    <item>
-      <title>Recent highlights from the STAR Experiment</title>
-      <link>http://arxiv.org/abs/2607.07254v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rutik Manikandhan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Understanding the QCD phase structure and the possible existence of a critical point remains one of the central goals of the heavy-ion program at RHIC. In this proceeding, we present recent STAR results across multiple observables that probe different aspects of the hot and dense matter created in Au+Au collisions. These include two-particle transverse momentum correlations of mean transverse momentum, net-proton cumulants up to fourth order, identical-pion femtoscopy, and baryon-strangeness correlations. We also discuss femtoscopic measurements of baryon-baryon pairs, which provide insight into hyperon-nucleon and hyperon-hyperon interactions and the possible formation of strange dibaryon states. Together, these results provide complementary probes of the system's evolution across a wide collision-energy range (sqrt(sNN) = 3-200 GeV), offering new constraints on the QCD equation of state and the location of the QCD critical point.&lt;/p&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 10:39:14 GMT</pubDate>
-      <guid isPermaLink="false">2607.07254v1</guid>
-      <dc:creator>Rutik Manikandhan</dc:creator>
-    </item>
-    <item>
-      <title>$K^{*}(892)^0$ production and the time between freeze-outs in $^{40}$Ar+$^{45}$Sc collisions by NA61/SHINE at the CERN SPS</title>
-      <link>http://arxiv.org/abs/2607.05595v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; NA61/SHINE Collaboration, :, P. Adrich, K. K. Allison, M. Bajda, Y. Balkova, D. Battaglia, M. Bielewicz, A. Blondel, M. Bogomilov, Y. Bondar, J. Brzychczyk, M. Buryakov, A. F. Camino, Y. D. Chandak, M. Csanád, M. Ćwiok, T. Czopowicz, C. Dalmazzone, N. Davis, A. Dmitriev, P. von Doetinchem, W. Dominik, J. Dumarchez, R. Engel, L. Fields, Z. Fodor, M. Friend, M. Gaździcki, K. E. Gollwitzer, V. Golovatyuk, K. Grebieszkow, P. G. Hurh, S. Ilieva, V. A. Kireyeu, R. Kolesnikov, D. Kolev, Y. Koshio, S. Kowalski, T. Kowalski, B. Kozłowski, A. Krasnoperov, W. Kucewicz, M. Kuchowicz, P. Lasko, A. László, M. Lewicki, G. Lykasov, J. R. Lyon, V. V. Lyubushkin, M. Maćkowiak-Pawłowska, B. Maksiak, A. I. Malakhov, A. Marcinek, A. D. Marino, T. Matulewicz, V. Matveev, G. L. Melkumov, Ł. Mik, Y. Nagai, R. Nagy, T. Nakadaira, S. Nishimori, A. Olivier, V. Ozvenchuk, O. Panova, V. Paolone, I. Pidhurskyi, R. Płaneta, B. A. Popov, B. Pórfy, D. Pszczel, S. Puławski, L. Ren, V. Z. Reyna Ortiz, D. Röhrich, M. Roth, Ł. Rozpłochowski, M. Rumyantsev, A. Rustamov, M. Rybczyński, A. Rybicki, D. Rybka, K. Sakashita, K. Schmidt, P. Semeniuk, H. Shah, U. A. Shah, Y. Shiraishi, A. Shukla, M. Słodkowski, P. Staszel, G. Stefanek, J. Stepaniak, T. Šuša, Ł. Świderski, J. Szewiński, R. Szukiewicz, A. Tefelska, D. Tefelski, V. Tereshchenko, R. Tsenov, L. Turko, M. Unger, M. Urbaniak, D. Veberič, O. Vitiuk, A. Wickremasinghe, K. Witek, K. Wójcik, A. Zaitsev, E. Zherebtsova, E. D. Zimmerman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The analysis of the production of strange $K^{*}(892)^0$ resonances allows us to better understand the temporal evolution of high-energy nucleus--nucleus collisions. In particular, the ratio of $K^{*}(892)^0$ to charged kaon yields is used to determine the time interval between chemical and kinetic freeze-outs. In this paper, the first measurements of $K^{*}(892)^0$ production in central $^{40}$Ar+$^{45}$Sc collisions at the CERN Super Proton Synchrotron are reported. They were performed by NA61/SHINE at collision center-of-mass energies per nucleon pair $\sqrt{s_\mathrm{NN}}$ = 8.8, 11.9, 16.8 GeV.
-  The obtained $\langle K^{*}(892)^0 \rangle/\langle K^{+} \rangle $ and $\langle K^{*}(892)^0 \rangle/\langle K^{-} \rangle$ mean multiplicity ratios are compared with corresponding results in $p$+$p$ collisions, allowing for an estimate of the time interval between chemical and thermal freeze-outs in the $^{40}$Ar+$^{45}$Sc system. These are the first such results reported for $^{40}$Ar+$^{45}$Sc collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 19:47:03 GMT</pubDate>
-      <guid isPermaLink="false">2607.05595v1</guid>
-      <dc:creator>NA61/SHINE Collaboration</dc:creator>
-      <dc:creator>:</dc:creator>
-      <dc:creator>P. Adrich</dc:creator>
-      <dc:creator>K. K. Allison</dc:creator>
-      <dc:creator>M. Bajda</dc:creator>
-      <dc:creator>Y. Balkova</dc:creator>
-      <dc:creator>D. Battaglia</dc:creator>
-      <dc:creator>M. Bielewicz</dc:creator>
-      <dc:creator>A. Blondel</dc:creator>
-      <dc:creator>M. Bogomilov</dc:creator>
-      <dc:creator>Y. Bondar</dc:creator>
-      <dc:creator>J. Brzychczyk</dc:creator>
-      <dc:creator>M. Buryakov</dc:creator>
-      <dc:creator>A. F. Camino</dc:creator>
-      <dc:creator>Y. D. Chandak</dc:creator>
-      <dc:creator>M. Csanád</dc:creator>
-      <dc:creator>M. Ćwiok</dc:creator>
-      <dc:creator>T. Czopowicz</dc:creator>
-      <dc:creator>C. Dalmazzone</dc:creator>
-      <dc:creator>N. Davis</dc:creator>
-      <dc:creator>A. Dmitriev</dc:creator>
-      <dc:creator>P. von Doetinchem</dc:creator>
-      <dc:creator>W. Dominik</dc:creator>
-      <dc:creator>J. Dumarchez</dc:creator>
-      <dc:creator>R. Engel</dc:creator>
-      <dc:creator>L. Fields</dc:creator>
-      <dc:creator>Z. Fodor</dc:creator>
-      <dc:creator>M. Friend</dc:creator>
-      <dc:creator>M. Gaździcki</dc:creator>
-      <dc:creator>K. E. Gollwitzer</dc:creator>
-      <dc:creator>V. Golovatyuk</dc:creator>
-      <dc:creator>K. Grebieszkow</dc:creator>
-      <dc:creator>P. G. Hurh</dc:creator>
-      <dc:creator>S. Ilieva</dc:creator>
-      <dc:creator>V. A. Kireyeu</dc:creator>
-      <dc:creator>R. Kolesnikov</dc:creator>
-      <dc:creator>D. Kolev</dc:creator>
-      <dc:creator>Y. Koshio</dc:creator>
-      <dc:creator>S. Kowalski</dc:creator>
-      <dc:creator>T. Kowalski</dc:creator>
-      <dc:creator>B. Kozłowski</dc:creator>
-      <dc:creator>A. Krasnoperov</dc:creator>
-      <dc:creator>W. Kucewicz</dc:creator>
-      <dc:creator>M. Kuchowicz</dc:creator>
-      <dc:creator>P. Lasko</dc:creator>
-      <dc:creator>A. László</dc:creator>
-      <dc:creator>M. Lewicki</dc:creator>
-      <dc:creator>G. Lykasov</dc:creator>
-      <dc:creator>J. R. Lyon</dc:creator>
-      <dc:creator>V. V. Lyubushkin</dc:creator>
-      <dc:creator>M. Maćkowiak-Pawłowska</dc:creator>
-      <dc:creator>B. Maksiak</dc:creator>
-      <dc:creator>A. I. Malakhov</dc:creator>
-      <dc:creator>A. Marcinek</dc:creator>
-      <dc:creator>A. D. Marino</dc:creator>
-      <dc:creator>T. Matulewicz</dc:creator>
-      <dc:creator>V. Matveev</dc:creator>
-      <dc:creator>G. L. Melkumov</dc:creator>
-      <dc:creator>Ł. Mik</dc:creator>
-      <dc:creator>Y. Nagai</dc:creator>
-      <dc:creator>R. Nagy</dc:creator>
-      <dc:creator>T. Nakadaira</dc:creator>
-      <dc:creator>S. Nishimori</dc:creator>
-      <dc:creator>A. Olivier</dc:creator>
-      <dc:creator>V. Ozvenchuk</dc:creator>
-      <dc:creator>O. Panova</dc:creator>
-      <dc:creator>V. Paolone</dc:creator>
-      <dc:creator>I. Pidhurskyi</dc:creator>
-      <dc:creator>R. Płaneta</dc:creator>
-      <dc:creator>B. A. Popov</dc:creator>
-      <dc:creator>B. Pórfy</dc:creator>
-      <dc:creator>D. Pszczel</dc:creator>
-      <dc:creator>S. Puławski</dc:creator>
-      <dc:creator>L. Ren</dc:creator>
-      <dc:creator>V. Z. Reyna Ortiz</dc:creator>
-      <dc:creator>D. Röhrich</dc:creator>
-      <dc:creator>M. Roth</dc:creator>
-      <dc:creator>Ł. Rozpłochowski</dc:creator>
-      <dc:creator>M. Rumyantsev</dc:creator>
-      <dc:creator>A. Rustamov</dc:creator>
-      <dc:creator>M. Rybczyński</dc:creator>
-      <dc:creator>A. Rybicki</dc:creator>
-      <dc:creator>D. Rybka</dc:creator>
-      <dc:creator>K. Sakashita</dc:creator>
-      <dc:creator>K. Schmidt</dc:creator>
-      <dc:creator>P. Semeniuk</dc:creator>
-      <dc:creator>H. Shah</dc:creator>
-      <dc:creator>U. A. Shah</dc:creator>
-      <dc:creator>Y. Shiraishi</dc:creator>
-      <dc:creator>A. Shukla</dc:creator>
-      <dc:creator>M. Słodkowski</dc:creator>
-      <dc:creator>P. Staszel</dc:creator>
-      <dc:creator>G. Stefanek</dc:creator>
-      <dc:creator>J. Stepaniak</dc:creator>
-      <dc:creator>T. Šuša</dc:creator>
-      <dc:creator>Ł. Świderski</dc:creator>
-      <dc:creator>J. Szewiński</dc:creator>
-      <dc:creator>R. Szukiewicz</dc:creator>
-      <dc:creator>A. Tefelska</dc:creator>
-      <dc:creator>D. Tefelski</dc:creator>
-      <dc:creator>V. Tereshchenko</dc:creator>
-      <dc:creator>R. Tsenov</dc:creator>
-      <dc:creator>L. Turko</dc:creator>
-      <dc:creator>M. Unger</dc:creator>
-      <dc:creator>M. Urbaniak</dc:creator>
-      <dc:creator>D. Veberič</dc:creator>
-      <dc:creator>O. Vitiuk</dc:creator>
-      <dc:creator>A. Wickremasinghe</dc:creator>
-      <dc:creator>K. Witek</dc:creator>
-      <dc:creator>K. Wójcik</dc:creator>
-      <dc:creator>A. Zaitsev</dc:creator>
-      <dc:creator>E. Zherebtsova</dc:creator>
-      <dc:creator>E. D. Zimmerman</dc:creator>
-    </item>
-    <item>
-      <title>Measurement of isolated prompt photon production in $p$+$p$ collisions at $\sqrt{s} = 200$ GeV with the sPHENIX detector</title>
-      <link>http://arxiv.org/abs/2607.03892v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; sPHENIX Collaboration, M. I. Abdulhamid, U. Acharya, G. Adawi, I. Ahmed, C. A. Aidala, Y. Akiba, M. Alfred, A. Alsayegh, D. M. Anderson, V. V. Andrieux, A. Angerami, N. Applegate, M. U. Ashraf, B. Azmoun, V. R. Bailey, S. Bathe, A. Bazilevsky, R. Belmont, J. Bennett, J. C. Bernauer, J. Bertaux, H. Bossi, A. Brahma, J. W. Bryan, M. Chamizo-Llatas, S. B. Chauhan, D. Chen, J. Chen, C. -Y. Chi, M. Chiu, J. Clement, E. W. Cline, M. Connors, R. Corliss, Y. Corrales Morales, E. Croft, N. d'Hose, M. Daradkeh, S. J. Das, A. P. Dash, G. David, C. T. Dean, X. Dong, A. Drees, J. Driebeek, J. M. Durham, A. Enokizono, H. Enyo, R. Esha, B. Fadem, K. Finnelli, D. Firak, D. S. Fitzgerald, L. V. Flores-Sanchez, A. Francisco, J. Frantz, A. Frawley, M. Fujiwara, G. Garmire, Y. Go, I. Goel, Y. Goto, N. Grau, S. V. Greene, S. K. Grossberndt, T. Hachiya, J. S. Haggerty, D. A. Hangal, T. Harada, S. Hasegawa, M. Hata, W. He, X. He, T. Hemmick, A. Hodges, A. Holt, B. Hong, S. Howell, H. Z. Huang, J. Huang, C. Hughes, J. Hwang, M. Ikemoto, Y. Ishigaki, J. James, H. -R. Jheng, H. Jiang, M. Kano, L. Kasper, T. Kato, A. M. Khan, M. S. Khan, T. Kikuchi, B. Kimelman, A. G. Knospe, N. Kumar, R. Kunnawalkam Elayavalli, C. M. Kuo, J. Kvapil, J. Lajoie, A. Lebedev, S. Lee, L. Legnosky, S. Li, X. Li, S. Liechty, S. Lim, D. Lis, M. X. Liu, W. J. Llope, D. A. Loomis, R. -S. Lu, C. Ma, L. Ma, W. Ma, V. Mahaut, E. Mannel, T. R. Marshall, C. Martin, G. Mattson, C. McGinn, E. McLaughlin, T. Mengel, A. S. Menon, M. Meskowitz, A. Milov, I. Mitrankov, M. Mitrankova, N. Morimoto, D. Morrison, L. W. Mwibanda, C. -J. Naïm, J. L. Nagle, I. Nakagawa, A. Narde, C. E. Nattrass, D. Neff, S. Nelson, P. A. Nieto-Marín, R. Nouicer, G. Nukazuka, E. O'Brien, G. Odyniec, V. A. Okorokov, A. C. Oliveira da Silva, I. Omae, J. D. Osborn, G. J. Ottino, J. Park, A. Patton, H. Pereira Da Costa, D. V. Perepelitsa, M. Peters, S. Ping, C. Pinkenburg, R. Pisani, C. Platte, T. Protzman, M. L. Purschke, J. Putschke, R. J. Reed, S. Regmi, B. Rehman, E. Renner, D. Richford, C. Riedl, C. Roland, G. Roland, M. Rosati, A. Saed, T. Sakaguchi, H. Sako, S. Salur, J. Sandhu, M. Sarsour, S. Sato, B. Sayki, C. Scarlett, J. Schambach, M. Schernau, R. Seidl, B. D. Seidlitz, Y. Sekiguchi, M. Shahid, D. M. Shangase, Z. Shi, C. W. Shih, M. Shimomura, R. Shishikura, E. Shulga, A. Sickles, J. Singh, R. A. Soltz, W. Sondheim, P. Steinberg, D. Stewart, M. Stojanovic, S. Stoll, Y. Sugiyama, W. -C. Tang, S. Tarafdar, H. Tsujibata, E. Tuttle, E. N. Umaka, M. Vandenbroucke, J. Velkovska, V. Verkest, A. Vijayakumar, M. Watanabe, V. Wolfe, C. Woody, W. Xie, Z. Ye, K. Yip, Z. You, C. -J. Yu, X. Yu, X. Yu, W. A. Zajc, J. Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The differential cross section of isolated prompt photon production is measured as a function of photon transverse energy ($E_{\mathrm{T}}^γ$) in proton--proton ($p$+$p$) collisions at $\sqrt{s} = 200$ GeV. The data were recorded in $2024$ with the sPHENIX detector at the Relativistic Heavy Ion Collider. Photons are reconstructed in $|η^γ| &lt; 0.7$ and $12 &lt; E_{\mathrm{T}}^γ &lt; 32$ GeV using the electromagnetic calorimeter, and an isolation requirement is imposed using both the electromagnetic and hadronic calorimeters. The measured cross section is compared with the PYTHIA Monte Carlo event generator and perturbative quantum chromodynamics (pQCD) calculations at next-to-leading and next-to-next-to-leading order. The pQCD calculations are consistent with the result within the quoted uncertainties. This measurement provides a test of pQCD calculations for a process with sensitivity to the gluon parton distribution function of the proton and establishes the $p$+$p$ baseline for forthcoming sPHENIX measurements of isolated prompt photons in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 14:16:10 GMT</pubDate>
-      <guid isPermaLink="false">2607.03892v1</guid>
-      <dc:creator>sPHENIX Collaboration</dc:creator>
-      <dc:creator>M. I. Abdulhamid</dc:creator>
-      <dc:creator>U. Acharya</dc:creator>
-      <dc:creator>G. Adawi</dc:creator>
-      <dc:creator>I. Ahmed</dc:creator>
-      <dc:creator>C. A. Aidala</dc:creator>
-      <dc:creator>Y. Akiba</dc:creator>
-      <dc:creator>M. Alfred</dc:creator>
-      <dc:creator>A. Alsayegh</dc:creator>
-      <dc:creator>D. M. Anderson</dc:creator>
-      <dc:creator>V. V. Andrieux</dc:creator>
-      <dc:creator>A. Angerami</dc:creator>
-      <dc:creator>N. Applegate</dc:creator>
-      <dc:creator>M. U. Ashraf</dc:creator>
-      <dc:creator>B. Azmoun</dc:creator>
-      <dc:creator>V. R. Bailey</dc:creator>
-      <dc:creator>S. Bathe</dc:creator>
-      <dc:creator>A. Bazilevsky</dc:creator>
-      <dc:creator>R. Belmont</dc:creator>
-      <dc:creator>J. Bennett</dc:creator>
-      <dc:creator>J. C. Bernauer</dc:creator>
-      <dc:creator>J. Bertaux</dc:creator>
-      <dc:creator>H. Bossi</dc:creator>
-      <dc:creator>A. Brahma</dc:creator>
-      <dc:creator>J. W. Bryan</dc:creator>
-      <dc:creator>M. Chamizo-Llatas</dc:creator>
-      <dc:creator>S. B. Chauhan</dc:creator>
-      <dc:creator>D. Chen</dc:creator>
-      <dc:creator>J. Chen</dc:creator>
-      <dc:creator>C. -Y. Chi</dc:creator>
-      <dc:creator>M. Chiu</dc:creator>
-      <dc:creator>J. Clement</dc:creator>
-      <dc:creator>E. W. Cline</dc:creator>
-      <dc:creator>M. Connors</dc:creator>
-      <dc:creator>R. Corliss</dc:creator>
-      <dc:creator>Y. Corrales Morales</dc:creator>
-      <dc:creator>E. Croft</dc:creator>
-      <dc:creator>N. d'Hose</dc:creator>
-      <dc:creator>M. Daradkeh</dc:creator>
-      <dc:creator>S. J. Das</dc:creator>
-      <dc:creator>A. P. Dash</dc:creator>
-      <dc:creator>G. David</dc:creator>
-      <dc:creator>C. T. Dean</dc:creator>
-      <dc:creator>X. Dong</dc:creator>
-      <dc:creator>A. Drees</dc:creator>
-      <dc:creator>J. Driebeek</dc:creator>
-      <dc:creator>J. M. Durham</dc:creator>
-      <dc:creator>A. Enokizono</dc:creator>
-      <dc:creator>H. Enyo</dc:creator>
-      <dc:creator>R. Esha</dc:creator>
-      <dc:creator>B. Fadem</dc:creator>
-      <dc:creator>K. Finnelli</dc:creator>
-      <dc:creator>D. Firak</dc:creator>
-      <dc:creator>D. S. Fitzgerald</dc:creator>
-      <dc:creator>L. V. Flores-Sanchez</dc:creator>
-      <dc:creator>A. Francisco</dc:creator>
-      <dc:creator>J. Frantz</dc:creator>
-      <dc:creator>A. Frawley</dc:creator>
-      <dc:creator>M. Fujiwara</dc:creator>
-      <dc:creator>G. Garmire</dc:creator>
-      <dc:creator>Y. Go</dc:creator>
-      <dc:creator>I. Goel</dc:creator>
-      <dc:creator>Y. Goto</dc:creator>
-      <dc:creator>N. Grau</dc:creator>
-      <dc:creator>S. V. Greene</dc:creator>
-      <dc:creator>S. K. Grossberndt</dc:creator>
-      <dc:creator>T. Hachiya</dc:creator>
-      <dc:creator>J. S. Haggerty</dc:creator>
-      <dc:creator>D. A. Hangal</dc:creator>
-      <dc:creator>T. Harada</dc:creator>
-      <dc:creator>S. Hasegawa</dc:creator>
-      <dc:creator>M. Hata</dc:creator>
-      <dc:creator>W. He</dc:creator>
-      <dc:creator>X. He</dc:creator>
-      <dc:creator>T. Hemmick</dc:creator>
-      <dc:creator>A. Hodges</dc:creator>
-      <dc:creator>A. Holt</dc:creator>
-      <dc:creator>B. Hong</dc:creator>
-      <dc:creator>S. Howell</dc:creator>
-      <dc:creator>H. Z. Huang</dc:creator>
-      <dc:creator>J. Huang</dc:creator>
-      <dc:creator>C. Hughes</dc:creator>
-      <dc:creator>J. Hwang</dc:creator>
-      <dc:creator>M. Ikemoto</dc:creator>
-      <dc:creator>Y. Ishigaki</dc:creator>
-      <dc:creator>J. James</dc:creator>
-      <dc:creator>H. -R. Jheng</dc:creator>
-      <dc:creator>H. Jiang</dc:creator>
-      <dc:creator>M. Kano</dc:creator>
-      <dc:creator>L. Kasper</dc:creator>
-      <dc:creator>T. Kato</dc:creator>
-      <dc:creator>A. M. Khan</dc:creator>
-      <dc:creator>M. S. Khan</dc:creator>
-      <dc:creator>T. Kikuchi</dc:creator>
-      <dc:creator>B. Kimelman</dc:creator>
-      <dc:creator>A. G. Knospe</dc:creator>
-      <dc:creator>N. Kumar</dc:creator>
-      <dc:creator>R. Kunnawalkam Elayavalli</dc:creator>
-      <dc:creator>C. M. Kuo</dc:creator>
-      <dc:creator>J. Kvapil</dc:creator>
-      <dc:creator>J. Lajoie</dc:creator>
-      <dc:creator>A. Lebedev</dc:creator>
-      <dc:creator>S. Lee</dc:creator>
-      <dc:creator>L. Legnosky</dc:creator>
-      <dc:creator>S. Li</dc:creator>
-      <dc:creator>X. Li</dc:creator>
-      <dc:creator>S. Liechty</dc:creator>
-      <dc:creator>S. Lim</dc:creator>
-      <dc:creator>D. Lis</dc:creator>
-      <dc:creator>M. X. Liu</dc:creator>
-      <dc:creator>W. J. Llope</dc:creator>
-      <dc:creator>D. A. Loomis</dc:creator>
-      <dc:creator>R. -S. Lu</dc:creator>
-      <dc:creator>C. Ma</dc:creator>
-      <dc:creator>L. Ma</dc:creator>
-      <dc:creator>W. Ma</dc:creator>
-      <dc:creator>V. Mahaut</dc:creator>
-      <dc:creator>E. Mannel</dc:creator>
-      <dc:creator>T. R. Marshall</dc:creator>
-      <dc:creator>C. Martin</dc:creator>
-      <dc:creator>G. Mattson</dc:creator>
-      <dc:creator>C. McGinn</dc:creator>
-      <dc:creator>E. McLaughlin</dc:creator>
-      <dc:creator>T. Mengel</dc:creator>
-      <dc:creator>A. S. Menon</dc:creator>
-      <dc:creator>M. Meskowitz</dc:creator>
-      <dc:creator>A. Milov</dc:creator>
-      <dc:creator>I. Mitrankov</dc:creator>
-      <dc:creator>M. Mitrankova</dc:creator>
-      <dc:creator>N. Morimoto</dc:creator>
-      <dc:creator>D. Morrison</dc:creator>
-      <dc:creator>L. W. Mwibanda</dc:creator>
-      <dc:creator>C. -J. Naïm</dc:creator>
-      <dc:creator>J. L. Nagle</dc:creator>
-      <dc:creator>I. Nakagawa</dc:creator>
-      <dc:creator>A. Narde</dc:creator>
-      <dc:creator>C. E. Nattrass</dc:creator>
-      <dc:creator>D. Neff</dc:creator>
-      <dc:creator>S. Nelson</dc:creator>
-      <dc:creator>P. A. Nieto-Marín</dc:creator>
-      <dc:creator>R. Nouicer</dc:creator>
-      <dc:creator>G. Nukazuka</dc:creator>
-      <dc:creator>E. O'Brien</dc:creator>
-      <dc:creator>G. Odyniec</dc:creator>
-      <dc:creator>V. A. Okorokov</dc:creator>
-      <dc:creator>A. C. Oliveira da Silva</dc:creator>
-      <dc:creator>I. Omae</dc:creator>
-      <dc:creator>J. D. Osborn</dc:creator>
-      <dc:creator>G. J. Ottino</dc:creator>
-      <dc:creator>J. Park</dc:creator>
-      <dc:creator>A. Patton</dc:creator>
-      <dc:creator>H. Pereira Da Costa</dc:creator>
-      <dc:creator>D. V. Perepelitsa</dc:creator>
-      <dc:creator>M. Peters</dc:creator>
-      <dc:creator>S. Ping</dc:creator>
-      <dc:creator>C. Pinkenburg</dc:creator>
-      <dc:creator>R. Pisani</dc:creator>
-      <dc:creator>C. Platte</dc:creator>
-      <dc:creator>T. Protzman</dc:creator>
-      <dc:creator>M. L. Purschke</dc:creator>
-      <dc:creator>J. Putschke</dc:creator>
-      <dc:creator>R. J. Reed</dc:creator>
-      <dc:creator>S. Regmi</dc:creator>
-      <dc:creator>B. Rehman</dc:creator>
-      <dc:creator>E. Renner</dc:creator>
-      <dc:creator>D. Richford</dc:creator>
-      <dc:creator>C. Riedl</dc:creator>
-      <dc:creator>C. Roland</dc:creator>
-      <dc:creator>G. Roland</dc:creator>
-      <dc:creator>M. Rosati</dc:creator>
-      <dc:creator>A. Saed</dc:creator>
-      <dc:creator>T. Sakaguchi</dc:creator>
-      <dc:creator>H. Sako</dc:creator>
-      <dc:creator>S. Salur</dc:creator>
-      <dc:creator>J. Sandhu</dc:creator>
-      <dc:creator>M. Sarsour</dc:creator>
-      <dc:creator>S. Sato</dc:creator>
-      <dc:creator>B. Sayki</dc:creator>
-      <dc:creator>C. Scarlett</dc:creator>
-      <dc:creator>J. Schambach</dc:creator>
-      <dc:creator>M. Schernau</dc:creator>
-      <dc:creator>R. Seidl</dc:creator>
-      <dc:creator>B. D. Seidlitz</dc:creator>
-      <dc:creator>Y. Sekiguchi</dc:creator>
-      <dc:creator>M. Shahid</dc:creator>
-      <dc:creator>D. M. Shangase</dc:creator>
-      <dc:creator>Z. Shi</dc:creator>
-      <dc:creator>C. W. Shih</dc:creator>
-      <dc:creator>M. Shimomura</dc:creator>
-      <dc:creator>R. Shishikura</dc:creator>
-      <dc:creator>E. Shulga</dc:creator>
-      <dc:creator>A. Sickles</dc:creator>
-      <dc:creator>J. Singh</dc:creator>
-      <dc:creator>R. A. Soltz</dc:creator>
-      <dc:creator>W. Sondheim</dc:creator>
-      <dc:creator>P. Steinberg</dc:creator>
-      <dc:creator>D. Stewart</dc:creator>
-      <dc:creator>M. Stojanovic</dc:creator>
-      <dc:creator>S. Stoll</dc:creator>
-      <dc:creator>Y. Sugiyama</dc:creator>
-      <dc:creator>W. -C. Tang</dc:creator>
-      <dc:creator>S. Tarafdar</dc:creator>
-      <dc:creator>H. Tsujibata</dc:creator>
-      <dc:creator>E. Tuttle</dc:creator>
-      <dc:creator>E. N. Umaka</dc:creator>
-      <dc:creator>M. Vandenbroucke</dc:creator>
-      <dc:creator>J. Velkovska</dc:creator>
-      <dc:creator>V. Verkest</dc:creator>
-      <dc:creator>A. Vijayakumar</dc:creator>
-      <dc:creator>M. Watanabe</dc:creator>
-      <dc:creator>V. Wolfe</dc:creator>
-      <dc:creator>C. Woody</dc:creator>
-      <dc:creator>W. Xie</dc:creator>
-      <dc:creator>Z. Ye</dc:creator>
-      <dc:creator>K. Yip</dc:creator>
-      <dc:creator>Z. You</dc:creator>
-      <dc:creator>C. -J. Yu</dc:creator>
-      <dc:creator>X. Yu</dc:creator>
-      <dc:creator>X. Yu</dc:creator>
-      <dc:creator>W. A. Zajc</dc:creator>
-      <dc:creator>J. Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Studying baryon number transport dynamics via hyperon-kaon correlations in $p + \mathrm{Au}$ collisions at $\sqrt{s_{_{\rm NN}}}=20$, $39$ and $62$ GeV</title>
-      <link>http://arxiv.org/abs/2607.02867v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Siyuan Ping, Xiaozhou Yu, Long Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-07-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The observation of positive net hyperon baryon numbers at mid-rapidity in heavy-ion collisions indicates that baryon numbers from incident nucleons can be transported across a large rapidity gap to hyperons where strange quarks of $s-\bar{s}$ are pair-produced. Consequently, hyperons and kaons are expected to be correlated, providing a sensitive probe of both baryon number transport mechanism and strange quark pair correlation. Such correlation may be used to test the gluon-junction interaction mechanism where a $Y$-shaped gluonic field may carry the baryon number and be responsible for the baryon number transport to hyperons over a large rapidity gap. We present hyperon-kaon correlations as a function of their relative rapidity in $p + \mathrm{Au}$ collisions at $\sqrt{s_{NN}} = 20$, $39$, and $62$ GeV using a multiphase transport ($\texttt{AMPT}$) model and Ultra-relativistic Quantum Molecular Dynamics ($\texttt{UrQMD}$) models where hyperon-kaon pairs are originated from fragmentation scheme. We quantify the correlation function using the Wasserstein distance method and systematically investigate the correlation dependence on the beam energy, hyperon emission direction and detector acceptance. Our simulation results provide a baseline without the baryon junction mechanism for future experimental measurements.&lt;/p&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 02:12:57 GMT</pubDate>
-      <guid isPermaLink="false">2607.02867v1</guid>
-      <dc:creator>Siyuan Ping</dc:creator>
-      <dc:creator>Xiaozhou Yu</dc:creator>
-      <dc:creator>Long Ma</dc:creator>
     </item>
   </channel>
 </rss>
