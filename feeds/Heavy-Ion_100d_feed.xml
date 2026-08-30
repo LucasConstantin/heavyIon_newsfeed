@@ -5,9 +5,35 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:36:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Metallogenic quantum criticality: Fermi surface nucleation at transitions between gapped phases</title>
+      <link>http://arxiv.org/abs/2608.27453v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhengyan Darius Shi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.str-el&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Continuous quantum phase transitions in interacting many-body systems exhibit universal phenomena that are largely independent of microscopic details. An organizing principle distilled from canonical examples such as the magnetic transition in Ising models is that the low-energy physics of transitions between gapped phases is governed by scale-invariant quantum field theories with gapless degrees of freedom at isolated points in momentum space. In this paper, we show that this principle can fail in a radical way: an entire gapless Fermi surface can emerge at a quantum critical point separating two fully gapped insulators. These exotic phase transitions are dubbed \textit{metallogenic quantum critical points} (MGQCP). We construct a controlled family of effective field theories for MGQCPs between distinct fractional Chern insulators and propose a periodically modulated quantum Hall bilayer as a minimal microscopic setting. The critical theory exhibits an unusual mixture of physical signatures: while transport and compressibility follow scaling laws compatible with a conformal field theory, the electron spectral function develops a power-law non-analyticity at the Fermi momentum, characteristic of non-Fermi-liquid metals. We discuss how the concept of MGQCP may shed new light on critical phenomena in moire materials with tunable Chern bands. More generally, our results point to a broader class of quantum critical phenomena in which extended manifolds of gapless excitations emerge in momentum space despite being absent in both neighboring phases.&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 17:59:10 GMT</pubDate>
+      <guid isPermaLink="false">2608.27453v1</guid>
+      <dc:creator>Zhengyan Darius Shi</dc:creator>
+    </item>
+    <item>
+      <title>Quantum Chaos and Quantum Optimal Transport</title>
+      <link>http://arxiv.org/abs/2608.27350v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jordan Cotler, Felipe Hernández&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Chaos in classical systems can be characterized by Lyapunov exponents that measure the exponential divergence of nearby trajectories, but directly extending this framework to quantum mechanics has been a persistent challenge. The wavelike nature of quantum states and the non-commutative geometry of quantum phase space obstruct a straightforward generalization of classical chaos theory. Here we develop a rigorous approach to quantum chaos by leveraging quantum optimal transport theory, which provides the missing geometric foundation for measuring distances between extended quantum distributions. We define quantum Lyapunov exponents that naturally avoid divergences encountered when naïvely generalizing classical exponents, and show that in the semiclassical limit they recover the classical global expansion rate, and hence the usual maximal Lyapunov exponent when they coincide. Our framework provides a tight connection between the divergence of classical trajectories and semiclassical phase space evolution, and additionally clarifies the role of out-of-time-order correlators as diagnostics of quantum chaos. These results establish quantum optimal transport as a unifying mathematical foundation for quantum chaos theory, providing new tools to characterize dynamical behavior across the full range of quantum dynamics from simple few-body models to complex many-body systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 16:48:02 GMT</pubDate>
+      <guid isPermaLink="false">2608.27350v1</guid>
+      <dc:creator>Jordan Cotler</dc:creator>
+      <dc:creator>Felipe Hernández</dc:creator>
+    </item>
+    <item>
+      <title>Chiral soliton lattice in inhomogeneous magnetic fields</title>
+      <link>http://arxiv.org/abs/2608.27319v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tomas Brauner, Ramkumar Radhakrishnan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It has been known that in sufficiently strong uniform magnetic fields, the ground state of quantum chromodynamics (QCD) supports a spatially modulated condensate of neutral pions, dubbed chiral soliton lattice (CSL). In this paper, we investigate whether a similar ordered ground state might exist when the external magnetic field is nonuniform, as appropriate for potential phenomenological applications, including heavy-ion collisions and neutron stars. To that end, we use the low-energy effective field theory of QCD, restricted to the neutral pions as the sole low-energy degrees of freedom in strong magnetic fields. In the limit of vanishing pion mass, we achieve a complete characterization of magnetic fields supporting a CSL-like ground state. Moreover, for a simple but infinite family of magnetic fields, we find the corresponding CSL state analytically. Going away from the massless limit requires full numerical minimization of the energy functional. Here we provide some sample numerical results, focusing on the qualitative differences as compared to the situations with a uniform magnetic field or a vanishing pion mass. The main conclusion remains unchanged: while bending the magnetic field typically reduces the energy gain due to the neutral pion condensation, a CSL-type ground state is still possible. As a byproduct of our work, we map the location of the CSL phase in the phase diagram of QCD in a uniform magnetic field and finite volume.&lt;/p&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 16:19:58 GMT</pubDate>
+      <guid isPermaLink="false">2608.27319v1</guid>
+      <dc:creator>Tomas Brauner</dc:creator>
+      <dc:creator>Ramkumar Radhakrishnan</dc:creator>
+    </item>
     <item>
       <title>Jet Quenching Meets Gluon Saturation</title>
       <link>http://arxiv.org/abs/2608.25983v1</link>
@@ -598,16 +624,6 @@
       <dc:creator>I. A. Zhavoronkova</dc:creator>
       <dc:creator>A. V. Taranenko</dc:creator>
       <dc:creator>Yu. B. Ivanov</dc:creator>
-    </item>
-    <item>
-      <title>Local Spin Polarization in Anisotropic Gubser Flow: Suppression Mechanism and Formulation Dependence</title>
-      <link>http://arxiv.org/abs/2608.03945v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kenji Fukushima, Shi Pu, Dong-Lin Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We analytically study the longitudinal spin polarization in relativistic heavy-ion collisions using a perturbed Gubser flow solution. In the large-system-size limit, we derive analytical expression of the local spin polarization along the beam direction. In our treatment, the contributions from thermal vorticity and thermal shear are of comparable magnitudes. The thermal vorticity yields the polarization with a sign opposite to that observed experimentally, while the thermal shear counteracts this effect, helping recover the desired sign. We find that the choice of the reference unit vector aligned with the fluid velocity gives the experimentally observed sign only at low transverse momenta, whereas another formulation with the unit vector fixed along the laboratory time direction yields the desired sign for a wide range of transverse momenta. Notably, a recent formulation with the unit vector normal to the freeze-out hypersurface exhibits an exact cancellation between contributions from thermal vorticity and thermal shear at leading order in the large-system-size limit. We identify a general cancellation pattern with acceleration dominance, which is manifest particularly in the latter two formulations. Thus, the total polarization originates from non-acceleration effects, which need not be substantial even when the elliptic flow is finite, as clearly demonstrated in our analytical results. For comparison, we also discuss the spin polarization in the Hubble flow with rotation.&lt;/p&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 17:11:50 GMT</pubDate>
-      <guid isPermaLink="false">2608.03945v1</guid>
-      <dc:creator>Kenji Fukushima</dc:creator>
-      <dc:creator>Shi Pu</dc:creator>
-      <dc:creator>Dong-Lin Wang</dc:creator>
     </item>
     <item>
       <title>Measurement of forward jet suppression in Pb+Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$$ TeV with the ATLAS detector</title>
