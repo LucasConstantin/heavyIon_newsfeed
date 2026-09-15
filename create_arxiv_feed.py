@@ -5,7 +5,9 @@
 import argparse
 import datetime
 import json
+import random
 import re
+import time
 from pathlib import Path
 from xml.dom import minidom
 from xml.etree.ElementTree import Element, SubElement, tostring
@@ -256,6 +258,23 @@ def parse_biorxiv_posted_date(posted):
   return None
 
 
+def fetch_arxiv_results(client, search, max_attempts=8, base_delay_seconds=20.0, max_delay_seconds=300.0):
+  """
+  Wraps client.results() with its own retry/backoff loop, since arXiv's API
+  occasionally rate-limits (HTTP 429) shared IPs like GitHub Actions runners
+  for longer than the arxiv package's built-in retries can absorb.
+  """
+  for attempt in range(1, max_attempts + 1):
+    try:
+      return list(client.results(search))
+    except (arxiv.HTTPError, arxiv.UnexpectedEmptyPageError) as err:
+      if attempt == max_attempts:
+        raise
+      delay = min(base_delay_seconds * (2 ** (attempt - 1)), max_delay_seconds) + random.uniform(0, 5)
+      print(f"  arXiv request failed ({err}); retrying in {delay:.1f}s (attempt {attempt}/{max_attempts})")
+      time.sleep(delay)
+
+
 def search_arxiv(config, lookback_days, max_results):
   categories = config.get("list_categories", [])
   include_groups = config.get("list_keywords_include", [])
@@ -267,10 +286,10 @@ def search_arxiv(config, lookback_days, max_results):
   print(f"> to:   {date_to}")
   print()
 
-  client = arxiv.Client()
+  client = arxiv.Client(delay_seconds=5.0, num_retries=5)
   article_by_id = {}
 
-  for category in categories:
+  for index, category in enumerate(categories):
     query = build_arxiv_query(category, date_from, date_to)
     print(f"Searching category: {category}")
     search = arxiv.Search(
@@ -280,7 +299,10 @@ def search_arxiv(config, lookback_days, max_results):
       sort_order=arxiv.SortOrder.Descending,
     )
 
-    for result in client.results(search):
+    if index > 0:
+      time.sleep(3.0)
+
+    for result in fetch_arxiv_results(client, search):
       joined_text = f"{result.title}\n{result.summary}"
       if not text_matches_keywords(joined_text, include_groups, exclude_terms):
         continue
