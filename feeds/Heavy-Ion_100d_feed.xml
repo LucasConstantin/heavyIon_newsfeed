@@ -5,9 +5,61 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 02:58:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts</title>
+      <link>http://arxiv.org/abs/2609.20813v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hanyu Xue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.str-el&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Generalized symmetries and topological excitations, as well as symmetry anomalies and the statistics of topological excitations, are widely believed to be related. There are, however, pitfalls in how this relation is established. A lattice truncation of a symmetry transformation to a finite patch gives a symmetry patch operator that creates symmetry defects at its boundary. This geometric picture resembles a hopping operator creating topological excitations at the boundary of its support, but does not provide well-defined statistics, let alone guarantee agreement with the symmetry anomaly. A more natural and robust relation is that the hopping operators of topological excitations are symmetric: they commute with symmetry transformations. Under suitable assumptions, this condition yields a one-to-one correspondence between statistics and anomalies. We further couple boundary matter to a DW gauge field in one higher dimension to explain this relation from the perspective of gauging. A hopping operator is, in essence, a gauge-invariant operator acting on the physical degrees of freedom after gauging. Once the gauge-field background is fixed, global symmetry comes from gauge transformations that preserve that background, while the symmetric condition on hopping is precisely the remaining gauge invariance. This distinction clarifies potential misconceptions in the literature and provides a more reliable framework for comparing symmetries and topological excitations.&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:59:05 GMT</pubDate>
+      <guid isPermaLink="false">2609.20813v1</guid>
+      <dc:creator>Hanyu Xue</dc:creator>
+    </item>
+    <item>
+      <title>Adiabatic hydrodynamization with transverse spatial gradients in boost-invariant plasmas</title>
+      <link>http://arxiv.org/abs/2609.20705v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Uri Sharell, Jasmine Brewer, Weiyao Ke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The quantitative success of relativistic viscous hydrodynamics in describing the short-lived quark--gluon plasma raises a fundamental question: how does far-from-equilibrium QCD matter approach hydrodynamic behavior so rapidly? Microscopic kinetic-theory studies have related this onset to attractor dynamics, but typically assume transverse homogeneity. We relax this assumption by introducing gradient modes with finite transverse wave number $k$, extending the analysis of arXiv:2212.00820. These couple different spherical harmonics of the momentum distribution, and the resulting dynamics is controlled by the competition among the expansion rate $1/τ$, the collision rate $1/τ_R$, and the gradient scale $k$. At early times, longitudinal expansion suppresses this coupling, and different spherical harmonic sectors follow their homogeneous attractors. We find that, at later times and sufficiently small $k$, this gradient coupling drives the system toward a global attractor manifold spanned by hydrodynamic sound and shear modes, on a timescale $τ_D$ that depends on both the azimuthal harmonic $m$ and $kτ_R$. For sufficiently large $kτ_R$, the spectral gap closes: perturbations retain finite damping rates and therefore equilibrate, but no longer follow an isolated hydrodynamic attractor or admit a reduced description involving only a few hydrodynamic modes.&lt;/p&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 17:05:16 GMT</pubDate>
+      <guid isPermaLink="false">2609.20705v1</guid>
+      <dc:creator>Uri Sharell</dc:creator>
+      <dc:creator>Jasmine Brewer</dc:creator>
+      <dc:creator>Weiyao Ke</dc:creator>
+    </item>
+    <item>
+      <title>Long-Lived False-vacuum-Trapped Self-Bound Neutron-rich Droplets</title>
+      <link>http://arxiv.org/abs/2609.19433v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jingdong Shao, Mei Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose a novel class of anomalous nuclear matter: self-bound, neutron-rich droplets trapped in false vacuum associated with the nuclear liquid-gas phase transition in heavy-ion collisions. During the early stage of the fireball expansion, strongly correlated local clusters dynamically decouple from the bulk medium and are excited into the liquid phase. As the ambient fireball cools rapidly, these clusters are quenched into metastable anomalous droplets with isospin asymmetry from ambient neutron-enrichment. Mechanical equilibrium among nuclear pressure difference, Coulomb repulsion, and surface tension stabilizes droplets at radii of order $\mathcal{O}(10)$ fm. Isospin asymmetry induces high potential barrier that suppresses decay channels, yielding long lifetimes. These droplets are expected to exhibit characteristic charge-to-mass ratios distinct from conventional neutron-rich nuclei, providing clear experimental signatures for future heavy-ion collision searches.&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 21:13:39 GMT</pubDate>
+      <guid isPermaLink="false">2609.19433v1</guid>
+      <dc:creator>Jingdong Shao</dc:creator>
+      <dc:creator>Mei Huang</dc:creator>
+    </item>
+    <item>
+      <title>From Nuclear Many-Body Correlations to Energy Detector Correlators</title>
+      <link>http://arxiv.org/abs/2609.18754v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Giuliano Giacalone&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic nuclear collisions have opened an experimental arena for studying many-body correlations in nuclear ground states. However, the connection between initial-state correlations and final-state multi-particle observables measured at colliders is not yet formulated as a systematically improvable matching problem. We show that detector correlators built from asymptotic energy flows provide a natural framework for realizing such a construction. In particular, we express the asymptotic energy flow as a functional of the early-time stress tensor, and expand it in suitable modes to recover the familiar linear hydrodynamic relations at leading order. Then, motivated by small-$x$ QCD, we map angular projections of detector correlators to multipole-operator correlators computed in the colliding nuclei. We thus establish a systematic formalism for matching long-wavelength correlations between incoming and outgoing QCD states in high-energy hadronic collisions.&lt;/p&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 14:44:19 GMT</pubDate>
+      <guid isPermaLink="false">2609.18754v1</guid>
+      <dc:creator>João Barata</dc:creator>
+      <dc:creator>Giuliano Giacalone</dc:creator>
+    </item>
+    <item>
+      <title>Matter Swapping between Two Branes: A Local Type IIB D3-D7-D3 Realization of Charged-Fermion Mixing via E3 Instantons</title>
+      <link>http://arxiv.org/abs/2609.17858v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Michaël Sarrazin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Effective infrared two-sheeted descriptions of fermion mixing between braneworlds have emerged in several distinct realizations and lead to testable matter-swapping effects, motivating low-energy searches and cosmological applications. The recurrence of the same low-energy fermion operator motivates asking whether this structure can also arise from a D-brane mechanism. We construct a local Type IIB D3$_+$-D7-D3$_-$/E3 realization in which direct interbrane mixing is perturbatively forbidden but generated non-perturbatively by a suitable E3 instanton sector. The resulting low-energy interaction reproduces the characteristic pseudoscalar structure of the two-sheeted fermion operator, together with its scalar companion, while D7 Wilson transport provides the required gauge-invariant relative connection. The construction therefore provides a local string realization of the same operator structure, subject to the stated instanton and zero-mode conditions. The analysis further provides a concrete model-building roadmap toward a compact phenomenological realization: the compactification must achieve electromagnetic sequestering of the two fermion sectors and support a sufficiently light non-uniform D7 gauge mode capable of mediating a long-range relative interaction. In such a complete compactification, the mixing parameter $g$ would in principle become computable from microscopic string data and directly testable against low-energy constraints.&lt;/p&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 21:32:04 GMT</pubDate>
+      <guid isPermaLink="false">2609.17858v1</guid>
+      <dc:creator>Michaël Sarrazin</dc:creator>
+    </item>
+    <item>
+      <title>Constraining the $f_0(980)$ Structure and Formation Dynamics via Anisotropy-Response Scaling</title>
+      <link>http://arxiv.org/abs/2609.17765v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Roy A. Lacey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A species-resolved anisotropy-response scaling framework is used to investigate the structure and formation dynamics of the $f_0(980)$ in relativistic nuclear collisions. Published measurements in high-multiplicity p+Pb collisions at $\sqrt{s_{NN}}=8.16$~TeV exhibit broad scaling closure under a single-meson response construction, with a small effective final-state response, $ζ_{f_0}\simeq0.04$, whereas a symmetric ${\rm K\bar K}$ constituent-response construction gives substantially poorer closure. An explicitly molecular ${\rm K\bar K}$ calculation also exhibits single-meson-like scaling but gives a substantially larger effective final-state response, $ζ_{f_0}\simeq0.16$. Thus, single-meson scaling alone is not a unique structural discriminator. The combined response construction and $ζ_{f_0}$ constraints characterize the measured $f_0(980)$ by a single-meson-like anisotropy response with weak final-state sensitivity, distinctly different from the molecular benchmark. These results establish anisotropy-response scaling as a new experimental probe of $f_0(980)$ formation dynamics and motivate systematic tests across collision systems and beam energies.&lt;/p&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 19:13:44 GMT</pubDate>
+      <guid isPermaLink="false">2609.17765v1</guid>
+      <dc:creator>Roy A. Lacey</dc:creator>
+    </item>
     <item>
       <title>Rotational Brownian Motion and $\mathrm{J/ψ}$ Spin Alignment in Heavy-Ion Collisions</title>
       <link>http://arxiv.org/abs/2609.17486v1</link>
@@ -208,18 +260,6 @@
       <dc:creator>Vipul Bairathi</dc:creator>
     </item>
     <item>
-      <title>Massless-Massive Amplitude Correspondence III: Massive Amplitude Bases in the SMEFT</title>
-      <link>http://arxiv.org/abs/2609.11767v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Han Ni, Hao Sun, Yi-Ning Wang, Chao Wu, Jiang-Hao Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a systematic correspondence between massless contact amplitudes in an unbroken theory and massive contact amplitudes after spontaneous symmetry breaking. Our construction employs the spin-transversality (ST) massive amplitude basis, with the systematic high energy expansion through minimal-helicity-chirality (MHC) amplitudes. The resulting $U(2)=SU(2)\times U(1)_t$ description of a massive particle makes the semi-standard Young-tableau construction of massless Lorentz structures directly applicable to massive amplitudes. When the leading-order MHC component has a massless contact limit, it is one-to-one matched directly to its UV amplitude. Otherwise, five exceptional classes of ST amplitudes are identified, their first non-zero descendant components are matched through conserved current couplings to the massless contact amplitude. We apply the framework to the one-flavor electroweak sector of the Standard Model Effective Field Theory (SMEFT) through dimension eight, obtaining explicit relations between unbroken-phase Wilson coefficients and broken-phase ST amplitude coefficients for amplitudes with three to eight external particles.&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 16:21:45 GMT</pubDate>
-      <guid isPermaLink="false">2609.11767v1</guid>
-      <dc:creator>Yu-Han Ni</dc:creator>
-      <dc:creator>Hao Sun</dc:creator>
-      <dc:creator>Yi-Ning Wang</dc:creator>
-      <dc:creator>Chao Wu</dc:creator>
-      <dc:creator>Jiang-Hao Yu</dc:creator>
-    </item>
-    <item>
       <title>Collinear fragmentation of pseudoscalar quarkonia from NLO NRQCD</title>
       <link>http://arxiv.org/abs/2609.11604v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francesco Giovanni Celiberto, Francesca Lonigro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We discuss a new family of publicly available collinear fragmentation functions (FFs) for pseudoscalar quarkonia, the NRFF1.0 set. It builds upon the Heavy-Flavor Non-Relativistic evolution (HF-NRevo) scheme, designed to describe heavy-hadron formation through leading-power fragmentation at moderate and large transverse momentum. Heavy-quarkonium production naturally involves both perturbative and non-perturbative QCD dynamics, from the production of the heavy $Q\bar{Q}$ pair to its formation into a physical bound state. Within NRFF1.0, Non-Relativistic Quantum Chromodynamics (NRQCD) provides the theoretical framework for calculating the FF inputs at the initial scale, which are subsequently evolved through the HF-NRevo scheme. This setup provides a precision baseline for investigating the underlying partonic hierarchy and jet structure across the moderate- to high-transverse-momentum regime. The explicit treatment of partonic channels and heavy-flavor thresholds makes this framework particularly suitable for exploring quarkonium-in-jet fragmentation, jet-quenching sensitivity, energy-loss mechanisms, and the emergence of medium-modified fragmentation patterns in the quark-gluon plasma.&lt;/p&gt;</description>
@@ -302,15 +342,6 @@
       <dc:creator>Daniel Pablos</dc:creator>
       <dc:creator>Krishna Rajagopal</dc:creator>
       <dc:creator>Xiaojun Yao</dc:creator>
-    </item>
-    <item>
-      <title>The Dark Dimension and Majorana Neutrinos</title>
-      <link>http://arxiv.org/abs/2609.10668v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arturo de Giorgi, Dhruv Pasari&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent developments in the Swampland program motivate the existence of a mesoscopic Dark Dimension of size $0.1-10~μ$m with bulk Majorana fermions in the $1-10$ keV range. Motivated by this, we derive terrestrial constraints on Majorana bulk neutrinos as a function of the compactification radius. After determining the mass spectrum and mixing structure, we confront the model with Daya Bay neutrino-oscillation data, the KATRIN beta-decay bound, and the KamLAND-Zen neutrinoless double beta decay limit. For the latter, we obtain a closed-form expression for the effective Majorana mass and show that the Kaluza-Klein tower efficiently screens neutrinoless double beta decay when the nuclear momentum exceeds the compactification and Majorana scales. In the Dark-Dimension window, beta decay provides the strongest constraint, pushing the allowed Yukawa couplings down to $\mathcal{O}(10^{-3})$. Oscillation and neutrinoless double beta decay searches remain complementary, probing smaller and larger Majorana masses, respectively. For completeness, outside the Dark-Dimension assumptions, we investigate how hierarchical Majorana masses can weaken the constraints.&lt;/p&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2609.10668v1</guid>
-      <dc:creator>Arturo de Giorgi</dc:creator>
-      <dc:creator>Dhruv Pasari</dc:creator>
     </item>
     <item>
       <title>Hydrodynamic attractors</title>
@@ -1860,65 +1891,12 @@ The results demonstrate that the correlation function is sensitive to the $pΛ_c
       <dc:creator>Aleksas Mazeliauskas</dc:creator>
     </item>
     <item>
-      <title>Hadronic rescattering effects on net-proton cumulants from functional renormalization group calculations</title>
-      <link>http://arxiv.org/abs/2608.28299v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qianru Lin, Shi Yin, Jianing Li, Hannah Elfner, Fabian Rennecke, Long-Gang Pang, Jan M. Pawlowski&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Net-proton cumulants in the Beam Energy Scan region of heavy-ion collisions are widely used to probe critical fluctuations associated with the conjectured critical endpoint of Quantum Chromodynamics (QCD). Most existing studies, however, concentrate on the initial-state or phase-transition contributions, while the impact of hadronic rescattering on these observables has not been fully quantified. To address this gap, we construct event-by-event proton and antiproton distributions from functional renormalization group (fRG) cumulants using the maximum entropy principle, and propagate the resulting particles through the hadronic transport model SMASH in a simplified spherical evolution setup. We systematically investigate how the hadronic cascade modifies net-proton cumulants at collision energies $\sqrt{s_{NN}}=3.0$, 3.9, 4.9, 7.2, and 7.7~GeV. In the canonical-ensemble framework, which enforces exact net-baryon number conservation, the higher-order cumulant signal---in particular the ratio $C_4/C_2$ at $\sqrt{s_{NN}}=4.9$~GeV---is strongly reduced during the early stage of the cascade; the suppression of $C_4/C_2$ reaches approximately $20\%$. The non-monotonic energy dependence inherited from the fRG input survives the hadronic evolution, but its magnitude is substantially modified. These results demonstrate that hadronic rescattering provides a non-negligible background effect that must be accounted for when extracting QCD critical-point signals from experimental data.&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 13:03:04 GMT</pubDate>
-      <guid isPermaLink="false">2608.28299v1</guid>
-      <dc:creator>Qianru Lin</dc:creator>
-      <dc:creator>Shi Yin</dc:creator>
-      <dc:creator>Jianing Li</dc:creator>
-      <dc:creator>Hannah Elfner</dc:creator>
-      <dc:creator>Fabian Rennecke</dc:creator>
-      <dc:creator>Long-Gang Pang</dc:creator>
-      <dc:creator>Jan M. Pawlowski</dc:creator>
-    </item>
-    <item>
       <title>The role of strangeness and baryon enhancement in heavy-quark hadronisation from pp to Pb$-$Pb collisions with ALICE</title>
       <link>http://arxiv.org/abs/2608.28297v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fabrizio Chinu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this contribution, a combined study of charm-meson and charm-baryon production with ALICE is presented. The $Λ_{\mathrm{c}}^{+}/\mathrm{D^{0}}$ ratio in pp collisions at $\sqrt{s} = 13.6$ TeV and the first measurement of the nuclear modification factor of $Ξ_{\mathrm{c}}^{0}$ baryons in Pb$-$Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.02$ TeV are reported. Furthermore, measurements of the $\mathrm{D_s^+/D^+}$ production ratio from low-multiplicity pp collisions at $\sqrt{s} = 13.6$ TeV to Pb$-$Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.36$ TeV are presented. Lastly, the first measurement of the $p_\mathrm{T}$-differential $\mathrm{D_{s1}(2536)^+/D_s^+}$ yield ratio is shown.&lt;/p&gt;</description>
       <pubDate>Fri, 28 Aug 2026 13:00:49 GMT</pubDate>
       <guid isPermaLink="false">2608.28297v1</guid>
       <dc:creator>Fabrizio Chinu</dc:creator>
-    </item>
-    <item>
-      <title>Color screening versus thermal decay as the mechanism of $Υ$ suppression in high energy nuclear collisions</title>
-      <link>http://arxiv.org/abs/2608.28277v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yida Yang, Baoyi Chen, Jiaxing Zhao, Pengfei Zhuang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;To clearly identify the mechanism behind the suppression of heavy quarkonium in relativistic heavy-ion collisions, we study $Υ$ production at RHIC energies by solving its transport equation driven solely by the suppression rates. By calculating the nuclear modification factor and comparing it with experimental data, we find that the sudden suppression governed by the color-screening temperature cannot simultaneously describe both the ground and excited states of the $Υ$, whereas the continuous suppression induced by thermal decay successfully reproduces all the $Υ$ measurements. This provides strong evidence that inelastic scatterings with thermal partons, rather than color screening, dominate quarkonium suppression in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 12:41:52 GMT</pubDate>
-      <guid isPermaLink="false">2608.28277v1</guid>
-      <dc:creator>Yida Yang</dc:creator>
-      <dc:creator>Baoyi Chen</dc:creator>
-      <dc:creator>Jiaxing Zhao</dc:creator>
-      <dc:creator>Pengfei Zhuang</dc:creator>
-    </item>
-    <item>
-      <title>System-size dependence of strangeness production from p+p to Pb+Pb: quantitative tests of the $K^+/π^+$ horn</title>
-      <link>http://arxiv.org/abs/2608.28189v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Neeraj, Amal Sarkar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The pronounced maximum (&quot;horn&quot;) in the $K^+/π^+$ excitation function observed in central Pb+Pb collisions is well established feature of collision-energy dependence, but its dependence on system size remains poorly understood. We confront hadronic (SMASH) and partonic (PHSD) transport, Glauber core-corona, canonical-ensemble suppression, and the two-phase statistical model of the early stage (SMES) with $K^+/π^+$ data spanning the complete NA61/SHINE system-size ladder (p+p, Be+Be, Ar+Sc, Xe+La) together with NA49 Pb+Pb and STAR Au+Au, quantifying every comparison by $χ^2$. No single framework describes the full range: core-corona is preferred for intermediate systems, SMES with canonical strangeness conservation for heavy systems, and none reproduces the small-system data. Neither transport model generates the horn, with or without partonic degrees of freedom. The data exhibit a step-like enhancement of $K^+/π^+$ between Be+Be and Ar+Sc, quantified within the core-corona framework by a step from $\fcore \approx 0.22$ (Be+Be) to $\fcore \approx 0.58$ (Ar+Sc). The strangeness saturation factor $\gs$ rises in two distinct steps, separating geometric core formation from thermodynamic equilibration. The $(K^+/π^+)/(K^-/π^-)$ double ratio, which at fixed $\sqrts$ cancels the system-independent $μ_B$ contribution, shows a step between light and heavy systems at a global significance of $3.7σ$, providing evidence for genuine strangeness enhancement beyond the pair-production baseline. Preliminary Xe+La data favor core-corona ($\chindf = 5.8$) over SMASH ($\chindf = 23.3$); finalized spectra will sharpen the CC/SMES discrimination at the $27\%$ level.&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 11:03:00 GMT</pubDate>
-      <guid isPermaLink="false">2608.28189v1</guid>
-      <dc:creator>Neeraj</dc:creator>
-      <dc:creator>Amal Sarkar</dc:creator>
-    </item>
-    <item>
-      <title>Constraining Light and Strange Flavor Equilibration in Relativistic Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2608.27687v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Andrew Gordeev&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy-ion collisions are the only known means of creating the quark-gluon plasma, a deconfined state of QCD matter. Hydrodynamic modeling has established that this medium behaves as a strongly coupled, low-viscosity fluid, but typically assumes that its quark and gluon composition reaches chemical equilibrium by the onset of the hydrodynamic phase. This assumption remains uncertain: gluon-dominated initial states suggest that quark production continues well into the hydrodynamic stage, with potentially different rates for light and strange quarks.
-  This dissertation develops a dynamical framework for light and strange quark chemical equilibration. Incomplete equilibration of each flavor is described through time-dependent quark fugacities that modify both the equation of state and the particlization of the medium. Implemented within a multistage framework of fluctuating initial conditions, viscous hydrodynamics, particlization, and hadronic transport, the model is used to study the effects of equilibration on the hydrodynamic evolution and on hadronic and electromagnetic observables.
-  The framework is embedded within a Bayesian analysis in which Gaussian process emulators trained on the model calculations infer the initial light and strange quark fugacities, their equilibration timescales, and selected transport coefficients from Au+Au collision data at RHIC. The strange sector is found to begin substantially undersaturated, more suppressed than the light sector; the data further favor a slower approach to equilibrium for strangeness, though the timescales themselves remain weakly constrained. These results favor a quark-gluon plasma whose flavor composition is still approaching chemical equilibrium during the hydrodynamic phase rather than fixed at its outset, and motivate extensions to collision systems of differing size and energy.&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 20:23:28 GMT</pubDate>
-      <guid isPermaLink="false">2608.27687v1</guid>
-      <dc:creator>Andrew Gordeev</dc:creator>
-    </item>
-    <item>
-      <title>Chiral soliton lattice in inhomogeneous magnetic fields</title>
-      <link>http://arxiv.org/abs/2608.27319v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tomas Brauner, Ramkumar Radhakrishnan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;It has been known that in sufficiently strong uniform magnetic fields, the ground state of quantum chromodynamics (QCD) supports a spatially modulated condensate of neutral pions, dubbed chiral soliton lattice (CSL). In this paper, we investigate whether a similar ordered ground state might exist when the external magnetic field is nonuniform, as appropriate for potential phenomenological applications, including heavy-ion collisions and neutron stars. To that end, we use the low-energy effective field theory of QCD, restricted to the neutral pions as the sole low-energy degrees of freedom in strong magnetic fields. In the limit of vanishing pion mass, we achieve a complete characterization of magnetic fields supporting a CSL-like ground state. Moreover, for a simple but infinite family of magnetic fields, we find the corresponding CSL state analytically. Going away from the massless limit requires full numerical minimization of the energy functional. Here we provide some sample numerical results, focusing on the qualitative differences as compared to the situations with a uniform magnetic field or a vanishing pion mass. The main conclusion remains unchanged: while bending the magnetic field typically reduces the energy gain due to the neutral pion condensation, a CSL-type ground state is still possible. As a byproduct of our work, we map the location of the CSL phase in the phase diagram of QCD in a uniform magnetic field and finite volume.&lt;/p&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 16:19:58 GMT</pubDate>
-      <guid isPermaLink="false">2608.27319v1</guid>
-      <dc:creator>Tomas Brauner</dc:creator>
-      <dc:creator>Ramkumar Radhakrishnan</dc:creator>
     </item>
     <item>
       <title>STAR Highlights II: Study of Small Systems and the Search for New, Exotic Physics</title>
@@ -2148,459 +2126,6 @@ The results demonstrate that the correlation function is sensitive to the $pΛ_c
       <dc:creator>I. A. Zhavoronkova</dc:creator>
       <dc:creator>A. V. Taranenko</dc:creator>
       <dc:creator>Yu. B. Ivanov</dc:creator>
-    </item>
-    <item>
-      <title>Measurement of forward jet suppression in Pb+Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.02$$ TeV with the ATLAS detector</title>
-      <link>http://arxiv.org/abs/2608.03261v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ATLAS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Inclusive jet production is measured with the ATLAS detector at the LHC at $\sqrt{s_{\mathrm{NN}}}=5.02$ TeV in Pb+Pb and $pp$ collisions, using data samples corresponding to integrated luminosities of 1.72 nb$^{-1}$ and 255 pb$^{-1}$, respectively. The jet nuclear modification factor, $R_{\mathrm{AA}}$, is reported for anti-$k_t$ jets with radius parameter $R=0.4$ in the forward-rapidity intervals $2.8&lt;|y|&lt;3.2$ and $3.2&lt;|y|&lt;3.6$, probing transverse momenta $p_\mathrm{T}&gt;74$ GeV. The observed $R_{\mathrm{AA}}$ values show a significant suppression of jet yields in Pb+Pb collisions relative to those measured in $pp$ collisions. The suppression increases monotonically from peripheral to central collisions and exhibits a mild jet $p_\mathrm{T}$ dependence. A comparison with previous ATLAS measurements indicates stronger jet suppression in the $2.8&lt;|y|&lt;3.2$ region than in the $|y| &lt; 2.8$ region. In the $3.2&lt;|y|&lt;3.6$ region, the precision of the measurement does not allow a conclusive comparison with the $|y|&lt;2.8$ region. These results constitute the first measurement of inclusive jet suppression at forward rapidity in heavy-ion collisions and provide new constraints on flavor, geometric, and medium-density dependence of parton energy loss.&lt;/p&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 07:34:46 GMT</pubDate>
-      <guid isPermaLink="false">2608.03261v1</guid>
-      <dc:creator>ATLAS Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Strangeness production in light-ion collisions with ALICE at the LHC</title>
-      <link>http://arxiv.org/abs/2608.02874v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sara Pucillo for the ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Measurements in pp and p--A collisions have revealed that small collision systems exhibit most of the signs traditionally attributed to heavy-ion collisions, such as the smooth increase of the strange hadron yields with the collision multiplicity (strangeness enhancement). A key question is how these effects evolve with system size and whether they can be described within a unified framework.
-  The recently collected oxygen--oxygen (OO) collision data by ALICE at $\sqrt{s}$ = 5.36 TeV provide an unprecedented opportunity to explore an intermediate-size system that naturally bridges the gap between pp and Pb--Pb collisions. In this contribution, we present the first results on the production of (multi-)strange particles as a function of charged-particle multiplicity in OO collisions. This allows us to investigate strangeness enhancement across different system sizes at comparable multiplicities, providing new insights into the mechanisms of strangeness production. The experimental results are compared with model predictions from various Monte Carlo generators.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 20:54:12 GMT</pubDate>
-      <guid isPermaLink="false">2608.02874v1</guid>
-      <dc:creator>Sara Pucillo for the ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Elliptic flow of $π^0$ mesons in Cu$+$Au collisions at $\sqrt{s_{_{NN}}}=200$ GeV and U$+$U at $\sqrt{s_{_{NN}}}=193$ GeV</title>
-      <link>http://arxiv.org/abs/2608.02787v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; PHENIX Collaboration, N. J. Abdulameer, U. Acharya, C. Aidala, N. N. Ajitanand, Y. Akiba, R. Akimoto, J. Alexander, D. Anderson, S. Antsupov, K. Aoki, N. Apadula, H. Asano, E. T. Atomssa, T. C. Awes, B. Azmoun, V. Babintsev, M. Bai, X. Bai, B. Bannier, E. Bannikov, K. N. Barish, S. Bathe, V. Baublis, C. Baumann, S. Baumgart, A. Bazilevsky, M. Beaumier, R. Belmont, A. Berdnikov, Y. Berdnikov, L. Bichon, D. Black, B. Blankenship, D. S. Blau, J. S. Bok, V. Borisov, K. Boyle, M. L. Brooks, J. Bryslawskyj, H. Buesching, V. Bumazhnov, S. Butsyk, S. Campbell, P. Chaitanya, C. -H. Chen, D. Chen, M. Chiu, C. Y. Chi, I. J. Choi, J. B. Choi, S. Choi, P. Christiansen, T. Chujo, V. Cianciolo, B. A. Cole, M. Connors, R. Corliss, N. Cronin, N. Crossette, M. Csanád, T. Csörgő, L. D'Orazio, A. Datta, M. S. Daugherity, G. David, K. Dehmelt, A. Denisov, A. Deshpande, E. J. Desmond, L. Ding, V. Doomra, J. H. Do, O. Drapier, A. Drees, K. A. Drees, J. M. Durham, A. Durum, T. Engelmore, A. Enokizono, R. Esha, K. O. Eyser, B. Fadem, D. E. Fields, M. Finger, M. Finger, D. Firak, D. Fitzgerald, F. Fleuret, S. L. Fokin, J. E. Frantz, A. Franz, A. D. Frawley, Y. Fukao, T. Fusayasu, K. Gainey, C. Gal, P. Garg, A. Garishvili, I. Garishvili, F. Giordano, A. Glenn, X. Gong, M. Gonin, Y. Goto, R. Granier de Cassagnac, N. Grau, S. V. Greene, M. Grosse Perdekamp, T. Gunji, T. Guo, H. Guragain, Y. Gu, J. S. Haggerty, K. I. Hahn, H. Hamagaki, J. Hanks, K. Hashimoto, R. Hayano, T. K. Hemmick, T. Hester, X. He, J. C. Hill, A. Hodges, R. S. Hollis, K. Homma, B. Hong, T. Hoshino, J. Huang, T. Ichihara, Y. Ikeda, K. Imai, Y. Imazu, M. Inaba, A. Iordanova, D. Isenhower, A. Isinhue, D. Ivanishchev, B. V. Jacak, S. J. Jeon, M. Jezghani, X. Jiang, Z. Ji, B. M. Johnson, K. S. Joo, D. Jouan, D. S. Jumper, J. Kamin, S. Kanda, B. H. Kang, J. H. Kang, J. S. Kang, J. Kapustinsky, G. Kasza, D. Kawall, A. V. Kazantsev, J. A. Key, V. Khachatryan, P. K. Khandai, A. Khanzadeev, K. M. Kijima, C. Kim, D. J. Kim, E. -J. Kim, Y. -J. Kim, Y. K. Kim, E. Kistenev, J. Klatsky, D. Kleinjan, P. Kline, T. Koblesky, M. Kofarago, B. Komkov, J. Koster, D. Kotchetkov, D. Kotov, L. Kovacs, F. Krizek, K. Kurita, M. Kurosawa, Y. Kwon, Y. S. Lai, J. G. Lajoie, A. Lebedev, D. M. Lee, G. H. Lee, J. Lee, K. B. Lee, K. S. Lee, S. H. Lee, M. J. Leitch, M. Leitgab, B. Lewis, X. Li, X. Li, S. H. Lim, M. X. Liu, D. A. Loomis, D. Lynch, S. Lökös, C. F. Maguire, Y. I. Makdisi, M. Makek, A. Manion, V. I. Manko, E. Mannel, M. McCumber, P. L. McGaughey, D. McGlinchey, C. McKinney, A. Meles, M. Mendoza, B. Meredith, Y. Miake, T. Mibe, A. C. Mignerey, A. Milov, D. K. Mishra, J. T. Mitchell, M. Mitrankova, Iu. Mitrankov, S. Miyasaka, S. Mizuno, A. K. Mohanty, S. Mohapatra, D. P. Morrison, M. Moskowitz, T. V. Moukhanova, B. Mulilo, T. Murakami, J. Murata, A. Mwai, T. Nagae, S. Nagamiya, J. L. Nagle, M. I. Nagy, I. Nakagawa, Y. Nakamiya, K. R. Nakamura, T. Nakamura, K. Nakano, C. Nattrass, P. K. Netrakanti, M. Nihashi, T. Niida, R. Nouicer, N. Novitzky, T. Novák, G. Nukazuka, A. S. Nyanin, E. O'Brien, C. A. Ogilvie, H. Oide, K. Okada, M. Orosz, A. Oskarsson, K. Ozawa, R. Pak, V. Pantuev, V. Papavassiliou, I. H. Park, J. S. Park, S. Park, S. K. Park, L. Patel, S. F. Pate, J. -C. Peng, D. V. Perepelitsa, G. D. N. Perera, D. Yu. Peressounko, J. Perry, R. Petti, C. Pinkenburg, R. P. Pisani, M. Potekhin, M. L. Purschke, H. Qu, J. Rak, I. Ravinovich, K. F. Read, D. Reynolds, V. Riabov, Y. Riabov, E. Richardson, D. Richford, N. Riveli, D. Roach, S. D. Rolnick, M. Rosati, M. S. Ryu, B. Sahlmueller, N. Saito, T. Sakaguchi, H. Sako, V. Samsonov, M. Sarsour, S. Sato, S. Sawada, K. Sedgwick, J. Seele, R. Seidl, Y. Sekiguchi, A. Seleznev, A. Sen, R. Seto, P. Sett, D. Sharma, A. Shaver, I. Shein, T. -A. Shibata, K. Shigaki, M. Shimomura, K. Shoji, P. Shukla, A. Sickles, C. L. Silva, D. Silvermyr, B. K. Singh, C. P. Singh, V. Singh, M. Skolnik, M. Slunečka, K. L. Smith, S. Solano, R. A. Soltz, W. E. Sondheim, S. P. Sorensen, I. V. Sourikova, P. W. Stankus, P. Steinberg, E. Stenlund, M. Stepanov, A. Ster, S. P. Stoll, M. R. Stone, T. Sugitate, A. Sukhanov, J. Sun, Z. Sun, A. Takahara, A. Taketani, Y. Tanaka, K. Tanida, M. J. Tannenbaum, S. Tarafdar, A. Taranenko, E. Tennant, A. Timilsina, T. Todoroki, M. Tomášek, H. Torii, R. S. Towell, I. Tserruya, B. Ujvari, H. W. van Hecke, M. Vargyas, E. Vazquez-Zambrano, A. Veicht, J. Velkovska, M. Virius, V. Vrba, E. Vznuzdaev, R. Vértesi, X. R. Wang, D. Watanabe, K. Watanabe, Y. Watanabe, Y. S. Watanabe, F. Wei, S. Whitaker, S. Wolin, C. L. Woody, M. Wysocki, B. Xia, Y. L. Yamaguchi, A. Yanovich, S. Yokkaichi, I. Yoon, I. Younus, Z. You, I. E. Yushmanov, W. A. Zajc, A. Zelenski, S. Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The second-order azimuthal anisotropy coefficients ($v_2$) of neutral $π$ mesons ($π^0$) have been measured as a function of the transverse momentum ($p_T$) and centrality of Cu$+$Au collisions at $\sqrt{s_{_{NN}}}=200$~GeV and U$+$U at $\sqrt{s_{_{NN}}}=193$ GeV at the Relativistic Heavy Ion Collider. The analysis used experimental data collected by the PHENIX experiment at midrapidity $|η|&lt;0.35$ over a broad $p_T$ range up to $\approx10$~GeV/$c$, and the obtained results are compared with previous PHENIX measurements in Au$+$Au collisions at $\sqrt{s_{_{NN}}}=200$~GeV. In all three collision systems, the $π^0$~$v_2$ values follow the scaling with the second-order participant eccentricity and the cube root of the number of participating nucleons ($\varepsilon_2 N_{\rm part}^{1/3}$) up to $\approx4$~GeV/$c$. Furthermore, the behavior of the azimuthal-dependent $π^0$ nuclear-modification factors and associated fractional parton-energy losses are evaluated from measured nonzero $v_2$ values of $π^0$ at $p_T&gt;5$ GeV/$c$ and found to be approximately the same for similar values of $N_{\rm part}^{1/3}$ in these collision systems. These findings demonstrate that the mechanism of $π^0$ $v_2$ generation exhibits a high degree of universality across different initial geometries of heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 18:40:54 GMT</pubDate>
-      <guid isPermaLink="false">2608.02787v1</guid>
-      <dc:creator>PHENIX Collaboration</dc:creator>
-      <dc:creator>N. J. Abdulameer</dc:creator>
-      <dc:creator>U. Acharya</dc:creator>
-      <dc:creator>C. Aidala</dc:creator>
-      <dc:creator>N. N. Ajitanand</dc:creator>
-      <dc:creator>Y. Akiba</dc:creator>
-      <dc:creator>R. Akimoto</dc:creator>
-      <dc:creator>J. Alexander</dc:creator>
-      <dc:creator>D. Anderson</dc:creator>
-      <dc:creator>S. Antsupov</dc:creator>
-      <dc:creator>K. Aoki</dc:creator>
-      <dc:creator>N. Apadula</dc:creator>
-      <dc:creator>H. Asano</dc:creator>
-      <dc:creator>E. T. Atomssa</dc:creator>
-      <dc:creator>T. C. Awes</dc:creator>
-      <dc:creator>B. Azmoun</dc:creator>
-      <dc:creator>V. Babintsev</dc:creator>
-      <dc:creator>M. Bai</dc:creator>
-      <dc:creator>X. Bai</dc:creator>
-      <dc:creator>B. Bannier</dc:creator>
-      <dc:creator>E. Bannikov</dc:creator>
-      <dc:creator>K. N. Barish</dc:creator>
-      <dc:creator>S. Bathe</dc:creator>
-      <dc:creator>V. Baublis</dc:creator>
-      <dc:creator>C. Baumann</dc:creator>
-      <dc:creator>S. Baumgart</dc:creator>
-      <dc:creator>A. Bazilevsky</dc:creator>
-      <dc:creator>M. Beaumier</dc:creator>
-      <dc:creator>R. Belmont</dc:creator>
-      <dc:creator>A. Berdnikov</dc:creator>
-      <dc:creator>Y. Berdnikov</dc:creator>
-      <dc:creator>L. Bichon</dc:creator>
-      <dc:creator>D. Black</dc:creator>
-      <dc:creator>B. Blankenship</dc:creator>
-      <dc:creator>D. S. Blau</dc:creator>
-      <dc:creator>J. S. Bok</dc:creator>
-      <dc:creator>V. Borisov</dc:creator>
-      <dc:creator>K. Boyle</dc:creator>
-      <dc:creator>M. L. Brooks</dc:creator>
-      <dc:creator>J. Bryslawskyj</dc:creator>
-      <dc:creator>H. Buesching</dc:creator>
-      <dc:creator>V. Bumazhnov</dc:creator>
-      <dc:creator>S. Butsyk</dc:creator>
-      <dc:creator>S. Campbell</dc:creator>
-      <dc:creator>P. Chaitanya</dc:creator>
-      <dc:creator>C. -H. Chen</dc:creator>
-      <dc:creator>D. Chen</dc:creator>
-      <dc:creator>M. Chiu</dc:creator>
-      <dc:creator>C. Y. Chi</dc:creator>
-      <dc:creator>I. J. Choi</dc:creator>
-      <dc:creator>J. B. Choi</dc:creator>
-      <dc:creator>S. Choi</dc:creator>
-      <dc:creator>P. Christiansen</dc:creator>
-      <dc:creator>T. Chujo</dc:creator>
-      <dc:creator>V. Cianciolo</dc:creator>
-      <dc:creator>B. A. Cole</dc:creator>
-      <dc:creator>M. Connors</dc:creator>
-      <dc:creator>R. Corliss</dc:creator>
-      <dc:creator>N. Cronin</dc:creator>
-      <dc:creator>N. Crossette</dc:creator>
-      <dc:creator>M. Csanád</dc:creator>
-      <dc:creator>T. Csörgő</dc:creator>
-      <dc:creator>L. D'Orazio</dc:creator>
-      <dc:creator>A. Datta</dc:creator>
-      <dc:creator>M. S. Daugherity</dc:creator>
-      <dc:creator>G. David</dc:creator>
-      <dc:creator>K. Dehmelt</dc:creator>
-      <dc:creator>A. Denisov</dc:creator>
-      <dc:creator>A. Deshpande</dc:creator>
-      <dc:creator>E. J. Desmond</dc:creator>
-      <dc:creator>L. Ding</dc:creator>
-      <dc:creator>V. Doomra</dc:creator>
-      <dc:creator>J. H. Do</dc:creator>
-      <dc:creator>O. Drapier</dc:creator>
-      <dc:creator>A. Drees</dc:creator>
-      <dc:creator>K. A. Drees</dc:creator>
-      <dc:creator>J. M. Durham</dc:creator>
-      <dc:creator>A. Durum</dc:creator>
-      <dc:creator>T. Engelmore</dc:creator>
-      <dc:creator>A. Enokizono</dc:creator>
-      <dc:creator>R. Esha</dc:creator>
-      <dc:creator>K. O. Eyser</dc:creator>
-      <dc:creator>B. Fadem</dc:creator>
-      <dc:creator>D. E. Fields</dc:creator>
-      <dc:creator>M. Finger</dc:creator>
-      <dc:creator>M. Finger</dc:creator>
-      <dc:creator>D. Firak</dc:creator>
-      <dc:creator>D. Fitzgerald</dc:creator>
-      <dc:creator>F. Fleuret</dc:creator>
-      <dc:creator>S. L. Fokin</dc:creator>
-      <dc:creator>J. E. Frantz</dc:creator>
-      <dc:creator>A. Franz</dc:creator>
-      <dc:creator>A. D. Frawley</dc:creator>
-      <dc:creator>Y. Fukao</dc:creator>
-      <dc:creator>T. Fusayasu</dc:creator>
-      <dc:creator>K. Gainey</dc:creator>
-      <dc:creator>C. Gal</dc:creator>
-      <dc:creator>P. Garg</dc:creator>
-      <dc:creator>A. Garishvili</dc:creator>
-      <dc:creator>I. Garishvili</dc:creator>
-      <dc:creator>F. Giordano</dc:creator>
-      <dc:creator>A. Glenn</dc:creator>
-      <dc:creator>X. Gong</dc:creator>
-      <dc:creator>M. Gonin</dc:creator>
-      <dc:creator>Y. Goto</dc:creator>
-      <dc:creator>R. Granier de Cassagnac</dc:creator>
-      <dc:creator>N. Grau</dc:creator>
-      <dc:creator>S. V. Greene</dc:creator>
-      <dc:creator>M. Grosse Perdekamp</dc:creator>
-      <dc:creator>T. Gunji</dc:creator>
-      <dc:creator>T. Guo</dc:creator>
-      <dc:creator>H. Guragain</dc:creator>
-      <dc:creator>Y. Gu</dc:creator>
-      <dc:creator>J. S. Haggerty</dc:creator>
-      <dc:creator>K. I. Hahn</dc:creator>
-      <dc:creator>H. Hamagaki</dc:creator>
-      <dc:creator>J. Hanks</dc:creator>
-      <dc:creator>K. Hashimoto</dc:creator>
-      <dc:creator>R. Hayano</dc:creator>
-      <dc:creator>T. K. Hemmick</dc:creator>
-      <dc:creator>T. Hester</dc:creator>
-      <dc:creator>X. He</dc:creator>
-      <dc:creator>J. C. Hill</dc:creator>
-      <dc:creator>A. Hodges</dc:creator>
-      <dc:creator>R. S. Hollis</dc:creator>
-      <dc:creator>K. Homma</dc:creator>
-      <dc:creator>B. Hong</dc:creator>
-      <dc:creator>T. Hoshino</dc:creator>
-      <dc:creator>J. Huang</dc:creator>
-      <dc:creator>T. Ichihara</dc:creator>
-      <dc:creator>Y. Ikeda</dc:creator>
-      <dc:creator>K. Imai</dc:creator>
-      <dc:creator>Y. Imazu</dc:creator>
-      <dc:creator>M. Inaba</dc:creator>
-      <dc:creator>A. Iordanova</dc:creator>
-      <dc:creator>D. Isenhower</dc:creator>
-      <dc:creator>A. Isinhue</dc:creator>
-      <dc:creator>D. Ivanishchev</dc:creator>
-      <dc:creator>B. V. Jacak</dc:creator>
-      <dc:creator>S. J. Jeon</dc:creator>
-      <dc:creator>M. Jezghani</dc:creator>
-      <dc:creator>X. Jiang</dc:creator>
-      <dc:creator>Z. Ji</dc:creator>
-      <dc:creator>B. M. Johnson</dc:creator>
-      <dc:creator>K. S. Joo</dc:creator>
-      <dc:creator>D. Jouan</dc:creator>
-      <dc:creator>D. S. Jumper</dc:creator>
-      <dc:creator>J. Kamin</dc:creator>
-      <dc:creator>S. Kanda</dc:creator>
-      <dc:creator>B. H. Kang</dc:creator>
-      <dc:creator>J. H. Kang</dc:creator>
-      <dc:creator>J. S. Kang</dc:creator>
-      <dc:creator>J. Kapustinsky</dc:creator>
-      <dc:creator>G. Kasza</dc:creator>
-      <dc:creator>D. Kawall</dc:creator>
-      <dc:creator>A. V. Kazantsev</dc:creator>
-      <dc:creator>J. A. Key</dc:creator>
-      <dc:creator>V. Khachatryan</dc:creator>
-      <dc:creator>P. K. Khandai</dc:creator>
-      <dc:creator>A. Khanzadeev</dc:creator>
-      <dc:creator>K. M. Kijima</dc:creator>
-      <dc:creator>C. Kim</dc:creator>
-      <dc:creator>D. J. Kim</dc:creator>
-      <dc:creator>E. -J. Kim</dc:creator>
-      <dc:creator>Y. -J. Kim</dc:creator>
-      <dc:creator>Y. K. Kim</dc:creator>
-      <dc:creator>E. Kistenev</dc:creator>
-      <dc:creator>J. Klatsky</dc:creator>
-      <dc:creator>D. Kleinjan</dc:creator>
-      <dc:creator>P. Kline</dc:creator>
-      <dc:creator>T. Koblesky</dc:creator>
-      <dc:creator>M. Kofarago</dc:creator>
-      <dc:creator>B. Komkov</dc:creator>
-      <dc:creator>J. Koster</dc:creator>
-      <dc:creator>D. Kotchetkov</dc:creator>
-      <dc:creator>D. Kotov</dc:creator>
-      <dc:creator>L. Kovacs</dc:creator>
-      <dc:creator>F. Krizek</dc:creator>
-      <dc:creator>K. Kurita</dc:creator>
-      <dc:creator>M. Kurosawa</dc:creator>
-      <dc:creator>Y. Kwon</dc:creator>
-      <dc:creator>Y. S. Lai</dc:creator>
-      <dc:creator>J. G. Lajoie</dc:creator>
-      <dc:creator>A. Lebedev</dc:creator>
-      <dc:creator>D. M. Lee</dc:creator>
-      <dc:creator>G. H. Lee</dc:creator>
-      <dc:creator>J. Lee</dc:creator>
-      <dc:creator>K. B. Lee</dc:creator>
-      <dc:creator>K. S. Lee</dc:creator>
-      <dc:creator>S. H. Lee</dc:creator>
-      <dc:creator>M. J. Leitch</dc:creator>
-      <dc:creator>M. Leitgab</dc:creator>
-      <dc:creator>B. Lewis</dc:creator>
-      <dc:creator>X. Li</dc:creator>
-      <dc:creator>X. Li</dc:creator>
-      <dc:creator>S. H. Lim</dc:creator>
-      <dc:creator>M. X. Liu</dc:creator>
-      <dc:creator>D. A. Loomis</dc:creator>
-      <dc:creator>D. Lynch</dc:creator>
-      <dc:creator>S. Lökös</dc:creator>
-      <dc:creator>C. F. Maguire</dc:creator>
-      <dc:creator>Y. I. Makdisi</dc:creator>
-      <dc:creator>M. Makek</dc:creator>
-      <dc:creator>A. Manion</dc:creator>
-      <dc:creator>V. I. Manko</dc:creator>
-      <dc:creator>E. Mannel</dc:creator>
-      <dc:creator>M. McCumber</dc:creator>
-      <dc:creator>P. L. McGaughey</dc:creator>
-      <dc:creator>D. McGlinchey</dc:creator>
-      <dc:creator>C. McKinney</dc:creator>
-      <dc:creator>A. Meles</dc:creator>
-      <dc:creator>M. Mendoza</dc:creator>
-      <dc:creator>B. Meredith</dc:creator>
-      <dc:creator>Y. Miake</dc:creator>
-      <dc:creator>T. Mibe</dc:creator>
-      <dc:creator>A. C. Mignerey</dc:creator>
-      <dc:creator>A. Milov</dc:creator>
-      <dc:creator>D. K. Mishra</dc:creator>
-      <dc:creator>J. T. Mitchell</dc:creator>
-      <dc:creator>M. Mitrankova</dc:creator>
-      <dc:creator>Iu. Mitrankov</dc:creator>
-      <dc:creator>S. Miyasaka</dc:creator>
-      <dc:creator>S. Mizuno</dc:creator>
-      <dc:creator>A. K. Mohanty</dc:creator>
-      <dc:creator>S. Mohapatra</dc:creator>
-      <dc:creator>D. P. Morrison</dc:creator>
-      <dc:creator>M. Moskowitz</dc:creator>
-      <dc:creator>T. V. Moukhanova</dc:creator>
-      <dc:creator>B. Mulilo</dc:creator>
-      <dc:creator>T. Murakami</dc:creator>
-      <dc:creator>J. Murata</dc:creator>
-      <dc:creator>A. Mwai</dc:creator>
-      <dc:creator>T. Nagae</dc:creator>
-      <dc:creator>S. Nagamiya</dc:creator>
-      <dc:creator>J. L. Nagle</dc:creator>
-      <dc:creator>M. I. Nagy</dc:creator>
-      <dc:creator>I. Nakagawa</dc:creator>
-      <dc:creator>Y. Nakamiya</dc:creator>
-      <dc:creator>K. R. Nakamura</dc:creator>
-      <dc:creator>T. Nakamura</dc:creator>
-      <dc:creator>K. Nakano</dc:creator>
-      <dc:creator>C. Nattrass</dc:creator>
-      <dc:creator>P. K. Netrakanti</dc:creator>
-      <dc:creator>M. Nihashi</dc:creator>
-      <dc:creator>T. Niida</dc:creator>
-      <dc:creator>R. Nouicer</dc:creator>
-      <dc:creator>N. Novitzky</dc:creator>
-      <dc:creator>T. Novák</dc:creator>
-      <dc:creator>G. Nukazuka</dc:creator>
-      <dc:creator>A. S. Nyanin</dc:creator>
-      <dc:creator>E. O'Brien</dc:creator>
-      <dc:creator>C. A. Ogilvie</dc:creator>
-      <dc:creator>H. Oide</dc:creator>
-      <dc:creator>K. Okada</dc:creator>
-      <dc:creator>M. Orosz</dc:creator>
-      <dc:creator>A. Oskarsson</dc:creator>
-      <dc:creator>K. Ozawa</dc:creator>
-      <dc:creator>R. Pak</dc:creator>
-      <dc:creator>V. Pantuev</dc:creator>
-      <dc:creator>V. Papavassiliou</dc:creator>
-      <dc:creator>I. H. Park</dc:creator>
-      <dc:creator>J. S. Park</dc:creator>
-      <dc:creator>S. Park</dc:creator>
-      <dc:creator>S. K. Park</dc:creator>
-      <dc:creator>L. Patel</dc:creator>
-      <dc:creator>S. F. Pate</dc:creator>
-      <dc:creator>J. -C. Peng</dc:creator>
-      <dc:creator>D. V. Perepelitsa</dc:creator>
-      <dc:creator>G. D. N. Perera</dc:creator>
-      <dc:creator>D. Yu. Peressounko</dc:creator>
-      <dc:creator>J. Perry</dc:creator>
-      <dc:creator>R. Petti</dc:creator>
-      <dc:creator>C. Pinkenburg</dc:creator>
-      <dc:creator>R. P. Pisani</dc:creator>
-      <dc:creator>M. Potekhin</dc:creator>
-      <dc:creator>M. L. Purschke</dc:creator>
-      <dc:creator>H. Qu</dc:creator>
-      <dc:creator>J. Rak</dc:creator>
-      <dc:creator>I. Ravinovich</dc:creator>
-      <dc:creator>K. F. Read</dc:creator>
-      <dc:creator>D. Reynolds</dc:creator>
-      <dc:creator>V. Riabov</dc:creator>
-      <dc:creator>Y. Riabov</dc:creator>
-      <dc:creator>E. Richardson</dc:creator>
-      <dc:creator>D. Richford</dc:creator>
-      <dc:creator>N. Riveli</dc:creator>
-      <dc:creator>D. Roach</dc:creator>
-      <dc:creator>S. D. Rolnick</dc:creator>
-      <dc:creator>M. Rosati</dc:creator>
-      <dc:creator>M. S. Ryu</dc:creator>
-      <dc:creator>B. Sahlmueller</dc:creator>
-      <dc:creator>N. Saito</dc:creator>
-      <dc:creator>T. Sakaguchi</dc:creator>
-      <dc:creator>H. Sako</dc:creator>
-      <dc:creator>V. Samsonov</dc:creator>
-      <dc:creator>M. Sarsour</dc:creator>
-      <dc:creator>S. Sato</dc:creator>
-      <dc:creator>S. Sawada</dc:creator>
-      <dc:creator>K. Sedgwick</dc:creator>
-      <dc:creator>J. Seele</dc:creator>
-      <dc:creator>R. Seidl</dc:creator>
-      <dc:creator>Y. Sekiguchi</dc:creator>
-      <dc:creator>A. Seleznev</dc:creator>
-      <dc:creator>A. Sen</dc:creator>
-      <dc:creator>R. Seto</dc:creator>
-      <dc:creator>P. Sett</dc:creator>
-      <dc:creator>D. Sharma</dc:creator>
-      <dc:creator>A. Shaver</dc:creator>
-      <dc:creator>I. Shein</dc:creator>
-      <dc:creator>T. -A. Shibata</dc:creator>
-      <dc:creator>K. Shigaki</dc:creator>
-      <dc:creator>M. Shimomura</dc:creator>
-      <dc:creator>K. Shoji</dc:creator>
-      <dc:creator>P. Shukla</dc:creator>
-      <dc:creator>A. Sickles</dc:creator>
-      <dc:creator>C. L. Silva</dc:creator>
-      <dc:creator>D. Silvermyr</dc:creator>
-      <dc:creator>B. K. Singh</dc:creator>
-      <dc:creator>C. P. Singh</dc:creator>
-      <dc:creator>V. Singh</dc:creator>
-      <dc:creator>M. Skolnik</dc:creator>
-      <dc:creator>M. Slunečka</dc:creator>
-      <dc:creator>K. L. Smith</dc:creator>
-      <dc:creator>S. Solano</dc:creator>
-      <dc:creator>R. A. Soltz</dc:creator>
-      <dc:creator>W. E. Sondheim</dc:creator>
-      <dc:creator>S. P. Sorensen</dc:creator>
-      <dc:creator>I. V. Sourikova</dc:creator>
-      <dc:creator>P. W. Stankus</dc:creator>
-      <dc:creator>P. Steinberg</dc:creator>
-      <dc:creator>E. Stenlund</dc:creator>
-      <dc:creator>M. Stepanov</dc:creator>
-      <dc:creator>A. Ster</dc:creator>
-      <dc:creator>S. P. Stoll</dc:creator>
-      <dc:creator>M. R. Stone</dc:creator>
-      <dc:creator>T. Sugitate</dc:creator>
-      <dc:creator>A. Sukhanov</dc:creator>
-      <dc:creator>J. Sun</dc:creator>
-      <dc:creator>Z. Sun</dc:creator>
-      <dc:creator>A. Takahara</dc:creator>
-      <dc:creator>A. Taketani</dc:creator>
-      <dc:creator>Y. Tanaka</dc:creator>
-      <dc:creator>K. Tanida</dc:creator>
-      <dc:creator>M. J. Tannenbaum</dc:creator>
-      <dc:creator>S. Tarafdar</dc:creator>
-      <dc:creator>A. Taranenko</dc:creator>
-      <dc:creator>E. Tennant</dc:creator>
-      <dc:creator>A. Timilsina</dc:creator>
-      <dc:creator>T. Todoroki</dc:creator>
-      <dc:creator>M. Tomášek</dc:creator>
-      <dc:creator>H. Torii</dc:creator>
-      <dc:creator>R. S. Towell</dc:creator>
-      <dc:creator>I. Tserruya</dc:creator>
-      <dc:creator>B. Ujvari</dc:creator>
-      <dc:creator>H. W. van Hecke</dc:creator>
-      <dc:creator>M. Vargyas</dc:creator>
-      <dc:creator>E. Vazquez-Zambrano</dc:creator>
-      <dc:creator>A. Veicht</dc:creator>
-      <dc:creator>J. Velkovska</dc:creator>
-      <dc:creator>M. Virius</dc:creator>
-      <dc:creator>V. Vrba</dc:creator>
-      <dc:creator>E. Vznuzdaev</dc:creator>
-      <dc:creator>R. Vértesi</dc:creator>
-      <dc:creator>X. R. Wang</dc:creator>
-      <dc:creator>D. Watanabe</dc:creator>
-      <dc:creator>K. Watanabe</dc:creator>
-      <dc:creator>Y. Watanabe</dc:creator>
-      <dc:creator>Y. S. Watanabe</dc:creator>
-      <dc:creator>F. Wei</dc:creator>
-      <dc:creator>S. Whitaker</dc:creator>
-      <dc:creator>S. Wolin</dc:creator>
-      <dc:creator>C. L. Woody</dc:creator>
-      <dc:creator>M. Wysocki</dc:creator>
-      <dc:creator>B. Xia</dc:creator>
-      <dc:creator>Y. L. Yamaguchi</dc:creator>
-      <dc:creator>A. Yanovich</dc:creator>
-      <dc:creator>S. Yokkaichi</dc:creator>
-      <dc:creator>I. Yoon</dc:creator>
-      <dc:creator>I. Younus</dc:creator>
-      <dc:creator>Z. You</dc:creator>
-      <dc:creator>I. E. Yushmanov</dc:creator>
-      <dc:creator>W. A. Zajc</dc:creator>
-      <dc:creator>A. Zelenski</dc:creator>
-      <dc:creator>S. Zhou</dc:creator>
-    </item>
-    <item>
-      <title>Effects of light-cluster degrees of freedom on collective flows in heavy-ion collisions at FOPI energies</title>
-      <link>http://arxiv.org/abs/2608.02383v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xin Li, Si-Pei Wang, Rui Wang, Zhen Zhang, Jie Pu, Chun-Wang Ma, Lie-Wen Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Within a lattice Boltzmann-Uehling-Uhlenbeck transport model coupled to a kinetic approach for light-cluster formation, we investigate the impact of explicit light-cluster degrees of freedom on collective flows in Au+Au collisions at FOPI energies with beam energies $E_{\rm beam}$= $120$--$1500 A$ MeV by using a density-, momentum-, and isospin-dependent N$5$LO Skyrme pseudopotential. We first benchmark the kinetic approach by comparing the calculated light-cluster yields with FOPI data in central Au+Au collisions. We then analyze the collective flows of protons and light nuclei (deuterons, tritons, $^{3}\mathrm{He}$, and $^{4}\mathrm{He}$) in mid-central collisions. For protons, calculations with and without dynamical light-cluster degrees of freedom are compared to quantify the influence of dynamical cluster formation on proton directed ($v_1$), elliptic ($v_2$), triangular ($v_3$), and quadrangular ($v_4$) flows. We find that the dynamical light-cluster effect appreciably modifies proton $v_1$--$v_4$ flows at $E_{\rm beam}=120$--$150 A$ MeV, remains visible at $E_{\rm beam}=250$--$400 A$ MeV, and gradually weakens at $E_{\rm beam}\gtrsim 600 A$ MeV. For light nuclei, the kinetic approach captures the overall beam-energy dependence of the FOPI flow data, with better agreement for $E_{\rm beam}\geq 400 A$ MeV. We further examine the nucleon-number scaling of $v_2/A$ in both model calculations and experimental data, finding that the kinetic light-cluster formation approach qualitatively reproduces the observed scaling behavior. These results highlight the importance of a dynamical treatment of light-cluster formation for interpreting collective flows in heavy-ion collisions below about $600 A$ MeV, although the clustering effects on proton flows are minor at higher collision energies.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 15:26:50 GMT</pubDate>
-      <guid isPermaLink="false">2608.02383v1</guid>
-      <dc:creator>Xin Li</dc:creator>
-      <dc:creator>Si-Pei Wang</dc:creator>
-      <dc:creator>Rui Wang</dc:creator>
-      <dc:creator>Zhen Zhang</dc:creator>
-      <dc:creator>Jie Pu</dc:creator>
-      <dc:creator>Chun-Wang Ma</dc:creator>
-      <dc:creator>Lie-Wen Chen</dc:creator>
-    </item>
-    <item>
-      <title>Charm-quark collectivity from small to large systems with ALICE</title>
-      <link>http://arxiv.org/abs/2608.02161v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marcello Di Costanzo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In these proceedings, the elliptic flow ($v_2$) measurement of prompt charm hadrons in lead-lead (Pb-Pb) and oxygen-oxygen (OO) collisions at $\sqrt{s_{\mathrm{NN}}} = 5.36$ TeV, using the data collected during LHC Run 3 by the ALICE detector, is presented. The analysis is performed at midrapidity ($|y| &lt; 0.8$) and hadronic decay channels are used to reconstruct the signal candidates. The $v_2$ coefficient is measured via the Scalar Product (SP) technique. The $v_2$ of prompt D$^0$, D$^+$, D$_\text{s}^+$ mesons, and $Λ_{\text{c}}^+$ baryons in semicentral Pb-Pb collisions is reported. These results achieve unprecedented precision and low-$p_{\text{T}}$ reach for the D mesons and highlight the first observation of the splitting of baryon and meson elliptic flow at intermediate $p_{\text{T}}$ in the charm sector. The prompt D-meson $v_2$ is also measured in peripheral Pb-Pb collisions and central OO collisions, probing the degree of thermal equilibration reached by charm quarks propagating in progressively smaller quark-gluon plasma media.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 12:41:59 GMT</pubDate>
-      <guid isPermaLink="false">2608.02161v1</guid>
-      <dc:creator>Marcello Di Costanzo</dc:creator>
-    </item>
-    <item>
-      <title>Necessary and sufficient conditions of nonlinear causality in viscous anisotropic hydrodynamics</title>
-      <link>http://arxiv.org/abs/2608.01900v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kento Yoshida, Shujun Zhao, Tetsufumi Hirano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive the necessary and sufficient conditions for nonlinear causality in viscous anisotropic hydrodynamics (VAH) within the approximation that neglects small correction terms. Relativistic hydrodynamics provides a successful description of the space-time evolution of the matter produced in relativistic heavy-ion collisions, yet the earliest stage at which a hydrodynamic description becomes valid remains an open question. VAH has been proposed as an extension of conventional viscous hydrodynamics (VH) that can accommodate the large pressure anisotropies of the early-time dynamics. However, in such far-from-equilibrium regimes, the nonlinear causality of the theory is not guaranteed. By analyzing the characteristic velocities of the VAH equations of motion, we derive a set of inequalities that ensures causal signal propagation in all directions. The resulting conditions take a remarkably simple form and admit a clear physical interpretation in terms of the characteristic modes of the anisotropic medium. These results establish the regime of validity of VAH and provide a foundation for its application to the early-time dynamics of relativistic heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 08:36:42 GMT</pubDate>
-      <guid isPermaLink="false">2608.01900v1</guid>
-      <dc:creator>Kento Yoshida</dc:creator>
-      <dc:creator>Shujun Zhao</dc:creator>
-      <dc:creator>Tetsufumi Hirano</dc:creator>
-    </item>
-    <item>
-      <title>Proton-proton Femtoscopy as a Probe of Short-range Structure in High-Energy O+O Collisions</title>
-      <link>http://arxiv.org/abs/2608.01190v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Baoshan Xi, Pei Li, Chunjian Zhang, Jinhui Chen, Su-Ya-La-Tu Zhang, Yu-Gang Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Short-range nucleon-nucleon correlations are a defining feature of the nuclear many-body wave function, yet they are invisible in the one-body density and therefore inaccessible to observables that measure a nuclear size. We show that proton-proton femtoscopy supplies the missing sub-femtometer sensitivity. In $^{16}$O+$^{16}$O collisions at $\rm \sqrt{s_{NN}}=$ 200 GeV, we compare three nuclear-structure inputs spanning mean-field, low-resolution cluster, and short-range-correlated descriptions. The $p$-$p$ correlation function separates all three, most sharply in peripheral collisions, where the \textit{ab initio} input suppresses the extracted source radius by $\sim5\%$ relative to the mean-field baseline. Under identical conditions $π^{+}$-$π^{+}$ correlations respond an order of magnitude more weakly, and the $C_{pp}/C_{π^{+}π^{+}}$ double ratio retains the full effect, pointing to the short-distance weighting of the $^{1}S_{0}$ pair rather than to an overall rescaling of the source. The signal survives the leading theoretical systematic, the choice of strong-interaction potential, which we quantify explicitly. These results identify $p$-$p$ femtoscopy as a short-distance-resolved probe of light-nucleus structure, complementary to flow observables that constrain only the low-order moments of the initial geometry.&lt;/p&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 12:15:41 GMT</pubDate>
-      <guid isPermaLink="false">2608.01190v1</guid>
-      <dc:creator>Baoshan Xi</dc:creator>
-      <dc:creator>Pei Li</dc:creator>
-      <dc:creator>Chunjian Zhang</dc:creator>
-      <dc:creator>Jinhui Chen</dc:creator>
-      <dc:creator>Su-Ya-La-Tu Zhang</dc:creator>
-      <dc:creator>Yu-Gang Ma</dc:creator>
     </item>
   </channel>
 </rss>
