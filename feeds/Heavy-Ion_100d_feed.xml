@@ -5,9 +5,52 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 13:47:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:53:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Simulating the emission source function in very peripheral relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2609.28394v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Angel Reina Ramírez, Volodymyr Magas, Juan M. Torres-Rincon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a microscopic femtoscopic investigation of the space-time emission source in low-multiplicity (80--90\% centrality) $\text{Pb}-\text{Pb}$ collisions at $\sqrt{s_{NN}} = 5.02~\text{TeV}$, using a hybrid transport framework coupling SMASH initial conditions, 3+1D viscous hydrodynamics (vHLLE), and a SMASH hadronic cascade afterburner. Access to the full space-time evolution of the produced particles allows for the direct reconstruction of emission source functions in both the Longitudinally Comoving System and the Pair Rest Frame. We study identical pairs of mesons ($ππ$, $KK$) and baryons ($pp$), as well as cross-species combinations, while explicitly isolating the contributions from primordial particles, hadronic rescattering, and long-lived resonance decays. Our analysis shows that simple Gaussian fits are inadequate for precision source analyses, whereas a combined Gaussian plus exponential parametrization better captures the compact core and the extended tail. Finally, the extracted Gaussian core radii, $R_{\text{core}}$, for our very peripheral collisions demonstrate an approximate $m_T$-scaling behavior rather similar to the one observed in pp reactions.&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 17:02:32 GMT</pubDate>
+      <guid isPermaLink="false">2609.28394v1</guid>
+      <dc:creator>Angel Reina Ramírez</dc:creator>
+      <dc:creator>Volodymyr Magas</dc:creator>
+      <dc:creator>Juan M. Torres-Rincon</dc:creator>
+    </item>
+    <item>
+      <title>Mean-$p_T$ fluctuations in Au+Au collisions at $\sqrt{s_{\rm NN}}=3.0$--$19.6$ GeV within JAM2</title>
+      <link>http://arxiv.org/abs/2609.28074v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yaqi Liu, Liuyao Zhang, Chunjian Zhang, Jinhui Chen, Chunwang Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Event-by-event mean-$p_T$ fluctuations probe initial-state fluctuations and their evolution through the dynamics of heavy-ion collisions. We study second-order mean-$p_T$ fluctuations in Au+Au collisions at $\sqrt{s_{\rm NN}}=3.0$--$19.6$ GeV using JAM2 in the RQMDv mean-field mode with the MH2 parameterization. The model qualitatively reproduces the measured identified-particle $p_T$ spectra, providing a single-particle baseline for the fluctuation analysis. The scaled fluctuation $k_2$ decreases with increasing $\langle N_{\rm part}\rangle$ and shows broad agreement with the available measurements at 7.7--19.6 GeV, whereas its calculated centrality dependence is stronger than that in the data at 3.0--4.5 GeV. For the combined proton-plus-antiproton sample, the unnormalized correlator $\langle c_2\rangle$ is positive and larger than that for charged pions. The charged-pion correlator $\langle c_2\rangle$ is negative or consistent with zero over most centrality intervals at 3.0 and 3.5 GeV, becomes weakly positive at 4.5 GeV, and remains positive at higher energies. Its energy evolution resembles the change in the reaction-plane elliptic flow, but this comparison does not establish a common microscopic origin. These calculations provide species-dependent predictions within a transport model without an explicit partonic stage. Isolating the contributions of mean fields, rescattering, and spectator interactions requires controlled variations of the transport dynamics.&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 13:19:01 GMT</pubDate>
+      <guid isPermaLink="false">2609.28074v1</guid>
+      <dc:creator>Yaqi Liu</dc:creator>
+      <dc:creator>Liuyao Zhang</dc:creator>
+      <dc:creator>Chunjian Zhang</dc:creator>
+      <dc:creator>Jinhui Chen</dc:creator>
+      <dc:creator>Chunwang Ma</dc:creator>
+    </item>
+    <item>
+      <title>Strangeness Production in Heavy-Ion Collisions: Color Ropes or Hydrodynamic Evolution?</title>
+      <link>http://arxiv.org/abs/2609.28070v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carl Rosenkvist, Hannah Elfner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate strangeness production and transverse dynamics in heavy-ion collisions at $\sqrt{s_{\mathrm{NN}}}\approx 2.5-20~\mathrm{GeV}$ using the transport approach SMASH (Simulating Many Accelerated Strongly-interacting Hadrons), its extension with rope hadronization, and the SMASH+vHLLE hybrid approach. Results from the Pythia-based heavy-ion model Angantyr, with and without rope hadronization, are included for comparison. We study midrapidity particle yields and average transverse masses as functions of the number of wounded nucleons, as well as their energy dependence.
+  For the $K^+/π^+$ ratio, SMASH+vHLLE overpredicts strangeness production at low energies but describes the higher-energy behavior reasonably well. SMASH+Ropes reproduces the ratio up to $\sqrt{s_{\mathrm{NN}}}\sim 10~\mathrm{GeV}$ but does not capture the turnover at higher energies. In contrast, the transverse-mass observables favor the hybrid approach, while the non-thermal models considered here do not generate sufficient collective transverse expansion.
+  These results show that strangeness enhancement alone does not uniquely distinguish microscopic string interactions from a locally equilibrated medium. Simultaneously constraining strangeness production and transverse dynamics is therefore essential for disentangling thermal and non-thermal mechanisms in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 13:15:56 GMT</pubDate>
+      <guid isPermaLink="false">2609.28070v1</guid>
+      <dc:creator>Carl Rosenkvist</dc:creator>
+      <dc:creator>Hannah Elfner</dc:creator>
+    </item>
+    <item>
+      <title>Exploring the short-range correlations in $^{16}$O+$^{16}$O collisions at the LHC</title>
+      <link>http://arxiv.org/abs/2609.27566v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Liu, Shanjin Wu, Huichao Song&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Short-range correlations (SRCs) dominate the nuclear force at short distances, including the repulsive core and intermediate-range attraction, and are one of the most fascinating aspects of the nucleon-nucleon (NN) interaction. In this work, we investigate the effects of SRCs on the final-state observables in $^{16}$O+$^{16}$O collisions at $\sqrt{s_{NN}}=5.36$~TeV, using the iEBE-VISHNU hybrid model with {T\raisebox{-0.5ex}{R}ENTo} initial conditions. We embed the nucleon configurations of $^{16}$O generated from variational Monte Carlo (VMC) simulations with realistic SRCs in the initial stage, along with uncorrelated VMC samples and Woods--Saxon distributions implementing a hard repulsive core or short-range attraction as comparison runs. We find that SRCs reduce both $v_2\{2\}$ and $v_2\{4\}$ in the most central collisions, with the decrease of $v_2\{4\}$ being more pronounced due to the event-by-event flow fluctuations. Meanwhile, SRCs noticeably enhance the correlation between the elliptic flow and the mean transverse momentum, $ρ_2(v_2^2,[p_T])$. These effects are mainly attributed to the strong repulsive core of the SRCs, which suppresses the probability of finding nucleon pairs at short relative distances and renders the initial geometry more uniform. This interpretation is supported by the calculations based on Woods--Saxon distributions with a hard repulsive core, which reproduce similar results, while the contribution from a pure intermediate-range attraction is negligible. Our results demonstrate that relativistic nuclear collisions provide a complementary probe of the short-range structure of the nuclear force, beyond the traditional nuclear experiments at low energies.&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 08:49:16 GMT</pubDate>
+      <guid isPermaLink="false">2609.27566v1</guid>
+      <dc:creator>Qi Liu</dc:creator>
+      <dc:creator>Shanjin Wu</dc:creator>
+      <dc:creator>Huichao Song</dc:creator>
+    </item>
     <item>
       <title>Longitudinal $Λ$ Polarization as a Quantitative Constraint on Geometric Relaxation in Pb-Pb Collisions at $\sqrt{s_{NN}} = 5.36$ TeV</title>
       <link>http://arxiv.org/abs/2609.26740v1</link>
@@ -17,6 +60,15 @@
       <dc:creator>Yilong Xie</dc:creator>
       <dc:creator>Simin Wu</dc:creator>
       <dc:creator>Laszlo P. Csernai</dc:creator>
+    </item>
+    <item>
+      <title>The LHC is not enough: the LZ High-Recoil Event at FCC-hh and a Muon Collider</title>
+      <link>http://arxiv.org/abs/2609.26870v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Benedikt Maier, Michael Spannowsky&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The high-energy nuclear-recoil candidate reported by LUX-ZEPLIN could point to dark matter beyond the reach of the LHC. We examine how future colliders could test this interpretation, starting with the thermal Higgsino and extending to a broad class of electroweak multiplets containing neutral and charged particles. We assume an approximately pure multiplet protected by an exact stabilizing symmetry, with dominant inelastic Z exchange and the full dark-matter abundance set by gauge-dominated thermal freeze-out, where mixing and additional interactions affecting production or freeze-out are negligible. In this setting, heavy thermal masses, rare production and invisible neutral transitions make the Higgsino's main collider obstacles generic across the class, independently of supersymmetry. Charged lifetimes vary, but the benchmark spectra studied, including radiative doublet splittings, remain beyond the projected HL-LHC reach. We show how FCC-hh and a high-energy muon collider can overcome these obstacles. Our FCC-hh estimates show sensitivity to the doublets and several larger multiplets through disappearing charged tracks and complementary channels that do not depend on the charged lifetime. Muon-collider projections cover the fermionic doublet and triplet at 10 TeV and the full fermionic family considered here at 30 TeV, subject to the stated spectrum and systematic assumptions. This connects a possible underground signal to a concrete program for testing thermal electroweak dark matter at future colliders.&lt;/p&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 17:22:34 GMT</pubDate>
+      <guid isPermaLink="false">2609.26870v1</guid>
+      <dc:creator>Benedikt Maier</dc:creator>
+      <dc:creator>Michael Spannowsky</dc:creator>
     </item>
     <item>
       <title>Non-Monotonicity of $p_{\rm T}$ Correlations in Au + Au Collisions at RHIC</title>
@@ -737,19 +789,6 @@
       <dc:creator>Xin Dong</dc:creator>
       <dc:creator>Rongrong Ma</dc:creator>
       <dc:creator>Cesar Luiz da Silva</dc:creator>
-    </item>
-    <item>
-      <title>Hadronization effects and electroweak contributions in DIS one-jettiness</title>
-      <link>http://arxiv.org/abs/2609.04306v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Radja Boughezal, Haotian Cao, Zhong-Bo Kang, Xiaohui Liu, Sonny Mantry, Frank Petriello&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the structure of leading hadronization effects and the contributions of massive electroweak gauge boson exchange in the $τ_1$ and $τ_{1a}$ 1-Jettiness global event shapes for deep inelastic scattering (DIS). The leading hadronization effects in $τ_1$ acquire a non-trivial dependence on the hard scattering kinematics. This kinematic dependence is explicitly calculable, so that the leading hadronization effects in $τ_1$, $τ_{1a}$, and DIS thrust are universal and described by the same underlying shape function. The additional calculable kinematic dependence in $τ_1$ provides an independent lever arm for simultaneously constraining hadronization effects in these observables. We present corresponding results at the N$^3$LL+${\cal O}(α_s^2)$ level of accuracy. We extend previous results by including the contributions mediated by the exchange of the massive $Z$ and $W$ electroweak gauge bosons for neutral current (NC) and charged current (CC) DIS, respectively, including ${\cal O}(α_s)$ QCD corrections to obtain N$^2$LL+${\cal O}(α_s)$ results. We compare theoretical predictions to Pythia simulation and demonstrate the universality of leading hadronization effects across NC and CC DIS processes and a wide range of kinematics relevant to HERA and the EIC.&lt;/p&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2609.04306v1</guid>
-      <dc:creator>Radja Boughezal</dc:creator>
-      <dc:creator>Haotian Cao</dc:creator>
-      <dc:creator>Zhong-Bo Kang</dc:creator>
-      <dc:creator>Xiaohui Liu</dc:creator>
-      <dc:creator>Sonny Mantry</dc:creator>
-      <dc:creator>Frank Petriello</dc:creator>
     </item>
     <item>
       <title>CGC-py: A Monte Carlo Event Generator for Gluon Saturation Physics</title>
