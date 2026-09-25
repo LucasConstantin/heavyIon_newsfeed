@@ -5,9 +5,69 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 02:53:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:08:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Quarkonium production in light-ion collisions with the ALICE experiment</title>
+      <link>http://arxiv.org/abs/2609.29970v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rebecca Cerri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quarkonium production has long been considered as one of the golden probes to study the quark-gluon plasma (QGP). In fact, the early production of heavy quarks (ccbar) and (bbbar) makes quarkonia an ideal tool to investigate the evolution of the hot and dense medium produced in ultra-relativistic heavy-ion collisions. In such a medium, quarkonium production is expected to be suppressed due to the screening of the binding potential between the heavy quark and antiquark and/or through in-medium interactions. Moreover, at LHC energies the recombination of uncorrelated charm quarks pairs, namely regeneration, was found to significantly affect charmonium observables, in contraposition to the suppression mechanism. In addition, measurements in smaller collision systems as p-Pb have highlighted the possibility to observe QGP-like effects. In this context, the study of charmonium production in intermediate collision systems, as light-ion collisions, becomes more and more interesting, representing an ideal test ground for the state-of-the art theoretical models. In this contribution the new measurements of charmonium production will be shown using the light-ion collisions data collected for the first time at the LHC in 2025 (oxygen-oxygen (OO), proton-oxygen (pO)). The results will be shown exploiting the forward ALICE rapidity coverage (2.5 &lt; y &lt; 4). Finally, the measurements will be compared with the existing theoretical models.&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 15:22:18 GMT</pubDate>
+      <guid isPermaLink="false">2609.29970v1</guid>
+      <dc:creator>Rebecca Cerri</dc:creator>
+    </item>
+    <item>
+      <title>Centrality-dependent nuclear modification from hard-soft correlations in the glasma</title>
+      <link>http://arxiv.org/abs/2609.29886v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Coleridge Faraday, W. A. Horowitz, Björn Schenke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present first predictions from the saturation-physics-based framework IP-Glasma for the nuclear modification factor $R_{AB}$ as a function of centrality in $p$ + O, $p$ + Pb, O + O, and Pb + Pb collisions due only to initial-state effects. The same framework is responsible for both soft ($p_T \lesssim 3 ~\mathrm{GeV}$) and semi-hard ($5 ~\mathrm{GeV} \lesssim p_T \lesssim 20 ~\mathrm{GeV}$) particle production, enabling the study of initial-state correlations between bulk and intermediate-$p_T$ particle production from a first-principles framework. We show that, tuned only to HERA data, IP-Glasma accurately predicts the self-normalized multiplicity distributions in $p$ + O, $p$ + Pb, O + O, and Pb + Pb collisions; the minimum-bias nuclear modification factor in $p$ + O and $p$ + Pb collisions; the centrality-cut nuclear modification factor in $p$ + Pb collisions; and the anomalous suppression of $R_{AA}$ observed in very peripheral Pb + Pb collisions. We find that IP-Glasma predicts significantly less suppression than is measured in both $\sqrt{s_{NN}} = 5.36 ~\mathrm{TeV}$ O + O and $\sqrt{s_{NN}} = 5.02 ~\mathrm{TeV}$ Pb + Pb collisions at the Large Hadron Collider, in qualitative agreement with the scenario in which $R_{AA} &lt; 1$ is due to final-state energy loss. We show that the inelastic nucleon-nucleon cross section ($σ_{\text{inel}}^{NN}$) produced by IP-Glasma is extremely sensitive to the area of the subnucleonic hotspots; the same values of the hotspot area that reproduce the measured $σ_{\text{inel}}^{NN}$ also reproduce minimum-bias $R_{pA}$. Finally, we show that the hard-soft correlations in IP-Glasma arise from event-by-event fluctuations in the color fields, which simultaneously drive enhanced production of both soft and hard particles.&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 14:35:16 GMT</pubDate>
+      <guid isPermaLink="false">2609.29886v1</guid>
+      <dc:creator>Coleridge Faraday</dc:creator>
+      <dc:creator>W. A. Horowitz</dc:creator>
+      <dc:creator>Björn Schenke</dc:creator>
+    </item>
+    <item>
+      <title>Imprints of the nuclear liquid-gas phase transition on net-baryon number fluctuations</title>
+      <link>http://arxiv.org/abs/2609.17328v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mattia Recchi, Shi Yin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate net-baryon number fluctuations in the high-density, low-temperature region of the QCD phase diagram using the parity-doublet model (PDM) under the mean-field approximation. We compute the fluctuation ratios up to sixth order around the nuclear liquid-gas (LG) phase transition, where the high-order ratios are particularly sensitive. To connect the results with heavy-ion experiments, we test several different scenarios of chemical freeze-out. We find that near the LG transition the extracted fluctuations depend strongly on the choice of freeze-out curve. We self-consistently determine four freeze-out points from preliminary results of the STAR Collaboration. Comparing the experimental data with the PDM results along these four points, we find that the model describes the low energy ($\sqrt{s_{NN}}\lesssim$ 4 GeV) data well. This suggests that nucleon interactions and the LG phase transition may contribute significantly to the fluctuations in low energy heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 14:08:28 GMT</pubDate>
+      <guid isPermaLink="false">2609.17328v2</guid>
+      <dc:creator>Mattia Recchi</dc:creator>
+      <dc:creator>Shi Yin</dc:creator>
+    </item>
+    <item>
+      <title>Measuring short-range correlations using relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2609.29237v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lu-Meng Liu, Jun Xu, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose a novel method to measure the strength and isospin dependence of short-range correlations (SRCs) in nuclei with their collisions at relativistic energies. Since nucleons in the high-momentum tail (HMT) induced by SRCs have large transverse velocities, we find that measuring the yield ratio of free spectator neutrons at large to small transverse distances detected by Zero-Degree Calorimeter (ZDC) array may probe the fraction of nucleons in the HMT. In addition, measuring the yield ratio of ZDC neutrons in central $^{96}$Zr+$^{96}$Zr to $^{96}$Ru+$^{96}$Ru collisions at large transverse distances may probe the isospin dependence of the HMT and SRCs. Compared to traditional scattering experiments, our study illustrates that relativistic heavy-ion collisions may serve as an alternative way of measuring SRCs in colliding nuclei with less final-state interactions.&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 08:43:31 GMT</pubDate>
+      <guid isPermaLink="false">2609.29237v1</guid>
+      <dc:creator>Lu-Meng Liu</dc:creator>
+      <dc:creator>Jun Xu</dc:creator>
+      <dc:creator>Xu-Guang Huang</dc:creator>
+    </item>
+    <item>
+      <title>Strangeness Production in Heavy-Ion Collisions: Color Ropes or Hydrodynamic Evolution?</title>
+      <link>http://arxiv.org/abs/2609.28070v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carl B. Rosenkvist, Hannah Elfner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate strangeness production and transverse dynamics in heavy-ion collisions at $\sqrt{s_{\mathrm{NN}}}\approx 2.5-20~\mathrm{GeV}$ using the transport approach SMASH (Simulating Many Accelerated Strongly-interacting Hadrons), its extension with rope hadronization, and the SMASH+vHLLE hybrid approach. Results from the Pythia-based heavy-ion model Angantyr, with and without rope hadronization, are included for comparison. We study midrapidity particle yields and average transverse masses as functions of the number of wounded nucleons, as well as their energy dependence.
+  For the $K^+/π^+$ ratio, SMASH+vHLLE overpredicts strangeness production at low energies but describes the higher-energy behavior reasonably well. SMASH+Ropes reproduces the ratio up to $\sqrt{s_{\mathrm{NN}}}\sim 10~\mathrm{GeV}$ but does not capture the turnover at higher energies. In contrast, the transverse-mass observables favor the hybrid approach, while the non-thermal models considered here do not generate sufficient collective transverse expansion.
+  These results show that strangeness enhancement alone does not uniquely distinguish microscopic string interactions from a locally equilibrated medium. Simultaneously constraining strangeness production and transverse dynamics is therefore essential for disentangling thermal and non-thermal mechanisms in heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 08:22:32 GMT</pubDate>
+      <guid isPermaLink="false">2609.28070v2</guid>
+      <dc:creator>Carl B. Rosenkvist</dc:creator>
+      <dc:creator>Hannah Elfner</dc:creator>
+    </item>
+    <item>
+      <title>Fundamental Physics at the Frontier of Noisy Quantum Computation</title>
+      <link>http://arxiv.org/abs/2609.28825v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nikita A. Zemlevskiy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quantum computing offers a new, orthogonal direction for investigating fundamental physics, extending beyond classical numerical methods and conventional observables. Realizing this potential requires directly confronting the noise limiting currently available quantum computers. Progress rests on advancing algorithms, interpreting their results, and managing their errors together. This thesis presents several advancements in the use of quantum simulation and quantum information to probe fundamental physics.
+  The first is in the use of quantum computers to simulate collisions in quantum field theories. Central to these simulations are new wavepacket preparation, time evolution, and error mitigation techniques, which allow for simulations with some of the largest effective circuit volumes to date. These methods enable the first quantum simulation providing numerical evidence for inelastic particle production, a key process in fundamental physics.
+  The second advancement centers on the role quantum-information-theoretic quantities play in physical processes. Beyond mere correlations with the physics of the process, entanglement and magic are shown to probe the interactions present in scattering and hadronization dynamics.
+  A precision study requires a complete quantification of algorithmic and hardware uncertainties, an outstanding goal as quantum simulations mature. The third advancement in this thesis addresses error management. A framework minimizing the effect of algorithmic errors in analog quantum simulations is presented. In a step toward fault tolerance, error detection in encoded quantum simulations is shown to improve estimation of local observables relative to unencoded runs.
+  Together, the developments in this thesis mark practical progress toward fault-tolerant quantum simulations of fundamental physics capable of scientific discovery.&lt;/p&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 22:18:54 GMT</pubDate>
+      <guid isPermaLink="false">2609.28825v1</guid>
+      <dc:creator>Nikita A. Zemlevskiy</dc:creator>
+    </item>
     <item>
       <title>Simulating the emission source function in very peripheral relativistic heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2609.28394v1</link>
@@ -29,17 +89,6 @@
       <dc:creator>Chunjian Zhang</dc:creator>
       <dc:creator>Jinhui Chen</dc:creator>
       <dc:creator>Chunwang Ma</dc:creator>
-    </item>
-    <item>
-      <title>Strangeness Production in Heavy-Ion Collisions: Color Ropes or Hydrodynamic Evolution?</title>
-      <link>http://arxiv.org/abs/2609.28070v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carl Rosenkvist, Hannah Elfner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate strangeness production and transverse dynamics in heavy-ion collisions at $\sqrt{s_{\mathrm{NN}}}\approx 2.5-20~\mathrm{GeV}$ using the transport approach SMASH (Simulating Many Accelerated Strongly-interacting Hadrons), its extension with rope hadronization, and the SMASH+vHLLE hybrid approach. Results from the Pythia-based heavy-ion model Angantyr, with and without rope hadronization, are included for comparison. We study midrapidity particle yields and average transverse masses as functions of the number of wounded nucleons, as well as their energy dependence.
-  For the $K^+/π^+$ ratio, SMASH+vHLLE overpredicts strangeness production at low energies but describes the higher-energy behavior reasonably well. SMASH+Ropes reproduces the ratio up to $\sqrt{s_{\mathrm{NN}}}\sim 10~\mathrm{GeV}$ but does not capture the turnover at higher energies. In contrast, the transverse-mass observables favor the hybrid approach, while the non-thermal models considered here do not generate sufficient collective transverse expansion.
-  These results show that strangeness enhancement alone does not uniquely distinguish microscopic string interactions from a locally equilibrated medium. Simultaneously constraining strangeness production and transverse dynamics is therefore essential for disentangling thermal and non-thermal mechanisms in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 13:15:56 GMT</pubDate>
-      <guid isPermaLink="false">2609.28070v1</guid>
-      <dc:creator>Carl Rosenkvist</dc:creator>
-      <dc:creator>Hannah Elfner</dc:creator>
     </item>
     <item>
       <title>Exploring the short-range correlations in $^{16}$O+$^{16}$O collisions at the LHC</title>
@@ -306,14 +355,6 @@
       <dc:creator>Gojko Vujanovic</dc:creator>
     </item>
     <item>
-      <title>Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts</title>
-      <link>http://arxiv.org/abs/2609.20813v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hanyu Xue&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.str-el&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Generalized symmetries and topological excitations, as well as symmetry anomalies and the statistics of topological excitations, are widely believed to be related. There are, however, pitfalls in how this relation is established. A lattice truncation of a symmetry transformation to a finite patch gives a symmetry patch operator that creates symmetry defects at its boundary. This geometric picture resembles a hopping operator creating topological excitations at the boundary of its support, but does not provide well-defined statistics, let alone guarantee agreement with the symmetry anomaly. A more natural and robust relation is that the hopping operators of topological excitations are symmetric: they commute with symmetry transformations. Under suitable assumptions, this condition yields a one-to-one correspondence between statistics and anomalies. We further couple boundary matter to a DW gauge field in one higher dimension to explain this relation from the perspective of gauging. A hopping operator is, in essence, a gauge-invariant operator acting on the physical degrees of freedom after gauging. Once the gauge-field background is fixed, global symmetry comes from gauge transformations that preserve that background, while the symmetric condition on hopping is precisely the remaining gauge invariance. This distinction clarifies potential misconceptions in the literature and provides a more reliable framework for comparing symmetries and topological excitations.&lt;/p&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 17:59:05 GMT</pubDate>
-      <guid isPermaLink="false">2609.20813v1</guid>
-      <dc:creator>Hanyu Xue</dc:creator>
-    </item>
-    <item>
       <title>Adiabatic hydrodynamization with transverse spatial gradients in boost-invariant plasmas</title>
       <link>http://arxiv.org/abs/2609.20705v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Uri Sharell, Jasmine Brewer, Weiyao Ke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The quantitative success of relativistic viscous hydrodynamics in describing the short-lived quark--gluon plasma raises a fundamental question: how does far-from-equilibrium QCD matter approach hydrodynamic behavior so rapidly? Microscopic kinetic-theory studies have related this onset to attractor dynamics, but typically assume transverse homogeneity. We relax this assumption by introducing gradient modes with finite transverse wave number $k$, extending the analysis of arXiv:2212.00820. These couple different spherical harmonics of the momentum distribution, and the resulting dynamics is controlled by the competition among the expansion rate $1/τ$, the collision rate $1/τ_R$, and the gradient scale $k$. At early times, longitudinal expansion suppresses this coupling, and different spherical harmonic sectors follow their homogeneous attractors. We find that, at later times and sufficiently small $k$, this gradient coupling drives the system toward a global attractor manifold spanned by hydrodynamic sound and shear modes, on a timescale $τ_D$ that depends on both the azimuthal harmonic $m$ and $kτ_R$. For sufficiently large $kτ_R$, the spectral gap closes: perturbations retain finite damping rates and therefore equilibrate, but no longer follow an isolated hydrodynamic attractor or admit a reduced description involving only a few hydrodynamic modes.&lt;/p&gt;</description>
@@ -393,15 +434,6 @@
       <pubDate>Tue, 15 Sep 2026 16:02:11 GMT</pubDate>
       <guid isPermaLink="false">2609.17363v1</guid>
       <dc:creator>Agnieszka Sorensen</dc:creator>
-    </item>
-    <item>
-      <title>Imprints of the nuclear liquid-gas phase transition on net-baryon number fluctuations</title>
-      <link>http://arxiv.org/abs/2609.17328v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mattia Recchi, Shi Yin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate net-baryon number fluctuations in the high-density, low-temperature region of the QCD phase diagram using the parity-doublet model (PDM) under the mean-field approximation. We compute the fluctuation ratios up to sixth order around the nuclear liquid-gas (LG) phase transition, where the high-order ratios are particularly sensitive. To connect the results with heavy-ion experiments, we test several different scenarios of chemical freeze-out. We find that near the LG transition the extracted fluctuations depend strongly on the choice of freeze-out curve. We self-consistently determine four freeze-out points from preliminary results of the STAR Collaboration. Comparing the experimental data with the PDM results along these four points, we find that the model describes the low energy ($\sqrt{s_{NN}}\lesssim$ 4 GeV) data well. This suggests that nucleon interactions and the LG phase transition may contribute significantly to the fluctuations in low energy heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 15:34:55 GMT</pubDate>
-      <guid isPermaLink="false">2609.17328v1</guid>
-      <dc:creator>Mattia Recchi</dc:creator>
-      <dc:creator>Shi Yin</dc:creator>
     </item>
     <item>
       <title>Comment on &quot;Non-Monotonicity of Transverse-Momentum Correlations in Au+Au Collisions at RHIC&quot;</title>
@@ -733,24 +765,6 @@
       <dc:creator>Olga Soloveva</dc:creator>
     </item>
     <item>
-      <title>Energy-energy correlators and color decoherence from a generating functional</title>
-      <link>http://arxiv.org/abs/2609.05614v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yacine Mehtar-Tani&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Using jet calculus at leading-logarithmic accuracy, we develop a generating-functional approach to describe the hard-collinear sector of jets propagating through the quark-gluon plasma. This framework yields coupled evolution equations for the jet nuclear modification factor and energy-energy correlators (EECs). We first construct the EEC evolution in the fully incoherent regime, and then derive evolution equations that account for the transition from the coherent to the incoherent limit in the large-$N_c$ limit. Furthermore, we show that combining the EEC with the jet nuclear modification factor provides complementary sensitivity to the overall jet suppression and to medium-induced modifications of the jet's internal structure. This framework therefore offers a way to constrain the magnitude and flavor dependence of jet energy loss, together with the medium resolution angle governing color decoherence.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 18:00:06 GMT</pubDate>
-      <guid isPermaLink="false">2609.05614v1</guid>
-      <dc:creator>Yacine Mehtar-Tani</dc:creator>
-    </item>
-    <item>
-      <title>The Colors of Jet Quenching</title>
-      <link>http://arxiv.org/abs/2609.05609v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hannah Bossi, Maxence Larose, Yacine Mehtar-Tani&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We combine inclusive jet nuclear modification factors with energy-energy correlators to perform a data-driven extraction of the quark and gluon quenching factors and the medium resolution scale from the small-angle region. Taking coherent energy loss as a null hypothesis, we find jet quenching factors incompatible with Casimir scaling. Incorporating color decoherence through antenna energy loss improves the description of the data and restores Casimir scaling, providing evidence that the quark-gluon plasma partially resolves the internal structure of jets in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 18:00:02 GMT</pubDate>
-      <guid isPermaLink="false">2609.05609v1</guid>
-      <dc:creator>Hannah Bossi</dc:creator>
-      <dc:creator>Maxence Larose</dc:creator>
-      <dc:creator>Yacine Mehtar-Tani</dc:creator>
-    </item>
-    <item>
       <title>Spectator shadowing as the source of the breaking of NCQ scaling at RHIC-FXT and FAIR energies</title>
       <link>http://arxiv.org/abs/2609.05315v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tom Reichert, Iurii Karpenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The apparent scaling of the elliptic flow of identified hadrons with the number of constituent quarks indicates the presence of quark coalescence, and in turn suggests the presence of a deconfined state in heavy-ion collisions. Recent measurements at RHIC found a breaking of NCQ scaling at low energies and suggested that this marks the onset of partonic collectivity at higher energies. Here, we present a new framework embedding the effect of spectator shadowing into the flow scaling relations. Using a toy model with an idealized quark coalescence source and a ballistic Glauber model for the bypassing spectator, we demonstrate that the observed breaking is an effect of spectator shadowing.&lt;/p&gt;</description>
@@ -758,26 +772,6 @@
       <guid isPermaLink="false">2609.05315v1</guid>
       <dc:creator>Tom Reichert</dc:creator>
       <dc:creator>Iurii Karpenko</dc:creator>
-    </item>
-    <item>
-      <title>Signals for Nuclear Solid-Liquid Phase Transition in Clustering Nuclei</title>
-      <link>http://arxiv.org/abs/2609.05145v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xi-Guang Cao, Yong-Hao Jin, Chun-Wang Ma, Wen-Bo Liu, Yu-Gang Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The nuclear phase diagram remains a fundamental challenge, where uncovering how the cluster degree of freedom evolves with temperature and energy is essential to understand the intriguing crossover between cluster, nucleon, and nuclear astrophysics. A new first-order phase transition, the nuclear solid-liquid phase transition (SLPT), emerges spontaneously from nucleonic degrees of freedom in low-energy heavy-ion collisions. Clear signals of the SLPT are identified as a region of negative heat capacity in smaller systems (e.g., $^{12}\text{C} + ^{12}\text{C}$ and $^{16}\text{O} + ^{12}\text{C}$) and a caloric plateau in larger systems (e.g., $^{28}\text{Si} + ^{12}\text{C}$ and $^{40}\text{Ca} + ^{12}\text{C}$), along with prominent behaviors in the number of fragment species and information entropy. Moreover, the pairwise distance probability density function provides a direct spatial fingerprint of the melting, where long-range crystalline $α$-cluster peaks vanish above the transition temperature, giving way to a liquid-like distribution. This new phase transition unifies the many-body dynamics of finite constituents, extending from nanoscale clusters to nuclear systems. Beyond advancing nuclear structure and phase diagrams, these insights offer profound implications for astrophysics, notably linking structural evolution to astrophysical phase transitions via nuclear cluster dissolution in supernovae.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 13:49:12 GMT</pubDate>
-      <guid isPermaLink="false">2609.05145v1</guid>
-      <dc:creator>Xi-Guang Cao</dc:creator>
-      <dc:creator>Yong-Hao Jin</dc:creator>
-      <dc:creator>Chun-Wang Ma</dc:creator>
-      <dc:creator>Wen-Bo Liu</dc:creator>
-      <dc:creator>Yu-Gang Ma</dc:creator>
-    </item>
-    <item>
-      <title>FUSION: a skill-based research agent for publicly obtainable nuclear-physics codes</title>
-      <link>http://arxiv.org/abs/2609.04742v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jin Lei&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Running an unfamiliar nuclear-physics code is rarely difficult because of the physics alone. One must find and build the program, learn its input conventions, and decide whether a plausible output is actually correct. A general-purpose coding agent helps with the first two tasks but may make the last one harder: it can write an input file that runs with the wrong physical convention. FUSION addresses this problem with code-specific skills. A skill obtains the code from its public source, starts from a verified input, runs and parses the calculation, records known failure modes, and must reproduce a stated benchmark to a stated tolerance before reporting a result. The current release covers twenty codes, spanning optical models and reactions, nuclear structure, fission and statistical models, astrophysics and R-matrix analysis, and heavy-ion transport. It also includes an offline, searchable collection of 61 167 pages derived from the nucl-th literature. User notes and credentials remain outside the public repository. FUSION is available under the MIT license at https://github.com/jinleiphys/FUSION; documentation is at https://vibeinscience.com. Here I describe the design, the checks behind the current release, and one complete calculation from input to comparison with measured data.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 05:21:12 GMT</pubDate>
-      <guid isPermaLink="false">2609.04742v1</guid>
-      <dc:creator>Jin Lei</dc:creator>
     </item>
     <item>
       <title>Heavy Flavors and Quarkonia at RHIC</title>
@@ -2194,41 +2188,6 @@
       <pubDate>Tue, 11 Aug 2026 17:56:54 GMT</pubDate>
       <guid isPermaLink="false">2608.11199v1</guid>
       <dc:creator>Iris Likmeta</dc:creator>
-    </item>
-    <item>
-      <title>Probing Gluon Linear Polarization with Dihadron Fragmentation in $χ_b$ Decays</title>
-      <link>http://arxiv.org/abs/2608.10570v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhi-Guo He, Guanghui Li, Yang Liu, Yu-Jie Tian, Xin-Kai Wen, Bin Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dihadron fragmentation function (DiFF) of a linearly polarized gluon has not yet been accessed experimentally, leaving an important aspect of spin-dependent gluon hadronization unexplored. We show that, at leading order, the color-singlet decay channel of the $P$-wave bottomonium state $χ_{b0}$ produces two energetic gluons with correlated linear polarizations. Within collinear factorization, their fragmentation into separate dihadron pairs generates an Artru--Collins-type angular correlation that provides the first direct probe of the linearly polarized gluon DiFF, while the corresponding semi-inclusive decay rate constrains the unpolarized gluon DiFF. A spectator-model benchmark indicates percent-level asymmetries, potentially within reach of existing Belle data. A dedicated Belle~II data set would substantially improve the statistical precision, enabling more stringent constraints on the kinematic dependence of the linearly polarized gluon DiFF.&lt;/p&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 07:00:01 GMT</pubDate>
-      <guid isPermaLink="false">2608.10570v1</guid>
-      <dc:creator>Zhi-Guo He</dc:creator>
-      <dc:creator>Guanghui Li</dc:creator>
-      <dc:creator>Yang Liu</dc:creator>
-      <dc:creator>Yu-Jie Tian</dc:creator>
-      <dc:creator>Xin-Kai Wen</dc:creator>
-      <dc:creator>Bin Yan</dc:creator>
-    </item>
-    <item>
-      <title>Probing vorticity and fluctuations in a rotating hadron resonance gas at LHC energy</title>
-      <link>http://arxiv.org/abs/2608.10561v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Ipsita Sahoo, Sanjeebani Biswal, D. Dutta, D. K. Mishra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A large vorticity produced in non-central ultra-relativistic heavy-ion collisions induces an effective chemical potential in both partonic and hadronic matter, thereby influencing the quark-hadron transition and its associated properties. In this work, we investigate the influence of rotation on hadron yields within the framework of Hadron Resonance Gas (HRG) model. Our results show that vorticity significantly modifies hadron yields and their ratios. Most notably, rotation enhances the $p/π^+$ ratio while suppressing the $K^+/π^+$ ratio, suggesting that these observables may serve as sensitive probes of the rotational properties of the medium created in heavy-ion collisions. To quantify the effect of rotation, the calculated dependence of the $p/π^+$ ratio on vorticity is compared with the centrality dependence of the $p/π$ ratio measured by the ALICE collaboration in Pb+Pb collisions at $\sqrt{s_{_{NN}}}$ = 5.02 TeV. From this comparison, we estimate the maximum vorticity produced at freeze-out for different collision centralities. In case of peripheral collisions, the freeze-out vorticity ($ω$) is found to reach an upper bound value of approximately 0.088 GeV, whereas for central collisions it is about 0.028 GeV. Furthermore, we investigate the effect of rotation on fluctuations of conserved quantities and their correlations. This study provides a quantitative framework for assessing the role of rotation in the thermodynamics of hadronic matter and its phenomenological consequences for heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 06:49:49 GMT</pubDate>
-      <guid isPermaLink="false">2608.10561v1</guid>
-      <dc:creator>S. Ipsita Sahoo</dc:creator>
-      <dc:creator>Sanjeebani Biswal</dc:creator>
-      <dc:creator>D. Dutta</dc:creator>
-      <dc:creator>D. K. Mishra</dc:creator>
-    </item>
-    <item>
-      <title>Extraction of baryon number susceptibilities at finite density from heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2608.10238v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Grégoire Pihan, Roman Poberezhniuk, Volodymyr A. Kuznietsov, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present, to our knowledge, the first Bayesian extraction of baryon number susceptibilities of QCD matter at finite baryon density from heavy-ion collision data on proton number cumulants. The framework embeds arbitrary equation-of-state susceptibilities $χ_n^B$ into realistic hydrodynamic particlization hypersurfaces through maximum-entropy freeze-out, maps the resulting (anti)baryon fluctuations onto protons, applies the experimental kinematic acceptance, and accounts for exact baryon number conservation. Applying the framework to measurements of (net-)proton number fluctuations in 0--5\% central Au-Au collisions from the RHIC Beam Energy Scan in the collider mode, we extract, at each collision energy, the second-order susceptibility normalized by the hadron resonance gas value, $χ_{2}^B/\barχ_{2}^B$, and the higher-order susceptibility ratios $χ_{3}^B/χ_{1}^B$ and $χ_{4}^B/χ_{2}^B$. We obtain tight constraints on $χ_{2}^B$, with extracted values in quantitative agreement with lattice QCD based estimates along the chemical freeze-out line for $μ_B \lesssim 300$~MeV. At larger $μ_B$, the extracted values indicate an enhancement of baryon number fluctuations relative to the noncritical lattice-based extrapolation and HRG baseline considered here. The third- and fourth-order susceptibilities are only weakly constrained. In particular, we find that the observed nonmonotonic collision-energy dependence of the proton factorial cumulant ratio $\hat{C}_{3}/\hat{C}_{1}$ can be described without irreducible three- or four-baryon correlations. This behavior emerges from the interplay between the energy dependence of $χ_{2}^B$ and exact baryon number conservation.&lt;/p&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 21:16:27 GMT</pubDate>
-      <guid isPermaLink="false">2608.10238v1</guid>
-      <dc:creator>Grégoire Pihan</dc:creator>
-      <dc:creator>Roman Poberezhniuk</dc:creator>
-      <dc:creator>Volodymyr A. Kuznietsov</dc:creator>
-      <dc:creator>Volodymyr Vovchenko</dc:creator>
     </item>
   </channel>
 </rss>
