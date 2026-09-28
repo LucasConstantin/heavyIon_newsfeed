@@ -5,9 +5,26 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 03:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:03:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Neutron Economy and Freeze-out Dynamics in the Late-Time Cold r-Process</title>
+      <link>http://arxiv.org/abs/2609.31465v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mengke Li, Bradley Meyer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Standard r-process models often treat the freeze-out phase as a passive, uniform smoothing of the global abundance pattern. We demonstrate, however, that the final pattern is instead actively sculpted by a dynamic ``neutron economy'' that operates well after the free neutron source is exhausted. By analyzing cold neutron star merger outflows, we identify a distinct neutron exporter-importer relationship: the second-peak region ($A \sim 130$) transitions early into a $β$-decay dominated regime, acting as a net exporter, while the third-peak ($A \sim 195$) and Rare Earth ($A \sim 164$) regions remain capture-dominated neutron importers. Targeted simulations reveal that the final peak structures emerge from a competition between two opposing forces: a global ``push'' driven by neutron capture shifting mass toward heavier nuclei, and a local ``pull'' from beta delayed neutron emission returning material back toward lighter masses. We identify $^{136}\text{Pd}$, $^{135}\text{Ag}$, and $^{130}\text{Ru}$ as the primary exporters driving this economy, while third-peak fine structure is governed by $N=126$ isotones (Sm to Tb). Physically, this transport reflects a fundamental drive toward shell closure, where nuclei that overshoot the $N=82$ closed shell shed mass to migrate back toward this stable configuration, while nuclei in the third peak capture these redistributed neutrons to anchor themselves at the $N=126$ shell. Crucially, our models overproduce the odd-even staggering in the third peak compared to solar data. This discrepancy suggests current models likely overestimate the $β$-delayed neutron emission probabilities ($P_n$) for these $N=126$ nuclei, highlighting them as high-priority targets for theoretical refinement and future FRIB experiments.&lt;/p&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 16:16:36 GMT</pubDate>
+      <guid isPermaLink="false">2609.31465v1</guid>
+      <dc:creator>Mengke Li</dc:creator>
+      <dc:creator>Bradley Meyer</dc:creator>
+    </item>
+    <item>
+      <title>Strangeness Production at GlueX</title>
+      <link>http://arxiv.org/abs/2609.30850v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hao Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The GlueX experiment at Jefferson Lab is well suited for exclusive studies of strangeness production, combining a linearly polarized photon beam at $8.0 &lt; E_γ&lt; 8.8$ GeV with a large-acceptance detector that reconstructs weakly decaying hyperons. We outline a research program built on three aspects: (i) spectroscopy of strange mesons, where many excited $K^*$ states remain unestablished and crypto-exotic strange hybrids must be identified from combined spectrum and decay information, anchored by the $K^*(892)$ as a standard candle; (ii) spin dynamics, where the first precise measurements of the complete spin-density matrix elements in the photoproduced $K^*(892)Λ$ system beyond the Schilling formalism constrain the $t$-channel strange production mechanism; and (iii) hadronization, probed through the newly published $p\bar{p}$, $Λ\barΛ$, and $p\barΛ$ photoproduction cross sections and emerging $Λ\barΛ$ spin-correlation measurements. We place these efforts in the context of the broader GlueX strangeness program and give an outlook toward the high-statistics GlueX-II era.&lt;/p&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 05:55:42 GMT</pubDate>
+      <guid isPermaLink="false">2609.30850v1</guid>
+      <dc:creator>Hao Li</dc:creator>
+    </item>
     <item>
       <title>Quarkonium production in light-ion collisions with the ALICE experiment</title>
       <link>http://arxiv.org/abs/2609.29970v1</link>
@@ -728,41 +745,12 @@
       <dc:creator>Mason Alexander Ross</dc:creator>
     </item>
     <item>
-      <title>Effective kinetic theory description of the magnetic field-induced anisotropic gluon pressure during pre-equilibrium in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.05923v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Khwahish Kushwah, Alejandro Ayala, Gabriel S. Denicol, Ana Mizher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop an effective kinetic description for the interaction of gluons and magnetic fields during the pre-equilibrium stage of relativistic heavy-ion collisions. For this purpose, we formulate the Boltzmann-Vlasov equation with the interaction term modeled by the effect of the magnetic field on the elements of an electrically charged and colored dipole originating from the quantum fluctuation of gluons into quark-antiquark pairs. We find the numerical solution of the collisionless Boltzmann-Vlasov equation with a time-dependent magnetic field profile to determine the time evolution of the directional pressures. The presence of the magnetic field tames the growth of the transverse to longitudinal pressure ratio compared with the case in the absence of the magnetic field; however, the system does not isotropize since collisions are not included. We study the cases of initial gluon distributions with longitudinal anisotropies, as well as the case of an initial isotropic gluon distribution. In both cases, we find that the magnetic field produces a non-monotonic early-time response for large values of the initial magnetic field strength.&lt;/p&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 06:31:31 GMT</pubDate>
-      <guid isPermaLink="false">2609.05923v1</guid>
-      <dc:creator>Khwahish Kushwah</dc:creator>
-      <dc:creator>Alejandro Ayala</dc:creator>
-      <dc:creator>Gabriel S. Denicol</dc:creator>
-      <dc:creator>Ana Mizher</dc:creator>
-    </item>
-    <item>
       <title>Theoretical Review on Bulk Properties and Light/Strange Hadron Production in Heavy-Ion Collisions</title>
       <link>http://arxiv.org/abs/2609.05815v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yuuka Kanakubo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Since the discovery of large elliptic flow at RHIC in the early 2000s, relativistic hydrodynamics has become a central framework for quantitative studies of the quark--gluon plasma (QGP). In parallel, increasingly sophisticated analyses have improved constraints on the initial state and the transport properties of the QGP. In this contribution, I overview the recent progress on bulk-property of QGP and light/strange hadron production.&lt;/p&gt;</description>
       <pubDate>Sat, 05 Sep 2026 02:25:21 GMT</pubDate>
       <guid isPermaLink="false">2609.05815v1</guid>
       <dc:creator>Yuuka Kanakubo</dc:creator>
-    </item>
-    <item>
-      <title>Hadron resonance gas with density-dependent interactions for neutron stars and heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.05777v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Volodymyr Vovchenko, Volodymyr Kuznietsov, Tripp Moss&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a density-dependent generalization of the van der Waals hadron resonance gas model (DD-HRG) for describing both the hot hadronic matter created in heavy-ion collisions and the cold, dense matter inside neutron stars. Non-resonant interactions are incorporated through a generalized excluded-volume prescription with a density-dependent available-volume fraction, supplemented by an arbitrary density-dependent mean field. With isospin-dependent interaction parameters constrained by empirical properties of nuclear matter, the resulting equation of state extends the causality range to include neutron-star interiors and supports two-solar-mass stars. It also improves the description of lattice QCD thermodynamics and conserved-charge susceptibilities at vanishing baryochemical potential, with lattice data favoring reduced repulsion among strange baryons. This DD-HRG framework is available within the latest version of the open-source Thermal-FIST package.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 23:54:23 GMT</pubDate>
-      <guid isPermaLink="false">2609.05777v1</guid>
-      <dc:creator>Volodymyr Vovchenko</dc:creator>
-      <dc:creator>Volodymyr Kuznietsov</dc:creator>
-      <dc:creator>Tripp Moss</dc:creator>
-    </item>
-    <item>
-      <title>Beyond Viscosity Matching: Microscopic Relaxation in Anisotropic Flow</title>
-      <link>http://arxiv.org/abs/2609.05703v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Olga Soloveva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When a gas of scattering particles is disturbed, each angular harmonic of its velocity distribution decays at its own rate. Hydrodynamics, and with it the shear viscosity, depends on only one of these rates, the one for the quadrupole harmonic. A system that scatters only a few times before it stops interacting remembers all of them. This is the situation of small collision systems such as $p+p$, $p+$Pb and O$+$O, where kinetic models tuned to the same viscosity nevertheless predict different anisotropic flow. We show that this difference is not a model uncertainty but a measurement of the remaining rates: to first order in the number of collisions, ratios of flow responses equal ratios of relaxation rates, independently of the initial geometry. For the QCD collision kernel, where the rates also depend on momentum, we obtain the full spectrum of relaxation modes in closed form and show that dilute flow, viscosity, and late-time decay probe three different averages of it. A momentum-resolved kinetic solver confirms that the angular hierarchy is lost first at soft momenta and that the flow response settles at a value no single-rate model produces. The same structure governs two-dimensional electron and atomic Fermi gases.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 20:20:27 GMT</pubDate>
-      <guid isPermaLink="false">2609.05703v1</guid>
-      <dc:creator>Olga Soloveva</dc:creator>
     </item>
     <item>
       <title>Spectator shadowing as the source of the breaking of NCQ scaling at RHIC-FXT and FAIR energies</title>
