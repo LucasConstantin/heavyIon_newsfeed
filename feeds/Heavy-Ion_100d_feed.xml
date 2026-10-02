@@ -5,9 +5,39 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 04:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 04:35:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Generalized fluctuation-dissipation theorem and Einstein relation in rotating equilibrium</title>
+      <link>http://arxiv.org/abs/2610.01797v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuo Fang, Shi Pu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive a generalized fluctuation-dissipation theorem (FDT) for vector fields in rotating thermal equilibrium from an exact phase-space Kubo-Martin-Schwinger (KMS) relation. The resulting FDT contains rotation-induced tensorial contributions beyond a scalar thermal factor. In the local transport limit, we obtain a model-independent generalized Einstein relation with rotation in which, through second order in thermal vorticity, symmetric momentum diffusion depends on low-frequency spectral information beyond that encoded in the rotation-dependent dissipative drag. Remarkably, we find a new Einstein-type relation linking zero modes in the spectral function to the nonrotating drag coefficient. These zero modes underlie a new mechanism for the orbital polarization of heavy quarkonium. The same FDT constraint yields a modified detailed-balance relation whose first-order vortical correction is governed by transition polarization, without explicit dependence on the bath model. Our findings establish microscopic equilibrium constraints for studying rotating quantum matter in various fields.&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 14:42:07 GMT</pubDate>
+      <guid isPermaLink="false">2610.01797v1</guid>
+      <dc:creator>Shuo Fang</dc:creator>
+      <dc:creator>Shi Pu</dc:creator>
+    </item>
+    <item>
+      <title>Near-thermal state and thermodynamic response of a QCD system in ultra-central heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2609.14000v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Shan Mu, Li Yan, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a systematic framework to extract QCD thermodynamic properties at finite baryon density from ultra-central heavy-ion collisions, where the impact parameter is nearly zero and volume fluctuations are strongly suppressed. By mapping the measured multi-particle state of each event to an effective homogeneous fireball through the conservation of total energy, total entropy and net baryon number, a near-thermal state with variations is realized from event to event, which allows thermodynamic response relations to be tested. Using STAR Beam Energy Scan data on charged particle multiplicity and net proton fluctuations, we show that the thermalization condition is satisfied within uncertainties across collision energies, validating the interpretation of ultra-central events as small deviations from a thermally equilibrated state. We then generalize the response relations to finite baryon chemical potential, expressing the response coefficients in terms of the speed of sound and susceptibilities. Our results provide a baseline for using ultra-central collisions to probe the QCD equation of state and phase structure, including the search for the critical endpoint.&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 11:17:07 GMT</pubDate>
+      <guid isPermaLink="false">2609.14000v2</guid>
+      <dc:creator>Yu-Shan Mu</dc:creator>
+      <dc:creator>Li Yan</dc:creator>
+      <dc:creator>Xu-Guang Huang</dc:creator>
+    </item>
+    <item>
+      <title>Hadronization into Nuclei: Does Size Matter?</title>
+      <link>http://arxiv.org/abs/2610.01289v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anton Andronic, Peter Braun-Munzinger, Hjalmar Brunßen, Johanna Stachel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate an extension of the statistical hadronization model (SHM) that takes (hyper)nucleus sizes into account. The spatial extent of nuclear wave functions relative to the fireball volume is used to calculate a size correction, which describes the suppression with respect to a point-like treatment of the (hyper)nucleus at hadronization. For several species of light nuclei (d, ${}^{3}\mathrm{H}$, ${}^{3}\mathrm{He}$) and for the hypernucleus ${}^{3}_Λ\mathrm{H}$, the predicted effects of the size correction on SHM yields are compared to yield measurements in pp, p-Pb, and Pb-Pb collisions in the ALICE experiment. The experimental data suggest that this size correction, based on applying final-state wave functions at chemical freeze-out, does not give a consistent description of (hyper)nucleus production in nuclear and hadronic collisions. By contrast, the SHM without a nuclear-size correction provides a substantially better description of the data. This result lends further support to the interpretation that such nuclear states are formed from initially compact (multi-quark) configurations which after hadronization expand to their final-state wave functions.&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:26:18 GMT</pubDate>
+      <guid isPermaLink="false">2610.01289v1</guid>
+      <dc:creator>Anton Andronic</dc:creator>
+      <dc:creator>Peter Braun-Munzinger</dc:creator>
+      <dc:creator>Hjalmar Brunßen</dc:creator>
+      <dc:creator>Johanna Stachel</dc:creator>
+    </item>
     <item>
       <title>Searching for the QCD critical point with relativistic viscous hydrodynamics</title>
       <link>http://arxiv.org/abs/2609.40199v1</link>
@@ -299,14 +329,6 @@
       <dc:creator>Subhalaxmi Nayak</dc:creator>
       <dc:creator>Jayanta Dey</dc:creator>
       <dc:creator>Sabyasachi Ghosh</dc:creator>
-    </item>
-    <item>
-      <title>Higher-Form Description of Chiral Soliton Lattice</title>
-      <link>http://arxiv.org/abs/2609.32212v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yutaka Ookouchi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The chiral soliton lattice (CSL) is conventionally described as a periodic winding configuration of a compact scalar field. In this paper, we formulate the CSL in a higher-form framework based on a Stückelberg coupling between a two-form gauge field $C_2$ and a three-form gauge field $A_3$, in which strings and walls can be treated directly as extended sources. Higher-form gauge invariance requires the string worldsheet to be the boundary of the wall worldvolume. In the quadratic dual effective theory, exchange of the massive higher-form mode generates a repulsive Yukawa interaction between parallel walls. With its coefficient fixed by duality, the resulting CSL lattice spacing agrees well with the exact Sine--Gordon result without parameter fitting. We then extend the description to a nonlinear, multi-branch higher-form theory. It reproduces the exact dilute wall--wall interaction coefficient, the periodic CSL and its energy-minimization condition, as well as the gapless CSL phonon. The phonon is identified as a collective displacement of the periodic higher-form background, while scalar winding is reinterpreted as branch flow of the nonlinear higher-form theory.&lt;/p&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 04:18:16 GMT</pubDate>
-      <guid isPermaLink="false">2609.32212v1</guid>
-      <dc:creator>Yutaka Ookouchi</dc:creator>
     </item>
     <item>
       <title>Neutron Economy and Freeze-out Dynamics in the Late-Time Cold r-Process</title>
@@ -799,51 +821,12 @@
       <dc:creator>STAR Collaboration</dc:creator>
     </item>
     <item>
-      <title>Near-thermal state and thermodynamic response of a QCD system in ultra-central heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.14000v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Shan Mu, Li Yan, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a systematic framework to extract QCD thermodynamic properties at finite baryon density from ultra-central heavy-ion collisions, where the impact parameter is nearly zero and volume fluctuations are strongly suppressed. By mapping the measured multi-particle state of each event to an effective homogeneous fireball through the conservation of total energy, total entropy and net baryon number, a near-thermal state with variations is realized from event to event, which allows thermodynamic response relations to be tested. Using STAR Beam Energy Scan data on charged particle multiplicity and net proton fluctuations, we show that the thermalization condition is satisfied within uncertainties across collision energies, validating the interpretation of ultra-central events as small deviations from a thermally equilibrated state. We then generalize the response relations to finite baryon chemical potential, expressing the response coefficients in terms of the speed of sound and susceptibilities. Our results provide a baseline for using ultra-central collisions to probe the QCD equation of state and phase structure, including the search for the critical endpoint.&lt;/p&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 15:24:21 GMT</pubDate>
-      <guid isPermaLink="false">2609.14000v1</guid>
-      <dc:creator>Yu-Shan Mu</dc:creator>
-      <dc:creator>Li Yan</dc:creator>
-      <dc:creator>Xu-Guang Huang</dc:creator>
-    </item>
-    <item>
-      <title>Dileptons in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.13985v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hendrik van Hees&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this review we give an overview about dileptons as probes for the properties of the strongly interacting hot and dense matter created in heavy-ion collisions at various beam energies. As penetrating probes they leave the fireball unaffected from final-state interactions and thus provide a space-time-evolution weighted average of the in-medium properties of hot and dense QCD matter.&lt;/p&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 14:58:46 GMT</pubDate>
-      <guid isPermaLink="false">2609.13985v1</guid>
-      <dc:creator>Hendrik van Hees</dc:creator>
-    </item>
-    <item>
       <title>Microscopic study of baryon stopping in low-energy heavy-ion collisions within UrQMD model</title>
       <link>http://arxiv.org/abs/2609.06502v2</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sudhir Pandurang Rode&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In low-energy heavy-ion collisions, baryon stopping is an important process, in which protons from the initial colliding nuclei are stopped at mid-rapidity region. Quantifying such stopping can reveal information on the properties of the nuclear medium, such as net-baryon density. Though experimental measurement of net-proton rapidity spectra provides constraints, microscopic origin of such protons is not fully accessible. Transport model studies can therefore provide deeper insight into the microscopic origin of protons transported from initial nuclei, complementing experimental measurements. This article presents an investigation of baryon stopping in minimum-bias Au+Au collisions over a wide range of beam energies, $\sqrt{s_{NN}} = 2.4-17.3$ GeV ($E_{\rm lab} = 1.23A-158A$ GeV). Final-state protons are classified based on their origin by analyzing their interaction history in the UrQMD model. A significant fraction of transported protons at mid-rapidity originates from initial neutrons rather than initial protons, referred to as \textit{isospin-converted} protons, and their contribution as a function of collision energy and centrality is quantified. Anisotropic flow coefficients of different proton categories are estimated and compared with experimental measurements. Furthermore, a comparison between the $π^{-}/π^{+}$ ratio and \textit{isospin conversion} rate is performed. The latter is further compared with the $α$ parameters of the Kitazawa-Asakawa formalism, revealing a significant deviation from the chemical equilibrium assumption $α_N = α_π$ below $\sqrt{s_{NN}} \lesssim$ 10~GeV. Finally, the saturation of the isospin conversion rate is found to coincide with the onset of nuclear transparency, demonstrating that isospin randomization and baryon stopping are coupled phenomena in hadronic transport across the NICA/FAIR energy range.&lt;/p&gt;</description>
       <pubDate>Fri, 11 Sep 2026 13:24:49 GMT</pubDate>
       <guid isPermaLink="false">2609.06502v2</guid>
       <dc:creator>Sudhir Pandurang Rode</dc:creator>
-    </item>
-    <item>
-      <title>Anisotropic chromo-field fluctuations and spin alignment of quarkonia</title>
-      <link>http://arxiv.org/abs/2609.12638v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yuhao Liang, Shu Lin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Spin correlations are believed to contribute significantly to vector-meson spin alignment. In this work, we study the generation of spin correlations through fluctuations of the chromomagnetic field in the quark-gluon plasma. We show that anisotropic fluctuations generically lead to finite vector-meson spin alignment. We study two sources of anisotropic chromomagnetic-field fluctuations: one arises from the motion of a vector meson relative to the medium, which makes isotropic fluctuations in the medium anisotropic in the meson rest frame; the other arises from QGP shear flow through viscous corrections to the chromomagnetic field fluctuations. We find both corrections to be sensitive to magnetic scale. We apply the mechanism to study spin alignment of J/ψ in heavy ion collisions. With QGP evolution modeled by Bjorken flow, we obtain negative spin alignment from both sources, with the shear induced contribution numerically suppressed compared to the motion induced contribution.&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 09:37:21 GMT</pubDate>
-      <guid isPermaLink="false">2609.12638v1</guid>
-      <dc:creator>Yuhao Liang</dc:creator>
-      <dc:creator>Shu Lin</dc:creator>
-    </item>
-    <item>
-      <title>DIS Dijet Production: An operator basis bridging eikonal and TMD regimes</title>
-      <link>http://arxiv.org/abs/2609.12363v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tiyasa Kar, Swagato Mukherjee, Vladimir Skokov, Shaswat Tiwari, Fei Yao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose an operator basis for the unpolarized deep-inelastic scattering (DIS) quark-antiquark dijet production process smoothly connecting the all-twist eikonal regime to the back-to-back leading-twist TMD regime at arbitrary Bjorken x. Starting from the background-field quark propagator we construct an operator basis that organizes the eikonal and twist expansions within a unified formulation. Utilizing this operator basis we derive the dijet production amplitudes retaining all contributions required by either the leading-eikonal or the leading-twist description. In the eikonal limit the resulting amplitudes reproduce the all-twist Color Glass Condensate result, while in the back-to-back limit they reduce to the leading-twist gluon TMD-based result at arbitrary x. The operator basis can be systematically extended to include sub-eikonal and higher-twist corrections. Further, by examining the relationship of this operator basis to the improved TMD (iTMD) factorization we recover the iTMD structure in the eikonal limit. However, we find at non-zero x the transverse resummation generates longitudinal phases that prevent factorization in terms of a conventional TMD operator.&lt;/p&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 02:34:22 GMT</pubDate>
-      <guid isPermaLink="false">2609.12363v1</guid>
-      <dc:creator>Tiyasa Kar</dc:creator>
-      <dc:creator>Swagato Mukherjee</dc:creator>
-      <dc:creator>Vladimir Skokov</dc:creator>
-      <dc:creator>Shaswat Tiwari</dc:creator>
-      <dc:creator>Fei Yao</dc:creator>
     </item>
     <item>
       <title>Collinear fragmentation of pseudoscalar quarkonia from NLO NRQCD</title>
@@ -2267,14 +2250,6 @@
       <dc:creator>Wanchen Li</dc:creator>
       <dc:creator>Xiaohui Liu</dc:creator>
       <dc:creator>Ding Yu Shao</dc:creator>
-    </item>
-    <item>
-      <title>Observation of enhanced baryon production using strange hadrons in oxygen-oxygen collisions</title>
-      <link>http://arxiv.org/abs/2608.18256v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; CMS Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A hot deconfined medium known as the quark-gluon plasma (QGP) is created in collisions of ultrarelativistic heavy nuclei. In these systems, hadron production is strongly modified relative to proton-proton (pp) interactions. In the hadron transverse momentum region 2 $\lt$ $p_\mathrm{T}$ $\lt$ 5 GeV, collective radial flow and quark coalescence are important mechanisms that can produce such modifications. While these effects are well-established for collisions of large ions, such as lead, it is unknown if they are present in systems produced using smaller ions. To address this question, the $p_\mathrm{T}$ spectra of two strange hadrons, K$^0_\mathrm{S}$ and $Λ$, are measured in oxygen-oxygen (OO) and pp collisions at a center-of-mass energy per nucleon pair of 5.36 TeV. The measurements are performed using the CMS detector at the LHC, and the OO and pp datasets correspond to integrated luminosities of 6.8 nb$^{-1}$ and 1.1 pb$^{-1}$, respectively. The spectral modification of K$^0_\mathrm{S}$ mesons in OO collisions relative to pp collisions is found to be similar to that of inclusive charged hadrons. Conversely, the $Λ$-to-K$^0_\mathrm{S}$ cross section ratio exhibits a pronounced enhancement in OO collisions when compared to pp collisions. The results provide the first observation of a baryon-to-meson enhancement in OO collisions and suggest the formation of a deconfined medium, offering insight into the roles of strangeness, radial flow, and quark coalescence in QGP.&lt;/p&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 19:13:07 GMT</pubDate>
-      <guid isPermaLink="false">2608.18256v1</guid>
-      <dc:creator>CMS Collaboration</dc:creator>
     </item>
   </channel>
 </rss>
