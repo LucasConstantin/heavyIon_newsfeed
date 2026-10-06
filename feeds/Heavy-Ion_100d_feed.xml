@@ -5,9 +5,18 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:49:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:25:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>How Quantum Is Bottomonium in the Quark-Gluon Plasma?</title>
+      <link>http://arxiv.org/abs/2610.02313v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nora Brambilla, Tom Magorsch&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study how much quantum structure bottomonium retains during its evolution in the quark-gluon plasma. Within the open quantum system framework, we simulate the Lindblad equation obtained from potential nonrelativistic QCD in the quantum Brownian regime. From the resulting real-time evolution of the bottomonium density matrix, we compute the Wigner transform and study its negativity as a measure of nonclassicality and a test of a key condition underlying classical Langevin-type approximations. We find that the medium suppresses the negativity, which nevertheless approaches a finite plateau close to that of the $1\mathrm{S}$ state. The overlaps with the excited $2\mathrm{S}$ and $3\mathrm{S}$ states arise from near-canceling positive and negative phase-space contributions, driven by negative regions in the Wigner transforms of the bound-state projectors, while the $1\mathrm{S}$ overlap is insensitive to such contributions. We further show that the position-space coherence is similarly suppressed and plateaus close to the 1S value. We trace the finite residual quantum structure to conditional purification: the medium preferentially dissolves weakly bound and unbound modes with large $\langle r^2\rangle$, driving the surviving singlet $\mathrm{S}$-wave ensemble toward the $1\mathrm{S}$ state. More broadly, these results reveal that classicalization is partial and observable dependent, a feature that is relevant across applications of open quantum system methods in fundamental physics.&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 18:00:02 GMT</pubDate>
+      <guid isPermaLink="false">2610.02313v1</guid>
+      <dc:creator>Nora Brambilla</dc:creator>
+      <dc:creator>Tom Magorsch</dc:creator>
+    </item>
     <item>
       <title>Generalized fluctuation-dissipation theorem and Einstein relation in rotating equilibrium</title>
       <link>http://arxiv.org/abs/2610.01797v1</link>
@@ -801,16 +810,6 @@
       <dc:creator>Kshitish Kumar Pradhan</dc:creator>
       <dc:creator>Arghya Chatterjee</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>Probing gluon saturation through inclusive hadron production in DIS</title>
-      <link>http://arxiv.org/abs/2609.15461v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carlisle Casuga, Swaleha Mulani, Heikki Mäntysaari&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate gluon saturation effects in semi-inclusive deep inelastic scattering (SIDIS) at small-$x$ within the Color Glass Condensate framework. We compute the SIDIS cross section at leading order in the dipole picture, expressing it in terms of the dipole-target scattering amplitude. We validate our framework by comparing with the charged hadron spectra measured at HERA. Our predictions for the EIC indicate that saturation effects result in significant nuclear suppression in the SIDIS cross section, and can provide complementary constraints on the initial condition for the Balitsky-Kovchegov evolution extracted from inclusive DIS data. These results demonstrate that SIDIS measurements at the EIC are sensitive to nonlinear QCD dynamics in the saturation regime.&lt;/p&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 12:24:39 GMT</pubDate>
-      <guid isPermaLink="false">2609.15461v1</guid>
-      <dc:creator>Carlisle Casuga</dc:creator>
-      <dc:creator>Swaleha Mulani</dc:creator>
-      <dc:creator>Heikki Mäntysaari</dc:creator>
     </item>
     <item>
       <title>Photon-induced $J/ψ$ as a linearly polarized probe of collision geometry in relativistic heavy-ion collisions</title>
@@ -2238,18 +2237,6 @@
       <dc:creator>Santiago Bernal-Langarica</dc:creator>
       <dc:creator>José Jorge Medina-Serna</dc:creator>
       <dc:creator>Ana Julia Mizher</dc:creator>
-    </item>
-    <item>
-      <title>Tracing Vacuum Hadronization with Conserved Currents</title>
-      <link>http://arxiv.org/abs/2608.19708v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Weiyao Ke, Hai Tao Li, Wanchen Li, Xiaohui Liu, Ding Yu Shao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that color triality constrains the nonperturbative states that screen a Wilson-line endpoint, allowing the joint flows of net electric charge, baryon number, and strangeness to probe QCD vacuum hadronization. Whether evaluated from resolved hadrons in a jet initiated by a quark of flavor $f$ or from the corresponding charge correlators, these flows satisfy the Gell-Mann--Nishijima relation $\langle Q_{\rm flow}\rangle_f \simeq I_{3,f} +\frac{1}{2}\left( \langle S_{\rm flow}\rangle_f +\langle B_{\rm flow}\rangle_f \right)$, where $I_{3,f}$ is the third component of the initiating-quark isospin. The net jet baryon number, $\langle B_{\rm flow}\rangle_f\simeq \frac{r_{qq}}{1+r_{qq}}$, directly probes the relative probability of a diquark--antidiquark vacuum excitation, with $r_{qq}$ the diquark-to-quark production ratio. Thus, for $r_{qq}\ll1$, the baryon number carried by the jet is substantially suppressed relative to the initiating-quark value $B_f=1/3$. Likewise, the strange-to-light pair-production ratio, defined by $u\bar u:d\bar d:s\bar s=1:1:r_s$, is encoded in the measured jet strangeness $\langle S_{\rm flow}\rangle_f \simeq S_f+\frac{3r_s}{2+r_s} \left(\frac{1}{3}- \langle B_{\rm flow}\rangle_f\right)$, predicting a nonzero mean net strangeness even in $u$- and $d$-initiated jets. The conserved-current moments appearing in these relations are independent of the renormalization scale. Their simultaneous measurement therefore provides a direct, flavor-resolved probe of vacuum pair production and quantum-number transport during hadronization.&lt;/p&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 07:08:28 GMT</pubDate>
-      <guid isPermaLink="false">2608.19708v1</guid>
-      <dc:creator>Weiyao Ke</dc:creator>
-      <dc:creator>Hai Tao Li</dc:creator>
-      <dc:creator>Wanchen Li</dc:creator>
-      <dc:creator>Xiaohui Liu</dc:creator>
-      <dc:creator>Ding Yu Shao</dc:creator>
     </item>
   </channel>
 </rss>
