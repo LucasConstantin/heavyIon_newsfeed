@@ -5,9 +5,63 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:25:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Data-driven measurements of the beauty hadron production in p-Pb collisions at \sqrt{s_{\mathrm{NN}}} = 5.02 and 8.16 TeV</title>
+      <link>http://arxiv.org/abs/2610.05345v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Liang Dong, Tianle Liu, Guangsheng Li, Xiaozhi Bai, Fabrizio Grosa, Yifei Zhang, Jianhui Zhu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beauty-hadron production in proton-nucleus collisions is a particularly powerful probe of cold nuclear matter (CNM) effects: thanks to the large beauty-quark mass, the production is initiated in early hard scatterings and is calculable in perturbative QCD, while the modifications observed in nuclear collisions directly constrain the nuclear parton distribution functions (nPDFs) in a kinematic region complementary to that accessed by charm. Precisely quantifying these effects is a prerequisite for isolating possible signatures of quark-gluon plasma formation in heavy-ion collisions. In this work, the production of open beauty hadrons in p-Pb collisions at $\sqrt{s_{\mathrm{NN}}} = 5.02$ and $8.16$~TeV is studied via a data-driven Bayesian unfolding of ALICE and LHCb measurements of non-prompt $D^{0}$ and J/$ψ$ mesons. The unfolded $p_{T}$- and $y$-differential cross sections are mutually consistent across decay channels and compatible with directly reconstructed beauty-hadron measurements. The nuclear modification factor $R_{pPb}$ is reported as a function of transverse momentum and rapidity, providing the first unfolding-based result spanning $-4.0 &lt; y &lt; 4.0$ of beauty-hadron $R_{pPb}$ covering the full rapidity range, with a precision comparable to or better than that of existing data. The results are compared with calculations based on nPDFs and can provide valuable constraints for future global nPDF fits. The total inclusive B hadron production cross section in p-Pb collisions is also reported. A weaker CNM suppression is observed for beauty hadrons than for charm hadrons, consistent with the expected mass hierarchy of cold-nuclear-matter effects.&lt;/p&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 16:12:51 GMT</pubDate>
+      <guid isPermaLink="false">2610.05345v1</guid>
+      <dc:creator>Liang Dong</dc:creator>
+      <dc:creator>Tianle Liu</dc:creator>
+      <dc:creator>Guangsheng Li</dc:creator>
+      <dc:creator>Xiaozhi Bai</dc:creator>
+      <dc:creator>Fabrizio Grosa</dc:creator>
+      <dc:creator>Yifei Zhang</dc:creator>
+      <dc:creator>Jianhui Zhu</dc:creator>
+    </item>
+    <item>
+      <title>Rapidity-dependent charge dynamics in high-energy nuclear collisions from dynamical core-corona initialization</title>
+      <link>http://arxiv.org/abs/2610.05042v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shin-ei Fujii, Yasuki Tachibana, Tetsufumi Hirano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a new model that provides a unified description of the equilibration and subsequent transport of conserved charges, including baryon number, electric charge, and strangeness, as well as the dynamical formation and evolution of the quark-gluon plasma medium in high-energy nuclear collisions. This is achieved by extending the state-of-the-art model of dynamical core-corona initialization to incorporate phenomenological source terms for conserved charges within a full (3+1)-dimensional hydrodynamic framework; the updated model is referred to as DCCI3. Consequently, the model simultaneously describes the core (equilibrium) and corona (nonequilibrium), including their mutual interactions. We present a detailed construction of the DCCI3 model and employ it in numerical simulations of Pb+Pb collisions at $\sqrt{s_{NN}}=2.76~\mathrm{TeV}$ to investigate the resulting dynamics of matter and conserved charges, with particular emphasis on the longitudinal structure. We find that each of the chemical potentials exhibits sizable fluctuations around midrapidity, which challenges the conventional assumption of vanishing values as an oversimplification. Moreover, the baryon chemical potential increases sharply with rapidity and becomes comparable to the temperature at forward rapidities. This suggests that the Rapidity Scan (RS) approach in high-energy nuclear collisions can serve as a complementary probe to the Beam Energy Scan (BES) in exploring the QCD phase diagram.&lt;/p&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 08:19:41 GMT</pubDate>
+      <guid isPermaLink="false">2610.05042v1</guid>
+      <dc:creator>Shin-ei Fujii</dc:creator>
+      <dc:creator>Yasuki Tachibana</dc:creator>
+      <dc:creator>Tetsufumi Hirano</dc:creator>
+    </item>
+    <item>
+      <title>Particle emission from $^{40}$Ar nuclei excited in fixed-target $^{208}$Pb+$^{40}$Ar UPC at the LH</title>
+      <link>http://arxiv.org/abs/2610.04738v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; P. Jucha, M. Klusek-Gawenda, K. Mazurek, L. L. Pappalardo, K. Pysz, A. Szczurek&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultraperipheral collisions of heavy ions, dominated by the electromagnetic interaction, allow to investigate the photoproduction of baryons and mesons from the excited nuclei. At LHCb, thanks to the SMOG2 system, these studies can also be conducted in fixed-target collisions, exploiting a variety of target gases ranging from $^{4}$He to Xe. In the present work, we adapted our photonuclear model and the Giesen-Boltzmann-Uehling-Uhlenbeck (GiBUU) generator to study photoproduction of protons, neutrons as well as pions and kaons from excited $^{40}$Ar nuclei in fixed-target ultraperipheral collisions with the LHC $^{208}$Pb beam. We present predictions for the total and differential photoproduction cross sections in $p$ and $p_T$, both in the full phase-space and within the geometrical acceptance of the LHCb detector.&lt;/p&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 20:03:44 GMT</pubDate>
+      <guid isPermaLink="false">2610.04738v1</guid>
+      <dc:creator>P. Jucha</dc:creator>
+      <dc:creator>M. Klusek-Gawenda</dc:creator>
+      <dc:creator>K. Mazurek</dc:creator>
+      <dc:creator>L. L. Pappalardo</dc:creator>
+      <dc:creator>K. Pysz</dc:creator>
+      <dc:creator>A. Szczurek</dc:creator>
+    </item>
+    <item>
+      <title>Time-dependent integrable quantum field theories with dynamical boundaries</title>
+      <link>http://arxiv.org/abs/2610.03870v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Pradip Kattel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a method for constructing time-dependent integrable chiral quantum field theories on a finite spatial interval from the scattering and reflection data of an autonomous integrable model. Each particle carries a spectral label that is constant along its free trajectory. Requiring a right--left scattering event at a fixed time to be independent of its position forces the map from characteristic coordinates to spectral labels to be affine, with the same slope for both chiralities. As a result, all bulk scattering events at a given time sample one common spectral argument, and the two boundary reflections sample the corresponding endpoint arguments. The bulk and boundary drives are not independent time-dependent deformations: their time dependence is fixed by the same affine spectral coordinate. Successive reflections at the two endpoints translate the spectral label by a finite amount. Following a particle through a complete round trip then produces a difference transport whose consistency gives the boundary quantum Knizhnik--Zamolodchikov equations. The Yang--Baxter and reflection equations ensure local compatibility, while BqKZ flatness ensures compatibility of complete round trips. We then reconstruct the local Hamiltonian by inverting the one- and two-particle matching problems. The bulk matrix fixes the contact interaction, while the reflection matrix fixes the corresponding boundary coupling. The same autonomous factorized data determine the boundary qKZ transport problem and the local driven Hamiltonian. Once the boundary qKZ system is solved, its characteristic pullback gives the corresponding time-dependent many-body wavefunction. We illustrate the construction with rational $SU(N)$ models and an $O(3)$-invariant model with dynamical boundary impurities, obtaining driven Kondo interactions whose couplings are fixed by the same affine spectral coordinate.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 18:00:50 GMT</pubDate>
+      <guid isPermaLink="false">2610.03870v1</guid>
+      <dc:creator>Pradip Kattel</dc:creator>
+    </item>
+    <item>
+      <title>No Einstein Relation, No Problem: How Relativistic Weakly Coupled Heavy Quarks Equilibrate Beyond Leading Logarithm Anyway</title>
+      <link>http://arxiv.org/abs/2610.03863v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jean F. Du Plessis, Bruno Scheihing-Hitschfeld&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy quarks equilibrate even when their microscopic drag and momentum diffusion violate the Einstein relation. We investigate how equilibration proceeds as a function of the coupling and compared to simplified Fokker-Planck models. To do this, we present a detailed calculation of the momentum-transfer kernel in weakly coupled non-Abelian plasmas through strict $\mathcal{O}(g^4)$, and study the resulting dynamics at leading order in the inverse heavy-quark mass. Beyond leading logarithm, its non-Gaussian structure plays a crucial role in equilibration. We examine closely the analytic structure of the evolution kernel, determine the large-order asymptotics of the momentum-transfer cumulants, and show how the kernel's bounded analytic domain fixes asymmetric exponential tails at the level of the momentum transfer probability. Strongly coupled $\mathcal{N}=4$ SYM also features an approximately Gaussian core and exponential tails, but differs in the nature of the kernel's singularities and the velocity dependence of the transport coefficients and tail exponents. These differences have distinct dynamical consequences: for the parameters studied, the persistence of the relativistic population in steeply falling spectra is largely explained by drag alone at very weak coupling, whereas fluctuation-induced survivor bias produces a large relative enhancement at strong coupling. Nevertheless, the shared qualitative structure between weak and strong coupling points the way towards a practical phenomenological description of heavy quarks anchored in first-principles field theory.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2610.03863v1</guid>
+      <dc:creator>Jean F. Du Plessis</dc:creator>
+      <dc:creator>Bruno Scheihing-Hitschfeld</dc:creator>
+    </item>
     <item>
       <title>How Quantum Is Bottomonium in the Quark-Gluon Plasma?</title>
       <link>http://arxiv.org/abs/2610.02313v1</link>
@@ -128,18 +182,6 @@
       <dc:creator>Zhangbu Xu</dc:creator>
       <dc:creator>Chi Yang</dc:creator>
       <dc:creator>Wangmei Zha</dc:creator>
-    </item>
-    <item>
-      <title>Equation of State of the Quark-Gluon Plasma in an External Magnetic Field to Fourth Order</title>
-      <link>http://arxiv.org/abs/2609.37799v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; L. Levkova, C. DeTar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We extend a lattice-QCD determination of the response of the quark-gluon plasma to an external magnetic field using a Taylor expansion of the pressure at zero field. A zero-net-flux ``half-and-half'' magnetic-field configuration permits continuous differentiation with respect to the field amplitude on gauge ensembles generated at $B=0$. The electromagnetic vector potential is chosen to minimize stochastic noise in the Taylor operators. Previous results
-  through $O(B^2)$ are extended to $O(B^4)$ using $2+1$-flavor HISQ/tree ensembles with $m_l/m_s=0.05$ and $N_t=8$. The renormalized quadratic coefficient confirms paramagnetic behavior above the QCD crossover. The fourth-order coefficient
-  $C_4$ is small at high temperature and is enhanced near the crossover. At $T=167$ MeV the $C_4$ result at $48^3\times 8$ lies about two standard deviations above the corresponding $32^3\times8$ one, indicating likely finite- volume effects. For $eB = 0.2$ GeV$^2$, characteristic of magnetic fields relevant to heavy-ion phenomenology, the fourth-order contribution is small compared with the leading magnetic correction at moderate and high temperatures, but near the crossover the
-  large-volume result is about half of the central value of the quadratic term, after the vacuum-pressure subtraction. We also place the method in the context of other lattice determinations of magnetic susceptibility and clarify the relevance of finite-volume effects for the thermal subtraction. This work was completed in 2014 and preliminary results were reported at Lattice 2014.&lt;/p&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:22:57 GMT</pubDate>
-      <guid isPermaLink="false">2609.37799v1</guid>
-      <dc:creator>L. Levkova</dc:creator>
-      <dc:creator>C. DeTar</dc:creator>
     </item>
     <item>
       <title>$π$-QCD; Proposal for Experiments at the GSI Pion Beam Facility</title>
@@ -299,15 +341,6 @@
       <dc:creator>Ashutosh Dwibedi</dc:creator>
       <dc:creator>Anupam Panja</dc:creator>
       <dc:creator>Sabyasachi Ghosh</dc:creator>
-    </item>
-    <item>
-      <title>Gauge Backreaction in Standard Model Warm Inflation</title>
-      <link>http://arxiv.org/abs/2609.35756v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rafid H. Dejrah, Anish Ghoshal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.CO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Standard-Model warm inflation (SMWI) makes QCD the microscopic origin of inflationary dissipation, so the real-time response of the gauge plasma enters the cosmological prediction. We show that a slowly relaxing gauge-helicity response cannot, in general, be absorbed into an effective friction coefficient and must instead remain dynamical. We therefore evolve the quark axial densities and a matched hard-helicity mode, with QCD sphalerons and an effective $2\leftrightarrow3$ channel generating both charge transfer and correlated stochastic sources in the full perturbation covariance system. The resulting backreaction is substantial but mainly indirect: gauge-helicity screening can reduce the warm dissipation ratio by an order-one fraction on the strong branch, while the $2\leftrightarrow3$ channel contributes only $0.2\%-0.7\%$ of the zero-density sphaleron friction directly, shifting the amplitude-normalized trajectory in both $n_s$ and $r_{\rm vac}$. The relevant trajectories, however, lack a parametrically broad hard-soft hierarchy and extend beyond strict linear response. The predictions should therefore be understood within the stated local Gaussian transport closure; a parameter-free Standard-Model (SM) result requires finite-affinity real-time $SU(3)$ drift, susceptibility, and noise kernels.&lt;/p&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 17:59:03 GMT</pubDate>
-      <guid isPermaLink="false">2609.35756v1</guid>
-      <dc:creator>Rafid H. Dejrah</dc:creator>
-      <dc:creator>Anish Ghoshal</dc:creator>
     </item>
     <item>
       <title>Factorization and virtuality evolution of jet functions in heavy-ion collisions</title>
@@ -778,17 +811,6 @@
       <dc:creator>Paul Caucal</dc:creator>
       <dc:creator>Nolann Juet</dc:creator>
       <dc:creator>Farid Salazar</dc:creator>
-    </item>
-    <item>
-      <title>Comprehensive study of $Υ$($n$S) production in Oxygen+Oxygen collisions at LHC</title>
-      <link>http://arxiv.org/abs/2609.16292v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sabin Thapa, Biaogang Wu, Ramona Vogt, Ralf Rapp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study bottomonium $Υ$($n$S) production in ${\rm O}+{\rm O}$ collisions at $\sqrt{s_{NN}}=5.36$~TeV, including both cold nuclear-matter (CNM) effects and final-state interactions in a short-lived quark-gluon plasma. The CNM baseline is calculated using the EPPS21 nuclear parton distribution functions together with coherent energy loss and transverse momentum broadening. Hot-medium effects are evaluated with two transport approaches coupled to the same centrality-resolved 3+1D aHydroQP background: the QTRAJ-NLO open-quantum-system calculation, implemented with the {\sc QTraj} code, and the TAMU-NP semiclassical rates, including primordial suppression and regeneration. The CNM effects give a moderate, state-independent suppression, dominated by the nPDF modification. The energy loss and transverse momentum broadening contribution remains at the few-percent level. Both transport approaches predict a sequential suppression pattern, $R_{AA}^{Υ(1\rm{S})}&gt;R_{AA}^{Υ(2\rm{S})}&gt;R_{AA}^{Υ(3\rm{S})}$, with the strongest suppression around midrapidity in central collisions. The suppression of the ground state is similar in the two approaches but differs for the excited states. Since the CNM factor is common to all states, double ratios provide a direct measure of the relative hot-medium suppression. Our results support the conclusion that ${\rm O}+{\rm O}$ collisions at the LHC can produce a short-lived QGP capable of modifying bottomonium yields.&lt;/p&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 19:46:53 GMT</pubDate>
-      <guid isPermaLink="false">2609.16292v1</guid>
-      <dc:creator>Sabin Thapa</dc:creator>
-      <dc:creator>Biaogang Wu</dc:creator>
-      <dc:creator>Ramona Vogt</dc:creator>
-      <dc:creator>Ralf Rapp</dc:creator>
     </item>
     <item>
       <title>Neutron Skin Effects on Particle Emission in Heavy-Ion Collisions: A Topic Review with Astrophysical and Nuclear Structure Connections</title>
@@ -2226,17 +2248,6 @@
       <dc:creator>Thomas Duguet</dc:creator>
       <dc:creator>Yi Li</dc:creator>
       <dc:creator>Jiangming Yao</dc:creator>
-    </item>
-    <item>
-      <title>Photon production from gluon splitting and fusion induced by a magnetic field of arbitrary strength in relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2608.21600v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alejandro Ayala, Santiago Bernal-Langarica, José Jorge Medina-Serna, Ana Julia Mizher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We compute the yield and elliptic flow coefficient for photons produced during the pre-equilibrium stage of semi-central relativistic heavy-ion collisions from the gluon fusion and splitting processes induced by the presence of a magnetic field. The calculation is performed for arbitrary values of the field strength. The pre-equilibrium gluon distribution is modeled with a glasma-inspired Bose-Einstein occupation factor, as well as with an anisotropic distribution that accounts for the rapid initial expansion along the beam axis. In both cases, we find a very good agreement between the calculation and the experimental data from PHENIX. Most notably, the shape and strength of the elliptic flow coefficient are described quite well, representing a step towards solving the outstanding photon puzzle.&lt;/p&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 20:05:32 GMT</pubDate>
-      <guid isPermaLink="false">2608.21600v1</guid>
-      <dc:creator>Alejandro Ayala</dc:creator>
-      <dc:creator>Santiago Bernal-Langarica</dc:creator>
-      <dc:creator>José Jorge Medina-Serna</dc:creator>
-      <dc:creator>Ana Julia Mizher</dc:creator>
     </item>
   </channel>
 </rss>
