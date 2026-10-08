@@ -5,9 +5,28 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:24:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Comparison of pair-source and correlation-function based Lévy analyses in Ar+Sc system at SPS energies</title>
+      <link>http://arxiv.org/abs/2610.08141v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Barnabás Pórfy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Non-Gaussian features in femtoscopic observables have been observed in high-energy collisions, yet their origin remains not fully understood. This study focuses on the phenomenological approach to femtoscopy, going beyond the Gaussian approximation by utilizing Lévy-stable source distributions. Using UrQMD simulations, three-dimensional analyses of pion sources are done in central Ar+Sc collisions, and the extracted parameters are studied as functions of transverse mass and collision energy. This analysis contributes to a hadronic baseline motivated by past and future research work in femtoscopy at the NA61/SHINE experiment. A direct methodological comparison is presented between parameters extracted from the projections of three-dimensional pair-source distribution and those obtained from the three-dimensional correlation function, reconstructed via Fast Fourier Transform.&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 10:55:01 GMT</pubDate>
+      <guid isPermaLink="false">2610.08141v1</guid>
+      <dc:creator>Barnabás Pórfy</dc:creator>
+    </item>
+    <item>
+      <title>Early galactic heavy element production - a phenomenological approach</title>
+      <link>http://arxiv.org/abs/2610.08084v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; B. Wehmeyer, D. Blaschke, F. K. Röpke, G. Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.GA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The high abundances of heavy elements in early, extremely metal-poor stars is still an unsolved issue in Galactic Chemical Evolution (GCE). Standard approaches, such as mergers of neutron stars, have several difficulties, and several non-merger production channels are under discussion. Here, we suggest that pre-enriched inflow might explain the heavy elements seen in low metallicity stars in the Galaxy. To characterize the conditions of the origin of such a pre-enriched infall, we apply a heavy-element freeze-out approach. We characterize the initial distribution by Lagrange parameters which are nonequilibrium generalizations of temperature and chemical potentials. We then speculate about the origin of such a pre-enriched infall: The required nonequilibrium conditions might be found in cosmological fluctuations in the early Universe, and might be connected to the formation of primordial black holes.&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 10:14:46 GMT</pubDate>
+      <guid isPermaLink="false">2610.08084v1</guid>
+      <dc:creator>B. Wehmeyer</dc:creator>
+      <dc:creator>D. Blaschke</dc:creator>
+      <dc:creator>F. K. Röpke</dc:creator>
+      <dc:creator>G. Röpke</dc:creator>
+    </item>
     <item>
       <title>Data-driven measurements of the beauty hadron production in p-Pb collisions at \sqrt{s_{\mathrm{NN}}} = 5.02 and 8.16 TeV</title>
       <link>http://arxiv.org/abs/2610.05345v1</link>
@@ -136,17 +155,6 @@
       <dc:creator>ALICE Collaboration</dc:creator>
     </item>
     <item>
-      <title>The holographic QCD critical point is sensitive to quark flavors</title>
-      <link>http://arxiv.org/abs/2609.39598v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Niko Jokela, Matti Järvinen, Toshali Mitra, Aleksi Piispa&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the phase structure of dense QCD matter by applying the flavor-dependent holographic V-QCD model to two distinct physical environments: charge-neutral, beta-equilibrated matter, and strangeness-neutral matter with a fixed charge-to-baryon number ratio, n_Q/n_B = 0.4, relevant for heavy-ion collisions. The quark sector of the model incorporates the realistic mass hierarchy of two massless light quarks and a massive strange quark. We find that the resulting phase diagram depends sensitively on both the procedure used to tune the model against lattice QCD thermodynamics and the choice of physical environment. Using our preferred fitting procedure, we find that beta-equilibrated matter exhibits a first-order phase transition terminating at a critical endpoint located at significantly lower densities than in earlier holographic studies. However, this phase transition disappears entirely under heavy-ion conditions. This pronounced environmental dependence may help explain why recent net-proton cumulant measurements from Phase II of the RHIC Beam Energy Scan have not yet revealed clear non-monotonic fluctuation signatures. We calculate higher-order baryon number cumulant ratios along the chemical freeze-out curve to quantitatively compare the model predictions with experimental data. Finally, we also present global phase diagrams obtained by matching V-QCD to Hadron Resonance Gas models implemented in the Thermal-FIST package, and argue that this comparison further supports the conclusions drawn from the V-QCD model alone.&lt;/p&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 12:19:22 GMT</pubDate>
-      <guid isPermaLink="false">2609.39598v1</guid>
-      <dc:creator>Niko Jokela</dc:creator>
-      <dc:creator>Matti Järvinen</dc:creator>
-      <dc:creator>Toshali Mitra</dc:creator>
-      <dc:creator>Aleksi Piispa</dc:creator>
-    </item>
-    <item>
       <title>Advancing Nuclear Physics with Machine Learning and Artificial Intelligence</title>
       <link>http://arxiv.org/abs/2609.38711v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Wanbing He, Qingfeng Li, Yugang Ma, Zhongming Niu, Junchen Pei, Yingxun Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Machine learning (ML) and artificial intelligence (AI) are becoming powerful tools in scientific research across various disciplines. In this review, we summarize recent progress in AI-assisted studies of nuclear structure and reaction observables, heavy-ion collisions and dense nuclear matter properties, many-body wave functions, experimental facilities and data analysis. This review focus on new progress since the last review in 2023, and machine learning in nuclear physics is evolving from purely data inferences to physics informed learning. Future directions on the integration of physical knowledge with modern learning architectures, large foundation models and other emerging methods are also reviewed. These developments suggest that AI is enabling and advancing new approaches towards most challenging nuclear physics problems.&lt;/p&gt;</description>
@@ -158,18 +166,6 @@
       <dc:creator>Zhongming Niu</dc:creator>
       <dc:creator>Junchen Pei</dc:creator>
       <dc:creator>Yingxun Zhang</dc:creator>
-    </item>
-    <item>
-      <title>Quadrupolar logarithmic tidal response of Einstein Euler Heisenberg black holes: the role of the second electromagnetic invariant</title>
-      <link>http://arxiv.org/abs/2609.38649v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ramon Becar, P. A. Gonzalez, Ali Ovgun, Joel Saavedra, Yerko Vasquez&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We determine the quadrupolar logarithmic tidal response of electrically charged Einstein-Euler-Heisenberg black holes from the coupled static odd-parity gravitational and electromagnetic equations. Although the second electromagnetic invariant vanishes on the electric background, its quadratic interaction contributes to the axial fluctuation equations. At first order in the Euler-Heisenberg coupling $a$, a direct asymptotic recursion gives the canonical running matrix $C_{\rm can}^{\rm EH}=(9aQ^2/10)\left(\begin{smallmatrix}0&amp;-Q\\-Q&amp;M\end{smallmatrix}\right)$, deffined as the coefficients multiplying the canonical source vector in the $r^{-2}\log(r_0/r)$ term. The resulting local coefficients retain the full dependence on the the subextremal ratio $\frac{Q}{M}$ at this perturbative order. The two quartic invariants partially cancel in both nonzero channels, while the action-normalized fields make gravitoelectromagnetic reciprocity explicit. The local extremal limit of the running matrix reproduces the corresponding two-invariant effective-field-theory result after convention conversion. Allowing independent quartic couplings further shows that identical electric background geometries can have different axial running matrices and yields algebraic inverse relations within the specified two-operator model. The calculation determines local logarithmic running within minimally coupled quartic electrodynamics; the finite horizon-matched response requires an additional global matching calculation.&lt;/p&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 23:12:42 GMT</pubDate>
-      <guid isPermaLink="false">2609.38649v1</guid>
-      <dc:creator>Ramon Becar</dc:creator>
-      <dc:creator>P. A. Gonzalez</dc:creator>
-      <dc:creator>Ali Ovgun</dc:creator>
-      <dc:creator>Joel Saavedra</dc:creator>
-      <dc:creator>Yerko Vasquez</dc:creator>
     </item>
     <item>
       <title>Effective Contact Theory for Exotic Loosely Bound States in Strongly Interacting Expanding Matter</title>
@@ -406,15 +402,6 @@
       <dc:creator>Coleridge Faraday</dc:creator>
       <dc:creator>W. A. Horowitz</dc:creator>
       <dc:creator>Björn Schenke</dc:creator>
-    </item>
-    <item>
-      <title>Imprints of the nuclear liquid-gas phase transition on net-baryon number fluctuations</title>
-      <link>http://arxiv.org/abs/2609.17328v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mattia Recchi, Shi Yin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate net-baryon number fluctuations in the high-density, low-temperature region of the QCD phase diagram using the parity-doublet model (PDM) under the mean-field approximation. We compute the fluctuation ratios up to sixth order around the nuclear liquid-gas (LG) phase transition, where the high-order ratios are particularly sensitive. To connect the results with heavy-ion experiments, we test several different scenarios of chemical freeze-out. We find that near the LG transition the extracted fluctuations depend strongly on the choice of freeze-out curve. We self-consistently determine four freeze-out points from preliminary results of the STAR Collaboration. Comparing the experimental data with the PDM results along these four points, we find that the model describes the low energy ($\sqrt{s_{NN}}\lesssim$ 4 GeV) data well. This suggests that nucleon interactions and the LG phase transition may contribute significantly to the fluctuations in low energy heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 14:08:28 GMT</pubDate>
-      <guid isPermaLink="false">2609.17328v2</guid>
-      <dc:creator>Mattia Recchi</dc:creator>
-      <dc:creator>Shi Yin</dc:creator>
     </item>
     <item>
       <title>Measuring short-range correlations using relativistic heavy-ion collisions</title>
@@ -739,51 +726,6 @@
       <dc:creator>Roy A. Lacey</dc:creator>
     </item>
     <item>
-      <title>Rotational Brownian Motion and $\mathrm{J/ψ}$ Spin Alignment in Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2609.17486v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bhagyarathi Sahoo, Captain R. Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The heavy-quark polarization in ultra-relativistic heavy-ion collisions (HICs) serves as a probe for unfolding the characteristics of deconfined QCD. The present study explores the spin alignment of $\mathrm{J/ψ}$ in the HICs by employing the rotational Brownian motion of charm quarks in the presence of a strong magnetic field. We derive an analytical expression for the polarization of the $c$-$\bar{c}$ pair based on the Fokker-Planck equation under the consideration of spin-vorticity coupling. These polarized $c$-$\bar{c}$ pairs lead to the formation of the $\mathrm{J}/ψ$ at the hadronization surface via the coalescence and fragmentation mechanisms. Correspondingly, we obtain the $m=0$ diagonal element $ρ_{00}$ of the $\mathrm{J}/ψ$ spin-density matrix, which quantifies its spin alignment along the chosen quantization axis. Our study provides a microscopic description of heavy-quark spin transport and suggests rotational diffusion as a possible mechanism underlying the observed $\mathrm{J}/ψ$ spin alignment.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 17:28:20 GMT</pubDate>
-      <guid isPermaLink="false">2609.17486v1</guid>
-      <dc:creator>Bhagyarathi Sahoo</dc:creator>
-      <dc:creator>Captain R. Singh</dc:creator>
-    </item>
-    <item>
-      <title>An Extended Chiral Mean-Field Model with Medium-Modified Thermal Mesons for Hot and Dense Hadronic Matter</title>
-      <link>http://arxiv.org/abs/2609.17473v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Micheal Kahangirwe, Rajesh Kumar, Joaquin Grefa, Konstantin Maslov, Yuhan Wang, Arvind Kumar, Claudia Ratti, Veronica Dexheimer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this conference proceeding we review an extension of the Chiral Mean Field (CMF) model that consistently incorporates interacting thermal mesons with self-consistent in-medium masses. In this approach, the in-medium masses of pseudoscalar and vector mesons are evaluated through the explicit chiral symmetry-breaking and vector-interaction terms in the Lagrangian respectively, before applying the mean-field approximation. These medium-modified meson properties introduce additional feedback into the CMF equations of motion, leading to a revised equation of state. The impact of this refinement is analyzed by comparing the hadronic model predictions with recent lattice QCD data and other hadronic descriptions, such as the hadron resonance gas model. The modified CMF framework, featuring an improved meson treatment (mCMF),demonstrates enhanced consistency with lattice-QCD results for thermodynamic observables across a broad range of temperatures and baryon chemical potentials.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 17:14:35 GMT</pubDate>
-      <guid isPermaLink="false">2609.17473v1</guid>
-      <dc:creator>Micheal Kahangirwe</dc:creator>
-      <dc:creator>Rajesh Kumar</dc:creator>
-      <dc:creator>Joaquin Grefa</dc:creator>
-      <dc:creator>Konstantin Maslov</dc:creator>
-      <dc:creator>Yuhan Wang</dc:creator>
-      <dc:creator>Arvind Kumar</dc:creator>
-      <dc:creator>Claudia Ratti</dc:creator>
-      <dc:creator>Veronica Dexheimer</dc:creator>
-    </item>
-    <item>
-      <title>Including Thermal Mesons and Meson Resonances in the Chiral Mean-Field Equation of State</title>
-      <link>http://arxiv.org/abs/2609.17470v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Micheal Kahangirwe, Joaquin Grefa, Mateus Reinke Pelicer, Rajesh Kumar, Claudia Ratti, Veronica Dexheimer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Chiral Mean-Field (CMF) model describes dense matter in terms of baryons and quarks interacting through scalar and vector meson mean fields. In the mean-field approximation, the meson fields are replaced by their expectation values. Their role in generating interactions and in-medium properties is retained, but explicit thermal mesonic excitations are absent. This becomes increasingly problematic at high temperature, where mesons contribute significantly to the thermodynamics of hadronic matter. Here, we keep the original CMF description of dense matter and add the thermal mesonic degrees of freedom using the mesonic sector of the Hadron Resonance Gas (HRG) module in the MUSES framework. Ground-state pseudoscalar and vector mesons account for the missing thermal excitations, while mesonic resonances provide, within the HRG picture, an effective description of mesonic interactions through resonance formation. We study how these contributions affect the pressure, entropy density, energy density, and baryon density, and compare the resulting equation of state with continuum-extrapolated lattice-QCD calculations.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 17:12:53 GMT</pubDate>
-      <guid isPermaLink="false">2609.17470v1</guid>
-      <dc:creator>Micheal Kahangirwe</dc:creator>
-      <dc:creator>Joaquin Grefa</dc:creator>
-      <dc:creator>Mateus Reinke Pelicer</dc:creator>
-      <dc:creator>Rajesh Kumar</dc:creator>
-      <dc:creator>Claudia Ratti</dc:creator>
-      <dc:creator>Veronica Dexheimer</dc:creator>
-    </item>
-    <item>
-      <title>QCD phase structure at high baryon density</title>
-      <link>http://arxiv.org/abs/2609.17363v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Agnieszka Sorensen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Heavy-ion collisions provide unique access to the properties of QCD matter over a broad range of temperatures and baryon densities. We review recent progress in constraining the high-density phase structure of QCD, with particular emphasis on the microscopic inputs required for reliable transport modeling. We discuss cluster production, strange-particle interactions, collision dynamics at few-GeV energies, and the isospin dependence of the nuclear interaction, together with their impact on the interpretation of flow, yields, fluctuations, and possible critical signatures.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 16:02:11 GMT</pubDate>
-      <guid isPermaLink="false">2609.17363v1</guid>
-      <dc:creator>Agnieszka Sorensen</dc:creator>
-    </item>
-    <item>
       <title>Comment on &quot;Non-Monotonicity of Transverse-Momentum Correlations in Au+Au Collisions at RHIC&quot;</title>
       <link>http://arxiv.org/abs/2609.17279v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Roy A. Lacey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent measurements of two-particle transverse-momentum correlations, $C_{p_T}$, in Au+Au collisions have revealed a statistically significant non-monotonic beam-energy dependence over the range $\sqrt{s_{NN}}=3.0$--$7.7$~GeV that has been interpreted as potentially indicative of critical phenomena associated with a critical end point (CEP) in the QCD phase diagram. This interpretation is assessed in light of the absence of a controlled framework establishing $C_{p_T}$ as a quantitative proxy for the underlying critical response. The implications of this limitation are examined by considering the expected finite-size and finite-time modification of critical fluctuations, substantial non-critical dynamical contributions, the lack of demonstrated critical scaling, and the sizeable discrepancy between the CEP region inferred from the observed $C_{p_T}$ non-monotonicity and that constrained by susceptibility-based measurements and finite-size scaling analyses. Taken together, these considerations indicate that the observed $C_{p_T}$ non-monotonicity does not, by itself, establish a critical origin nor provide reliable quantitative constraints on the existence or location of a possible CEP.&lt;/p&gt;</description>
@@ -801,16 +743,6 @@
       <dc:creator>Dmitri E. Kharzeev</dc:creator>
       <dc:creator>Krishna Rajagopal</dc:creator>
       <dc:creator>Raimond Snellings</dc:creator>
-    </item>
-    <item>
-      <title>Quark fracture function at small $x$ from the Color Glass Condensate</title>
-      <link>http://arxiv.org/abs/2609.16953v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Caucal, Nolann Juet, Farid Salazar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The target-fragmentation region in deeply inelastic electron-nucleus scattering provides insight into the partonic structure of the target, as hadrons measured in the final state retain information about the nonperturbative dynamics of spectator partons inside the nucleus. In QCD factorization theorems, this nonperturbative dynamics is encoded in objects known as fracture functions. In this paper, we study the extended quark fracture function in the limit where the struck (anti)quark carries a very small longitudinal momentum fraction, $x$. We first present an elementary derivation within the Color Glass Condensate effective field theory of the quark fracture function in terms of the dipole operator at small $x$. At the parton level, the quark extended fracture function is sensitive to gluon saturation when the transverse momentum $P_\perp$ of the outgoing parton produced in the target-fragmentation region is smaller than the nuclear saturation scale $Q_s$, in which regime the $P_\perp$ distribution becomes approximately flat. We then show, through a numerical study that incorporates the convolution of this parton-level result with a collinear fragmentation function, that hadronization largely washes out these saturation effects, as the convolution predominantly probes partonic transverse momenta that are typically larger than $Q_s$.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 10:30:35 GMT</pubDate>
-      <guid isPermaLink="false">2609.16953v1</guid>
-      <dc:creator>Paul Caucal</dc:creator>
-      <dc:creator>Nolann Juet</dc:creator>
-      <dc:creator>Farid Salazar</dc:creator>
     </item>
     <item>
       <title>Neutron Skin Effects on Particle Emission in Heavy-Ion Collisions: A Topic Review with Astrophysical and Nuclear Structure Connections</title>
@@ -2235,19 +2167,6 @@
       <pubDate>Tue, 25 Aug 2026 17:09:35 GMT</pubDate>
       <guid isPermaLink="false">2608.24828v1</guid>
       <dc:creator>Jiangyong Jia</dc:creator>
-    </item>
-    <item>
-      <title>Ab initio anatomy of quadrupole correlations in $^{16}$O and $^{20}$Ne</title>
-      <link>http://arxiv.org/abs/2608.22699v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chenrong Ding, Benjamin Bally, Stavros Bofos, Thomas Duguet, Yi Li, Jiangming Yao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Azimuthal hadronic flow measured in ultra-relativistic ion--ion collisions provides a new means of imaging multipole correlations in the ground state of atomic nuclei. Early interpretations largely relied on a classical-rotor picture, in which the measured mean-square elliptic flow is directly related to an intrinsic quadrupole deformation. Atomic nuclei, however, contain additional many-body correlations generated by the Pauli exclusion principle, collective shape fluctuations and non-collective dynamical processes, whose impact on this correspondence has not yet been elucidated. Here, we resolve this issue through an ab initio analysis of $^{16}$O and $^{20}$Ne based on chiral nuclear interactions, combining the in-medium similarity renormalization group with the quantum-number-projected generator coordinate method. By successively isolating antisymmetrization, collective rotational and vibrational, and non-collective dynamical correlations, we determine, for the first time, how each component contributes to the mean-square quadrupole eccentricity. We uncover an unexpected compensation among these distinct correlation mechanisms: despite sizable individual contributions, the squared effective quadrupole deformation inferred from the elliptic flow remains close to the square intrinsic deformation of the nucleus. This result provides a microscopic explanation for the surprising success of the classical-rotor approximation and establishes a quantitative foundation for interpreting $^{16}$O+$^{16}$O and $^{20}$Ne+$^{20}$Ne collision data recently collected at the Large Hadron Collider.&lt;/p&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 01:35:38 GMT</pubDate>
-      <guid isPermaLink="false">2608.22699v1</guid>
-      <dc:creator>Chenrong Ding</dc:creator>
-      <dc:creator>Benjamin Bally</dc:creator>
-      <dc:creator>Stavros Bofos</dc:creator>
-      <dc:creator>Thomas Duguet</dc:creator>
-      <dc:creator>Yi Li</dc:creator>
-      <dc:creator>Jiangming Yao</dc:creator>
     </item>
   </channel>
 </rss>
