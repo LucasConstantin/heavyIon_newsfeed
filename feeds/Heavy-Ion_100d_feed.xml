@@ -5,9 +5,39 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:24:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:26:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>An effective macroscopic description of early-stage chemical equilibration in high-energy heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2610.10284v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anar Akbarov, Hendrik Roch, Chun Shen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The early stage of high-energy heavy-ion collisions undergoes transient dynamics, evolving non-perturbatively from a gluon-rich to a chemically equilibrated quark-gluon plasma. We develop an effective hydrodynamic approach that casts the microscopic quark equilibration dynamics as the relaxation evolution of an effective macroscopic bulk viscous pressure. The evolution of this effective bulk viscous pressure captures quark chemical equilibration and the breaking of conformal symmetry, thereby providing a smooth onset of the lattice QCD equation of state after a few fm/$c$ in the hydrodynamic evolution. We investigate phenomenological effects of this macroscopic description on final-state observables in $\mathrm{Pb}+\mathrm{Pb}$, $\mathrm{O}+\mathrm{O}$, and $\mathrm{p}+\mathrm{Pb}$ collisions at the Large Hadron Collider.&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 15:48:39 GMT</pubDate>
+      <guid isPermaLink="false">2610.10284v1</guid>
+      <dc:creator>Anar Akbarov</dc:creator>
+      <dc:creator>Hendrik Roch</dc:creator>
+      <dc:creator>Chun Shen</dc:creator>
+    </item>
+    <item>
+      <title>Bottomonium suppression with a machine-learning-informed Debye mass</title>
+      <link>http://arxiv.org/abs/2609.09047v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ajaharul Islam, Shibo Chen, Fu-Peng Li, Long-Gang Pang, Guang-You Qin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Motivated by recent progress in data-driven approaches, we introduce a machine-learning (ML)-informed Debye mass, extracted from lattice-informed inputs, exclusively in the complex-valued heavy-quark Kent State University (KSU) potential. The resulting complex potential is used to solve the real-time Schrödinger equation within the quantum trajectories (QTraj) framework for the evolution of bottomonium in the quark-gluon plasma. We then compute the nuclear modification factors and double ratios for bottomonium $Υ(1S)$, $Υ(2S)$, and $Υ(3S)$ states in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV. We compare our ML-induced results with those from the original KSU model and with experimental measurements from ALICE, ATLAS, and CMS collaborations. We find that the machine-learned Debye mass leads to improved agreement with data, particularly for excited states, highlighting the utility of machine learning in modeling in-medium QCD effects.&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 12:30:37 GMT</pubDate>
+      <guid isPermaLink="false">2609.09047v2</guid>
+      <dc:creator>Ajaharul Islam</dc:creator>
+      <dc:creator>Shibo Chen</dc:creator>
+      <dc:creator>Fu-Peng Li</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+      <dc:creator>Guang-You Qin</dc:creator>
+    </item>
+    <item>
+      <title>Event-by-event net-charge fluctuations in pp, OO, Ne-Ne, and Pb-Pb collisions with ALICE at the LHC</title>
+      <link>http://arxiv.org/abs/2610.09586v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nida Malik&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Investigations involving the event-by-event fluctuations of conserved quantities, like net charge, net baryon number, and strangeness in heavy-ion collisions, provide insights into the properties of quark-gluon plasma (QGP) and the phase diagram of strongly interacting matter. Event-by-event fluctuations of net electric charge in pp collisions at $\sqrt{s} = 13$ and $13.6$ TeV and for OO, Ne-Ne, and Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}} = 5.36$ TeV are studied by analysing the data collected by the ALICE detector at CERN Large Hadron Collider. The analysis is carried out in terms of the variable $ν_{\mathrm{dyn}}[+,-]$, chosen for its robustness against detector efficiency losses. The observed dependence of $ν_{\mathrm{dyn}}[+,-]$ on the charged-particle density shows a smooth, energy-independent decrease in the magnitude of $ν_{\mathrm{dyn}}[+,-]$ from smaller to larger collision systems. The negative values of $ν_{\mathrm{dyn}}[+,-]$ indicate a dominance of correlations between oppositely charged particle pairs compared with those arising from like-sign charge pairs. Since $ν_{\mathrm{dyn}}[+,-]$ is known to have an intrinsic dependence on multiplicity, an appropriate scaling is applied. The variable is therefore scaled with the mean multiplicities, $\frac{1}{\frac{1}{\langle N_+ \rangle} + \frac{1}{\langle N_- \rangle}}$. The dependence of the scaled values of $ν_{\mathrm{dyn}}[+,-]$ on charged particle density is also looked into. The results are compared with model calculations from PYTHIA, EPOS4, AMPT and HIJING.&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 07:30:43 GMT</pubDate>
+      <guid isPermaLink="false">2610.09586v1</guid>
+      <dc:creator>Nida Malik</dc:creator>
+    </item>
     <item>
       <title>Comparison of pair-source and correlation-function based Lévy analyses in Ar+Sc system at SPS energies</title>
       <link>http://arxiv.org/abs/2610.08141v1</link>
@@ -26,6 +56,19 @@
       <dc:creator>D. Blaschke</dc:creator>
       <dc:creator>F. K. Röpke</dc:creator>
       <dc:creator>G. Röpke</dc:creator>
+    </item>
+    <item>
+      <title>A Differentiable Surrogate for Loss-Dominated Ion Beam Transport</title>
+      <link>http://arxiv.org/abs/2610.08877v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jose M. Munoz-Arias, Laura Ruiz-Arango, Derick Gonzalez-Acevedo, Fabian C. Pastrana-Cruz, Jackson Hacias, Ronald F. Garcia Ruiz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Radioactive nuclei with extreme proton-to-neutron ratios provide unique probes of nuclear structure, fundamental symmetries, astrophysical processes, and applications such as medicine. However, their short half-lives and low production rates mean that experiments must work with few desired ions, often amid contaminant backgrounds exceeding the signal by six orders of magnitude. Efficiently isolating, transporting, and delivering these ions through multi-stage apparatus is therefore a central challenge. We introduce a differentiable probabilistic surrogate for ion-beam transport in regimes dominated by particle loss. The model jointly captures the survival probability of ions along the beamline and the evolving phase-space distribution of the surviving particles by combining discrete-time survival analysis with conditional normalizing flows. Applied to a high-dimensional electrostatic beamline, the resulting likelihood enables gradient-based optimization of operating voltages and inference of beam properties from sparse detector observations. Once trained, the surrogate provides millisecond-scale differentiable predictions, transforming particle-tracking simulations with hard losses into an inference-ready model for experimental design, beamline optimization, and future digital twins of experiments with rare nuclei.&lt;/p&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 06:15:11 GMT</pubDate>
+      <guid isPermaLink="false">2610.08877v1</guid>
+      <dc:creator>Jose M. Munoz-Arias</dc:creator>
+      <dc:creator>Laura Ruiz-Arango</dc:creator>
+      <dc:creator>Derick Gonzalez-Acevedo</dc:creator>
+      <dc:creator>Fabian C. Pastrana-Cruz</dc:creator>
+      <dc:creator>Jackson Hacias</dc:creator>
+      <dc:creator>Ronald F. Garcia Ruiz</dc:creator>
     </item>
     <item>
       <title>Data-driven measurements of the beauty hadron production in p-Pb collisions at \sqrt{s_{\mathrm{NN}}} = 5.02 and 8.16 TeV</title>
@@ -52,7 +95,7 @@
       <dc:creator>Tetsufumi Hirano</dc:creator>
     </item>
     <item>
-      <title>Particle emission from $^{40}$Ar nuclei excited in fixed-target $^{208}$Pb+$^{40}$Ar UPC at the LH</title>
+      <title>Particle emission from $^{40}$Ar nuclei excited in fixed-target $^{208}$Pb+$^{40}$Ar UPC at the LHC</title>
       <link>http://arxiv.org/abs/2610.04738v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; P. Jucha, M. Klusek-Gawenda, K. Mazurek, L. L. Pappalardo, K. Pysz, A. Szczurek&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultraperipheral collisions of heavy ions, dominated by the electromagnetic interaction, allow to investigate the photoproduction of baryons and mesons from the excited nuclei. At LHCb, thanks to the SMOG2 system, these studies can also be conducted in fixed-target collisions, exploiting a variety of target gases ranging from $^{4}$He to Xe. In the present work, we adapted our photonuclear model and the Giesen-Boltzmann-Uehling-Uhlenbeck (GiBUU) generator to study photoproduction of protons, neutrons as well as pions and kaons from excited $^{40}$Ar nuclei in fixed-target ultraperipheral collisions with the LHC $^{208}$Pb beam. We present predictions for the total and differential photoproduction cross sections in $p$ and $p_T$, both in the full phase-space and within the geometrical acceptance of the LHCb detector.&lt;/p&gt;</description>
       <pubDate>Sat, 03 Oct 2026 20:03:44 GMT</pubDate>
@@ -700,15 +743,6 @@
       <dc:creator>Weiyao Ke</dc:creator>
     </item>
     <item>
-      <title>Long-Lived False-vacuum-Trapped Self-Bound Neutron-rich Droplets</title>
-      <link>http://arxiv.org/abs/2609.19433v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jingdong Shao, Mei Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose a novel class of anomalous nuclear matter: self-bound, neutron-rich droplets trapped in false vacuum associated with the nuclear liquid-gas phase transition in heavy-ion collisions. During the early stage of the fireball expansion, strongly correlated local clusters dynamically decouple from the bulk medium and are excited into the liquid phase. As the ambient fireball cools rapidly, these clusters are quenched into metastable anomalous droplets with isospin asymmetry from ambient neutron-enrichment. Mechanical equilibrium among nuclear pressure difference, Coulomb repulsion, and surface tension stabilizes droplets at radii of order $\mathcal{O}(10)$ fm. Isospin asymmetry induces high potential barrier that suppresses decay channels, yielding long lifetimes. These droplets are expected to exhibit characteristic charge-to-mass ratios distinct from conventional neutron-rich nuclei, providing clear experimental signatures for future heavy-ion collision searches.&lt;/p&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 21:13:39 GMT</pubDate>
-      <guid isPermaLink="false">2609.19433v1</guid>
-      <dc:creator>Jingdong Shao</dc:creator>
-      <dc:creator>Mei Huang</dc:creator>
-    </item>
-    <item>
       <title>From Nuclear Many-Body Correlations to Energy Detector Correlators</title>
       <link>http://arxiv.org/abs/2609.18754v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Giuliano Giacalone&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic nuclear collisions have opened an experimental arena for studying many-body correlations in nuclear ground states. However, the connection between initial-state correlations and final-state multi-particle observables measured at colliders is not yet formulated as a systematically improvable matching problem. We show that detector correlators built from asymptotic energy flows provide a natural framework for realizing such a construction. In particular, we express the asymptotic energy flow as a functional of the early-time stress tensor, and expand it in suitable modes to recover the familiar linear hydrodynamic relations at leading order. Then, motivated by small-$x$ QCD, we map angular projections of detector correlators to multipole-operator correlators computed in the colliding nuclei. We thus establish a systematic formalism for matching long-wavelength correlations between incoming and outgoing QCD states in high-energy hadronic collisions.&lt;/p&gt;</description>
@@ -841,18 +875,6 @@
       <dc:creator>N. Tsoneva</dc:creator>
       <dc:creator>A. Volya</dc:creator>
       <dc:creator>V. Werner</dc:creator>
-    </item>
-    <item>
-      <title>Bottomonium suppression with a machine-learning-informed Debye mass</title>
-      <link>http://arxiv.org/abs/2609.09047v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ajaharul Islam, Shibo Chen, Fu-Peng Li, Long-Gang Pang, Guang-You Qin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Motivated by recent progress in data-driven approaches, we introduce a machine-learning (ML)-informed Debye mass, extracted from lattice-informed inputs, exclusively in the complex-valued heavy-quark Kent State University (KSU) potential. The resulting complex potential is used to solve the real-time Schrödinger equation within the quantum trajectories (QTraj) framework for the evolution of bottomonium in the quark-gluon plasma. We then compute the nuclear modification factors and double ratios for bottomonium $Υ(1S)$, $Υ(2S)$, and $Υ(3S)$ states in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV. We compare our ML-induced results with those from the original KSU model and with experimental measurements from ALICE, ATLAS, and CMS collaborations. We find that the machine-learned Debye mass leads to improved agreement with data, particularly for excited states, highlighting the utility of machine learning in modeling in-medium QCD effects.&lt;/p&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 17:08:52 GMT</pubDate>
-      <guid isPermaLink="false">2609.09047v1</guid>
-      <dc:creator>Ajaharul Islam</dc:creator>
-      <dc:creator>Shibo Chen</dc:creator>
-      <dc:creator>Fu-Peng Li</dc:creator>
-      <dc:creator>Long-Gang Pang</dc:creator>
-      <dc:creator>Guang-You Qin</dc:creator>
     </item>
     <item>
       <title>News from NA61/SHINE</title>
