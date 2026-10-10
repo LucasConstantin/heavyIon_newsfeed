@@ -5,9 +5,44 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:26:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Machine Learning Meets High-Energy Nuclear Physics: From Pattern Recognition to Physics-Integrated Discovery</title>
+      <link>http://arxiv.org/abs/2610.12293v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xun Chen, Weiyao Ke, Yu-Gang Ma, Long-Gang Pang, Kai Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Machine learning (ML) in high-energy nuclear physics (HENP) is entering a new stage in which physical knowledge is incorporated more directly into data analysis, simulation, and physics inference. This mini-review focuses on developments that have matured in the past several years. Whereas earlier applications emphasized event classification, pattern recognition, and surrogate models for selected observables, recent work has moved toward physics-integrated workflows: calibrated Bayesian extraction of QCD matter properties, dense-matter equation-of-state inference from heavy-ion and neutron-star data, generative event modeling, neural unfolding of weak physical signals, differentiable inverse solvers, gauge-equivariant and diffusion-based lattice-field samplers, and neural reconstruction of model functions in holographic QCD. We survey recent applications of ML in heavy-ion collisions, neutron-star physics, lattice QFT, and holographic or continuum QCD. The emphasis is not on ML architectures alone, but on how they enter concrete physics workflows, how physical constraints such as symmetries, conservation laws, causality, thermodynamic stability, and topology are imposed, and how uncertainty quantification and validation determine whether an AI-assisted result can support a reliable physics conclusion.&lt;/p&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 16:47:33 GMT</pubDate>
+      <guid isPermaLink="false">2610.12293v1</guid>
+      <dc:creator>Xun Chen</dc:creator>
+      <dc:creator>Weiyao Ke</dc:creator>
+      <dc:creator>Yu-Gang Ma</dc:creator>
+      <dc:creator>Long-Gang Pang</dc:creator>
+      <dc:creator>Kai Zhou</dc:creator>
+    </item>
+    <item>
+      <title>Beam filamentation instability drives deuterium-tritium fusion with polarized neutron emission</title>
+      <link>http://arxiv.org/abs/2610.11061v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Guanqi Qiu, Deji Liu, Dongchi Cai, Ronghao Hu, Zheng Gong, Xueqing Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.plasm-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Filamentation instabilities are generally regarded as detrimental to fast-electron transport in fusion plasmas because they increase beam divergence and redistribute deposited energy. Here, we use two-dimensional particle-in-cell simulations coupled to a spin-dependent deuterium-tritium fusion module to investigate whether filamentation can instead transfer energy from counterstreaming electrons to prepolarized fusion ions. The simulations show that magnetic filaments, together with longitudinal inductive and transverse charge-separation electric fields, accelerate initially stationary deuterons and tritons to energies at which fusion reactions occur. Over the parameter range examined, the calculated neutron yield increases with the saturated magnetic-field energy. The model further predicts anisotropic, spin-resolved neutron emission. The direction of maximum neutron polarization is approximately perpendicular to the dominant deuterium-tritium collision direction and evolves with the angular distribution of the reacting ions. These results suggest that beam filamentation can couple relativistic-electron energy to fusion ions and that polarized neutron emission may provide a reaction-weighted signature of the underlying plasma dynamics.&lt;/p&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 01:21:27 GMT</pubDate>
+      <guid isPermaLink="false">2610.11061v1</guid>
+      <dc:creator>Guanqi Qiu</dc:creator>
+      <dc:creator>Deji Liu</dc:creator>
+      <dc:creator>Dongchi Cai</dc:creator>
+      <dc:creator>Ronghao Hu</dc:creator>
+      <dc:creator>Zheng Gong</dc:creator>
+      <dc:creator>Xueqing Yan</dc:creator>
+    </item>
+    <item>
+      <title>Quantum Localization Limit of Transport-Based Femtoscopy</title>
+      <link>http://arxiv.org/abs/2610.10892v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jiaxing Zhao, Joerg Aichelin, Elena Bratkovskaya&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Femtoscopic correlations in proton-proton and heavy ion collisions are commonly calculated using emission sources from microscopic transport models, where emitted particles are represented by classical phase-space points with simultaneously specified positions and momenta. This point-emitter picture neglects the finite phase-space localization required by quantum mechanics, which can become relevant when the localization scale approaches the femtoscopic source size, particularly in small collision systems. We formulate a quantum treatment by replacing each transport phase-space point with a minimum-uncertainty Gaussian phase-space distribution. Finite localization then induces both spatial and momentum smearing; in the presence of coordinate-momentum correlations, the latter produces a nontrivial modification of the emission source. Using proton--proton collisions at $\sqrt{s}=7~\mathrm{TeV}$ simulated with the microscopic Parton--Hadron--String Dynamics transport approach, we show that this effect significantly modifies the proton-pair source and its momentum correlation. Our results expose a quantum localization effect overlooked in transport-based femtoscopy and establish the regime in which the classical point-emitter approximation is valid.&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 20:50:08 GMT</pubDate>
+      <guid isPermaLink="false">2610.10892v1</guid>
+      <dc:creator>Jiaxing Zhao</dc:creator>
+      <dc:creator>Joerg Aichelin</dc:creator>
+      <dc:creator>Elena Bratkovskaya</dc:creator>
+    </item>
     <item>
       <title>An effective macroscopic description of early-stage chemical equilibration in high-energy heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2610.10284v1</link>
@@ -731,16 +766,6 @@
       <dc:creator>Lukas Opitz</dc:creator>
       <dc:creator>Amit Kumar</dc:creator>
       <dc:creator>Gojko Vujanovic</dc:creator>
-    </item>
-    <item>
-      <title>Adiabatic hydrodynamization with transverse spatial gradients in boost-invariant plasmas</title>
-      <link>http://arxiv.org/abs/2609.20705v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Uri Sharell, Jasmine Brewer, Weiyao Ke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The quantitative success of relativistic viscous hydrodynamics in describing the short-lived quark--gluon plasma raises a fundamental question: how does far-from-equilibrium QCD matter approach hydrodynamic behavior so rapidly? Microscopic kinetic-theory studies have related this onset to attractor dynamics, but typically assume transverse homogeneity. We relax this assumption by introducing gradient modes with finite transverse wave number $k$, extending the analysis of arXiv:2212.00820. These couple different spherical harmonics of the momentum distribution, and the resulting dynamics is controlled by the competition among the expansion rate $1/τ$, the collision rate $1/τ_R$, and the gradient scale $k$. At early times, longitudinal expansion suppresses this coupling, and different spherical harmonic sectors follow their homogeneous attractors. We find that, at later times and sufficiently small $k$, this gradient coupling drives the system toward a global attractor manifold spanned by hydrodynamic sound and shear modes, on a timescale $τ_D$ that depends on both the azimuthal harmonic $m$ and $kτ_R$. For sufficiently large $kτ_R$, the spectral gap closes: perturbations retain finite damping rates and therefore equilibrate, but no longer follow an isolated hydrodynamic attractor or admit a reduced description involving only a few hydrodynamic modes.&lt;/p&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 17:05:16 GMT</pubDate>
-      <guid isPermaLink="false">2609.20705v1</guid>
-      <dc:creator>Uri Sharell</dc:creator>
-      <dc:creator>Jasmine Brewer</dc:creator>
-      <dc:creator>Weiyao Ke</dc:creator>
     </item>
     <item>
       <title>From Nuclear Many-Body Correlations to Energy Detector Correlators</title>
