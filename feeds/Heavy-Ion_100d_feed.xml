@@ -5,9 +5,87 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:21:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Virtual photon bremsstrahlung in a magnetized quark-gluon-plasma</title>
+      <link>http://arxiv.org/abs/2610.18749v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aritra Bandyopadhyay, Krzysztof Redlich, Chihiro Sasaki&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate dilepton production via virtual quark bremsstrahlung in a hot, magnetized quark-gluon plasma (QGP), extending the Landau-Pomeranchuk-Migdal (LPM) framework to account for a background magnetic field and for Fermi-Dirac quark statistics. An external electromagnetic field drives the quark distribution out of equilibrium, and this off-equilibrium correction, obtained from the Boltzmann equation in the relaxation-time approximation, is in principle explicit in the electric and magnetic field strengths. We argue that this correction, being linear in the electric field, vanishes identically upon integration over the full dilepton solid angle and therefore does not contribute to the dilepton production rate (DPR). The leading magnetic-field signature in the rate instead enters entirely through the equilibrium sector: the medium density and Debye screening mass, computed from the Landau-level structure of the magnetized QGP, modifying the LPM suppression parameter. Working in the regime relevant to the hydrodynamic phase of heavy-ion collisions, we present the LPM-induced DPR for quark scatterers and establish, for the first time, a nonzero magnetic-field imprint on this observable through the LPM mechanism.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:15:15 GMT</pubDate>
+      <guid isPermaLink="false">2610.18749v1</guid>
+      <dc:creator>Aritra Bandyopadhyay</dc:creator>
+      <dc:creator>Krzysztof Redlich</dc:creator>
+      <dc:creator>Chihiro Sasaki</dc:creator>
+    </item>
+    <item>
+      <title>Shear viscosity from fluctuations in linearized relativistic hydrodynamics</title>
+      <link>http://arxiv.org/abs/2610.18554v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jakub Sterba, Iurii Karpenko, Marlene Nahrgang, Boris Tomasik&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work we incorporate thermal fluctuations into fluid-dynamic simulations with the vHLLE code, in linear approximation. The fluctuations are built in following the fluctuation-dissipation theorem. The effect of space discretization into cells in numerical hydrodynamics on the spatial correlation of fluctuations is studied with the help of static structure factor. A difference from the continuum result is pointed out and systematically investigated. Time evolution of the ensuing fluctuations is examined and the Green-Kubo formula is used for the extraction of shear viscosity from the fluctuations. The extracted value is demonstrated to be the same as the input value of the shear viscosity for the simulations using Israel-Stewart equations. It is also shown that numerical regulators commonly used in the codes to ensure stability of the calculation severely spoil the fluctuations and break the fluctuation-dissipation theorem.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 15:28:24 GMT</pubDate>
+      <guid isPermaLink="false">2610.18554v1</guid>
+      <dc:creator>Jakub Sterba</dc:creator>
+      <dc:creator>Iurii Karpenko</dc:creator>
+      <dc:creator>Marlene Nahrgang</dc:creator>
+      <dc:creator>Boris Tomasik</dc:creator>
+    </item>
+    <item>
+      <title>Femtoscopic parameters of pion emission sources in EPOS4 Au+Au collisions from 7.7 to 200 GeV</title>
+      <link>http://arxiv.org/abs/2610.18257v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yan Huang, Máté Csanád&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Three-dimensional femtoscopy probes the space-time structure of particle-emitting sources in relativistic heavy-ion collisions. The collision-energy dependence of Lévy source parameters may reveal the evolution of strongly interacting matter and possible signatures of the QCD phase diagram. We previously studied the excitation function of three-dimensional Lévy source parameters for pion pairs in Au+Au collisions with EPOS4, analyzing the pair-distance distribution \(D(ρ)\) through one-dimensional projections. Here, we analyze the full three-dimensional source distribution and correlation function directly. We construct \(D(ρ_{\rm out},ρ_{\rm side},ρ_{\rm long})\) as a 3D histogram, transform it into \(C(q_{\rm out},q_{\rm side},q_{\rm long})\) using a Fast Fourier Transform, and fit the correlation function with the analytic Lévy formula. This approach can reduce biases arising when one-dimensional projections are used to describe a non-elliptical source. We apply the method across the RHIC Beam Energy Scan range and compare the extracted energy dependence with results from the projection-based method and recent UrQMD calculations. We focus on the out-side observables \(R_{\rm diff}^{2}=R_{\rm out}^{2}-R_{\rm side}^{2}\) and \(R_{\rm out}/R_{\rm side}\), whose different energy dependences in EPOS4 and UrQMD may illuminate the roles of emission duration and source dynamics. This work establishes a direct three-dimensional framework for comparison with future femtoscopic measurements and for exploring possible non-monotonic structures associated with the QCD phase diagram.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 12:23:22 GMT</pubDate>
+      <guid isPermaLink="false">2610.18257v1</guid>
+      <dc:creator>Yan Huang</dc:creator>
+      <dc:creator>Máté Csanád</dc:creator>
+    </item>
+    <item>
+      <title>Contribution of incomplete fusion to the evaporation residue cross sections in the $^{30}$Si$+^{186}$W reaction</title>
+      <link>http://arxiv.org/abs/2610.17850v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bakhodir Kayumov, Avazbek Nasirov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The formation of the evaporation residues in the $^{30}$Si$+^{186}$W reaction leading to the compound nucleus $^{216}$Ra$^*$ has been studied in the framework of the dinuclear system (DNS) model. The capture, complete fusion, quasifission, and incomplete fusion cross sections have been calculated at the collision energies $E_{c.m.}=107.6-172.2$MeV by averaging over the orientation angles of the axial symmetry axes of the deformed $^{30}$Si and $^{186}$W nuclei. The incomplete fusion is considered as the breakup of the DNS with the emission of the $α$ particle from its very mass-asymmetric configuration, which is populated by the nucleon transfer in collisions with large orbital angular momentum. The survival probabilities of the excited $^{216}$Ra and of the conjugate nucleus $^{212}$Rn formed after the $α$-particle emission have been calculated using the statistical model. It is shown that the complete fusion is the main source of the evaporation residues at the lower collision energies, while above $E_{c.m.}=128$MeV the Rn isotopes formed in the incomplete fusion give more than half of the calculated evaporation residue cross section. The sum of both contributions describes the slow decrease of the measured total evaporation residue cross section at these energies, where the yield of the Ra isotopes decreases by an order of magnitude. The calculation of the de-excitation of $^{216}$Ra$^*$ with the emission of protons and $α$ particles shows that the contribution of the complete fusion to the cross sections of the isotopes $^{212}$Rn and $^{211}$Rn is negligible, and these isotopes are formed in the incomplete fusion. The fusion probability calculated for the partial waves $\ell\leq30\hbar$ is about 0.75 in comparison with the value $0.57\pm0.08$ extracted from the experimental data at the same collision energies.&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 07:15:20 GMT</pubDate>
+      <guid isPermaLink="false">2610.17850v1</guid>
+      <dc:creator>Bakhodir Kayumov</dc:creator>
+      <dc:creator>Avazbek Nasirov</dc:creator>
+    </item>
+    <item>
+      <title>Out-of-time-order hydrodynamics and scrambling</title>
+      <link>http://arxiv.org/abs/2610.16888v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marta Bucca, Akash Jain, Márk Mezei, Alexey Milekhin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hydrodynamics as an effective field theory (EFT) has been immensely successful for predicting the behaviour of time-ordered correlation functions in the long-time, large-distance regime. In this paper, we analyse the predictions of hydrodynamics for scrambling as probed by out-of-time order correlators (OTOCs). To do so, we consider an all-derivative order generalisation of the Schwinger-Keldysh EFT of hydrodynamics extended to a four-fold time contour required to capture OTOCs. A crucial ingredient of the construction is a local SL(2,R) symmetry, which has previously been suggested as a mechanism for scrambling. We also derive this exact EFT from the microscopic formulation of the maximally chaotic low-temperature limit of the SYK lattice, thereby determining all transport coefficients for this model. As a novel application, we compute the OTOC of energy currents, find that its exponential growth saturates the chaos bound, and match it to expectations based on a shockwave (or scramblon) effective description. Our work shows that the universality of hydrodynamics degrees of freedom extends beyond traditional time-ordered correlators to more complex observables such as OTOCs.&lt;/p&gt;</description>
+      <pubDate>Mon, 12 Oct 2026 14:46:20 GMT</pubDate>
+      <guid isPermaLink="false">2610.16888v1</guid>
+      <dc:creator>Marta Bucca</dc:creator>
+      <dc:creator>Akash Jain</dc:creator>
+      <dc:creator>Márk Mezei</dc:creator>
+      <dc:creator>Alexey Milekhin</dc:creator>
+    </item>
+    <item>
+      <title>Conserved-charge diffusion in hot and dense QCD matter</title>
+      <link>http://arxiv.org/abs/2610.16829v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dushmanta Sahu, Kangkan Goswami, Raghunath Sahoo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the coupled diffusion of baryon number, electric charge, and strangeness in hot and dense quark matter using a three-flavor Nambu-Jona-Lasinio model with self-consistently generated constituent quark masses. The complete diffusion matrix is evaluated within a relaxation-time kinetic approach, including its diagonal and off-diagonal components. We find that the off-diagonal transport coefficients exhibit distinct temperature and baryon-chemical-potential dependence associated with the flavor-dependent composition of the charge carriers. We further investigate generalized charge diffusivities and mobilities obtained from the corresponding susceptibilities. At finite baryon chemical potential, the baryon and strangeness mobility scales cross, reflecting the different density dependence of their transport coefficients and susceptibilities. The results provide model benchmarks for coupled conserved-charge transport in baryon-rich QCD matter.&lt;/p&gt;</description>
+      <pubDate>Mon, 12 Oct 2026 14:10:58 GMT</pubDate>
+      <guid isPermaLink="false">2610.16829v1</guid>
+      <dc:creator>Dushmanta Sahu</dc:creator>
+      <dc:creator>Kangkan Goswami</dc:creator>
+      <dc:creator>Raghunath Sahoo</dc:creator>
+    </item>
+    <item>
+      <title>Holographic theory of non-invertible gravitational anomalies</title>
+      <link>http://arxiv.org/abs/2610.15358v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-Gang Wen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We review a many-body formulation of gravitational anomalies as obstructions to realizing the complete low-energy data by a local {\it bosonic} lattice quantum system of the same dimension. In this formulation, an anomalous theory can be realized at the boundary of a gapped {\it bosonic} lattice bulk, whose topological order gives a one-to-one classification of the anomaly. An invertible bulk reproduces conventional anomaly inflow; a bulk with non-trivial topological excitations yields a non-invertible generalization. To describe the holographic theory of anomalies, we explain the distinction between uniquely defined topological order and many versions of topological quantum field theory and discuss the boundary-to-bulk map. As an application of the holographic theory of anomalies, we describe morphisms between local quantum theories (such as quantum field theories). These morphisms are built from a bulk domain wall and an invertible boundary junction, which give rise to a sandwich picture. Chiral boson/fermion theory, Laughlin edges, and boundaries of $\mathbb{Z}_2$ higher gauge theory with bosonic or fermionic point-like excitations illustrate the different kinds of information about non-invertible anomalies contained in transport coefficients, superselection sectors, and condensation data. In particular, a fermionic theory can be viewed as a theory with a particular non-invertible gravitational anomaly. Those examples also reveal that {\it symmetry $\sim$ gravitational anomaly $\sim$ topological order in one higher dimension}.&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 05:32:59 GMT</pubDate>
+      <guid isPermaLink="false">2610.15358v1</guid>
+      <dc:creator>Xiao-Gang Wen</dc:creator>
+    </item>
+    <item>
+      <title>Deconfinement and the Charge Susceptibility Matrix of QCD</title>
+      <link>http://arxiv.org/abs/2610.14386v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Christopher Grace, Brady Mowbray, Christopher Plumberg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At sufficiently high temperatures, lattice Quantum Chromodynamics (QCD) calculations predict that nuclear matter undergoes a rapid crossover to a novel, deconfined state known as the quark-gluon plasma (QGP), in which quark flavors essentially behave like independent particles. Here we explore the nature of this transition by introducing two new thermodynamic observables which we refer to as the diagonality and the rescaled curvature of the QCD equation of state (EoS). By comparing these observables in the case of lattice QCD calculations with those of simple toy models and more sophisticated hadronic resonance models, we show that both the diagonality and the rescaled curvature provide complementary insights into the degree of independence between different quark flavors and the underlying degrees of freedom in the system as functions of temperature. We propose that these observables may help to clarify the nature of the transition region and the onset of deconfinement in nuclear matter.&lt;/p&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 23:13:39 GMT</pubDate>
+      <guid isPermaLink="false">2610.14386v1</guid>
+      <dc:creator>Christopher Grace</dc:creator>
+      <dc:creator>Brady Mowbray</dc:creator>
+      <dc:creator>Christopher Plumberg</dc:creator>
+    </item>
     <item>
       <title>Final-state centrality in relativistic heavy-ion simulations from neural networks</title>
       <link>http://arxiv.org/abs/2610.13828v1</link>
@@ -44,6 +122,14 @@
       <guid isPermaLink="false">2610.13352v1</guid>
       <dc:creator>Bence Szentkuti</dc:creator>
       <dc:creator>Mate Csanad</dc:creator>
+    </item>
+    <item>
+      <title>Comment on arXiv:2604.27678</title>
+      <link>http://arxiv.org/abs/2610.14114v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; V. A. Kizka&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Shuang-Jie Liu et al. (arXiv:2604.27678) reported that the momentum-dependent nuclear mean field (MDI) with $K_0 = 230$ MeV 'can fit fairly' the experimental data for Au + Au collisions at $\sqrt{s_{NN}} = 3$ GeV, whereas the momentum-independent nuclear mean fields (MID) with $K_0 = 230$ MeV and $K_0 = 380$ MeV 'can only partially describe' the experimental results. We quantify these statements by performing $χ^2$ goodness-of-fit tests for the comparison between the theoretical calculations and the experimental distributions presented in that work. For the complete set of data, all three calculations show highly statistically significant disagreement with the experimental data, with (p-value) p &lt; 0.001. For the $0-10\%$ centrality class, however, the MDI calculation with $K_0 = 230$ MeV gives p = 0.49, indicating no statistically significant disagreement with the experimental data for the proton transverse-momentum distributions and the rapidity dependence of the mean transverse momentum, whereas both MID calculations give p &lt; 0.001. For the $10-40\%$ centrality class, the analysis of the directed flows of protons, $K^+$ mesons, and $Λ$-hyperons gives the largest p-values for MDI with $K_0 = 230$ MeV and MID with $K_0 = 380$ MeV, with p = 1.00 and p = 0.97, respectively. In contrast, the analysis of the corresponding elliptic flow data gives p &lt; 0.001 for all three calculations. Our results demonstrate that the qualitative statements 'fit fairly' and 'only partially describe' depend substantially on the particular observables and centrality classes considered and cannot by themselves establish statistically acceptable agreement between the calculations and the experimental data.&lt;/p&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 08:00:07 GMT</pubDate>
+      <guid isPermaLink="false">2610.14114v1</guid>
+      <dc:creator>V. A. Kizka</dc:creator>
     </item>
     <item>
       <title>Dijet hadrochemistry: tomography of jet-induced medium excitation and diffusion wake</title>
@@ -632,14 +718,6 @@
       <dc:creator>Qingfeng Li</dc:creator>
     </item>
     <item>
-      <title>Physical interpretation and limits of photon--dilepton radial-flow tomography</title>
-      <link>http://arxiv.org/abs/2609.25691v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lipei Du&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Thermal photons and dileptons provide complementary information on the temperature and collective expansion of matter created in relativistic heavy-ion collisions. Their combination has been proposed as an electromagnetic probe of radial flow: a comparatively flow-insensitive dilepton invariant-mass inverse slope is used to infer the photon inverse slope expected without transverse flow and compared with the observed photon slope. Here the physical basis and leading limitation of this construction are examined using a controlled expanding-fireball calculation. The dilepton and flow-free photon inverse slopes are tightly correlated because they respond similarly to changes of the underlying thermal scale, although the numerical relation depends on the spectral window and electromagnetic source. The flow-induced change of the photon inverse slope correlates more strongly with the photon-emission-weighted velocity component along the photon momentum than with a bulk-like radial-flow average. Prethermal source variations can bias the inferred flow-free photon reference and generate apparent flow even when the direct photon spectral-flow signal vanishes, while multiple photon and dilepton windows provide independent response patterns that can help diagnose this source ambiguity. These results clarify both what photon--dilepton radial-flow tomography measures and the source consistency required for its interpretation.&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 04:48:15 GMT</pubDate>
-      <guid isPermaLink="false">2609.25691v1</guid>
-      <dc:creator>Lipei Du</dc:creator>
-    </item>
-    <item>
       <title>Accessing zero-point fluctuations in high-energy nuclear collisions</title>
       <link>http://arxiv.org/abs/2609.24977v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jean-Paul Blaizot, Jean-Yves Ollitrault&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultracentral high-energy collisions between identical nuclei are very sensitive to the size and shape of the frozen configuration of nucleons at the instant of the collision, an information that is encoded in the ground state wave functions of the colliding nuclei. The relative standard deviation of the size of the colliding system soon after the collision has recently been inferred from event-by-event fluctuations of the momentum per particle in collisions of $^{208}$Pb nuclei at the LHC, and since a single collision event produces thousands of particles, this information is very precise. We connect this measurement to the magnitude of the zero-point fluctuations of the radius of the lead nucleus. The value that is extracted from the data is compatible with predictions from nuclear-structure calculations, but is overestimated by classical Glauber-type modeling of high-energy collisions. The role of the Pauli principle in suppressing the fluctuations is underlined. It leads to a distinctive $A$ dependence that could be checked in collisions of smaller systems.&lt;/p&gt;</description>
@@ -697,16 +775,6 @@
       <pubDate>Mon, 21 Sep 2026 07:59:32 GMT</pubDate>
       <guid isPermaLink="false">2609.24237v1</guid>
       <dc:creator>Suraj Prasad for the ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Time-evolution formalism in the complex scaling method: Application to the two-proton decay of $^{6}$Be</title>
-      <link>http://arxiv.org/abs/2609.24076v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yuma Kikuchi, Kiyoshi Katō, Takayuki Myo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We apply our complex-scaled time-evolution operator to the two-proton decay of $^{6}$Be. The nucleus is described as an $α+p+p$ three-body system with explicit Jacobi-coordinate rearrangement and the realistic Argonne $v8'$ NN interaction for the proton-proton subsystem. Starting from a confined initial wave packet, the decay dynamics are described by expansion over the complex-scaled eigenstates of the final Hamiltonian. The decay width extracted from the late-time survival probability agrees closely with that obtained from the CSM resonance pole. The time-dependent densities in different Jacobi coordinates reveal complementary aspects of the evolving three-body geometry, while the spin-singlet component remains dominant during the decay. In particular, the correlated two-proton configuration persists even in the presence of the strong short-range repulsion of the realistic NN interaction. These results demonstrate the applicability of the complex-scaled time-evolution framework to explicit three-body decay dynamics and provide a consistent description of the decay width, spatial evolution, and spin correlations of $^{6}$Be.&lt;/p&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 04:03:56 GMT</pubDate>
-      <guid isPermaLink="false">2609.24076v1</guid>
-      <dc:creator>Yuma Kikuchi</dc:creator>
-      <dc:creator>Kiyoshi Katō</dc:creator>
-      <dc:creator>Takayuki Myo</dc:creator>
     </item>
     <item>
       <title>Electromagnetic transition strength in $^{53}$Ca: the lifetime of the $5/2^{-}$ state</title>
@@ -2214,24 +2282,6 @@
       <dc:creator>T. Zies</dc:creator>
       <dc:creator>D. Zuliani</dc:creator>
       <dc:creator>X. Zuo</dc:creator>
-    </item>
-    <item>
-      <title>Effect of Thermal Broadening on Light Hadron Production in Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2608.28456v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Q'inich Coc, Oscar Garcia-Montero, Aleksas Mazeliauskas&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The measured hadron yields in heavy-ion collisions are well described by thermal particle production at temperatures close to the QCD pseudo-critical transition. However, if particles are produced in thermal equilibrium, then the in-medium effects, e.g., broadening of their spectral functions, must be taken into account. In this work, we study for the first time the effect of the thermal broadening of the light vector-meson spectral functions on light hadron production in heavy-ion collisions. We generalize the efficient resonance decay framework FastReso to resonances with finite-width spectral functions. We then compute the pion, kaon and proton spectra from the decays of hadron resonances for in-medium and vacuum spectral functions. We perform a simultaneous blast-wave fit with decay feed-down to measured particle spectra in central Pb-Pb and Xe-Xe collisions at the LHC. We find an increase in pion spectra at low momenta, from including thermally broadened $ρ$ and $ω$ mesons. Additional pion yield from finite-resonance widths reduces the commonly observed discrepancy between models and data, but does not completely resolve the soft pion puzzle in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 15:46:02 GMT</pubDate>
-      <guid isPermaLink="false">2608.28456v1</guid>
-      <dc:creator>Q'inich Coc</dc:creator>
-      <dc:creator>Oscar Garcia-Montero</dc:creator>
-      <dc:creator>Aleksas Mazeliauskas</dc:creator>
-    </item>
-    <item>
-      <title>The role of strangeness and baryon enhancement in heavy-quark hadronisation from pp to Pb$-$Pb collisions with ALICE</title>
-      <link>http://arxiv.org/abs/2608.28297v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fabrizio Chinu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-08-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this contribution, a combined study of charm-meson and charm-baryon production with ALICE is presented. The $Λ_{\mathrm{c}}^{+}/\mathrm{D^{0}}$ ratio in pp collisions at $\sqrt{s} = 13.6$ TeV and the first measurement of the nuclear modification factor of $Ξ_{\mathrm{c}}^{0}$ baryons in Pb$-$Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.02$ TeV are reported. Furthermore, measurements of the $\mathrm{D_s^+/D^+}$ production ratio from low-multiplicity pp collisions at $\sqrt{s} = 13.6$ TeV to Pb$-$Pb collisions at $\sqrt{s_\mathrm{NN}} = 5.36$ TeV are presented. Lastly, the first measurement of the $p_\mathrm{T}$-differential $\mathrm{D_{s1}(2536)^+/D_s^+}$ yield ratio is shown.&lt;/p&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 13:00:49 GMT</pubDate>
-      <guid isPermaLink="false">2608.28297v1</guid>
-      <dc:creator>Fabrizio Chinu</dc:creator>
     </item>
   </channel>
 </rss>
