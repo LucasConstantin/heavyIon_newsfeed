@@ -5,9 +5,64 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:21:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Experimental review on global polarization and spin alignment in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2610.21947v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Takafumi Niida&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Polarization phenomena in heavy-ion collisions have attracted considerable interest since the first experimental observation of global spin polarization. Over the past few years, particle polarization has emerged as a rapidly growing field, with new measurements that have stimulated intense theoretical efforts to understand the puzzling experimental results. In these proceedings, we review recent experimental progress on hyperon global polarization, local polarization along the beam direction, and vector-meson spin alignment in relativistic heavy-ion collisions, and newly emerging measurements of spin-spin correlations. These measurements provide new insights into the vortical structure of the quark-gluon plasma and the spin dynamics during the system evolution.&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 14:18:28 GMT</pubDate>
+      <guid isPermaLink="false">2610.21947v1</guid>
+      <dc:creator>Takafumi Niida</dc:creator>
+    </item>
+    <item>
+      <title>Nuclear PDFs</title>
+      <link>http://arxiv.org/abs/2610.21697v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; K. Greve, T. Ježo, M. Klasen, A. Kusina, F. I. Olness, J. Wissmann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We summarize the current status of global analyses of model-independent nuclear parton distri- bution functions (nPDFs). A carefully conducted global analysis of nPDFs in the era of heavy-ion collisions at the LHC is key to gaining access to new information through the data measured by the collider experiments. This implies incorporating as large and diverse a dataset as possible, as well as the latest theoretical calculations, in order to capture a faithful representation of nuclear structure that reflects the current state of knowledge. On the other hand, the uncertainties in par- ticular must reflect what is not known. For many observables, nuclear uncertainties represent the most significant source of error in current theoretical models; nevertheless, they should not, where possible, be artificially constrained (for example, through parameterization bias). The quality of a global (n)PDF fit is often measured by the $χ^2$ per degree of freedom, which is approximately one for a fit that describes the data precisely without overfitting. Many additional aspects allow to characterize a good fit, e.g. the $χ^2$ distribution per experiment, the shape of the uncertainties, and the sensitivity to different types of data. We inspect various fit quality indicators for fits obtained by different groups. Morever we pay close attention to the $A$-dependence. Traditionally, the A-dependence had a primarily functional role in global nPDF analyses and comparatively less attention has been paid to it when characterizing a fit. However, we have now entered the era of nuclei collisions at the LHC and need to investigate the $A$-dependence properly.&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 11:18:41 GMT</pubDate>
+      <guid isPermaLink="false">2610.21697v1</guid>
+      <dc:creator>K. Greve</dc:creator>
+      <dc:creator>T. Ježo</dc:creator>
+      <dc:creator>M. Klasen</dc:creator>
+      <dc:creator>A. Kusina</dc:creator>
+      <dc:creator>F. I. Olness</dc:creator>
+      <dc:creator>J. Wissmann</dc:creator>
+    </item>
+    <item>
+      <title>Effective shear viscosity from the friction term in relativistic multi-fluid hydrodynamics</title>
+      <link>http://arxiv.org/abs/2610.20872v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Christian Spieles, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Within a three-fluid description of heavy-ion collisions, we investigate how nuclear friction can be used to model shear stress. In this multi-fluid approach, the individual fluids (projectile, target and fireball) are each treated as locally equilibrated ideal fluids at all times, while the local energy-momentum tensor of the superposed system exhibits characteristic anisotropies in its Landau rest frame. From the corresponding non-vanishing shear stress densities and the gradients of the Landau velocity field, we infer an ``effective shear viscosity'' according to the Navier-Stokes relation. We present the time evolution of the resulting values of $η_{\rm eff}$ and the generated entropy density in nuclear collisions at different beam energies ($1.23\,A\text{GeV} \le E_{\mathrm{lab}} \le 29.7\,A\text{GeV}$). The resulting dimensionless ratio $η_{\rm eff}/s$ is determined dynamically and self-consistently within the non-equilibrium friction model. We discuss the relation to previous calculations using alternative methods in hydrodynamics and to estimates based on microscopic transport models.&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 20:01:30 GMT</pubDate>
+      <guid isPermaLink="false">2610.20872v1</guid>
+      <dc:creator>Christian Spieles</dc:creator>
+      <dc:creator>Marcus Bleicher</dc:creator>
+    </item>
+    <item>
+      <title>Four-dimensional QCD equation of state with a critical surface from contours of constant entropy density</title>
+      <link>http://arxiv.org/abs/2610.20806v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tristan Gyure, Hitansh Shah, Lorenzo Formaggio, Francesco Di Clemente, Mauricio Hippert, Claudia Ratti, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a new lattice-QCD-based equation of state in the four-dimensional space of $(T,μ_B,μ_Q,μ_S)$ which features a critical surface. This is obtained by generalizing the expansion of constant entropy density contours across the multiple conserved charges of QCD. Since this expansion permits the presence of a first-order phase transition, this is the first lattice QCD based equation of state in four dimensions with a critical surface. We parametrize the chemical potential space using spherical coordinates $(μ,θ,\varphi)$, reducing the problem to a one-dimensional extrapolation in $(T,μ)$ at fixed angles that, together, span the full 4D space. By integrating the extrapolated entropy density, we reconstruct the pressure, from which we obtain the conserved charge densities, their susceptibilities and the speed of sound. Our results agree quantitatively with other lattice QCD constructions at low chemical potentials in the crossover region, and predict the emergence of a first-order phase transition at higher chemical potentials. We study equation of state properties in detail under heavy-ion collision (HIC) conditions for the strangeness and electric charge densities ($n_S=0,~n_Q=0.4n_B$), where we find the CP location at $(T_c,μ_{B,c},μ_{Q,c},μ_{S,c})=(115\pm7,646\pm72,-12\pm3,117\pm16)$ MeV. In particular, we find a strong non-monotonic dependence of baryon number susceptibilities along the chemical freeze-out line at $\sqrt{s_{NN}} \lesssim 7.7$ GeV. Finally, we outline further applications of the 4D equation of state, including charge-neutral matter relevant to neutron stars and large isospin density relevant to cosmic trajectories in the early Universe.&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 18:52:35 GMT</pubDate>
+      <guid isPermaLink="false">2610.20806v1</guid>
+      <dc:creator>Tristan Gyure</dc:creator>
+      <dc:creator>Hitansh Shah</dc:creator>
+      <dc:creator>Lorenzo Formaggio</dc:creator>
+      <dc:creator>Francesco Di Clemente</dc:creator>
+      <dc:creator>Mauricio Hippert</dc:creator>
+      <dc:creator>Claudia Ratti</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+    </item>
+    <item>
+      <title>Collective Organization of String Fragmentation</title>
+      <link>http://arxiv.org/abs/2610.20793v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Romuald A. Janik, Maciej A. Nowak, Marek M. Rams, Ismail Zahed&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How coherent confining strings reorganize into hadronic matter is a central open problem in nonequilibrium gauge dynamics. Using real-time tensor-network simulations of the massive Schwinger model, we identify a collective organization underlying string fragmentation. For intermediate masses, the dynamics simplifies and more than $99\%$ of the temporal evolution of the electric-field probability distribution is governed by a single collective mode whose decay tracks the survival probability of the parent string. The extracted survival law exhibits the same Gaussian dependence implied by the Lund world-sheet area law, providing microscopic support for its characteristic area law dependence without assuming the Lund fragmentation mechanism. The same mode controls the transition from the coherent string to the produced mesons, explains the universal non-thermal effective fluid equation of state, and essentially controls the growth of bipartite entanglement through the causal propagation of massive pairs. These results identify collective fragmentation as an organizing principle of coherent string breaking and provide a microscopic perspective on the dynamical origin of a central ingredient of Lund hadronization.&lt;/p&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 18:33:30 GMT</pubDate>
+      <guid isPermaLink="false">2610.20793v1</guid>
+      <dc:creator>Romuald A. Janik</dc:creator>
+      <dc:creator>Maciej A. Nowak</dc:creator>
+      <dc:creator>Marek M. Rams</dc:creator>
+      <dc:creator>Ismail Zahed</dc:creator>
+    </item>
     <item>
       <title>Multi-Instantons and Exact-WKB Stokes Jumps in Multi-Well Quantum Mechanics</title>
       <link>http://arxiv.org/abs/2610.20006v1</link>
@@ -669,29 +724,6 @@
       <dc:creator>Xu-Guang Huang</dc:creator>
     </item>
     <item>
-      <title>Strangeness Production in Heavy-Ion Collisions: Color Ropes or Hydrodynamic Evolution?</title>
-      <link>http://arxiv.org/abs/2609.28070v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carl B. Rosenkvist, Hannah Elfner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate strangeness production and transverse dynamics in heavy-ion collisions at $\sqrt{s_{\mathrm{NN}}}\approx 2.5-20~\mathrm{GeV}$ using the transport approach SMASH (Simulating Many Accelerated Strongly-interacting Hadrons), its extension with rope hadronization, and the SMASH+vHLLE hybrid approach. Results from the Pythia-based heavy-ion model Angantyr, with and without rope hadronization, are included for comparison. We study midrapidity particle yields and average transverse masses as functions of the number of wounded nucleons, as well as their energy dependence.
-  For the $K^+/π^+$ ratio, SMASH+vHLLE overpredicts strangeness production at low energies but describes the higher-energy behavior reasonably well. SMASH+Ropes reproduces the ratio up to $\sqrt{s_{\mathrm{NN}}}\sim 10~\mathrm{GeV}$ but does not capture the turnover at higher energies. In contrast, the transverse-mass observables favor the hybrid approach, while the non-thermal models considered here do not generate sufficient collective transverse expansion.
-  These results show that strangeness enhancement alone does not uniquely distinguish microscopic string interactions from a locally equilibrated medium. Simultaneously constraining strangeness production and transverse dynamics is therefore essential for disentangling thermal and non-thermal mechanisms in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 08:22:32 GMT</pubDate>
-      <guid isPermaLink="false">2609.28070v2</guid>
-      <dc:creator>Carl B. Rosenkvist</dc:creator>
-      <dc:creator>Hannah Elfner</dc:creator>
-    </item>
-    <item>
-      <title>Fundamental Physics at the Frontier of Noisy Quantum Computation</title>
-      <link>http://arxiv.org/abs/2609.28825v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nikita A. Zemlevskiy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quantum computing offers a new, orthogonal direction for investigating fundamental physics, extending beyond classical numerical methods and conventional observables. Realizing this potential requires directly confronting the noise limiting currently available quantum computers. Progress rests on advancing algorithms, interpreting their results, and managing their errors together. This thesis presents several advancements in the use of quantum simulation and quantum information to probe fundamental physics.
-  The first is in the use of quantum computers to simulate collisions in quantum field theories. Central to these simulations are new wavepacket preparation, time evolution, and error mitigation techniques, which allow for simulations with some of the largest effective circuit volumes to date. These methods enable the first quantum simulation providing numerical evidence for inelastic particle production, a key process in fundamental physics.
-  The second advancement centers on the role quantum-information-theoretic quantities play in physical processes. Beyond mere correlations with the physics of the process, entanglement and magic are shown to probe the interactions present in scattering and hadronization dynamics.
-  A precision study requires a complete quantification of algorithmic and hardware uncertainties, an outstanding goal as quantum simulations mature. The third advancement in this thesis addresses error management. A framework minimizing the effect of algorithmic errors in analog quantum simulations is presented. In a step toward fault tolerance, error detection in encoded quantum simulations is shown to improve estimation of local observables relative to unencoded runs.
-  Together, the developments in this thesis mark practical progress toward fault-tolerant quantum simulations of fundamental physics capable of scientific discovery.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 22:18:54 GMT</pubDate>
-      <guid isPermaLink="false">2609.28825v1</guid>
-      <dc:creator>Nikita A. Zemlevskiy</dc:creator>
-    </item>
-    <item>
       <title>Simulating the emission source function in very peripheral relativistic heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2609.28394v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Angel Reina Ramírez, Volodymyr Magas, Juan M. Torres-Rincon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a microscopic femtoscopic investigation of the space-time emission source in low-multiplicity (80--90\% centrality) $\text{Pb}-\text{Pb}$ collisions at $\sqrt{s_{NN}} = 5.02~\text{TeV}$, using a hybrid transport framework coupling SMASH initial conditions, 3+1D viscous hydrodynamics (vHLLE), and a SMASH hadronic cascade afterburner. Access to the full space-time evolution of the produced particles allows for the direct reconstruction of emission source functions in both the Longitudinally Comoving System and the Pair Rest Frame. We study identical pairs of mesons ($ππ$, $KK$) and baryons ($pp$), as well as cross-species combinations, while explicitly isolating the contributions from primordial particles, hadronic rescattering, and long-lived resonance decays. Our analysis shows that simple Gaussian fits are inadequate for precision source analyses, whereas a combined Gaussian plus exponential parametrization better captures the compact core and the extended tail. Finally, the extracted Gaussian core radii, $R_{\text{core}}$, for our very peripheral collisions demonstrate an approximate $m_T$-scaling behavior rather similar to the one observed in pp reactions.&lt;/p&gt;</description>
@@ -724,16 +756,6 @@
       <dc:creator>Victor Riabov</dc:creator>
       <dc:creator>Yonghong Wang</dc:creator>
       <dc:creator>Chi Yang</dc:creator>
-    </item>
-    <item>
-      <title>Exploring the short-range correlations in $^{16}$O+$^{16}$O collisions at the LHC</title>
-      <link>http://arxiv.org/abs/2609.27566v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Liu, Shanjin Wu, Huichao Song&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Short-range correlations (SRCs) dominate the nuclear force at short distances, including the repulsive core and intermediate-range attraction, and are one of the most fascinating aspects of the nucleon-nucleon (NN) interaction. In this work, we investigate the effects of SRCs on the final-state observables in $^{16}$O+$^{16}$O collisions at $\sqrt{s_{NN}}=5.36$~TeV, using the iEBE-VISHNU hybrid model with {T\raisebox{-0.5ex}{R}ENTo} initial conditions. We embed the nucleon configurations of $^{16}$O generated from variational Monte Carlo (VMC) simulations with realistic SRCs in the initial stage, along with uncorrelated VMC samples and Woods--Saxon distributions implementing a hard repulsive core or short-range attraction as comparison runs. We find that SRCs reduce both $v_2\{2\}$ and $v_2\{4\}$ in the most central collisions, with the decrease of $v_2\{4\}$ being more pronounced due to the event-by-event flow fluctuations. Meanwhile, SRCs noticeably enhance the correlation between the elliptic flow and the mean transverse momentum, $ρ_2(v_2^2,[p_T])$. These effects are mainly attributed to the strong repulsive core of the SRCs, which suppresses the probability of finding nucleon pairs at short relative distances and renders the initial geometry more uniform. This interpretation is supported by the calculations based on Woods--Saxon distributions with a hard repulsive core, which reproduce similar results, while the contribution from a pure intermediate-range attraction is negligible. Our results demonstrate that relativistic nuclear collisions provide a complementary probe of the short-range structure of the nuclear force, beyond the traditional nuclear experiments at low energies.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 08:49:16 GMT</pubDate>
-      <guid isPermaLink="false">2609.27566v1</guid>
-      <dc:creator>Qi Liu</dc:creator>
-      <dc:creator>Shanjin Wu</dc:creator>
-      <dc:creator>Huichao Song</dc:creator>
     </item>
     <item>
       <title>Non-Monotonicity of $p_{\rm T}$ Correlations in Au + Au Collisions at RHIC</title>
@@ -1087,28 +1109,6 @@
       <guid isPermaLink="false">2609.01994v1</guid>
       <dc:creator>Jun Xu</dc:creator>
       <dc:creator>Bao-An Li</dc:creator>
-    </item>
-    <item>
-      <title>Fundamental geometric limitations on disentangling nuclear-surface properties in relativistic heavy ion collisions</title>
-      <link>http://arxiv.org/abs/2609.01229v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hadi Mehrabpour, Behnaz Behzadmoghaddam, S. M. A. Tabatabaee Mehr, Oscar Garcia-Montero, Li Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The extraction of the nuclear surface diffuseness from relativistic heavy ion collisions is limited by the intertwined responses of geometry-driven observables to surface diffuseness and intrinsic nuclear deformation. We investigate this limitation using event-by-event Monte Carlo Glauber simulations, focusing on the sensitivity of multiparticle correlations to the Woods--Saxon surface diffuseness $a_0$ in intrinsically deformed nuclei. We systematically examine the local correlations between $a_0$ and quadrupole and octupole deformation parameters, $β_2$ and $β_3$, and determine how these correlations affect the ability of different observables to constrain $a_0$. We find that observables dominated by elliptic geometry exhibit a strong response to quadrupole deformation, leading to a local $a_0$--$β_2$ degeneracy that substantially limits their sensitivity to the nuclear surface diffuseness. Triangular correlations provide a more independent response to the nuclear surface and therefore retain additional information on $a_0$, although their sensitivity can also be modified by intrinsic deformation. Extending the analysis to simultaneous quadrupole and octupole deformation shows that the local degeneracy and least-constrained directions depend on the nuclear configuration, demonstrating that the limitation on extracting $a_0$ is not described by a single global parameter correlation. We quantify these effects using multidimensional response maps, local sensitivity and information-geometric measures, and a Bayesian analysis of the resulting parameter constraints. The results clarify the fundamental limitations imposed by intrinsic multipole deformation on the determination of nuclear surface diffuseness from relativistic heavy ion collisions and identify multiparticle correlations that provide more independent information on $a_0$.&lt;/p&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 13:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2609.01229v1</guid>
-      <dc:creator>Hadi Mehrabpour</dc:creator>
-      <dc:creator>Behnaz Behzadmoghaddam</dc:creator>
-      <dc:creator>S. M. A. Tabatabaee Mehr</dc:creator>
-      <dc:creator>Oscar Garcia-Montero</dc:creator>
-      <dc:creator>Li Yan</dc:creator>
-    </item>
-    <item>
-      <title>Saturation effects in diffractive deep inelastic scattering</title>
-      <link>http://arxiv.org/abs/2609.01163v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jani Penttala, Christophe Royon, Jarno Vierros&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the production of $c$ and $b$ quarks in photon-induced processes as a probe of gluon saturation, with a focus on the high-energy region accessible in ultra-peripheral collisions (UPCs) at the LHC. We compare predictions for inclusive and diffractive heavy quark production with and without saturation effects by using the nonlinear Balitsky--Kovchegov and the linear Balitsky--Fadin--Kuraev--Lipatov equations for the evolution of the dipole amplitude. The percentage of coherent diffractive events is predicted to be $~20\%$ in the saturation model, which is approximately twice as large as predictions based on parton distribution functions and shadowing. This indicates that measurements of diffractive heavy quark production in UPCs may provide a sensitive probe for distinguishing linear and nonlinear regimes of quantum chromodynamics.&lt;/p&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 12:43:20 GMT</pubDate>
-      <guid isPermaLink="false">2609.01163v1</guid>
-      <dc:creator>Jani Penttala</dc:creator>
-      <dc:creator>Christophe Royon</dc:creator>
-      <dc:creator>Jarno Vierros</dc:creator>
     </item>
   </channel>
 </rss>
