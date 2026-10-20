@@ -5,9 +5,73 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:22:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Proton-Number Fluctuations in $^{238}$U+$^{238}$U Collisions at $\sqrt{s_{\mathrm{NN}}} = 2.1$ GeV with the CEE Fast Simulation</title>
+      <link>http://arxiv.org/abs/2610.23460v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuaike Lv, Fan Si, Xionghong He, Xu Sun, Yige Huang, Wanbing He, Yifei Zhang, Ming Shao, Ziyang Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Cooling Storage Ring External-target Experiment (CEE) at the Heavy Ion Research Facility in Lanzhou (HIRFL) offers a unique opportunity to map the QCD phase diagram in the high-baryon-density region. In particular, higher-order cumulants ($C_r$) of event-by-event proton number distributions have been proposed as sensitive probes of the nuclear-matter phase structure. In this work, $^{\text{238}}$U+$^{\text{238}}$U collisions at $\sqrt{s_{\mathrm{NN}}} = 2.1$ GeV are generated using the JAM2 model and then processed through the CEE fast simulation with detector responses. Experimental analysis procedures, including centrality determination and particle identification, are also implemented. Proton-number cumulants up to fourth order and their ratios are calculated and compared with the true values. A track-by-track efficiency correction method is tested by introducing reconstruction efficiency within the TPC acceptance. An additional factor is also included to account for acceptance losses caused by the azimuthal gap between the two TPCs. Within the uncertainties of the current data sample, the corrected cumulants and cumulant ratios are consistent with their generator-level values. The event-sample dependence of the cumulant-ratio uncertainties is further investigated to estimate the statistics required for future measurements, revealing a substantial statistical cost associated with the acceptance compensation. These results provide a simulation-based assessment of the analysis feasibility and statistical requirements for proton-number fluctuation measurements at CEE.&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 13:41:12 GMT</pubDate>
+      <guid isPermaLink="false">2610.23460v1</guid>
+      <dc:creator>Shuaike Lv</dc:creator>
+      <dc:creator>Fan Si</dc:creator>
+      <dc:creator>Xionghong He</dc:creator>
+      <dc:creator>Xu Sun</dc:creator>
+      <dc:creator>Yige Huang</dc:creator>
+      <dc:creator>Wanbing He</dc:creator>
+      <dc:creator>Yifei Zhang</dc:creator>
+      <dc:creator>Ming Shao</dc:creator>
+      <dc:creator>Ziyang Li</dc:creator>
+    </item>
+    <item>
+      <title>Effects of kinematic cuts on $v_0(p_T)$</title>
+      <link>http://arxiv.org/abs/2610.23427v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tribhuban Parida, Rupam Samanta, Jean-Yves Ollitrault&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that the analysis of $v_0(p_T)$ is biased when low-$p_T$ particles are not detected. The low-$p_T$ threshold shifts $v_0(p_T)$ by a constant negative value, which depends on the threshold. We evaluate the shift using hydrodynamic simulations. Correcting for this bias significantly improves agreement between ALICE and ATLAS results for $v_0(p_T)$ in Pb+Pb collisions.&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 13:15:42 GMT</pubDate>
+      <guid isPermaLink="false">2610.23427v1</guid>
+      <dc:creator>Tribhuban Parida</dc:creator>
+      <dc:creator>Rupam Samanta</dc:creator>
+      <dc:creator>Jean-Yves Ollitrault</dc:creator>
+    </item>
+    <item>
+      <title>Exact $T\bar{T}$-Like Flows in Nonlinear Electrodynamics</title>
+      <link>http://arxiv.org/abs/2610.23281v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zahra Pezhman, H. Babaei-Aghbolagh, Komeil Babaei Velni&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive an exact nonperturbative $T\bar T$-like flow for the class of one-scale, self-dual nonlinear electrodynamics theories admitting a Courant--Hilbert representation. The flow has a universal parametric form in terms of the defining Courant--Hilbert function and, on any physical branch where the relevant invariant map is invertible, becomes an autonomous function of the two quadratic stress-tensor invariants, $\partial_λ\mathcal L=X\,\mathcal F(Y/X)$. The function $\mathcal F$ is model dependent, and global autonomy is assumed when the invariant map is one-to-one. Born--Infeld theory yields a quadratic stress-tensor flow, whereas the causal Russo--Townsend logarithmic model gives an exact nonlinear expression involving the Lambert $W$ function whose weak-field expansion reproduces the known perturbative result. We also establish the equivalence with the Russo--Townsend auxiliary-field formulation. These results provide an exact construction of autonomous irrelevant flows for a broad, explicitly specified class of self-dual nonlinear electrodynamics theories.&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 10:51:30 GMT</pubDate>
+      <guid isPermaLink="false">2610.23281v1</guid>
+      <dc:creator>Zahra Pezhman</dc:creator>
+      <dc:creator>H. Babaei-Aghbolagh</dc:creator>
+      <dc:creator>Komeil Babaei Velni</dc:creator>
+    </item>
+    <item>
+      <title>Anticommuting Displacement Operators, Exact Pauli Algebras,and the Singlet State from the Oscillator Vacuum</title>
+      <link>http://arxiv.org/abs/2610.23264v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. P. Sorella&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We give an explicit construction of a pair of anticommuting Weyl displacement operators for a harmonic oscillator and use bounded functional calculus to obtain exact dichotomic representatives of the Pauli algebra. Two independent oscillators provide commuting Pauli algebras for Alice and Bob. The standard singlet-sector projector, written entirely in terms of these bounded oscillator observables, is then applied to the two-oscillator vacuum. We show explicitly that the projected vacuum has nonzero norm, so its normalization is well defined, has the exact singlet correlations, and reaches the Tsirelson value $2\sqrt2$ for the usual Bell--CHSH settings. We also clarify that the construction generally realizes a singlet sector with multiplicity, rather than selecting a unique vector in the full oscillator Hilbert space, and we compare the construction with the older pseudospin approach to continuous-variable Bell tests.&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 10:35:36 GMT</pubDate>
+      <guid isPermaLink="false">2610.23264v1</guid>
+      <dc:creator>S. P. Sorella</dc:creator>
+    </item>
+    <item>
+      <title>Anisotropic hadronic matter in external magnetic fields</title>
+      <link>http://arxiv.org/abs/2610.23120v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dushmanta Sahu, Jayanta Dey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strong magnetic fields generated in non-central heavy-ion collisions break rotational symmetry and can imprint anisotropy on the produced quantum chromodynamics (QCD) matter. Within a hadron resonance gas framework in the presence of an external magnetic field, we investigate the resulting anisotropy in the equation of state, isothermal compressibility, speed of sound, and conserved-charge fluctuations. We find that the electric-charge susceptibility ratio $χ_4^Q/χ_2^Q$ develops a pronounced directional dependence, driven primarily by the Landau-level structure of charged pions. For physically relevant magnetic fields, this anisotropy reaches $\sim 10 - 15 \%$ at $T\simeq0.16$ GeV. The ratio of electric-charge susceptibility can be expressed as $χ_4^Q/χ_2^Q=C_4^Q/C_2^Q=κ_Qσ_Q^2$, where $C_2^Q$ and $C_4^Q$ are the second- and fourth-order cumulants, and $κ_Q$ and $σ_Q$ are the kurtosis and variance of the event-by-event net-electric-charge distribution. The reaction-plane dependence of this ratio provides an experimentally accessible signature of magnetic-field-induced anisotropy. Our results identify higher-order electric-charge fluctuations as a promising probe of the imprint of strong electromagnetic fields on the matter produced in heavy-ion collisions at RHIC and the LHC.&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 08:28:10 GMT</pubDate>
+      <guid isPermaLink="false">2610.23120v1</guid>
+      <dc:creator>Dushmanta Sahu</dc:creator>
+      <dc:creator>Jayanta Dey</dc:creator>
+    </item>
+    <item>
+      <title>Exploring QCD Matter through Energy Correlators of Soft Hadrons</title>
+      <link>http://arxiv.org/abs/2610.22477v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yiyang Peng, João Barata, Andrey V. Sadofyev, Huichao Song&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose energy-energy correlators (EECs) of soft hadrons and their azimuthal harmonics as new soft observables to probe the collective flow and correlations beyond flow for large and small systems created in high energy nuclear collisions. We separate the soft EEC into a disconnected contribution determined by the mean energy flow and a connected contribution encoding correlations beyond it. Viscous hydrodynamic simulations demonstrate that the soft EEC of a fluid system is governed by the disconnected contribution, while its elliptic and triangular harmonics respond to the initial geometry and shear viscosity as traditional flow harmonics do. Comparisons between iEBE-VISHNU and PYTHIA for p+p, O+O, and Pb+Pb collisions show that the disconnected contribution dominates at large angles in all systems, whereas connected correlations beyond the mean energy flow grow toward small angles and small systems, most strongly for the harmonics. Soft EECs thus provide a unique window into collective flow and correlations beyond it across collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 18:00:10 GMT</pubDate>
+      <guid isPermaLink="false">2610.22477v1</guid>
+      <dc:creator>Yiyang Peng</dc:creator>
+      <dc:creator>João Barata</dc:creator>
+      <dc:creator>Andrey V. Sadofyev</dc:creator>
+      <dc:creator>Huichao Song</dc:creator>
+    </item>
     <item>
       <title>Experimental review on global polarization and spin alignment in heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2610.21947v1</link>
@@ -704,16 +768,6 @@
       <dc:creator>Rebecca Cerri</dc:creator>
     </item>
     <item>
-      <title>Centrality-dependent nuclear modification from hard-soft correlations in the glasma</title>
-      <link>http://arxiv.org/abs/2609.29886v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Coleridge Faraday, W. A. Horowitz, Björn Schenke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present first predictions from the saturation-physics-based framework IP-Glasma for the nuclear modification factor $R_{AB}$ as a function of centrality in $p$ + O, $p$ + Pb, O + O, and Pb + Pb collisions due only to initial-state effects. The same framework is responsible for both soft ($p_T \lesssim 3 ~\mathrm{GeV}$) and semi-hard ($5 ~\mathrm{GeV} \lesssim p_T \lesssim 20 ~\mathrm{GeV}$) particle production, enabling the study of initial-state correlations between bulk and intermediate-$p_T$ particle production from a first-principles framework. We show that, tuned only to HERA data, IP-Glasma accurately predicts the self-normalized multiplicity distributions in $p$ + O, $p$ + Pb, O + O, and Pb + Pb collisions; the minimum-bias nuclear modification factor in $p$ + O and $p$ + Pb collisions; the centrality-cut nuclear modification factor in $p$ + Pb collisions; and the anomalous suppression of $R_{AA}$ observed in very peripheral Pb + Pb collisions. We find that IP-Glasma predicts significantly less suppression than is measured in both $\sqrt{s_{NN}} = 5.36 ~\mathrm{TeV}$ O + O and $\sqrt{s_{NN}} = 5.02 ~\mathrm{TeV}$ Pb + Pb collisions at the Large Hadron Collider, in qualitative agreement with the scenario in which $R_{AA} &lt; 1$ is due to final-state energy loss. We show that the inelastic nucleon-nucleon cross section ($σ_{\text{inel}}^{NN}$) produced by IP-Glasma is extremely sensitive to the area of the subnucleonic hotspots; the same values of the hotspot area that reproduce the measured $σ_{\text{inel}}^{NN}$ also reproduce minimum-bias $R_{pA}$. Finally, we show that the hard-soft correlations in IP-Glasma arise from event-by-event fluctuations in the color fields, which simultaneously drive enhanced production of both soft and hard particles.&lt;/p&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 14:35:16 GMT</pubDate>
-      <guid isPermaLink="false">2609.29886v1</guid>
-      <dc:creator>Coleridge Faraday</dc:creator>
-      <dc:creator>W. A. Horowitz</dc:creator>
-      <dc:creator>Björn Schenke</dc:creator>
-    </item>
-    <item>
       <title>Measuring short-range correlations using relativistic heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2609.29237v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lu-Meng Liu, Jun Xu, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose a novel method to measure the strength and isospin dependence of short-range correlations (SRCs) in nuclei with their collisions at relativistic energies. Since nucleons in the high-momentum tail (HMT) induced by SRCs have large transverse velocities, we find that measuring the yield ratio of free spectator neutrons at large to small transverse distances detected by Zero-Degree Calorimeter (ZDC) array may probe the fraction of nucleons in the HMT. In addition, measuring the yield ratio of ZDC neutrons in central $^{96}$Zr+$^{96}$Zr to $^{96}$Ru+$^{96}$Ru collisions at large transverse distances may probe the isospin dependence of the HMT and SRCs. Compared to traditional scattering experiments, our study illustrates that relativistic heavy-ion collisions may serve as an alternative way of measuring SRCs in colliding nuclei with less final-state interactions.&lt;/p&gt;</description>
@@ -1100,15 +1154,6 @@
       <dc:creator>Shu-Yi Wei</dc:creator>
       <dc:creator>Wenbin Zhao</dc:creator>
       <dc:creator>Liang Zheng</dc:creator>
-    </item>
-    <item>
-      <title>Spin transport in intermediate-energy heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.01994v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jun Xu, Bao-An Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this mini-review, we provide a brief status report on investigating spin transport phenomena in intermediate-energy heavy-ion collisions by simulating solutions of the spin- and isospin-dependent Boltzmann-Uehling-Uhlenbeck (SIBUU) transport equation using the test-particle method. We outline the physics foundation and technical approach, summarize our main results and identify key challenges in further studying spin transport within the SIBUU framework. As examples, we show how the global and local spin polarizations of nucleons, the spin splitting of nucleon collective flows as well as flows of light clusters at different spin states can be used to explore interesting new physics associated with the nuclear spin-orbit potential in dense neutron-rich medium. The spin-orbit potential and the rigorous angular momentum conservation are also shown to affect spin-averaged observables. Hopefully the new findings and challenges identified here will stimulate further studies both theoretically and experimentally on spin transport in intermediate-energy heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 02:02:00 GMT</pubDate>
-      <guid isPermaLink="false">2609.01994v1</guid>
-      <dc:creator>Jun Xu</dc:creator>
-      <dc:creator>Bao-An Li</dc:creator>
     </item>
   </channel>
 </rss>
