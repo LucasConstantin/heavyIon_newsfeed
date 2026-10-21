@@ -5,9 +5,66 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:22:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Fluctuations of $v_2$ versus fluctuations of $\varepsilon_2$: Beyond linear and cubic response</title>
+      <link>http://arxiv.org/abs/2610.26621v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Andreas Kirchner, Mubarak Alqahtani, Jean-Yves Ollitrault&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elliptic flow ($v_2$) is the most prominent signature of collective flow in heavy-ion collisions. Its event-by-event fluctuations are accurately measured in Pb+Pb collisions at the LHC. They originate from the early stages of the collision, and are usually understood in terms of linear response to the initial anisotropy $\varepsilon_2$, with a small cubic correction. We reveal deviations from this scenario on the basis of extensive event-by-event hydrodynamic simulations. We analyze the hydrodynamic response order by order in the cumulant expansion of $\varepsilon_2$ and $v_2$ fluctuations. We carry out this expansion in the &quot;intrinsic frame&quot; where the magnitude and direction of the impact parameter are fixed. We find that the asymmetry of $v_2$ fluctuations is opposite to that of $\varepsilon_2$ fluctuations. We also find that the response to $\varepsilon_2$ fluctuations is larger by $\approx 10-20\%$ than the response to the average geometry. This effect, which is not explained by the cubic response, increases the splitting between $v_2\{2\}$ and $v_2\{4\}$.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 15:54:40 GMT</pubDate>
+      <guid isPermaLink="false">2610.26621v1</guid>
+      <dc:creator>Andreas Kirchner</dc:creator>
+      <dc:creator>Mubarak Alqahtani</dc:creator>
+      <dc:creator>Jean-Yves Ollitrault</dc:creator>
+    </item>
+    <item>
+      <title>Heavy-quark thermalization in the quark-gluon plasma via a fractional Langevin equation</title>
+      <link>http://arxiv.org/abs/2610.26086v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jai Prakash, Mohammad Yousuf Jamal, Shanshan Cao, Guang-You Qin b, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of heavy quarks in the quark-gluon plasma is commonly described within a standard Langevin equation framework. In this work, we extend the conventional framework by using a fractional Langevin equation based on the Caputo derivative of order $α$ with $1&lt;α\leq 2$. We solve the fractional Langevin equation and derive the corresponding {\textit {fractional fluctuation-dissipation theorem}} for the heavy quark thermalization in the quark-gluon plasma medium. We calculate the time evolution of the mean-squared momentum, mean-squared displacement, momentum distribution, energy loss, longitudinal momentum loss, transverse momentum broadening, and the nuclear suppression factor of the heavy quarks. The mean-squared momentum thermalizes to the same value for all $α$ at late times, in agreement with the fractional fluctuation-dissipation theorem, and the nuclear suppression factor shows a systematic $α$-dependence. The energy loss of an energetic heavy quark grows strongly with $α$. The time evolution of the heavy quark momentum distribution provides additional sensitivity to the fractional dynamics of the heavy quarks in the QGP medium.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 09:47:06 GMT</pubDate>
+      <guid isPermaLink="false">2610.26086v1</guid>
+      <dc:creator>Jai Prakash</dc:creator>
+      <dc:creator>Mohammad Yousuf Jamal</dc:creator>
+      <dc:creator>Shanshan Cao</dc:creator>
+      <dc:creator>Guang-You Qin b</dc:creator>
+      <dc:creator>Yifeng Sun</dc:creator>
+    </item>
+    <item>
+      <title>Transverse momentum dependent parton distributions at small $x$</title>
+      <link>http://arxiv.org/abs/2610.26004v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Caucal, Farid Salazar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Transverse-momentum-dependent (TMD) parton distributions provide a three-dimensional description of the momentum structure of hadrons. They are probed in proton-proton and proton-nucleus collisions at the LHC and RHIC, and are a central part of the physics program of the future Electron-Ion Collider (EIC). While TMD factorization is well established at moderate Bjorken $x$, the small-$x$ regime requires a different treatment, since large logarithms of $1/x$ must be resummed and non-linear effects due to high gluon densities become important. The Color Glass Condensate (CGC) effective theory provides a natural framework to describe TMDs in this saturation regime and to connect them with standard TMD factorization. This chapter reviews quark and gluon TMDs at small $x$, covering operator definitions, gauge-link structures, and Wilson-line correlators in the CGC for unpolarized and polarized distributions. We discuss factorization for inclusive and diffractive observables, highlighting the role of process dependence and the emergence of a limited set of Wilson-line operators. We then summarize the evolution of these distributions, namely the resummation of logarithms of $1/x$ by the Balitsky-Kovchegov and JIMWLK equations, and of Sudakov logarithms of the hard scale through Collins-Soper-Sterman evolution. We also review TMDs beyond the eikonal approximation, including the sub-eikonal Wilson-line operators that give access to helicity and other spin-dependent distributions, their double-logarithmic small-$x$ evolution and the resulting asymptotics, and the sub-eikonal corrections to the eikonal distributions, which provide a first step toward the moderate-$x$ regime. Finally, we discuss phenomenological implications for present and future experiments, with emphasis on the EIC, and outline the theoretical challenges toward a unified description of TMDs.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 08:30:31 GMT</pubDate>
+      <guid isPermaLink="false">2610.26004v1</guid>
+      <dc:creator>Paul Caucal</dc:creator>
+      <dc:creator>Farid Salazar</dc:creator>
+    </item>
+    <item>
+      <title>Measurements of local polarization of $Λ$ hyperons with event shape engineering in Au+Au collisions at RHIC-STAR</title>
+      <link>http://arxiv.org/abs/2610.25989v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Taiki Kondo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anisotropic flow is expected to generate local vorticities along the beam direction, which in turn lead to local polarization of produced particles. Although the local polarization of hyperons has already been observed at RHIC and the LHC, its mechanism is not yet understood: model calculations indicate that the shear-induced and vorticity-induced contributions can have opposite signs and may substantially cancel, so that the resulting polarization depends sensitively on the theoretical implementation. Since both are driven by the anisotropic flow, we employ the Event Shape Engineering (ESE) method, which selects events with different flow magnitudes within a narrow centrality range, to measure the local polarization as a function of the elliptic flow at a fixed multiplicity. We report the measurements of the elliptic flow ($v_2$) and the local polarization ($P_{z,2}$) of $Λ$ and $\barΛ$ as a function of the reduced flow vector magnitude $q_2$ used for the ESE event selection, in Au+Au collisions at $\sqrt{s_{\rm NN}} = 19.6~{\rm GeV}$ from the STAR experiment. The $v_2$ shows a clear positive dependence on $q_2$, while $P_{z,2}$ indicates a weak positive dependence on $q_2$ and $v_2$. This is the first measurement to directly investigate the relation between anisotropic flow and local polarization, providing new insight into the origin of local polarization.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 08:15:18 GMT</pubDate>
+      <guid isPermaLink="false">2610.25989v1</guid>
+      <dc:creator>Taiki Kondo</dc:creator>
+    </item>
+    <item>
+      <title>Parton Fragmentation Functions</title>
+      <link>http://arxiv.org/abs/2610.25607v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hongxi Xing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This chapter provides a pedagogical and comprehensive introduction to parton fragmentation functions (FFs), the essential non-perturbative quantities in Quantum Chromodynamics (QCD) that describe the universal process of hadronization, the transition of quarks and gluons into observable hadrons. Formally defined as gauge-invariant matrix elements, the determination of FFs is achieved through global QCD analyses that synthesize world data from three primary processes: electron-positron annihilation, semi-inclusive deep inelastic scattering, and proton-proton collisions. This chapter covers the theoretical foundations of FFs, including their operator definitions and properties, the experimental probes used to constrain them, and the methodologies of modern global analyses. The discussion is extended to more advanced topics, including dihadron FFs, the three-dimensional picture of hadronization provided by spin- and transverse-momentum-dependent FFs, and the modification of fragmentation in a nuclear medium, which is key to probe their fundamental properties.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 00:24:54 GMT</pubDate>
+      <guid isPermaLink="false">2610.25607v1</guid>
+      <dc:creator>Hongxi Xing</dc:creator>
+    </item>
+    <item>
+      <title>BeAGLE++: A modern modular framework for eA physics at the EIC</title>
+      <link>http://arxiv.org/abs/2610.24095v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arjun Kumar, Abhay Deshpande, Zhoudunming Tu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the Benchmark eA Generator for LEptoproduction (BeAGLE++), a next-generation, general-purpose Monte Carlo event generator for high-energy lepton-nucleus collisions and the successor to BeAGLE. The framework incorporates a formation-zone intranuclear cascade to describe hadronic final-state interactions (FSIs), followed by statistical de-excitation of the residual nucleus. Compared with the legacy implementation, the BeAGLE++ cascade introduces a discrete time-ordered treatment of hadronic interactions and light-cluster production during intranuclear transport. Comparisons with E665 measurements and legacy BeAGLE calculations show broad agreement for selected observables, while revealing differences in final states sensitive to FSIs. These differences provide opportunities to assess the model dependence of nuclear-breakup predictions and constrain the underlying cascade dynamics. With its modular architecture, BeAGLE++ provides a flexible simulation framework for the Electron-Ion Collider (EIC) and a platform for developing and testing new physics models against existing data and future EIC measurements.&lt;/p&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 18:23:09 GMT</pubDate>
+      <guid isPermaLink="false">2610.24095v1</guid>
+      <dc:creator>Arjun Kumar</dc:creator>
+      <dc:creator>Abhay Deshpande</dc:creator>
+      <dc:creator>Zhoudunming Tu</dc:creator>
+    </item>
     <item>
       <title>Proton-Number Fluctuations in $^{238}$U+$^{238}$U Collisions at $\sqrt{s_{\mathrm{NN}}} = 2.1$ GeV with the CEE Fast Simulation</title>
       <link>http://arxiv.org/abs/2610.23460v1</link>
@@ -215,17 +272,6 @@
       <dc:creator>Avazbek Nasirov</dc:creator>
     </item>
     <item>
-      <title>Out-of-time-order hydrodynamics and scrambling</title>
-      <link>http://arxiv.org/abs/2610.16888v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marta Bucca, Akash Jain, Márk Mezei, Alexey Milekhin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hydrodynamics as an effective field theory (EFT) has been immensely successful for predicting the behaviour of time-ordered correlation functions in the long-time, large-distance regime. In this paper, we analyse the predictions of hydrodynamics for scrambling as probed by out-of-time order correlators (OTOCs). To do so, we consider an all-derivative order generalisation of the Schwinger-Keldysh EFT of hydrodynamics extended to a four-fold time contour required to capture OTOCs. A crucial ingredient of the construction is a local SL(2,R) symmetry, which has previously been suggested as a mechanism for scrambling. We also derive this exact EFT from the microscopic formulation of the maximally chaotic low-temperature limit of the SYK lattice, thereby determining all transport coefficients for this model. As a novel application, we compute the OTOC of energy currents, find that its exponential growth saturates the chaos bound, and match it to expectations based on a shockwave (or scramblon) effective description. Our work shows that the universality of hydrodynamics degrees of freedom extends beyond traditional time-ordered correlators to more complex observables such as OTOCs.&lt;/p&gt;</description>
-      <pubDate>Mon, 12 Oct 2026 14:46:20 GMT</pubDate>
-      <guid isPermaLink="false">2610.16888v1</guid>
-      <dc:creator>Marta Bucca</dc:creator>
-      <dc:creator>Akash Jain</dc:creator>
-      <dc:creator>Márk Mezei</dc:creator>
-      <dc:creator>Alexey Milekhin</dc:creator>
-    </item>
-    <item>
       <title>Conserved-charge diffusion in hot and dense QCD matter</title>
       <link>http://arxiv.org/abs/2610.16829v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dushmanta Sahu, Kangkan Goswami, Raghunath Sahoo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the coupled diffusion of baryon number, electric charge, and strangeness in hot and dense quark matter using a three-flavor Nambu-Jona-Lasinio model with self-consistently generated constituent quark masses. The complete diffusion matrix is evaluated within a relaxation-time kinetic approach, including its diagonal and off-diagonal components. We find that the off-diagonal transport coefficients exhibit distinct temperature and baryon-chemical-potential dependence associated with the flavor-dependent composition of the charge carriers. We further investigate generalized charge diffusivities and mobilities obtained from the corresponding susceptibilities. At finite baryon chemical potential, the baryon and strangeness mobility scales cross, reflecting the different density dependence of their transport coefficients and susceptibilities. The results provide model benchmarks for coupled conserved-charge transport in baryon-rich QCD matter.&lt;/p&gt;</description>
@@ -234,14 +280,6 @@
       <dc:creator>Dushmanta Sahu</dc:creator>
       <dc:creator>Kangkan Goswami</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>Holographic theory of non-invertible gravitational anomalies</title>
-      <link>http://arxiv.org/abs/2610.15358v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-Gang Wen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We review a many-body formulation of gravitational anomalies as obstructions to realizing the complete low-energy data by a local {\it bosonic} lattice quantum system of the same dimension. In this formulation, an anomalous theory can be realized at the boundary of a gapped {\it bosonic} lattice bulk, whose topological order gives a one-to-one classification of the anomaly. An invertible bulk reproduces conventional anomaly inflow; a bulk with non-trivial topological excitations yields a non-invertible generalization. To describe the holographic theory of anomalies, we explain the distinction between uniquely defined topological order and many versions of topological quantum field theory and discuss the boundary-to-bulk map. As an application of the holographic theory of anomalies, we describe morphisms between local quantum theories (such as quantum field theories). These morphisms are built from a bulk domain wall and an invertible boundary junction, which give rise to a sandwich picture. Chiral boson/fermion theory, Laughlin edges, and boundaries of $\mathbb{Z}_2$ higher gauge theory with bosonic or fermionic point-like excitations illustrate the different kinds of information about non-invertible anomalies contained in transport coefficients, superselection sectors, and condensation data. In particular, a fermionic theory can be viewed as a theory with a particular non-invertible gravitational anomaly. Those examples also reveal that {\it symmetry $\sim$ gravitational anomaly $\sim$ topological order in one higher dimension}.&lt;/p&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 05:32:59 GMT</pubDate>
-      <guid isPermaLink="false">2610.15358v1</guid>
-      <dc:creator>Xiao-Gang Wen</dc:creator>
     </item>
     <item>
       <title>Deconfinement and the Charge Susceptibility Matrix of QCD</title>
@@ -723,35 +761,6 @@
       <dc:creator>Bin Wu</dc:creator>
     </item>
     <item>
-      <title>ShARK: A Stochastic Transport Framework for the Relativistic Relaxation Time Approximation Boltzmann Equation</title>
-      <link>http://arxiv.org/abs/2609.35148v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tiago Nunes da Silva, Jadna L. Barauna, Giorgio Torrieri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We show that the Anderson-Witting relaxation-time approximation (relativistic Bhatnagar-Gross-Krook (BGK) equation) emerges as the $N\rightarrow \infty$ limit of a stochastic $N$-body particle gas, in which collisions perform a full microcanonical momentum redraw that enforces local energy-momentum conservation at every event. Using the RAMBO algorithm to sample the Lorentz-invariant phase space, we derive the finite-$N$ single-particle momentum spectrum and show that it converges to the Jüttner-Boltzmann equilibrium distribution as the local particle number grows. We couple this relaxation kernel to an advection-relaxation splitting scheme to construct ShARK (Stochastic Advection Relaxation Kinetics), a 3D Monte Carlo relativistic solver for the relaxation time approximation Boltzmann equation. The framework is conceptually related to lattice Boltzmann methods, but formulated in continuous momentum space to avoid the accuracy loss caused by finite-order momentum discretizations far from local equilibrium. We validate the numerical results against analytical solutions for two highly symmetric conformal expansions, the Bjorken and Gubser flows. The framework provides a first-principles route to far-from-equilibrium relativistic transport, with applications ranging from heavy-ion collisions to expanding astrophysical plasmas.&lt;/p&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 13:31:45 GMT</pubDate>
-      <guid isPermaLink="false">2609.35148v1</guid>
-      <dc:creator>Tiago Nunes da Silva</dc:creator>
-      <dc:creator>Jadna L. Barauna</dc:creator>
-      <dc:creator>Giorgio Torrieri</dc:creator>
-    </item>
-    <item>
-      <title>Probing hydrodynamics in graphene and quark matter via Seebeck coefficient</title>
-      <link>http://arxiv.org/abs/2609.34544v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Subhalaxmi Nayak, Jayanta Dey, Sabyasachi Ghosh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.mes-hall&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the Seebeck coefficient as a probe of collective transport behavior in graphene and quark-gluon plasma using a kinetic-theory approach in the hydrodynamic regime. The Seebeck coefficient is obtained by solving the Boltzmann transport equation in the relaxation-time approximation. At high-charge-carrier density, corresponding to the Fermi-liquid domain, our result approaches the behavior expected from the conventional Mott relation. In contrast, significant deviations from the Mott relation are observed in the low-carrier-density regime, corresponding to the Dirac fluid domain. These facts are in good agreement with experimental Seebeck coefficient data for graphene. This behavior indicates the emergence of collective hydrodynamic transport in graphene. The enthalpy per particle plays a key role for the Seebeck coefficient in the Dirac fluid regime. We extend our formalism to the ultra-relativistic quark-gluon plasma. A similar deviation from the Mott relation is observed, supporting a similar fluid response in the Seebeck coefficient across two markedly different strongly correlated quantum systems - graphene and quark matter.&lt;/p&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 08:07:05 GMT</pubDate>
-      <guid isPermaLink="false">2609.34544v1</guid>
-      <dc:creator>Subhalaxmi Nayak</dc:creator>
-      <dc:creator>Jayanta Dey</dc:creator>
-      <dc:creator>Sabyasachi Ghosh</dc:creator>
-    </item>
-    <item>
-      <title>Neutron Economy and Freeze-out Dynamics in the Late-Time Cold r-Process</title>
-      <link>http://arxiv.org/abs/2609.31465v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mengke Li, Bradley Meyer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Standard r-process models often treat the freeze-out phase as a passive, uniform smoothing of the global abundance pattern. We demonstrate, however, that the final pattern is instead actively sculpted by a dynamic ``neutron economy'' that operates well after the free neutron source is exhausted. By analyzing cold neutron star merger outflows, we identify a distinct neutron exporter-importer relationship: the second-peak region ($A \sim 130$) transitions early into a $β$-decay dominated regime, acting as a net exporter, while the third-peak ($A \sim 195$) and Rare Earth ($A \sim 164$) regions remain capture-dominated neutron importers. Targeted simulations reveal that the final peak structures emerge from a competition between two opposing forces: a global ``push'' driven by neutron capture shifting mass toward heavier nuclei, and a local ``pull'' from beta delayed neutron emission returning material back toward lighter masses. We identify $^{136}\text{Pd}$, $^{135}\text{Ag}$, and $^{130}\text{Ru}$ as the primary exporters driving this economy, while third-peak fine structure is governed by $N=126$ isotones (Sm to Tb). Physically, this transport reflects a fundamental drive toward shell closure, where nuclei that overshoot the $N=82$ closed shell shed mass to migrate back toward this stable configuration, while nuclei in the third peak capture these redistributed neutrons to anchor themselves at the $N=126$ shell. Crucially, our models overproduce the odd-even staggering in the third peak compared to solar data. This discrepancy suggests current models likely overestimate the $β$-delayed neutron emission probabilities ($P_n$) for these $N=126$ nuclei, highlighting them as high-priority targets for theoretical refinement and future FRIB experiments.&lt;/p&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 16:16:36 GMT</pubDate>
-      <guid isPermaLink="false">2609.31465v1</guid>
-      <dc:creator>Mengke Li</dc:creator>
-      <dc:creator>Bradley Meyer</dc:creator>
-    </item>
-    <item>
       <title>Strangeness Production at GlueX</title>
       <link>http://arxiv.org/abs/2609.30850v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hao Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The GlueX experiment at Jefferson Lab is well suited for exclusive studies of strangeness production, combining a linearly polarized photon beam at $8.0 &lt; E_γ&lt; 8.8$ GeV with a large-acceptance detector that reconstructs weakly decaying hyperons. We outline a research program built on three aspects: (i) spectroscopy of strange mesons, where many excited $K^*$ states remain unestablished and crypto-exotic strange hybrids must be identified from combined spectrum and decay information, anchored by the $K^*(892)$ as a standard candle; (ii) spin dynamics, where the first precise measurements of the complete spin-density matrix elements in the photoproduced $K^*(892)Λ$ system beyond the Schilling formalism constrain the $t$-channel strange production mechanism; and (iii) hadronization, probed through the newly published $p\bar{p}$, $Λ\barΛ$, and $p\barΛ$ photoproduction cross sections and emerging $Λ\barΛ$ spin-correlation measurements. We place these efforts in the context of the broader GlueX strangeness program and give an outlook toward the high-statistics GlueX-II era.&lt;/p&gt;</description>
@@ -1141,19 +1150,6 @@
       <dc:creator>Xin Dong</dc:creator>
       <dc:creator>Rongrong Ma</dc:creator>
       <dc:creator>Cesar Luiz da Silva</dc:creator>
-    </item>
-    <item>
-      <title>CGC-py: A Monte Carlo Event Generator for Gluon Saturation Physics</title>
-      <link>http://arxiv.org/abs/2609.03434v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Haowu Duan, Cong Yi, Si-Wei Dai, Shu-Yi Wei, Wenbin Zhao, Liang Zheng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop CGC-py, a Monte Carlo event generator for deep-inelastic scattering. It couples the full Color Glass Condensate (CGC) cross section for $γ^*p(A)\to q\bar q+X$ to a Parton-Branching transverse-momentum-dependent backward initial-state shower, while \textsc{Pythia}~8 handles final-state radiation and hadronization. CGC-py retains the complete target-elastic and target-inelastic contributions without taking the back-to-back correlation limit, allowing single- and di-hadron observables to be generated consistently from the same event sample. We validate the generator through an analytic closure test of the single-inclusive quark spectrum and a comparison of charged-hadron spectra in $ep$ collisions with H1 data, finding excellent agreement. The predicted nuclear modification factor $R_{e\mathrm{Au}}^h$ shows the expected saturation pattern: suppression at low $p_T^*$ followed by a rise toward unity at higher $p_T^*$. A comparison with a \textsc{Pythia}~6 baseline, together with an $x_g$-rescaling study, indicates that small-$x$ CGC evolution and collinear DGLAP dynamics contribute comparably to the growth of the dihadron away-side width with energy. Genuine saturation-driven broadening emerges only at the highest energies considered. Within CGC-py, $e\mathrm{Au}$ collisions exhibit an enhanced away-side width and a suppressed back-to-back yield relative to $ep$ collisions. These nuclear effects remain modest over EIC kinematics, motivating measurements at the most forward accessible kinematics and the use of complementary observables to maximize sensitivity to gluon saturation.&lt;/p&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:45:41 GMT</pubDate>
-      <guid isPermaLink="false">2609.03434v1</guid>
-      <dc:creator>Haowu Duan</dc:creator>
-      <dc:creator>Cong Yi</dc:creator>
-      <dc:creator>Si-Wei Dai</dc:creator>
-      <dc:creator>Shu-Yi Wei</dc:creator>
-      <dc:creator>Wenbin Zhao</dc:creator>
-      <dc:creator>Liang Zheng</dc:creator>
     </item>
   </channel>
 </rss>
