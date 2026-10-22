@@ -5,9 +5,39 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:25:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Heavy-quark thermalization in the quark-gluon plasma via a fractional Langevin equation</title>
+      <link>http://arxiv.org/abs/2610.26086v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jai Prakash, Mohammad Yousuf Jamal, Shanshan Cao, Guang-You Qin, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of heavy quarks in the quark-gluon plasma is commonly described within a standard Langevin equation framework. In this work, we extend the conventional framework by using a fractional Langevin equation based on the Caputo derivative of order $α$ with $1&lt;α\leq 2$. We solve the fractional Langevin equation and derive the corresponding {\textit {fractional fluctuation-dissipation theorem}} for the heavy quark thermalization in the quark-gluon plasma medium. We calculate the time evolution of the mean-squared momentum, mean-squared displacement, momentum distribution, energy loss, longitudinal momentum loss, transverse momentum broadening, and the nuclear suppression factor of the heavy quarks. The mean-squared momentum thermalizes to the same value for all $α$ at late times, in agreement with the fractional fluctuation-dissipation theorem, and the nuclear suppression factor shows a systematic $α$-dependence. The energy loss of an energetic heavy quark grows strongly with $α$. The time evolution of the heavy quark momentum distribution provides additional sensitivity to the fractional dynamics of the heavy quarks in the QGP medium.&lt;/p&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 11:55:57 GMT</pubDate>
+      <guid isPermaLink="false">2610.26086v2</guid>
+      <dc:creator>Jai Prakash</dc:creator>
+      <dc:creator>Mohammad Yousuf Jamal</dc:creator>
+      <dc:creator>Shanshan Cao</dc:creator>
+      <dc:creator>Guang-You Qin</dc:creator>
+      <dc:creator>Yifeng Sun</dc:creator>
+    </item>
+    <item>
+      <title>Measurements of local polarization of $Λ$ hyperons with event shape engineering in Au+Au collisions at RHIC-STAR</title>
+      <link>http://arxiv.org/abs/2610.25989v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Taiki Kondo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anisotropic flow is expected to generate local vorticities along the beam direction, which in turn lead to local polarization of produced particles. Although the local polarization of hyperons has already been observed at RHIC and the LHC, its mechanism is not yet understood: model calculations indicate that the shear-induced and vorticity-induced contributions can have opposite signs and may substantially cancel, so that the resulting polarization depends sensitively on the theoretical implementation. Since both are driven by the anisotropic flow, we employ the Event Shape Engineering (ESE) method, which selects events with different flow magnitudes within a narrow centrality range, to measure the local polarization as a function of the elliptic flow at a fixed multiplicity. We report the measurements of the elliptic flow ($v_2$) and the local polarization ($P_{z,2}$) of $Λ$ and $\barΛ$ as a function of the reduced flow vector magnitude $q_2$ used for the ESE event selection, in Au+Au collisions at $\sqrt{s_{\rm NN}} = 19.6~{\rm GeV}$ from the STAR experiment. The $v_2$ shows a clear positive dependence on $q_2$, while $P_{z,2}$ indicates a weak positive dependence on $q_2$ and $v_2$. This is the first measurement to directly investigate the relation between anisotropic flow and local polarization, providing new insight into the origin of local polarization.&lt;/p&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 06:16:58 GMT</pubDate>
+      <guid isPermaLink="false">2610.25989v2</guid>
+      <dc:creator>Taiki Kondo</dc:creator>
+    </item>
+    <item>
+      <title>Jets as differential probes of hot QCD matter</title>
+      <link>http://arxiv.org/abs/2610.27182v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João M. Silva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultra-relativistic heavy-ion collisions create short-lived droplets of deconfined, hot QCD matter whose evolution connects far-from-equilibrium early dynamics to the hydrodynamic quark-gluon plasma. High-energy jets, produced in early hard scatterings and modified by this evolving medium, provide multi-scale probes of its microscopic properties. This thesis develops perturbative QCD tools to extract information about hot QCD matter from its imprint on differential jet substructure observables.
+  Our framework is the BDMPS-Z description of high-energy partons propagating through stochastic colour fields. We first study anisotropic QCD matter by replacing the usual scalar broadening parameter with direction-dependent transverse momentum broadening. This relates anisotropic corrections to medium-induced splittings to spin information and azimuthal patterns in final-state energy flow. Energy correlators are then used as observables sensitive to these effects, including heavy-flavour EECs, azimuthally differential EECs and clover projections designed to isolate leading anisotropy-induced harmonics.
+  We also examine how energy loss affects the interpretation of jet substructure modifications. Quantile matching defines reconstructed energy loss as a population-level shift between vacuum and medium-modified jet spectra. We further develop energy-loss functions, which encode the distribution of energy retained by jet-originated hadrons, and show how their moments enter multi-point projected energy correlators. Finally, we go beyond single $1\to2$ medium-induced splittings by studying spin-induced correlations between successive emissions and higher-point energy correlators including contributions from medium response. The results show that differential jet substructure can probe directional properties of QCD matter and multi-point dynamics of jets propagating through it.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 19:17:42 GMT</pubDate>
+      <guid isPermaLink="false">2610.27182v1</guid>
+      <dc:creator>João M. Silva</dc:creator>
+    </item>
     <item>
       <title>Fluctuations of $v_2$ versus fluctuations of $\varepsilon_2$: Beyond linear and cubic response</title>
       <link>http://arxiv.org/abs/2610.26621v1</link>
@@ -19,18 +49,6 @@
       <dc:creator>Jean-Yves Ollitrault</dc:creator>
     </item>
     <item>
-      <title>Heavy-quark thermalization in the quark-gluon plasma via a fractional Langevin equation</title>
-      <link>http://arxiv.org/abs/2610.26086v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jai Prakash, Mohammad Yousuf Jamal, Shanshan Cao, Guang-You Qin b, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of heavy quarks in the quark-gluon plasma is commonly described within a standard Langevin equation framework. In this work, we extend the conventional framework by using a fractional Langevin equation based on the Caputo derivative of order $α$ with $1&lt;α\leq 2$. We solve the fractional Langevin equation and derive the corresponding {\textit {fractional fluctuation-dissipation theorem}} for the heavy quark thermalization in the quark-gluon plasma medium. We calculate the time evolution of the mean-squared momentum, mean-squared displacement, momentum distribution, energy loss, longitudinal momentum loss, transverse momentum broadening, and the nuclear suppression factor of the heavy quarks. The mean-squared momentum thermalizes to the same value for all $α$ at late times, in agreement with the fractional fluctuation-dissipation theorem, and the nuclear suppression factor shows a systematic $α$-dependence. The energy loss of an energetic heavy quark grows strongly with $α$. The time evolution of the heavy quark momentum distribution provides additional sensitivity to the fractional dynamics of the heavy quarks in the QGP medium.&lt;/p&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 09:47:06 GMT</pubDate>
-      <guid isPermaLink="false">2610.26086v1</guid>
-      <dc:creator>Jai Prakash</dc:creator>
-      <dc:creator>Mohammad Yousuf Jamal</dc:creator>
-      <dc:creator>Shanshan Cao</dc:creator>
-      <dc:creator>Guang-You Qin b</dc:creator>
-      <dc:creator>Yifeng Sun</dc:creator>
-    </item>
-    <item>
       <title>Transverse momentum dependent parton distributions at small $x$</title>
       <link>http://arxiv.org/abs/2610.26004v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Caucal, Farid Salazar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Transverse-momentum-dependent (TMD) parton distributions provide a three-dimensional description of the momentum structure of hadrons. They are probed in proton-proton and proton-nucleus collisions at the LHC and RHIC, and are a central part of the physics program of the future Electron-Ion Collider (EIC). While TMD factorization is well established at moderate Bjorken $x$, the small-$x$ regime requires a different treatment, since large logarithms of $1/x$ must be resummed and non-linear effects due to high gluon densities become important. The Color Glass Condensate (CGC) effective theory provides a natural framework to describe TMDs in this saturation regime and to connect them with standard TMD factorization. This chapter reviews quark and gluon TMDs at small $x$, covering operator definitions, gauge-link structures, and Wilson-line correlators in the CGC for unpolarized and polarized distributions. We discuss factorization for inclusive and diffractive observables, highlighting the role of process dependence and the emergence of a limited set of Wilson-line operators. We then summarize the evolution of these distributions, namely the resummation of logarithms of $1/x$ by the Balitsky-Kovchegov and JIMWLK equations, and of Sudakov logarithms of the hard scale through Collins-Soper-Sterman evolution. We also review TMDs beyond the eikonal approximation, including the sub-eikonal Wilson-line operators that give access to helicity and other spin-dependent distributions, their double-logarithmic small-$x$ evolution and the resulting asymptotics, and the sub-eikonal corrections to the eikonal distributions, which provide a first step toward the moderate-$x$ regime. Finally, we discuss phenomenological implications for present and future experiments, with emphasis on the EIC, and outline the theoretical challenges toward a unified description of TMDs.&lt;/p&gt;</description>
@@ -40,20 +58,22 @@
       <dc:creator>Farid Salazar</dc:creator>
     </item>
     <item>
-      <title>Measurements of local polarization of $Λ$ hyperons with event shape engineering in Au+Au collisions at RHIC-STAR</title>
-      <link>http://arxiv.org/abs/2610.25989v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Taiki Kondo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anisotropic flow is expected to generate local vorticities along the beam direction, which in turn lead to local polarization of produced particles. Although the local polarization of hyperons has already been observed at RHIC and the LHC, its mechanism is not yet understood: model calculations indicate that the shear-induced and vorticity-induced contributions can have opposite signs and may substantially cancel, so that the resulting polarization depends sensitively on the theoretical implementation. Since both are driven by the anisotropic flow, we employ the Event Shape Engineering (ESE) method, which selects events with different flow magnitudes within a narrow centrality range, to measure the local polarization as a function of the elliptic flow at a fixed multiplicity. We report the measurements of the elliptic flow ($v_2$) and the local polarization ($P_{z,2}$) of $Λ$ and $\barΛ$ as a function of the reduced flow vector magnitude $q_2$ used for the ESE event selection, in Au+Au collisions at $\sqrt{s_{\rm NN}} = 19.6~{\rm GeV}$ from the STAR experiment. The $v_2$ shows a clear positive dependence on $q_2$, while $P_{z,2}$ indicates a weak positive dependence on $q_2$ and $v_2$. This is the first measurement to directly investigate the relation between anisotropic flow and local polarization, providing new insight into the origin of local polarization.&lt;/p&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 08:15:18 GMT</pubDate>
-      <guid isPermaLink="false">2610.25989v1</guid>
-      <dc:creator>Taiki Kondo</dc:creator>
-    </item>
-    <item>
       <title>Parton Fragmentation Functions</title>
       <link>http://arxiv.org/abs/2610.25607v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hongxi Xing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This chapter provides a pedagogical and comprehensive introduction to parton fragmentation functions (FFs), the essential non-perturbative quantities in Quantum Chromodynamics (QCD) that describe the universal process of hadronization, the transition of quarks and gluons into observable hadrons. Formally defined as gauge-invariant matrix elements, the determination of FFs is achieved through global QCD analyses that synthesize world data from three primary processes: electron-positron annihilation, semi-inclusive deep inelastic scattering, and proton-proton collisions. This chapter covers the theoretical foundations of FFs, including their operator definitions and properties, the experimental probes used to constrain them, and the methodologies of modern global analyses. The discussion is extended to more advanced topics, including dihadron FFs, the three-dimensional picture of hadronization provided by spin- and transverse-momentum-dependent FFs, and the modification of fragmentation in a nuclear medium, which is key to probe their fundamental properties.&lt;/p&gt;</description>
       <pubDate>Mon, 19 Oct 2026 00:24:54 GMT</pubDate>
       <guid isPermaLink="false">2610.25607v1</guid>
       <dc:creator>Hongxi Xing</dc:creator>
+    </item>
+    <item>
+      <title>Linear Structure, Convergence and Resurgence of Hydrodynamic Transseries</title>
+      <link>http://arxiv.org/abs/2610.26958v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Zhou, Enke Wang, Hui Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct an exact formulation for the solution of Bjorken expanding relativistic viscous hydrodynamics with a constant relaxation time and derive its late time transseries structure. The two fundamental modes of the linear auxiliary equation separate the hydrodynamic contribution from the exponentially suppressed transient mode. We show that this single transient mode generates the entire hierarchy of nonperturbative sectors through nonlinear mode mixing, while its decay explains the loss of initial condition dependence and the emergence of late time hydrodynamic attractor behavior. The hydrodynamic gradient expansion is factorially divergent for generic values of the transport parameter but converges at the discrete values $a=N^2$, where the auxiliary asymptotic expansions terminate. We further determine the exact Stokes constant of the auxiliary linear equation and establish its relation to the logarithmic Borel singularity coefficient. The vanishing of the Stokes constant at these exceptional values establishes a direct connection between auxiliary series termination, hydrodynamic convergence, and Stokes decoupling between the hydrodynamic and the nonhydrodynamic transient sector.&lt;/p&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 11:58:57 GMT</pubDate>
+      <guid isPermaLink="false">2610.26958v1</guid>
+      <dc:creator>Qi Zhou</dc:creator>
+      <dc:creator>Enke Wang</dc:creator>
+      <dc:creator>Hui Zhang</dc:creator>
     </item>
     <item>
       <title>BeAGLE++: A modern modular framework for eA physics at the EIC</title>
@@ -185,15 +205,6 @@
       <dc:creator>Ismail Zahed</dc:creator>
     </item>
     <item>
-      <title>Multi-Instantons and Exact-WKB Stokes Jumps in Multi-Well Quantum Mechanics</title>
-      <link>http://arxiv.org/abs/2610.20006v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alireza Behtash, Syo Kamata&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the relation between the exact-WKB Delabaere--Dillinger--Pham Stokes jumps and the multi-instanton expansion of a one-dimensional potential with $N$ equal-depth minima. For a single barrier this relation is the Bogomolny--Zinn-Justin cancellation between the instanton--anti-instanton ambiguity and the Borel ambiguity of perturbation theory, and we extend it to every consecutive barrier interval and to the integration contours themselves. In the dilute large-$T$ regime at fixed nonperturbative grade, we derive the quasi-zero mode integral over the instanton separations from the Euclidean path integral and reduce it to Gamma and Hankel periods. With the local Weber level function of each well and one normalization per well fixed by the local Weber connection matrix, these periods reproduce the two lateral connected exact-WKB coefficients. The two lateral contours of each instanton--anti-instanton separation differ by exactly one Hankel cycle, and this linear Picard--Lefschetz relation reproduces the Stokes jump of the connected coefficient. A numerical solution of the Schrödinger equation for a symmetric triple well confirms the resulting two-barrier level splitting. At higher fixed grade, the map from ordered event sequences to normalized scalar coefficient products is not one-to-one. At leading dilute order the scalar weight of a closed event sequence depends only on the numbers of barrier crossings, $\mathcal I\bar{\mathcal I}$ pairs, and $\mathcal I\mathcal I$/$\bar{\mathcal I}\bar{\mathcal I}$ pairs. We construct two inequivalent grade-six triple-well event sequences with the same product of local Weber amplitudes, which embed in every potential with $N\ge3$ wells. Our results hold within the regular dilute, one-loop, local Weber approximation.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 11:22:52 GMT</pubDate>
-      <guid isPermaLink="false">2610.20006v1</guid>
-      <dc:creator>Alireza Behtash</dc:creator>
-      <dc:creator>Syo Kamata</dc:creator>
-    </item>
-    <item>
       <title>Probing the production mechanisms of virtual photons at RHIC</title>
       <link>http://arxiv.org/abs/2610.19680v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the measurement of direct virtual photon ($γ^*_\text{dir} \rightarrow e^+e^-$) in four Au+Au collision energies at $\sqrt{s_\text{NN}}$ = 14.6--54.4 GeV. The $γ^*_\text{dir}$ yields scale with charged-particle multiplicity ($(dN_{\mathrm{ch}}/dη)^α$) as $α=1.43 \pm 0.04 \text{(stat.)} \pm 0.03\text{(sys.)}$, independent of collision energies and centralities, exceeding hadronic expectations and indicating notable contribution from QGP phase. At $\sqrt{s_{\rm NN}}=$ 54.4 GeV, the direct virtual photon mass distributions are further studied over $0.1 &lt; M_{ee} &lt; 1.1$ GeV/$c^2$, and are found to evolve from exponential to power-law form with increasing $p_\text{T}$, signaling a shift from &quot;blackbody&quot; radiation to emission governed by Kroll-Wada formalism.&lt;/p&gt;</description>
@@ -222,15 +233,6 @@
       <dc:creator>Di Zhao</dc:creator>
       <dc:creator>Xun Zhu</dc:creator>
       <dc:creator>Gao-Chan Yong</dc:creator>
-    </item>
-    <item>
-      <title>Anomalies, higher symmetries, and homotopy theory I: crossed precosheaves and a nonabelian Cech construction</title>
-      <link>http://arxiv.org/abs/2610.19004v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anton Kapustin, Shixiong Xu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Symmetries of a quantum field theory or a quantum lattice model are expected to be described not by a group but by a homotopy type, whose homotopy groups are the higher symmetry groups and whose Postnikov invariants encode 't Hooft anomalies. We propose a homotopy-theoretic definition of 't Hooft anomalies based on the structure of localized symmetries in the operator-algebraic approach. The input is a crossed precosheaf: a collection of groups attached to regions of space, equipped with pairings recording that the commutator of two transformations localized in two regions is localized in their intersection. To a crossed precosheaf and a finite family of regions we attach a pointed connected homotopy type, the Cech-Loday classifying space. As the family of regions ranges over finite covers of space, the classifying spaces form a pro-object in the homotopy category. There is a canonical map from the ordinary classifying space of the symmetry group to this pro-type. Composing this map with a group action gives an anomaly whose nontriviality obstructs gauging. In favorable cases, the Cech-Loday space is essentially independent of the cover. In such cases, the homotopy fiber of the canonical map is a candidate for the classifying space of the higher group of symmetries. We give examples of crossed precosheaves arising from gauge transformations in continuum field theory and from quantum cellular automata and finite-depth circuits. For quantum spin systems in one and two dimensions, our construction recovers the Else-Nayak index and its generalizations to two dimensions.&lt;/p&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 18:05:14 GMT</pubDate>
-      <guid isPermaLink="false">2610.19004v1</guid>
-      <dc:creator>Anton Kapustin</dc:creator>
-      <dc:creator>Shixiong Xu</dc:creator>
     </item>
     <item>
       <title>Virtual photon bremsstrahlung in a magnetized quark-gluon-plasma</title>
@@ -741,26 +743,6 @@
       <dc:creator>Tomasz Stebel</dc:creator>
     </item>
     <item>
-      <title>Elliptic flow in an expanding and rotating fireball</title>
-      <link>http://arxiv.org/abs/2609.36649v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ashutosh Dwibedi, Anupam Panja, Sabyasachi Ghosh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the role of initial orbital angular momentum in generating elliptic flow in off-central heavy-ion collisions. The conventional expanding fireball picture is extended for the first time to a simultaneously expanding and rotating fireball characterized by an angular velocity. Spherical and spheroidal emission geometries with two different rotating flow profiles, reminiscent of global and differential rotation, are considered for our investigation. While the transverse-momentum spectra at midrapidity are largely insensitive to the geometry and flow profile for realistic values of angular velocity, the elliptic flow is strongly affected by anisotropic expansion and rotation. A spherical fireball generates elliptic flow solely through the momentum anisotropy induced by rotation, but its magnitude remains below the observed values for realistic angular velocities. In contrast, an anisotropically expanding and rotating spheroidal fireball exhibits a $\sim 10\%$ enhancement of elliptic flow for $\sqrt{s_{\rm NN}}=7.7$ GeV, which reduces to a $2\%$ for $\sqrt{s_{\rm NN}}=39$ GeV relative to its non-rotating counterpart. Within our fireball framework, this indicates that vorticity can contribute at the $2-10\%$ level to the observed elliptic flow.&lt;/p&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 03:49:29 GMT</pubDate>
-      <guid isPermaLink="false">2609.36649v1</guid>
-      <dc:creator>Ashutosh Dwibedi</dc:creator>
-      <dc:creator>Anupam Panja</dc:creator>
-      <dc:creator>Sabyasachi Ghosh</dc:creator>
-    </item>
-    <item>
-      <title>Factorization and virtuality evolution of jet functions in heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.35653v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Carlos Lamas, Carlos A. Salgado, Bin Wu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a new framework to perform a virtuality-resolved description of jet propagation in heavy-ion collisions using perturbative techniques. The role of virtuality is rigorously identified by first deriving a factorized jet cross section that defines an in-medium jet function. This new definition allows to extend the usual BDMPS-Z formalism to include the virtuality-differential transverse momentum broadening distribution and medium-induced soft gluon spectrum. We study both the cases of a medium which is created with some delay time $τ_0$ after the hard collision as well as the case in which $τ_0\to 0$. Integration over the complete virtuality range recovers the standard BDMPS-Z results, while finite virtuality reveals the interplay between vacuum-like evolution and medium-induced dynamics. We identify the ratio between the medium formation time and the jet formation time as the variable controlling which initial virtualities contribute appreciably to the jet function.&lt;/p&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 17:20:29 GMT</pubDate>
-      <guid isPermaLink="false">2609.35653v1</guid>
-      <dc:creator>Carlos Lamas</dc:creator>
-      <dc:creator>Carlos A. Salgado</dc:creator>
-      <dc:creator>Bin Wu</dc:creator>
-    </item>
-    <item>
       <title>Strangeness Production at GlueX</title>
       <link>http://arxiv.org/abs/2609.30850v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hao Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The GlueX experiment at Jefferson Lab is well suited for exclusive studies of strangeness production, combining a linearly polarized photon beam at $8.0 &lt; E_γ&lt; 8.8$ GeV with a large-acceptance detector that reconstructs weakly decaying hyperons. We outline a research program built on three aspects: (i) spectroscopy of strange mesons, where many excited $K^*$ states remain unestablished and crypto-exotic strange hybrids must be identified from combined spectrum and decay information, anchored by the $K^*(892)$ as a standard candle; (ii) spin dynamics, where the first precise measurements of the complete spin-density matrix elements in the photoproduced $K^*(892)Λ$ system beyond the Schilling formalism constrain the $t$-channel strange production mechanism; and (iii) hadronization, probed through the newly published $p\bar{p}$, $Λ\barΛ$, and $p\barΛ$ photoproduction cross sections and emerging $Λ\barΛ$ spin-correlation measurements. We place these efforts in the context of the broader GlueX strangeness program and give an outlook toward the high-statistics GlueX-II era.&lt;/p&gt;</description>
@@ -1130,26 +1112,6 @@
       <pubDate>Sat, 05 Sep 2026 02:25:21 GMT</pubDate>
       <guid isPermaLink="false">2609.05815v1</guid>
       <dc:creator>Yuuka Kanakubo</dc:creator>
-    </item>
-    <item>
-      <title>Spectator shadowing as the source of the breaking of NCQ scaling at RHIC-FXT and FAIR energies</title>
-      <link>http://arxiv.org/abs/2609.05315v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tom Reichert, Iurii Karpenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The apparent scaling of the elliptic flow of identified hadrons with the number of constituent quarks indicates the presence of quark coalescence, and in turn suggests the presence of a deconfined state in heavy-ion collisions. Recent measurements at RHIC found a breaking of NCQ scaling at low energies and suggested that this marks the onset of partonic collectivity at higher energies. Here, we present a new framework embedding the effect of spectator shadowing into the flow scaling relations. Using a toy model with an idealized quark coalescence source and a ballistic Glauber model for the bypassing spectator, we demonstrate that the observed breaking is an effect of spectator shadowing.&lt;/p&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 16:08:08 GMT</pubDate>
-      <guid isPermaLink="false">2609.05315v1</guid>
-      <dc:creator>Tom Reichert</dc:creator>
-      <dc:creator>Iurii Karpenko</dc:creator>
-    </item>
-    <item>
-      <title>Heavy Flavors and Quarkonia at RHIC</title>
-      <link>http://arxiv.org/abs/2609.04337v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Cameron Dean, Xin Dong, Rongrong Ma, Cesar Luiz da Silva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;After the discovery of the strongly coupled quark-gluon plasma (QGP), a nearly perfect fluid, in 200 GeV Au+Au collisions at RHIC, understanding its microscopic structure and transport properties has become a central goal of relativistic heavy-ion physics. Heavy-flavor particles, containing charm or bottom quarks, provide unique sensitivity to the QGP because they are produced predominantly in the initial hard scatterings and interact with the medium throughout its evolution. This review summarizes measurements of open heavy flavor and quarkonia by the PHENIX and STAR experiments, focusing primarily on 200 GeV collisions recorded during the first two decades of RHIC operations. We discuss key results on charm, bottom, and quarkonium production cross sections; cold nuclear matter effects in small collision systems; nuclear modification factors and elliptic flow of open heavy-flavor hadrons; charm baryon-to-meson production ratios; and the suppression patterns of quarkonium states in Au+Au collisions. We further highlight the resulting insights into the properties of the QGP, including heavy-quark transport, hadronization mechanisms, and quarkonium dissociation and regeneration in the medium. Finally, we discuss the future prospects of the RHIC heavy-flavor program, enabled by the large data sets collected by the STAR and sPHENIX experiments, and its strong synergy with the future Electron-Ion Collider, where precision measurements of heavy-flavor production in electron--proton and electron--nucleus collisions will provide complementary constraints on the structure of QCD matter.&lt;/p&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 18:04:47 GMT</pubDate>
-      <guid isPermaLink="false">2609.04337v1</guid>
-      <dc:creator>Cameron Dean</dc:creator>
-      <dc:creator>Xin Dong</dc:creator>
-      <dc:creator>Rongrong Ma</dc:creator>
-      <dc:creator>Cesar Luiz da Silva</dc:creator>
     </item>
   </channel>
 </rss>
