@@ -5,9 +5,28 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:21:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Nonconformal kinetic theory with transverse dynamics and event-by-event simulations using CoMBolt-RTA</title>
+      <link>http://arxiv.org/abs/2610.31611v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Seyed Farid Taghavi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A new version of CoMBolt, called CoMBolt-RTA, is introduced to solve the Boltzmann equation for massive quasiparticles in the relaxation time approximation (RTA). The inclusion of a constant quasiparticle mass allows one to obtain an equation of state (EOS) closer to that of lattice QCD. The nonequilibrium dynamics of a boost-invariant, nonconformal system with transverse spatial extension are studied, with particular emphasis on the effects of quasiparticle mass on the evolution toward equilibrium. Using the hybrid version, which includes TrENTo for the initial state and UrQMD as an afterburner, the model parameters are manually tuned to describe recent anisotropic-flow and charged-multiplicity measurements in OO collisions by the ALICE Collaboration. The resulting predictions for the $p_T$-spectrum and $\langle p_T\rangle$ are also compared with ATLAS measurements. Based on the preferred parameter tuning, the collective response as a function of opacity is investigated. The results suggest that central OO collisions remain in the fluid-like regime, while smaller systems, namely ${}^3$He-${}^3$He and ${}^4$He-${}^4$He collisions, could provide a better opportunity to investigate the transition from fluid-like to particle-like collective dynamics.&lt;/p&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 17:39:29 GMT</pubDate>
+      <guid isPermaLink="false">2610.31611v1</guid>
+      <dc:creator>Seyed Farid Taghavi</dc:creator>
+    </item>
+    <item>
+      <title>Charmed baryon-to-meson ratios inside jets as a discriminator of hadronization mechanisms: from color reconnection in p+p to coalescence in Pb+Pb</title>
+      <link>http://arxiv.org/abs/2610.31316v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zi-Xuan Xu, Wei Dai, Ben-Wei Zhang, Enke Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jets separate the products of hard scatterings from the underlying event and thus help to clarify the origin of the enhanced baryon-to-meson ratios observed from small to large collision systems. We investigate the charmed baryon-to-meson ratio $Λ_c^+/D^0$ within jets in p+p and Pb+Pb collisions at $\sqrt{s_{NN}}=5.02$~TeV to discriminate between candidate hadronization mechanisms. In p+p collisions, simulated with PYTHIA8 using color reconnection (CR-BLC Mode 2) as a representative beyond-leading-color scenario, the in-jet ratio is enhanced at low-to-intermediate $p_T$ relative to the inclusive one---opposite to the light-flavor $Λ/K^0_S$ case---because the color-reconnection-induced excess of the ratio remains correlated with the jet and survives the jet requirement, while the fragmentation baseline shows no such enhancement. In Pb+Pb collisions, described by the SHELL model with a coalescence plus fragmentation hybrid hadronization, the in-jet ratio is instead suppressed moderately at intermediate $p_T$, because coalescence hadrons assembled from soft thermal partons carry no correlation with the jet direction and are preferentially discarded by the jet selection. The sign of the in-jet modification thus discriminates between the two mechanisms. Both mechanisms shift charmed hadrons toward small values of the parallel jet momentum fraction $z^{ch}_{||}$, with a stronger effect on $Λ_c^+$, so that the $z^{ch}_{||}$ spectrum probes non-fragmentation hadronization independently of parton energy loss. The radial profile of the in-jet ratio rises with the distance from the jet axis in both systems, with the lowest-$p_T$ interval displaced farthest for color reconnection and the intermediate-$p_T$ interval for coalescence. These results provide the baseline and predictions needed for future jet-tagged charmed-hadron measurements in both collision systems.&lt;/p&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 14:08:52 GMT</pubDate>
+      <guid isPermaLink="false">2610.31316v1</guid>
+      <dc:creator>Zi-Xuan Xu</dc:creator>
+      <dc:creator>Wei Dai</dc:creator>
+      <dc:creator>Ben-Wei Zhang</dc:creator>
+      <dc:creator>Enke Wang</dc:creator>
+    </item>
     <item>
       <title>Heavy-Quark Dynamics from $D^{0}$-Meson Anisotropy-Response Scaling Violations</title>
       <link>http://arxiv.org/abs/2610.30085v1</link>
@@ -34,6 +53,15 @@
       <dc:creator>Bithika Karmakar</dc:creator>
       <dc:creator>Iurii Karpenko</dc:creator>
       <dc:creator>Boris Tomášik</dc:creator>
+    </item>
+    <item>
+      <title>UrQMD-Agent: An LLM-Assisted Framework for Microscopic Tracing of Proton Azimuthal Correlations</title>
+      <link>http://arxiv.org/abs/2610.30198v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fu-Peng Li, Yige Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present an LLM-assisted framework for microscopic transport studies that connects a general-purpose large language model (LLM) to the UrQMD transport model through a model-specific Skill and a deterministic scientific tool layer. The LLM supports literature-guided scientific planning and interpretation, while numerical calculations, event-history reconstruction, and statistical analyses are performed by deterministic tools. As a demonstration, the framework is applied to proton azimuthal-partition fluctuations in Au+Au collisions at $\sqrt{s_{NN}}=3.0$--39~GeV. In the 0--5\% centrality class, the fluctuations are statistically resolved below zero from 3 to 27~GeV and consistent with zero at 39~GeV. An exact pair-kernel decomposition shows that the negative signal is carried mainly by proton pairs containing at least one decay-fed proton. A random-label null test further distinguishes the observed pair contributions from expectations based on pair abundance alone. Reaction-history tracing shows that, for pairs of two decay-fed protons, the negative pair-kernel contribution is already present in the parent momenta evaluated at their respective formation vertices. The modular architecture is designed to accommodate different general-purpose LLMs and can be extended to other microscopic transport models through dedicated Skills and tool interfaces. This provides a pathway toward systematic microscopic analyses and comparisons across transport models within a common LLM-assisted framework.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 07:12:31 GMT</pubDate>
+      <guid isPermaLink="false">2610.30198v1</guid>
+      <dc:creator>Fu-Peng Li</dc:creator>
+      <dc:creator>Yige Huang</dc:creator>
     </item>
     <item>
       <title>Digital Quantum Simulation of Dynamics in Interacting Fields</title>
@@ -145,24 +173,6 @@
       <dc:creator>Tribhuban Parida</dc:creator>
       <dc:creator>Rupam Samanta</dc:creator>
       <dc:creator>Jean-Yves Ollitrault</dc:creator>
-    </item>
-    <item>
-      <title>Exact $T\bar{T}$-Like Flows in Nonlinear Electrodynamics</title>
-      <link>http://arxiv.org/abs/2610.23281v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zahra Pezhman, H. Babaei-Aghbolagh, Komeil Babaei Velni&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive an exact nonperturbative $T\bar T$-like flow for the class of one-scale, self-dual nonlinear electrodynamics theories admitting a Courant--Hilbert representation. The flow has a universal parametric form in terms of the defining Courant--Hilbert function and, on any physical branch where the relevant invariant map is invertible, becomes an autonomous function of the two quadratic stress-tensor invariants, $\partial_λ\mathcal L=X\,\mathcal F(Y/X)$. The function $\mathcal F$ is model dependent, and global autonomy is assumed when the invariant map is one-to-one. Born--Infeld theory yields a quadratic stress-tensor flow, whereas the causal Russo--Townsend logarithmic model gives an exact nonlinear expression involving the Lambert $W$ function whose weak-field expansion reproduces the known perturbative result. We also establish the equivalence with the Russo--Townsend auxiliary-field formulation. These results provide an exact construction of autonomous irrelevant flows for a broad, explicitly specified class of self-dual nonlinear electrodynamics theories.&lt;/p&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 10:51:30 GMT</pubDate>
-      <guid isPermaLink="false">2610.23281v1</guid>
-      <dc:creator>Zahra Pezhman</dc:creator>
-      <dc:creator>H. Babaei-Aghbolagh</dc:creator>
-      <dc:creator>Komeil Babaei Velni</dc:creator>
-    </item>
-    <item>
-      <title>Anticommuting Displacement Operators, Exact Pauli Algebras,and the Singlet State from the Oscillator Vacuum</title>
-      <link>http://arxiv.org/abs/2610.23264v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. P. Sorella&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We give an explicit construction of a pair of anticommuting Weyl displacement operators for a harmonic oscillator and use bounded functional calculus to obtain exact dichotomic representatives of the Pauli algebra. Two independent oscillators provide commuting Pauli algebras for Alice and Bob. The standard singlet-sector projector, written entirely in terms of these bounded oscillator observables, is then applied to the two-oscillator vacuum. We show explicitly that the projected vacuum has nonzero norm, so its normalization is well defined, has the exact singlet correlations, and reaches the Tsirelson value $2\sqrt2$ for the usual Bell--CHSH settings. We also clarify that the construction generally realizes a singlet sector with multiplicity, rather than selecting a unique vector in the full oscillator Hilbert space, and we compare the construction with the older pseudospin approach to continuous-variable Bell tests.&lt;/p&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 10:35:36 GMT</pubDate>
-      <guid isPermaLink="false">2610.23264v1</guid>
-      <dc:creator>S. P. Sorella</dc:creator>
     </item>
     <item>
       <title>Anisotropic hadronic matter in external magnetic fields</title>
@@ -325,14 +335,6 @@
       <guid isPermaLink="false">2610.13828v1</guid>
       <dc:creator>Anibal Bezerra</dc:creator>
       <dc:creator>Fernando G. Gardim</dc:creator>
-    </item>
-    <item>
-      <title>News from NA61/SHINE</title>
-      <link>http://arxiv.org/abs/2609.08483v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Antoni Marcinek for the NA61/SHINE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;NA61/SHINE is a multi-purpose, fixed-target hadron spectrometer at the CERN SPS. Its research program includes studies of strong interactions, as well as reference measurements for neutrino and cosmic-ray physics. A significant advantage of NA61/SHINE over collider experiments is its extended coverage of phase space available for particle production. This contribution summarizes recent selected results from our strong interaction program. These include rapidity spectra of $K^+$ and $π^-$ mesons in Xe+La reactions compared to other collision systems, energy dependence of the scaled $π^-$ total yield (the `kink` plot) in Xe+La compared to other collision systems and models, $φ$(1020) rapidity spectra in Ar+Sc collisions compared to models, $Λ$ transverse polarization in p+p reactions, energy dependence of intensive quantities of net-electric charge distribution in Ar+Sc collisions compared to p+p results, as well as an update on the evidence of large violation of isospin symmetry in kaon production --- the excess of charged over neutral kaons.&lt;/p&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 16:13:51 GMT</pubDate>
-      <guid isPermaLink="false">2609.08483v2</guid>
-      <dc:creator>Antoni Marcinek for the NA61/SHINE Collaboration</dc:creator>
     </item>
     <item>
       <title>Anomaly induced transport in holographic superconductors</title>
@@ -557,32 +559,6 @@
       <dc:creator>Peter Braun-Munzinger</dc:creator>
       <dc:creator>Hjalmar Brunßen</dc:creator>
       <dc:creator>Johanna Stachel</dc:creator>
-    </item>
-    <item>
-      <title>Searching for the QCD critical point with relativistic viscous hydrodynamics</title>
-      <link>http://arxiv.org/abs/2609.40199v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kevin P. Pala, Surkhab K. Virk, Isabella Danhoni, Fernando Gardim, Christopher Plumberg, Jacquelyn Noronha-Hostler&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;With the STAR's Beam Energy Scan II, a rich amount of data exists to search for the QCD critical point. However, a central challenge is that the critical point cannot be directly extracted from data but rather is probed dynamically in an expanding, cooling system that may be far-from-equilibrium. In this talk, we show the latest results from equations of state with a movable critical point generated by the MUSES collaboration, run in the 3+1D relativistic viscous hydrodynamics code CCAKE. We discuss numerical improvements to CCAKE that include ``glass'' initial conditions and adaptive smoothed particle hydrodynamics, allowing us to rapidly and accurately obtain numerical solutions to the hydrodynamic equations of motion. We can quantify the interplay between beam energy, location of the critical point, and rapidity range.&lt;/p&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 17:14:36 GMT</pubDate>
-      <guid isPermaLink="false">2609.40199v1</guid>
-      <dc:creator>Kevin P. Pala</dc:creator>
-      <dc:creator>Surkhab K. Virk</dc:creator>
-      <dc:creator>Isabella Danhoni</dc:creator>
-      <dc:creator>Fernando Gardim</dc:creator>
-      <dc:creator>Christopher Plumberg</dc:creator>
-      <dc:creator>Jacquelyn Noronha-Hostler</dc:creator>
-    </item>
-    <item>
-      <title>Electromagnetic probes of concurrent minijet-hydrodynamics evolution</title>
-      <link>http://arxiv.org/abs/2609.39939v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Soham Banerjee, Mayank Singh, Charles Gale, Sangyong Jeon, Daniel Pablos, Jean-François Paquet&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate direct photon and dilepton production in a concurrent minijet-hydrodynamics framework that consistently incorporates event-by-event initial-state fluctuations and dynamical minijet-medium interactions. Produced in initial hard scatterings, minijets thermalize more slowly than the bulk medium and persist into the hydrodynamic stage, where they deposit energy and momentum into the evolving plasma, generating wakes that modify its spacetime evolution. Minijets modify the hadronic multiplicity and momentum anisotropy in a manner that can largely be absorbed by adjusting the shear viscosity and the normalization of the system's initial energy-momentum tensor. In contrast, electromagnetic probes are emitted throughout the evolution and remain directly sensitive to the underlying spacetime history. We perform a comprehensive calculation of direct photon and dilepton production with the minijets and bulk medium evolved simultaneously, using PYTHIA to produce minijets, and describing the underlying plasma with IP-Glasma initial conditions, hydrodynamic evolution with MUSIC and hadronic transport with UrQMD. We find that the minijet-induced modification of the hydrodynamic evolution produces measurable effects in both photon and dilepton observables, establishing electromagnetic radiation as a sensitive probe of the interplay between hard partons and the quark-gluon plasma.&lt;/p&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 15:19:17 GMT</pubDate>
-      <guid isPermaLink="false">2609.39939v1</guid>
-      <dc:creator>Soham Banerjee</dc:creator>
-      <dc:creator>Mayank Singh</dc:creator>
-      <dc:creator>Charles Gale</dc:creator>
-      <dc:creator>Sangyong Jeon</dc:creator>
-      <dc:creator>Daniel Pablos</dc:creator>
-      <dc:creator>Jean-François Paquet</dc:creator>
     </item>
     <item>
       <title>Measurement of prompt and non-prompt ${\rm D}^{\rm *+}$-meson spin alignment in pp collisions at $\sqrt{s}$ = 13.6 TeV$</title>
