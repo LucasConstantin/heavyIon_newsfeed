@@ -5,9 +5,60 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:21:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>A universal probe of QCD spin physics from fragmentation energy correlator</title>
+      <link>http://arxiv.org/abs/2610.32715v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qing-Hong Cao, Xiaohui Liu, Zhite Yu, C. -P. Yuan, Feng Yuan, Shu-Tao Zhang, Hua Xing Zhu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the fragmentation energy correlator (FEC), which combines the nonperturbative fragmentation function with the infrared-safe energy correlator, as a new probe of the three-dimensional dynamics of QCD hadronization. We demonstrate, both theoretically and numerically, that FEC applies universally to inclusive hadron production in lepton-lepton, lepton-hadron, and hadron-hadron collisions, without requiring jet algorithms or simultaneous measurements of other heavy objects. Through the nontrivial transverse-spin dependence, FEC provides a sensitive probe of the chiral-symmetry-breaking scale in QCD via its variation with the energy-correlator scale.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 14:35:32 GMT</pubDate>
+      <guid isPermaLink="false">2610.32715v1</guid>
+      <dc:creator>Qing-Hong Cao</dc:creator>
+      <dc:creator>Xiaohui Liu</dc:creator>
+      <dc:creator>Zhite Yu</dc:creator>
+      <dc:creator>C. -P. Yuan</dc:creator>
+      <dc:creator>Feng Yuan</dc:creator>
+      <dc:creator>Shu-Tao Zhang</dc:creator>
+      <dc:creator>Hua Xing Zhu</dc:creator>
+    </item>
+    <item>
+      <title>Anisotropic flow measurements in OO and Ne-Ne collisions with ALICE</title>
+      <link>http://arxiv.org/abs/2610.32667v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Vojtěch Macháček, for the ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The LHC results have demonstrated that small collision systems can exhibit collective behavior reminiscent of that~observed in heavy-ion collisions, opening a new frontier for exploring the connection between nuclear structure and collective dynamics at ultra-relativistic energies. However, the interpretation of collectivity in small collision systems is limited by understanding the proton subnucleonic structure. The ${}^{16}$O and ${}^{20}$Ne collisions delivered by the LHC offer an opportunity to study the influence of nuclear geometry on anisotropic flow in systems where the nuclear structure is well-constrained. In this proceeding, measurements of the anisotropic flow of charged particles, $v_n$, in OO and Ne-Ne collisions involving up to eight-particle correlations are presented, using the multi-particle cumulant method. Furthermore, the first reconstruction of the probability distribution function of elliptic flow $P(v_2)$, and the first measurement of the ratio $v_3\{4\}/v_3\{2\}$ in light-ion collision systems are reported. These measurements provide deeper insight into the role of nuclear geometry-driven flow in light-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 14:09:52 GMT</pubDate>
+      <guid isPermaLink="false">2610.32667v1</guid>
+      <dc:creator>Vojtěch Macháček</dc:creator>
+      <dc:creator>for the ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Orientational average in nuclear shape imaging: densities, correlations, and eccentricity in Ne-20</title>
+      <link>http://arxiv.org/abs/2610.32386v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jian Deng, Hao-jie Xu, Qun Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The orientational treatment of deformed nuclei in high-energy nuclear collisions have two ways, a rigid rotor and a wave-function rotor, in which nuclear densities in laboratory frame are constructed differently. We calculate the one- and two-body densities (including Pauli blocking effects), body-axis contour multipoles, and geometric eccentricity variances under a leading-order ultracentral mapping for Ne-20 in a deformed harmonic-oscillator model in the rigid and wave-function rotors. At fixed deformation parameter $κ$ in the model, the two constructions can give different laboratory radial moments and pair correlations. The body-axis transition-kernel contours in the wave-function rotor are generally more compact along the symmetry axis, and $β_{20}$, $β_{40}$, $\langle\varepsilon_2^2\rangle$ and $\langle\varepsilon_4^2\rangle$ lie below the rigid-rotor results in a wide range of $κ$. The relations among these quantities in each rotor are nevertheless similar in most scanned parameter space: $β_{40}$ and $\langle\varepsilon_2^2\rangle$ depend linearly on $β_{20}^{2}$, while the hexadecapole baseline-subtracted variance follows an approximate quadratic trend in the quadrupole one. The method can be extended to seek more sensitive quantities for rotational effects in the wave-function rotor.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 09:15:00 GMT</pubDate>
+      <guid isPermaLink="false">2610.32386v1</guid>
+      <dc:creator>Jian Deng</dc:creator>
+      <dc:creator>Hao-jie Xu</dc:creator>
+      <dc:creator>Qun Wang</dc:creator>
+    </item>
+    <item>
+      <title>Bayesian analysis of the Coulomb breakup of C19</title>
+      <link>http://arxiv.org/abs/2610.32331v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Quentin Bozet, Pierre Capel, Isak Svensson&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coulomb breakup is a common experimental technique to study the structure of halo nuclei. Coupling a halo effective field theory (Halo-EFT) description of these nuclei to accurate reaction models provides an ideal tool to analyze such experiments. In particular, it enables us to sample the space of the low-energy constants of this EFT within a Bayesian approach. This allows us to infer nuclear-structure information from the reaction data in a systematic and reliable way. Moreover, it provides an estimate of the uncertainty on those structure observables. We apply this to re-analyze the Coulomb breakup of $^{19}$C measured on Pb at 67 MeV/nucleon in RIKEN [T. Nakamura et al. Phys. Rev. Lett. 83, 1112 (1999)]. We obtain a new and more accurate value for the one-neutron separation energy $S_n(^{19}\mathrm{C}) = 0.60 \pm 0.02$ MeV and an improved estimate of the asymptotic normalization constant of its bound state $C_{1/2^+} = 0.85 \pm 0.02$ fm$^{-1/2}$. In addition, we estimate the uncertainty related to other model inputs at about 15% on both structure observables.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 08:26:29 GMT</pubDate>
+      <guid isPermaLink="false">2610.32331v1</guid>
+      <dc:creator>Quentin Bozet</dc:creator>
+      <dc:creator>Pierre Capel</dc:creator>
+      <dc:creator>Isak Svensson</dc:creator>
+    </item>
+    <item>
+      <title>A Unified Model for Radioactive Signatures and Source Identifiability in Neutron Star Mergers</title>
+      <link>http://arxiv.org/abs/2610.32047v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hisham Anwer&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Late light curves of neutron star mergers can contain substantial fission power while remaining compatible with different radioactive inventories. We develop a unified source attribution model in which a common bounded response formulation links nuclear heating, radiation transport and isotope identification. Within particle dependent deposition and gray photon escape, matched luminosity comparisons show how long alpha and fission responses become aligned. Explicit competing inventories then reproduce a light curve with a substantial $^{254}$Cf contribution, with smooth evolution of the beta luminosity response providing an important source of compensation. We derive optimization certificates and collective likelihood bounds that quantify the resulting limits on identification under specified source and ejecta constraints. We also introduce an energy conserving model with two radiation frequency groups to resolve the information carried by color at fixed total luminosity precision. Its exact response modes identify the source adjustments that absorb color contrast, while a residual color floor characterizes the contrast retained by the permitted family. Late observations of AT~2023vfi with the James Webb and Hubble Space Telescopes provide an observational benchmark: the reference and retained alternatives predict bolometric declines about 1.5 quoted uncertainties shallower than the reconstruction, while differences between inventories containing and excluding $^{254}$Cf remain within the reported decline uncertainty. The unified model provides a quantitative basis for connecting nucleosynthesis predictions, gravitational wave constraints and the temporal and spectral information in merger observations to radioactive source attribution.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 01:37:42 GMT</pubDate>
+      <guid isPermaLink="false">2610.32047v1</guid>
+      <dc:creator>Hisham Anwer</dc:creator>
+    </item>
     <item>
       <title>Nonconformal kinetic theory with transverse dynamics and event-by-event simulations using CoMBolt-RTA</title>
       <link>http://arxiv.org/abs/2610.31611v1</link>
@@ -424,18 +475,6 @@
       <dc:creator>Chun Shen</dc:creator>
     </item>
     <item>
-      <title>Bottomonium suppression with a machine-learning-informed Debye mass</title>
-      <link>http://arxiv.org/abs/2609.09047v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ajaharul Islam, Shibo Chen, Fu-Peng Li, Long-Gang Pang, Guang-You Qin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Motivated by recent progress in data-driven approaches, we introduce a machine-learning (ML)-informed Debye mass, extracted from lattice-informed inputs, exclusively in the complex-valued heavy-quark Kent State University (KSU) potential. The resulting complex potential is used to solve the real-time Schrödinger equation within the quantum trajectories (QTraj) framework for the evolution of bottomonium in the quark-gluon plasma. We then compute the nuclear modification factors and double ratios for bottomonium $Υ(1S)$, $Υ(2S)$, and $Υ(3S)$ states in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV. We compare our ML-induced results with those from the original KSU model and with experimental measurements from ALICE, ATLAS, and CMS collaborations. We find that the machine-learned Debye mass leads to improved agreement with data, particularly for excited states, highlighting the utility of machine learning in modeling in-medium QCD effects.&lt;/p&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 12:30:37 GMT</pubDate>
-      <guid isPermaLink="false">2609.09047v2</guid>
-      <dc:creator>Ajaharul Islam</dc:creator>
-      <dc:creator>Shibo Chen</dc:creator>
-      <dc:creator>Fu-Peng Li</dc:creator>
-      <dc:creator>Long-Gang Pang</dc:creator>
-      <dc:creator>Guang-You Qin</dc:creator>
-    </item>
-    <item>
       <title>Event-by-event net-charge fluctuations in pp, OO, Ne-Ne, and Pb-Pb collisions with ALICE at the LHC</title>
       <link>http://arxiv.org/abs/2610.09586v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nida Malik&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Investigations involving the event-by-event fluctuations of conserved quantities, like net charge, net baryon number, and strangeness in heavy-ion collisions, provide insights into the properties of quark-gluon plasma (QGP) and the phase diagram of strongly interacting matter. Event-by-event fluctuations of net electric charge in pp collisions at $\sqrt{s} = 13$ and $13.6$ TeV and for OO, Ne-Ne, and Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}} = 5.36$ TeV are studied by analysing the data collected by the ALICE detector at CERN Large Hadron Collider. The analysis is carried out in terms of the variable $ν_{\mathrm{dyn}}[+,-]$, chosen for its robustness against detector efficiency losses. The observed dependence of $ν_{\mathrm{dyn}}[+,-]$ on the charged-particle density shows a smooth, energy-independent decrease in the magnitude of $ν_{\mathrm{dyn}}[+,-]$ from smaller to larger collision systems. The negative values of $ν_{\mathrm{dyn}}[+,-]$ indicate a dominance of correlations between oppositely charged particle pairs compared with those arising from like-sign charge pairs. Since $ν_{\mathrm{dyn}}[+,-]$ is known to have an intrinsic dependence on multiplicity, an appropriate scaling is applied. The variable is therefore scaled with the mean multiplicities, $\frac{1}{\frac{1}{\langle N_+ \rangle} + \frac{1}{\langle N_- \rangle}}$. The dependence of the scaled values of $ν_{\mathrm{dyn}}[+,-]$ on charged particle density is also looked into. The results are compared with model calculations from PYTHIA, EPOS4, AMPT and HIJING.&lt;/p&gt;</description>
@@ -548,17 +587,6 @@
       <dc:creator>Yu-Shan Mu</dc:creator>
       <dc:creator>Li Yan</dc:creator>
       <dc:creator>Xu-Guang Huang</dc:creator>
-    </item>
-    <item>
-      <title>Hadronization into Nuclei: Does Size Matter?</title>
-      <link>http://arxiv.org/abs/2610.01289v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anton Andronic, Peter Braun-Munzinger, Hjalmar Brunßen, Johanna Stachel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate an extension of the statistical hadronization model (SHM) that takes (hyper)nucleus sizes into account. The spatial extent of nuclear wave functions relative to the fireball volume is used to calculate a size correction, which describes the suppression with respect to a point-like treatment of the (hyper)nucleus at hadronization. For several species of light nuclei (d, ${}^{3}\mathrm{H}$, ${}^{3}\mathrm{He}$) and for the hypernucleus ${}^{3}_Λ\mathrm{H}$, the predicted effects of the size correction on SHM yields are compared to yield measurements in pp, p-Pb, and Pb-Pb collisions in the ALICE experiment. The experimental data suggest that this size correction, based on applying final-state wave functions at chemical freeze-out, does not give a consistent description of (hyper)nucleus production in nuclear and hadronic collisions. By contrast, the SHM without a nuclear-size correction provides a substantially better description of the data. This result lends further support to the interpretation that such nuclear states are formed from initially compact (multi-quark) configurations which after hadronization expand to their final-state wave functions.&lt;/p&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 08:26:18 GMT</pubDate>
-      <guid isPermaLink="false">2610.01289v1</guid>
-      <dc:creator>Anton Andronic</dc:creator>
-      <dc:creator>Peter Braun-Munzinger</dc:creator>
-      <dc:creator>Hjalmar Brunßen</dc:creator>
-      <dc:creator>Johanna Stachel</dc:creator>
     </item>
     <item>
       <title>Measurement of prompt and non-prompt ${\rm D}^{\rm *+}$-meson spin alignment in pp collisions at $\sqrt{s}$ = 13.6 TeV$</title>
