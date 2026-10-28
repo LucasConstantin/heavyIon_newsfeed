@@ -5,9 +5,107 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:18:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Jet-like dihadron correlations in OO and Ne--Ne collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV with ALICE</title>
+      <link>http://arxiv.org/abs/2610.35331v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Neelkamal Mallick, Joonsuk Bae&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Heavy-ion collisions are primarily studied to investigate the properties of hot and dense primordial nuclear matter, known as the quark--gluon plasma (QGP). However, recent observations of hydrodynamic flow--like behavior in pp and p--Pb collisions at the LHC suggest the possible formation of QGP droplets even in the smallest collision systems. To bridge the multiplicity gap between small and large systems and to examine the applicability of hydrodynamic descriptions, light-ion collisions have been studied for the first time at the LHC. This contribution presents dihadron correlation measurements in OO and Ne--Ne collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV recorded with ALICE to explore possible medium effects. The width of the near-side correlation peak has been studied as a function of charged-particle multiplicity at midrapidity, showing a multiplicity-dependent modification of the widths in various transverse momentum ($p_{\rm T}$) intervals in OO and Ne--Ne collisions relative to pp and pO collisions. Further, the per-trigger normalized relative yields of near-side and away-side correlations, $I_{\rm AA}$, are measured in OO collisions for the first time, while in Ne--Ne collisions, the measurement is performed for the near side only. The observed suppression of the away-side associated yield in OO collisions relative to pp collisions is qualitatively consistent with jet--medium interactions, albeit with a weaker magnitude than in central Pb--Pb. However, the extent to which other effects, such as event-selection biases and cold-nuclear-matter effects, contribute to the observed suppression in the present kinematic regime remains an open question.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 12:28:57 GMT</pubDate>
+      <guid isPermaLink="false">2610.35331v1</guid>
+      <dc:creator>Neelkamal Mallick</dc:creator>
+      <dc:creator>Joonsuk Bae</dc:creator>
+    </item>
+    <item>
+      <title>A Barnett-Like Effect in Relativistic Heavy-Ion Collisions</title>
+      <link>http://arxiv.org/abs/2610.35310v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dai-Neng Liu, Kai-Jia Sun, Jan Steinheimer, Jin-Hui Chen, Yu-Gang Ma, Marcus Bleicher&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Barnett effect refers to the spontaneous magnetization or polarization of rotating matter via spin-orbit coupling, a fundamental phenomenon observed across a multitude of physical systems down to atomic scales. Here, we demonstrate that this effect extends to subatomic regimes within relativistic heavy-ion collisions, where the most vortical fluid ever created in terrestrial laboratories is produced and the orbital angular momentum is transferred to emitted hadrons via spin-vorticity coupling. By performing transport simulations spanning a broad energy range, we discover a nearly-linear scaling relation between the global spin polarization of $Λ$ hyperons and the source tilt angle extracted via two-pion femtoscopic correlations. This scaling reveals that global $Λ$ polarization induced by the local vorticity field is modulated by the inclined geometry of the produced strongly-interacting nuclear matter in these collisions. Supported by existing experimental measurements, our results unravel a geometry-modulated Barnett-like effect at the femtometre ($10^{-15}$ m) scale.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 12:13:32 GMT</pubDate>
+      <guid isPermaLink="false">2610.35310v1</guid>
+      <dc:creator>Dai-Neng Liu</dc:creator>
+      <dc:creator>Kai-Jia Sun</dc:creator>
+      <dc:creator>Jan Steinheimer</dc:creator>
+      <dc:creator>Jin-Hui Chen</dc:creator>
+      <dc:creator>Yu-Gang Ma</dc:creator>
+      <dc:creator>Marcus Bleicher</dc:creator>
+    </item>
+    <item>
+      <title>Probing the Collins effect at photon-photon colliders</title>
+      <link>http://arxiv.org/abs/2610.35285v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Simone Anedda, Carlo Flore, Francesco Murgia, Cristian Pisano&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose to study the Collins effect in the production of almost back-to-back unpolarized hadrons (mainly charged pions) by looking at their azimuthal distributions around the jet thrust-axis in the process $γγ\to h_1h_2X$. The quasi-real photons in the initial state can be emitted either by two scattering leptons or two charged heavy nuclei in ultra-peripheral collisions. We provide numerical estimates for kinematic configurations in principle accessible at the Future Circular Collider and at the planned experiments on ultra-peripheral collisions at the LHC. We find that the corresponding asymmetries can be sizable, even up to around 10-15%. The proposed measurements would thus shed light on the fragmentation mechanism of quarks into hadrons and, in principle, would allow one to distinguish among different existing models for the Collins functions.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 11:56:53 GMT</pubDate>
+      <guid isPermaLink="false">2610.35285v1</guid>
+      <dc:creator>Simone Anedda</dc:creator>
+      <dc:creator>Carlo Flore</dc:creator>
+      <dc:creator>Francesco Murgia</dc:creator>
+      <dc:creator>Cristian Pisano</dc:creator>
+    </item>
+    <item>
+      <title>Dilepton azimuthal anisotropy from coherent $J/ψ$ photoproduction in hadronic Pb-Pb collisions</title>
+      <link>http://arxiv.org/abs/2610.35149v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xueli Hua, Xin Wu, Shuai Yang, Wangmei Zha&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hadron-based event-plane estimators can be affected by nonflow and autocorrelation biases, especially at low multiplicity. Coherent $J/ψ$ photoproduction offers a complementary geometry reference through the correlation between quasireal-photon polarization and the reaction plane. We calculate the second-order dilepton coefficient $A_2$ relative to the reaction plane in hadronic Pb--Pb collisions at $\sqrt{s_{\mathrm{NN}}}=5.36$ TeV within an equivalent-photon and generalized vector-meson-dominance Glauber framework. Nuclear diffraction and two-source interference produce a pronounced transverse-momentum dependence, while the rapidity dependence is weak. We also compare two treatments of coherent scattering in the overlap region of the two colliding nuclei. Suppressing the contribution from this region reduces the yield and strengthens the integrated polarization--reaction-plane correlation, with the largest differences in central and semicentral collisions and smaller differences toward peripheral collisions. Joint measurements of the coherent yield and $A_2$ can constrain how hadronic interactions disrupt nuclear coherence and clarify the photoproduction mechanism. With sufficient tagged yields, azimuthal correlations involving decay leptons from photoproduced $J/ψ$ mesons could complement studies of collectivity, with potential future applications to small systems.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 10:15:37 GMT</pubDate>
+      <guid isPermaLink="false">2610.35149v1</guid>
+      <dc:creator>Xueli Hua</dc:creator>
+      <dc:creator>Xin Wu</dc:creator>
+      <dc:creator>Shuai Yang</dc:creator>
+      <dc:creator>Wangmei Zha</dc:creator>
+    </item>
+    <item>
+      <title>Lévy-stable pion emission sources in Au+Au collisions at $\sqrt{s_{\rm NN}}=200$ GeV from the vHLLE+SMASH hybrid model</title>
+      <link>http://arxiv.org/abs/2610.34612v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zeinab A. Abdelrazik, Máté Csanád&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Revealing the space-time evolution of the quark-gluon plasma created in heavy-ion collisions is a central challenge, as this information is encoded in the properties of particles emitted at freeze-out. We reconstruct the pion emission source in Au+Au collisions at sqrt(s_NN) = 200 GeV (0-5% centrality), simulated with the vHLLE+SMASH hybrid framework, which combines a Glauber Monte Carlo initial state, (3+1)-dimensional viscous hydrodynamics, and a hadronic afterburner describing resonance decays and hadronic rescattering. Hanbury Brown-Twiss (HBT) interferometry is used to characterize identical-pion pair sources, which can also be reconstructed directly from the last scattering points of final-state particles in simulations. The projected pair-separation distributions in the Bertsch-Pratt out, side, and long directions are analyzed using a three-dimensional Levy-stable parameterization. Over the investigated fit range, extending to approximately 100 fm, a single Levy-stable function provides a satisfactory description of the distributions. The extracted Levy index, alpha approximately 1.5-1.6, is below the Gaussian value of 2 and increases slowly with transverse mass mT. At larger pair separations, the total source deviates from the fitted distribution, consistent with a halo contribution from long-lived resonance decays. Short-lived resonance decays and hadronic rescattering may contribute to the non-Gaussian shape through the Levy-walk phenomenon. The HBT radii Rout, Rside, and Rlong decrease with mT, qualitatively consistent with collective expansion. These results demonstrate the utility of Levy-stable femtoscopy for connecting hadronic-stage dynamics in hybrid simulations with experimentally accessible observables.&lt;/p&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 22:18:48 GMT</pubDate>
+      <guid isPermaLink="false">2610.34612v1</guid>
+      <dc:creator>Zeinab A. Abdelrazik</dc:creator>
+      <dc:creator>Máté Csanád</dc:creator>
+    </item>
+    <item>
+      <title>Inferring Nuclear Radial Parameters from Initial-State Information in Heavy-Ion Collisions Using Deep Neural Networks</title>
+      <link>http://arxiv.org/abs/2610.34072v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yang Liu, Yu Sha, Xiang Fan, Yan-Sheng Tu, Shi-Lei Tao, Qing Zhang, Jun-Qi Tao, Kai Zhou, Hua Zheng, Ben-Wei Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The geometric structure of atomic nuclei plays an important role in shaping the initial conditions of high-energy nuclear collisions and the subsequent evolution of the quark--gluon plasma. In this work, we develop a multimodal deep-learning framework to infer the Woods--Saxon radius ($R_0$) and diffuseness parameter ($a$) from initial-state information. Using the TRENTo model for relativistic $^{238}$U+$^{238}$U collisions, we construct a dataset covering multiple combinations of $R_0$ and $a$, and perform parameter regression by combining two-dimensional entropy-density distributions with event-level scalar observables, including multiplicity and eccentricities $\varepsilon_2$--$\varepsilon_5$. The results show that the proposed framework can effectively recover the Woods--Saxon parameters from initial-state information. Joint multi-event inputs suppress statistical fluctuations and improve regression performance by enhancing the extraction of collective information. The inversion accuracy exhibits a pronounced centrality dependence: $R_0$ is best constrained in central collisions, whereas $a$ shows the strongest sensitivity in the mid-peripheral region and becomes less well constrained in ultra-central and peripheral collisions. These findings indicate that the initial-state geometry retains useful information about nuclear radial structure and provide a baseline for future studies that incorporate transport evolution and experimental final-state observables.&lt;/p&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 05:26:38 GMT</pubDate>
+      <guid isPermaLink="false">2610.34072v1</guid>
+      <dc:creator>Yang Liu</dc:creator>
+      <dc:creator>Yu Sha</dc:creator>
+      <dc:creator>Xiang Fan</dc:creator>
+      <dc:creator>Yan-Sheng Tu</dc:creator>
+      <dc:creator>Shi-Lei Tao</dc:creator>
+      <dc:creator>Qing Zhang</dc:creator>
+      <dc:creator>Jun-Qi Tao</dc:creator>
+      <dc:creator>Kai Zhou</dc:creator>
+      <dc:creator>Hua Zheng</dc:creator>
+      <dc:creator>Ben-Wei Zhang</dc:creator>
+    </item>
+    <item>
+      <title>Measurement of pseudorapidity distributions from Au+Au collisions with the STAR Event Plane Detector</title>
+      <link>http://arxiv.org/abs/2610.33365v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The measurement of charged-particle pseudorapidity distributions using the STAR Event Plane Detector (EPD) in gold-gold collisions at center-of-mass energies per nucleon pair of $\sqrt{s_{\mathrm{NN}}} =$ 200, 54.4, 27, 19.6, 14.6, 11.5, 9.2, and 7.7 GeV is presented. Charged particles are detected by the EPD within the $2.14 &lt; |η| &lt; 5.09$ pseudorapidity interval. The number of charged particles passing through each EPD ring is extracted using convoluted Landau fits to the deposited energy spectra. To account for the detector's response to the primary particles, these measured EPD hit numbers are unfolded using response matrices determined via Monte Carlo simulations. The response matrix is calculated separately for each energy and centrality class using the UrQMD event generator embedded into the GEANT3 simulation for the STAR detector. The new STAR measurements are consistent with the previous PHOBOS results in the corresponding rapidity intervals at 19.6 and 200 GeV, while providing improved precision. In addition, the new data extend the energy coverage to 7.7--200 GeV across multiple centrality classes. This expanded dataset enables a more comprehensive test of the limiting fragmentation hypothesis from central to peripheral collisions. The measurements are also compared with theoretical model calculations, including UrQMD, HIJING, and AMPT, in order to investigate the underlying physics implications.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 23:24:12 GMT</pubDate>
+      <guid isPermaLink="false">2610.33365v1</guid>
+      <dc:creator>The STAR Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Spin-Induced Coordinate Noncommutativity of the Covariant Centroid</title>
+      <link>http://arxiv.org/abs/2610.33236v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Daniel Guimaraes Tedesco, Luiz Paulo Colatto&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Tulczyjew-Dixon centroid of a massive spinning particle, built as a composite of canonical Poincaré variables, carries the exact coordinate algebra $\{X^μ,X^ν\}=-S^{μν}/p^2$, whose noncommutativity bivector is the transverse spin tensor of the particle itself rather than an external background. That bracket and its Compton-scale magnitude are already known, and we recover them here as the starting point of the analysis, not as a result. What the composite realization settles is the domain on which the algebra may be used. Closure of the Jacobi identity requires $p^{-2}$ to remain operator valued, and the exactness domain is the convex timelike interior $Ω_μ$, on which states supported on a single mass shell are distributional. We show that freezing $p^2$ to its shell value inside the centroid leaves every two-operator commutator unchanged on shell, so that the projected position dictionary, the Berry cancellation and the endpoint transversality identity are untouched, while the same substitution fails from three insertions onward, with residue the truncated Jacobiator $2ε^{μνρσ}W_σ/(p^2)^2$. This two-versus-three criterion replaces the qualitative restriction to shell-preserving matrix elements and states which constructions built on a fixed-shell bivector $Θ_m$ remain valid. We then follow the algebra through positive-energy projection, packet-conditioned Moyal fibers, Compton routing holonomy and projected nonassociative products, recording for each layer whether it falls on the safe side of the criterion. No prediction beyond QED follows. In the geometric branch the physical amplitude reduces to the QED amplitude, and the transverse matching coefficients remain uncomputed.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 19:38:46 GMT</pubDate>
+      <guid isPermaLink="false">2610.33236v1</guid>
+      <dc:creator>Daniel Guimaraes Tedesco</dc:creator>
+      <dc:creator>Luiz Paulo Colatto</dc:creator>
+    </item>
+    <item>
+      <title>Muon Tridents at FASER and NA64$μ$: Motivation, Predictions, and Prospects for Precision Measurements</title>
+      <link>http://arxiv.org/abs/2610.33153v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Reinaldo Francener, Victor P. Goncalves, Felix Kling, Gabriel Rabelo-Soares&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The intense flux of high-energy muons produced in the far-forward region of $pp$ collisions at the LHC provides a unique opportunity to study rare electromagnetic interactions at TeV energies. In this work, we investigate the muon trident scattering in muon-nucleus interactions at the FASER experiment, which is expected to have recorded more than $10^5$ such events. The theoretical description of the process is reviewed and improved. Predictions for the total event rates and differential distributions expected during Run~3 of the LHC are presented, taking into account realistic detector acceptance and the main background contributions. The dependence of the predictions on the treatment of the nuclear form factors and the impact of higher-order QED effects such as Coulomb corrections are investigated. Our results indicate that the muon trident process can be measured for the first time at TeV energies using FASER's spectrometer, with a projected precision on the cross-section at the percent level. We also extended our analysis to the NA64$μ$ experiment and showed that, together with FASER, these experiments can probe the energy dependence of the muon trident cross-section over a broad unexplored energy range.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2610.33153v1</guid>
+      <dc:creator>Reinaldo Francener</dc:creator>
+      <dc:creator>Victor P. Goncalves</dc:creator>
+      <dc:creator>Felix Kling</dc:creator>
+      <dc:creator>Gabriel Rabelo-Soares</dc:creator>
+    </item>
     <item>
       <title>A universal probe of QCD spin physics from fragmentation energy correlator</title>
       <link>http://arxiv.org/abs/2610.32715v1</link>
@@ -552,15 +650,6 @@
       <dc:creator>A. Szczurek</dc:creator>
     </item>
     <item>
-      <title>No Einstein Relation, No Problem: How Relativistic Weakly Coupled Heavy Quarks Equilibrate Beyond Leading Logarithm Anyway</title>
-      <link>http://arxiv.org/abs/2610.03863v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jean F. Du Plessis, Bruno Scheihing-Hitschfeld&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy quarks equilibrate even when their microscopic drag and momentum diffusion violate the Einstein relation. We investigate how equilibration proceeds as a function of the coupling and compared to simplified Fokker-Planck models. To do this, we present a detailed calculation of the momentum-transfer kernel in weakly coupled non-Abelian plasmas through strict $\mathcal{O}(g^4)$, and study the resulting dynamics at leading order in the inverse heavy-quark mass. Beyond leading logarithm, its non-Gaussian structure plays a crucial role in equilibration. We examine closely the analytic structure of the evolution kernel, determine the large-order asymptotics of the momentum-transfer cumulants, and show how the kernel's bounded analytic domain fixes asymmetric exponential tails at the level of the momentum transfer probability. Strongly coupled $\mathcal{N}=4$ SYM also features an approximately Gaussian core and exponential tails, but differs in the nature of the kernel's singularities and the velocity dependence of the transport coefficients and tail exponents. These differences have distinct dynamical consequences: for the parameters studied, the persistence of the relativistic population in steeply falling spectra is largely explained by drag alone at very weak coupling, whereas fluctuation-induced survivor bias produces a large relative enhancement at strong coupling. Nevertheless, the shared qualitative structure between weak and strong coupling points the way towards a practical phenomenological description of heavy quarks anchored in first-principles field theory.&lt;/p&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="false">2610.03863v1</guid>
-      <dc:creator>Jean F. Du Plessis</dc:creator>
-      <dc:creator>Bruno Scheihing-Hitschfeld</dc:creator>
-    </item>
-    <item>
       <title>How Quantum Is Bottomonium in the Quark-Gluon Plasma?</title>
       <link>http://arxiv.org/abs/2610.02313v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nora Brambilla, Tom Magorsch&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study how much quantum structure bottomonium retains during its evolution in the quark-gluon plasma. Within the open quantum system framework, we simulate the Lindblad equation obtained from potential nonrelativistic QCD in the quantum Brownian regime. From the resulting real-time evolution of the bottomonium density matrix, we compute the Wigner transform and study its negativity as a measure of nonclassicality and a test of a key condition underlying classical Langevin-type approximations. We find that the medium suppresses the negativity, which nevertheless approaches a finite plateau close to that of the $1\mathrm{S}$ state. The overlaps with the excited $2\mathrm{S}$ and $3\mathrm{S}$ states arise from near-canceling positive and negative phase-space contributions, driven by negative regions in the Wigner transforms of the bound-state projectors, while the $1\mathrm{S}$ overlap is insensitive to such contributions. We further show that the position-space coherence is similarly suppressed and plateaus close to the 1S value. We trace the finite residual quantum structure to conditional purification: the medium preferentially dissolves weakly bound and unbound modes with large $\langle r^2\rangle$, driving the surviving singlet $\mathrm{S}$-wave ensemble toward the $1\mathrm{S}$ state. More broadly, these results reveal that classicalization is partial and observable dependent, a feature that is relevant across applications of open quantum system methods in fundamental physics.&lt;/p&gt;</description>
@@ -568,15 +657,6 @@
       <guid isPermaLink="false">2610.02313v1</guid>
       <dc:creator>Nora Brambilla</dc:creator>
       <dc:creator>Tom Magorsch</dc:creator>
-    </item>
-    <item>
-      <title>Generalized fluctuation-dissipation theorem and Einstein relation in rotating equilibrium</title>
-      <link>http://arxiv.org/abs/2610.01797v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shuo Fang, Shi Pu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We derive a generalized fluctuation-dissipation theorem (FDT) for vector fields in rotating thermal equilibrium from an exact phase-space Kubo-Martin-Schwinger (KMS) relation. The resulting FDT contains rotation-induced tensorial contributions beyond a scalar thermal factor. In the local transport limit, we obtain a model-independent generalized Einstein relation with rotation in which, through second order in thermal vorticity, symmetric momentum diffusion depends on low-frequency spectral information beyond that encoded in the rotation-dependent dissipative drag. Remarkably, we find a new Einstein-type relation linking zero modes in the spectral function to the nonrotating drag coefficient. These zero modes underlie a new mechanism for the orbital polarization of heavy quarkonium. The same FDT constraint yields a modified detailed-balance relation whose first-order vortical correction is governed by transition polarization, without explicit dependence on the bath model. Our findings establish microscopic equilibrium constraints for studying rotating quantum matter in various fields.&lt;/p&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 14:42:07 GMT</pubDate>
-      <guid isPermaLink="false">2610.01797v1</guid>
-      <dc:creator>Shuo Fang</dc:creator>
-      <dc:creator>Shi Pu</dc:creator>
     </item>
     <item>
       <title>Near-thermal state and thermodynamic response of a QCD system in ultra-central heavy-ion collisions</title>
@@ -1042,67 +1122,6 @@
       <pubDate>Sun, 13 Sep 2026 15:34:45 GMT</pubDate>
       <guid isPermaLink="false">2609.14604v1</guid>
       <dc:creator>STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Collinear fragmentation of pseudoscalar quarkonia from NLO NRQCD</title>
-      <link>http://arxiv.org/abs/2609.11604v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Francesco Giovanni Celiberto, Francesca Lonigro&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We discuss a new family of publicly available collinear fragmentation functions (FFs) for pseudoscalar quarkonia, the NRFF1.0 set. It builds upon the Heavy-Flavor Non-Relativistic evolution (HF-NRevo) scheme, designed to describe heavy-hadron formation through leading-power fragmentation at moderate and large transverse momentum. Heavy-quarkonium production naturally involves both perturbative and non-perturbative QCD dynamics, from the production of the heavy $Q\bar{Q}$ pair to its formation into a physical bound state. Within NRFF1.0, Non-Relativistic Quantum Chromodynamics (NRQCD) provides the theoretical framework for calculating the FF inputs at the initial scale, which are subsequently evolved through the HF-NRevo scheme. This setup provides a precision baseline for investigating the underlying partonic hierarchy and jet structure across the moderate- to high-transverse-momentum regime. The explicit treatment of partonic channels and heavy-flavor thresholds makes this framework particularly suitable for exploring quarkonium-in-jet fragmentation, jet-quenching sensitivity, energy-loss mechanisms, and the emergence of medium-modified fragmentation patterns in the quark-gluon plasma.&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 14:24:34 GMT</pubDate>
-      <guid isPermaLink="false">2609.11604v1</guid>
-      <dc:creator>Francesco Giovanni Celiberto</dc:creator>
-      <dc:creator>Francesca Lonigro</dc:creator>
-    </item>
-    <item>
-      <title>Study of the multiplicity dependence of non-flow correlations in pp collisions at $\sqrt{s}=200$ GeV using PYTHIA</title>
-      <link>http://arxiv.org/abs/2609.11526v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Milan Stojanovic, Joern Putschke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The observation of a near-side enhancement in long-range correlations within high-multiplicity pA and pp collisions, commonly referred to as the ridge, has motivated significant efforts to quantify possible collective effects in small systems. Estimation of non-flow contributions in two-particle correlation measurements in small systems at the LHC typically relies on the assumption that jet-induced non-flow correlations are independent of event multiplicity. Consequently, this assumption allows the high-multiplicity non-flow to be estimated and accounted for by directly using low-multiplicity events. In this paper, the validity of this assumption is studied examining the multiplicity dependence of non-flow contributions estimated via two-particle correlation functions in pp collisions at RHIC energies $\sqrt{s} = 200$~GeV using the PYTHIA event generator. It is observed that selecting any specific multiplicity range inherently biases jet production dynamics. These biases introduce a non-trivial multiplicity dependence of the non-flow contribution at RHIC energies. The dependence of jet fragmentation and $p_{\text{T}}$-differential cross sections on event multiplicity is studied using a variety of commonly used multiplicity estimators, including mid-rapidity charged-particle multiplicity, forward multiplicity, and underlying-event activity. The results indicate that non-flow contributions do not exhibit simple multiplicity scaling and challenge the applicability of standard subtraction procedures utilized at LHC energies at lower RHIC collision energies.&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 13:28:00 GMT</pubDate>
-      <guid isPermaLink="false">2609.11526v1</guid>
-      <dc:creator>Milan Stojanovic</dc:creator>
-      <dc:creator>Joern Putschke</dc:creator>
-    </item>
-    <item>
-      <title>Qubit-Qutrit Quantum Tomography of hadronic $Λφ$ and $ΛK^{\ast 0}$ systems</title>
-      <link>http://arxiv.org/abs/2609.11151v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Veronica Kanachova, Feng Liu, Zhoudunming Tu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quantum-information observables have emerged in recent years as new tools in nuclear and particle physics, from entanglement in top-quark pairs to spin correlations in $Λ\barΛ$ production. Extending these studies to unequal-spin hadronic final states poses a fundamental challenge: the $6\times6$ density matrix of a qubit-qutrit system contains 35 independent spin parameters, but the decays of $ΛV$ pairs, with $V=φ$ or $K^{*0}$, provide access to only 23 due to the hidden vector polarization from the strong decay. In this Letter, we formulate a qubit-qutrit quantum tomography (QQQT) technique for these spin-$\tfrac{1}{2}\otimes1$ systems and establish exact criteria for entanglement certification from the \textit{incomplete} density matrix. Compared with the $Λ\barΛ$ system, QQQT of $Λφ$ and $ΛK^{*0}$ provides a new probe of nonperturbative QCD hadronization, enabling a direct comparison of the spin evolution of entangled quark pairs produced from the vacuum as they hadronize into a baryon or a vector meson.&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:57:09 GMT</pubDate>
-      <guid isPermaLink="false">2609.11151v1</guid>
-      <dc:creator>Veronica Kanachova</dc:creator>
-      <dc:creator>Feng Liu</dc:creator>
-      <dc:creator>Zhoudunming Tu</dc:creator>
-    </item>
-    <item>
-      <title>Production of Light Nuclei and Hypernuclei in Heavy-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2609.10963v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Guannan Xie, Yue-Hang Leung&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We review recent STAR and ALICE measurements of light-nucleus and hypernucleus yields, femtoscopic correlations, and collective flow presented at SQM 2026. Statistical-hadronization calculations provide a useful baseline for integrated yields but do not simultaneously describe all measured light-nucleus ratios across collision energies and system sizes. For bound states with mass number $A&lt;4$, current coalescence calculations provide a broadly consistent description of yields, femtoscopic correlations, and collective flow, although the quantitative hypertriton comparison depends on the assumed few-body wave function. The suppressed production of resonant $^{4}$Li relative to compact $^{4}$He indicates an effect of nuclear structure and late-stage dynamics. However, the quantitative model comparison also depends on the treatment of feed-down from unstable states. In high-multiplicity $p$+$p$ collisions, pion-deuteron femtoscopy further indicates that most observed (anti)deuterons are formed through nucleon fusion after strong decays of short-lived resonances. Taken together, these measurements show that production chronology and internal nuclear structure leave measurable imprints on the physics observables.&lt;/p&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 01:34:43 GMT</pubDate>
-      <guid isPermaLink="false">2609.10963v1</guid>
-      <dc:creator>Guannan Xie</dc:creator>
-      <dc:creator>Yue-Hang Leung</dc:creator>
-    </item>
-    <item>
-      <title>A detailed view at magnetic dipole strengths: The case of semi-magic $^{50}$Ti</title>
-      <link>http://arxiv.org/abs/2609.10843v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; B. Kelly, M. Spieker, U. Friman-Gayer, L. T. Baby, T. Beck, A. L. Conley, S. W. Finch, J. Isaak, Krishichayan, E. Litvinova, H. Pai, N. Pietralla, D. Savran, W. Tornow, N. Tsoneva, A. Volya, V. Werner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Magnetic dipole, $M1$, strengths were studied in semi-magic $^{50}$Ti up to the neutron-separation threshold by combining data from $(d,p)$ one-neutron transfer, $(γ,γ')$ real-photon scattering, $(e,e')$ inelastic scattering at extreme backward angles, and $(p,p')$ at $E_p = 210$ MeV and extreme forward angles. The combination of all probes provided unique access to the neutron spin-flip contribution and the possibility to evaluate its role in generating the spin-flip $M1$ strengths. The small contribution of the neutron $(1f_{7/2})^{-1}(1f_{5/2})^{+1}$ spin-flip transitions, which were probed with the $(d,p)$ reaction, to the overall strength in $^{50}$Ti questions the standard picture for the microscopic origin of spin-flip strength in the $fp$ shell. For $^{50}$Ti, this letter shows that $J^π = 1^+$ states with larger neutron $(1f_{7/2})^{-1}(1f_{5/2})^{+1}$ spectroscopic factors do not correspond to the ones with the largest $B(M1;0^+_1 \rightarrow 1^+_i)$ strengths.&lt;/p&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 21:22:59 GMT</pubDate>
-      <guid isPermaLink="false">2609.10843v1</guid>
-      <dc:creator>B. Kelly</dc:creator>
-      <dc:creator>M. Spieker</dc:creator>
-      <dc:creator>U. Friman-Gayer</dc:creator>
-      <dc:creator>L. T. Baby</dc:creator>
-      <dc:creator>T. Beck</dc:creator>
-      <dc:creator>A. L. Conley</dc:creator>
-      <dc:creator>S. W. Finch</dc:creator>
-      <dc:creator>J. Isaak</dc:creator>
-      <dc:creator>Krishichayan</dc:creator>
-      <dc:creator>E. Litvinova</dc:creator>
-      <dc:creator>H. Pai</dc:creator>
-      <dc:creator>N. Pietralla</dc:creator>
-      <dc:creator>D. Savran</dc:creator>
-      <dc:creator>W. Tornow</dc:creator>
-      <dc:creator>N. Tsoneva</dc:creator>
-      <dc:creator>A. Volya</dc:creator>
-      <dc:creator>V. Werner</dc:creator>
     </item>
   </channel>
 </rss>
