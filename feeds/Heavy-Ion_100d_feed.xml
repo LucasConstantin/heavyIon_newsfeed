@@ -5,9 +5,92 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:17:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Effects of Short-Range Correlations on Quarkyonic Matter</title>
+      <link>http://arxiv.org/abs/2610.37502v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; K. Folias, Ch. C. Moustakidis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we focus on investigating the impact of the short-range correlations on the properties of quarkyonic matter. These correlations induce the scattering of nucleons to momenta exceeding the Fermi momentum, thereby altering the momentum-space occupation distribution that underlies the quarkyonic framework. In particular, we examine to what extent the emergence of a high-momentum tail, due to the short-range nucleon-nucleon correlations, in the momentum distribution, for momenta exceeding the Fermi momentum, affects the fundamental properties of quarkyonic matter, such as the energy density, pressure, and speed of sound, among others. In fact, at high densities, the behavior of the momentum distribution has been established, both experimentally and theoretically, to follow a characteristic $\sim 1/k^4$ dependence at large momenta. To the best of our knowledge, this effect on quarkyonic matter has not yet been systematically investigated. Moreover, this experimentally confirmed feature of the momentum distribution suggests that heavy-ion collisions may probe quarkyonic matter, underscoring the importance of incorporating short-range correlations into a complete quarkyonic model.&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 16:24:49 GMT</pubDate>
+      <guid isPermaLink="false">2610.37502v1</guid>
+      <dc:creator>K. Folias</dc:creator>
+      <dc:creator>Ch. C. Moustakidis</dc:creator>
+    </item>
+    <item>
+      <title>Measurement of spectator fragment pseudorapidity distributions with the STAR Event Plane Detector</title>
+      <link>http://arxiv.org/abs/2610.37447v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Balazs Korodi for the STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At sufficiently low center-of-mass energies, charged particles originating from the spectator region fall within the pseudorapidity acceptance ($2.14&lt;|η|&lt;5.09$) of the STAR Event Plane Detector (EPD). Measurements of the pseudorapidity distributions of helium spectator fragments are presented for Au+Au collisions at center-of-mass energies per nucleon pair of $\sqrt{s_{_{\mathrm{NN}}}}=$ 19.6, 14.6, 11.5, 9.2, and 7.7 GeV. The helium fragment yields in each EPD ring are extracted from fits to the deposited energy spectra using convoluted Landau distributions while accounting for the contribution from singly charged particles. The effects of the EPD detection efficiency and interactions of the fragments with the STAR beam pipe are evaluated using Geant4 Monte Carlo simulations. The resulting pseudorapidity distributions are presented as a function of collision energy and collision centrality.&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 15:53:48 GMT</pubDate>
+      <guid isPermaLink="false">2610.37447v1</guid>
+      <dc:creator>Balazs Korodi for the STAR Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Covariant Wigner function and spin polarization of the Rarita-Schwinger field</title>
+      <link>http://arxiv.org/abs/2610.37382v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Matteo Buzzegoli, Aleksandar Gecic, Rajeev Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the covariant Wigner function for the spin-$3/2$ Rarita-Schwinger field and its relation to the spin density matrix and the mean spin polarization vector. We obtain a formula relating the covariant Wigner function to the mean spin vector for a weakly interacting field. We then calculate the mean spin vector induced by thermal vorticity, thermal shear, and spin potential at local thermal equilibrium in the Belinfante, canonical and GLW pseudo-gauges. The resulting formula can be used to predict the spin polarization of spin-$3/2$ hadrons, such as the $Ω^-$, in heavy-ion collisions. Differences in the thermal-shear induced polarization in the canonical and Belinfante pseudo-gauges make it possible to use local spin polarization measurements of the $Ω^-$ to discriminate between the two pseudo-gauges.&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 15:10:11 GMT</pubDate>
+      <guid isPermaLink="false">2610.37382v1</guid>
+      <dc:creator>Matteo Buzzegoli</dc:creator>
+      <dc:creator>Aleksandar Gecic</dc:creator>
+      <dc:creator>Rajeev Singh</dc:creator>
+    </item>
+    <item>
+      <title>Dynamical Coulomb effects on charged-pion HBT-radius splitting in central Au+Au collisions at few-GeV energies</title>
+      <link>http://arxiv.org/abs/2609.23422v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Pengcheng Li, Yongjia Wang, Qingfeng Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The pair transverse momentum ($k_T$) and collision-energy ($\sqrt{s_{NN}}$) dependent difference between $π^{+}π^{+}$ and $π^{-}π^{-}$ femtoscopic correlations was observed by the HADES and STAR Collaborations. We investigate how much of the observed splitting can be accounted for by Coulomb dynamics in 0-10\% central Au+Au collisions at $\sqrt{s_{NN}}=2.42$-5.2 GeV. Using the UrQMD model and the CRAB programme, three transport scenarios that successively include baryon-baryon, baryon-meson, and meson-meson Coulomb interactions are considered. In a separate calculation based on the baryon-baryon reference, we reconstruct the time-dependent effective charge $Z_{\rm{eff}}(t)$ and radius $R_{\rm{eff}}(t)$ of the residual charged source and propagate each pion from its individual last strong-interaction point through the evolving field. The calculations reproduce the main $k_{T}$ and $\sqrt{s_{NN}}$ dependences of the radii. Baryon--meson Coulomb interactions generate most of the additional charge splitting in the microscopic calculation. The residual-source treatment also enhances the longitudinal and sideward radius ratios relative to the reference, whereas the outward ratio changes little, and the enhancement generally decreases with increasing $\sqrt{s_{NN}}$. Within the present framework, this contribution does not fully account for the data, motivating further investigation of the charged-source geometry and its interplay with strong-interaction dynamics.&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 12:04:19 GMT</pubDate>
+      <guid isPermaLink="false">2609.23422v2</guid>
+      <dc:creator>Pengcheng Li</dc:creator>
+      <dc:creator>Yongjia Wang</dc:creator>
+      <dc:creator>Qingfeng Li</dc:creator>
+    </item>
+    <item>
+      <title>Improved nonflow control for multiparticle correlators and system-size-dependent evolution from OO to Pb--Pb collisions at the LHC</title>
+      <link>http://arxiv.org/abs/2610.36922v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Neelkamal Mallick, Suraj Prasad&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multiparticle correlations of event-plane angles, known as symmetry plane correlators (SPCs), and correlations of anisotropic flow amplitudes of different harmonics, known as symmetric cumulants (SCs), help constrain the initial conditions and the transport properties of the system formed in heavy-ion collisions. Such multiparticle correlations are robust against nonflow biases in heavy-ion collisions; however, in small systems the nonflow contribution is sizeable and can distort SPCs and SCs at low multiplicity, mimicking a flow-like signal. Evidence of nuclear-geometry-induced collectivity in light-ion collisions, such as OO and Ne--Ne, has been established at the LHC. Measurements of SPCs and SCs in these systems, and their comparison to heavy-ion collisions, can therefore clarify the system-size dependence of these correlations and the strength of nonlinear mode coupling. In this work, an improved nonflow subtraction framework based on multiplicity reweighting ($\czero$) and $v_1$-estimator-based ($\cone$) scaling is validated for selected SPCs and SCs using a controlled toy model and the \textsc{Pythia~8~Angantyr} model, where collective flow is absent by construction. We find that $\cone$ provides the more reliable nonflow control and apply it to predict the SPCs and normalized SCs in OO collisions at $\sqrt{s_{\rm NN}}=5.36$~TeV with the \textsc{ampt} string-melting model. The results are compared with published Pb--Pb measurements from ALICE and from \textsc{ampt} as a function of midrapidity charged-particle multiplicity $\langle N_{\rm ch}\rangle(|η|&lt;0.5)$, placing light- and heavy-ion systems on a common system-size axis.&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 09:49:55 GMT</pubDate>
+      <guid isPermaLink="false">2610.36922v1</guid>
+      <dc:creator>Neelkamal Mallick</dc:creator>
+      <dc:creator>Suraj Prasad</dc:creator>
+    </item>
+    <item>
+      <title>Extracting the QCD speed of sound in the presence of quantum fluctuations</title>
+      <link>http://arxiv.org/abs/2610.36846v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Shan Mu, Li Yan, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The equation of state of strongly interacting matter plays a %is one of the central quantities characterizing central role in characterizing quark--gluon plasma created in relativistic heavy-ion collisions. It has recently been recognized that the QCD speed of sound is responsible for the linear correlations between the mean transverse momentum and charged-particle multiplicity in ultra-central collisions. In realistic collisions, however, this thermodynamic correlation is inevitably biased by quantum-initiated event-by-event fluctuations. In this work, we present a novel statistical framework to correct this bias by leveraging the Gaussianity condition of the quantum fluctuations. Furthermore, we demonstrate that this approach can also serve as a probe of thermalization. Validated by the event-by-event hydrodynamic simulations, the extracted speed of sound in our framework is successfully consistent with the predictions from lattice QCD, from large to small collision systems.&lt;/p&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:42:29 GMT</pubDate>
+      <guid isPermaLink="false">2610.36846v1</guid>
+      <dc:creator>Yu-Shan Mu</dc:creator>
+      <dc:creator>Li Yan</dc:creator>
+      <dc:creator>Xu-Guang Huang</dc:creator>
+    </item>
+    <item>
+      <title>Measurement of antideuteron and net-$Λ$ number fluctuations at the Large Hadron Collider</title>
+      <link>http://arxiv.org/abs/2610.36307v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The recent measurements of event-by-event correlations between the antideuteron and antiproton numbers in Pb$-$Pb collisions at the LHC deviate from the statistical hadronization model parameterizations that describe the yields and fluctuations of light-flavored hadrons. This discrepancy may stem from nucleosynthesis processes involved in the formation of composite states like antideuterons. In this letter, we present the first measurement of the antideuteron$-$net-$Λ$ number correlation obtained in Pb$-$Pb collisions with the ALICE detector. This quantity is mostly sensitive to the quantum-number correlations induced by the hadronization process, as $Λ$ hyperons are not constituents of antideuterons. Both the antideuteron$-$net-$Λ$ number correlation and the normalized second-order cumulant of the net-$Λ$ number are well described by the statistical hadronization model implemented in Thermal-FIST. This establishes strong evidence that the antideuteron$-$antiproton correlation is driven by the nucleosynthesis processes, while the correlation between antideuterons and non-nucleonic hadrons is primarily sensitive to the hadronization mechanism.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 21:30:06 GMT</pubDate>
+      <guid isPermaLink="false">2610.36307v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Evidence of partonic collectivity in OO collisions through the measurement of $φ$, K$^0_{\rm S}$, and $Λ$ elliptic flow</title>
+      <link>http://arxiv.org/abs/2610.36237v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The first measurement of the elliptic-flow coefficient ($v_{2}$) of $φ$, K$^0_{\rm S}$, and $Λ(\overlineΛ)$ hadrons performed in OO collisions at $\sqrt{s_{\mathrm{NN}}}=5.36$ TeV with the ALICE detector is presented as a function of transverse momentum ($p_{\rm T}$) in central and semi-central collisions. For the $φ$ meson, in particular, this is the first measurement of the elliptic flow in a small collision system. At low $p_{\rm T}$, a characteristic mass ordering of $v_{2}$ is observed, consistent with collective expansion of the system, in which heavier hadrons are shifted to higher $p_{\rm T}$ by a common velocity field. At intermediate $p_{\rm T}$, above 3 GeV/$c$, a baryon$-$meson splitting with a $10σ$ significance emerges, with the $Λ(\overlineΛ)$ baryon exhibiting larger $v_{2}$ values than mesons, while, despite its mass being close to the mass of the $Λ$, the $φ$ follows the K$^{0}_{\rm S}$. The $φ$ meson behavior disfavors a purely mass-driven interpretation of the observed patterns and supports the role of hadronization via quark recombination from a collectively flowing partonic medium. These results provide complementary evidence that key signatures of partonic collectivity observed in Pb$-$Pb collisions persist in light nucleus$-$nucleus systems.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 20:13:31 GMT</pubDate>
+      <guid isPermaLink="false">2610.36237v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Dark Matter Coherent Freeze-Out Mechanism: A Comprehensive Analysis</title>
+      <link>http://arxiv.org/abs/2610.36049v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Steven Ferrante, Lillian Luo, Maxim Perelstein, Bingrong Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-26&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Both Weakly-Interacting Massive Particle (WIMP) and Axion-Like Particle (ALP) are attractive particle dark matter candidates. In this paper we consider a scenario in which both WIMP and ALP are present. The two species interact via a non-derivative quadratic coupling modeled on the axion-nucleon interaction in QCD. We show that even a small (Planck-suppressed) coupling can drastically modify the cosmological history of both species. In the very early Universe, the ALP field acquires a vacuum expectation value, and the system undergoes an inverse phase transition at a temperature around or below the weak scale. WIMPs may remain in equilibrium far beyond the usual freeze-out time, eventually decoupling via a novel &quot;coherent freeze-out&quot; mechanism. WIMP annihilation cross sections several orders of magnitude above the canonical thermal target value can be consistent with the observed relic density in the coherent freeze-out scenario. At the same time, coherent oscillations of the ALP field do not begin until after the phase transition, and the initial conditions for these oscillations are set by the thermal physics of the phase transition. The ALP relic density is then predicted unambiguously in terms of the WIMP mass and coupling. We term this scenario &quot;ALP miracle&quot;, since the observed relic density is obtained when these parameters are around their natural values, the weak and the Planck scale. The ALP miracle scenario prefers the ALP mass above about $10^{-3}\,\mathrm{eV}$, far larger than other popular ALP dark matter models. The ALP miracle parameter space overlaps with a currently allowed region of the QCD axion band, a large fraction of which is expected to be probed by the proposed IAXO experiment.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 18:00:04 GMT</pubDate>
+      <guid isPermaLink="false">2610.36049v1</guid>
+      <dc:creator>Steven Ferrante</dc:creator>
+      <dc:creator>Lillian Luo</dc:creator>
+      <dc:creator>Maxim Perelstein</dc:creator>
+      <dc:creator>Bingrong Yu</dc:creator>
+    </item>
     <item>
       <title>Jet-like dihadron correlations in OO and Ne--Ne collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV with ALICE</title>
       <link>http://arxiv.org/abs/2610.35331v1</link>
@@ -183,14 +266,6 @@
       <pubDate>Wed, 21 Oct 2026 17:33:40 GMT</pubDate>
       <guid isPermaLink="false">2610.30085v1</guid>
       <dc:creator>Roy A. Lacey</dc:creator>
-    </item>
-    <item>
-      <title>Generalized Coordinate Bethe Ansatz and Quantum Integrability of the Time-Dependent Massive Thirring Model</title>
-      <link>http://arxiv.org/abs/2610.29998v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Parameshwar R. Pasnoori&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We develop a generalized coordinate Bethe-ansatz framework for the massive Thirring model with an explicitly time-dependent fermion mass. Unlike the generalized Bethe ansatz for chiral quantum field theories, where particle transport acts in internal spin spaces and leads to quantum Knizhnik-Zamolodchikov equations, the present construction acts directly on particle coordinates and physical rapidities. Its central new feature is a rapidity lattice. Because the time-dependent mass couples right- and left-moving components already in the one-particle sector, a fixed-rapidity block is not closed under spatial winding. Periodicity therefore requires all sectors generated by the finite shift $β\toβ-p$. Particle exchange relates amplitudes on this lattice through scalar analytic difference equations of Ruijsenaars type, whose solutions determine the complete time-dependent many-body wavefunction. Consistency of the coordinate construction also selects an exponential evolution of the bare mass, providing a new realization of the time dependent integrability-renormalization group correspondence. In the static limit, the rapidity-lattice construction reduces to the conventional massive-Thirring Bethe equations. Through the massive-Thirring/sine Gordon equivalence, the result also connects this exact quantum construction to the generalized space-time dependent Lax formalism.&lt;/p&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 16:36:19 GMT</pubDate>
-      <guid isPermaLink="false">2610.29998v1</guid>
-      <dc:creator>Parameshwar R. Pasnoori</dc:creator>
     </item>
     <item>
       <title>Nuclear Geometry-Driven Femtoscopic Correlations in Light-Ion Collisions</title>
@@ -581,25 +656,6 @@
       <dc:creator>Nida Malik</dc:creator>
     </item>
     <item>
-      <title>Comparison of pair-source and correlation-function based Lévy analyses in Ar+Sc system at SPS energies</title>
-      <link>http://arxiv.org/abs/2610.08141v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Barnabás Pórfy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Non-Gaussian features in femtoscopic observables have been observed in high-energy collisions, yet their origin remains not fully understood. This study focuses on the phenomenological approach to femtoscopy, going beyond the Gaussian approximation by utilizing Lévy-stable source distributions. Using UrQMD simulations, three-dimensional analyses of pion sources are done in central Ar+Sc collisions, and the extracted parameters are studied as functions of transverse mass and collision energy. This analysis contributes to a hadronic baseline motivated by past and future research work in femtoscopy at the NA61/SHINE experiment. A direct methodological comparison is presented between parameters extracted from the projections of three-dimensional pair-source distribution and those obtained from the three-dimensional correlation function, reconstructed via Fast Fourier Transform.&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 10:55:01 GMT</pubDate>
-      <guid isPermaLink="false">2610.08141v1</guid>
-      <dc:creator>Barnabás Pórfy</dc:creator>
-    </item>
-    <item>
-      <title>Early galactic heavy element production - a phenomenological approach</title>
-      <link>http://arxiv.org/abs/2610.08084v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; B. Wehmeyer, D. Blaschke, F. K. Röpke, G. Röpke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.GA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The high abundances of heavy elements in early, extremely metal-poor stars is still an unsolved issue in Galactic Chemical Evolution (GCE). Standard approaches, such as mergers of neutron stars, have several difficulties, and several non-merger production channels are under discussion. Here, we suggest that pre-enriched inflow might explain the heavy elements seen in low metallicity stars in the Galaxy. To characterize the conditions of the origin of such a pre-enriched infall, we apply a heavy-element freeze-out approach. We characterize the initial distribution by Lagrange parameters which are nonequilibrium generalizations of temperature and chemical potentials. We then speculate about the origin of such a pre-enriched infall: The required nonequilibrium conditions might be found in cosmological fluctuations in the early Universe, and might be connected to the formation of primordial black holes.&lt;/p&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 10:14:46 GMT</pubDate>
-      <guid isPermaLink="false">2610.08084v1</guid>
-      <dc:creator>B. Wehmeyer</dc:creator>
-      <dc:creator>D. Blaschke</dc:creator>
-      <dc:creator>F. K. Röpke</dc:creator>
-      <dc:creator>G. Röpke</dc:creator>
-    </item>
-    <item>
       <title>A Differentiable Surrogate for Loss-Dominated Ion Beam Transport</title>
       <link>http://arxiv.org/abs/2610.08877v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jose M. Munoz-Arias, Laura Ruiz-Arango, Derick Gonzalez-Acevedo, Fabian C. Pastrana-Cruz, Jackson Hacias, Ronald F. Garcia Ruiz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Radioactive nuclei with extreme proton-to-neutron ratios provide unique probes of nuclear structure, fundamental symmetries, astrophysical processes, and applications such as medicine. However, their short half-lives and low production rates mean that experiments must work with few desired ions, often amid contaminant backgrounds exceeding the signal by six orders of magnitude. Efficiently isolating, transporting, and delivering these ions through multi-stage apparatus is therefore a central challenge. We introduce a differentiable probabilistic surrogate for ion-beam transport in regimes dominated by particle loss. The model jointly captures the survival probability of ions along the beamline and the evolving phase-space distribution of the surviving particles by combining discrete-time survival analysis with conditional normalizing flows. Applied to a high-dimensional electrostatic beamline, the resulting likelihood enables gradient-based optimization of operating voltages and inference of beam properties from sparse detector observations. Once trained, the surrogate provides millisecond-scale differentiable predictions, transforming particle-tracking simulations with hard losses into an inference-ready model for experimental design, beamline optimization, and future digital twins of experiments with rare nuclei.&lt;/p&gt;</description>
@@ -657,16 +713,6 @@
       <guid isPermaLink="false">2610.02313v1</guid>
       <dc:creator>Nora Brambilla</dc:creator>
       <dc:creator>Tom Magorsch</dc:creator>
-    </item>
-    <item>
-      <title>Near-thermal state and thermodynamic response of a QCD system in ultra-central heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.14000v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yu-Shan Mu, Li Yan, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a systematic framework to extract QCD thermodynamic properties at finite baryon density from ultra-central heavy-ion collisions, where the impact parameter is nearly zero and volume fluctuations are strongly suppressed. By mapping the measured multi-particle state of each event to an effective homogeneous fireball through the conservation of total energy, total entropy and net baryon number, a near-thermal state with variations is realized from event to event, which allows thermodynamic response relations to be tested. Using STAR Beam Energy Scan data on charged particle multiplicity and net proton fluctuations, we show that the thermalization condition is satisfied within uncertainties across collision energies, validating the interpretation of ultra-central events as small deviations from a thermally equilibrated state. We then generalize the response relations to finite baryon chemical potential, expressing the response coefficients in terms of the speed of sound and susceptibilities. Our results provide a baseline for using ultra-central collisions to probe the QCD equation of state and phase structure, including the search for the critical endpoint.&lt;/p&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 11:17:07 GMT</pubDate>
-      <guid isPermaLink="false">2609.14000v2</guid>
-      <dc:creator>Yu-Shan Mu</dc:creator>
-      <dc:creator>Li Yan</dc:creator>
-      <dc:creator>Xu-Guang Huang</dc:creator>
     </item>
     <item>
       <title>Measurement of prompt and non-prompt ${\rm D}^{\rm *+}$-meson spin alignment in pp collisions at $\sqrt{s}$ = 13.6 TeV$</title>
@@ -1012,16 +1058,6 @@
       <dc:creator>Y. Yamamoto</dc:creator>
     </item>
     <item>
-      <title>Dynamical Coulomb effects on charged-pion HBT-radius splitting in central Au+Au collisions at few-GeV energies</title>
-      <link>http://arxiv.org/abs/2609.23422v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Pengcheng Li, Yongjia Wang, Qingfeng Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The pair transverse momentum ($k_T$) and collision-energy ($\sqrt{s_{NN}}$) dependent difference between $π^{+}π^{+}$ and $π^{-}π^{-}$ femtoscopic correlations was observed by the HADES and STAR Collaborations. We investigate how much of the observed splitting can be accounted for by Coulomb dynamics in 0-10\% central Au+Au collisions at $\sqrt{s_{NN}}=2.42$-5.2 GeV. Using the UrQMD model and the CRAB programme, three transport scenarios that successively include baryon-baryon, baryon-meson, and meson-meson Coulomb interactions are considered. In a separate calculation based on the baryon-baryon reference, we reconstruct the time-dependent effective charge $Z_{\rm{eff}}(t)$ and radius $R_{\rm{eff}}(t)$ of the residual charged source and propagate each pion from its individual last strong-interaction point through the evolving field. The calculations reproduce the main $k_{T}$ and $\sqrt{s_{NN}}$ dependences of the radii. Baryon--meson Coulomb interactions generate most of the additional charge splitting in the microscopic calculation. The residual-source treatment also enhances the longitudinal and sideward radius ratios relative to the reference, whereas the outward ratio changes little, and the enhancement generally decreases with increasing $\sqrt{s_{NN}}$. Within the present framework, this contribution does not fully account for the data, motivating further investigation of the charged-source geometry and its interplay with strong-interaction dynamics.&lt;/p&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 07:38:56 GMT</pubDate>
-      <guid isPermaLink="false">2609.23422v1</guid>
-      <dc:creator>Pengcheng Li</dc:creator>
-      <dc:creator>Yongjia Wang</dc:creator>
-      <dc:creator>Qingfeng Li</dc:creator>
-    </item>
-    <item>
       <title>Machine Learning for Invisible Dark Boson Searches at the Electron-Ion Collider</title>
       <link>http://arxiv.org/abs/2609.22484v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rojae Mighty, Ankush Reddy Kanuganti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate whether adding $t$, the positive magnitude of the squared nuclear four-momentum transfer, enables boosted decision trees (BDTs) to improve invisible-dark-boson selection relative to optimized rectangular cuts at the Electron-Ion Collider. We model coherent exclusive scalar and vector production at generator level in electron-gold collisions at 18 GeV by 100 GeV per nucleon. Both methods use identical weighted samples, inputs, preselection, and optimization objectives. Using only electron information, the BDT provided no consistent advantage over optimized cuts for signal selection across 11 masses for each boson type. When both methods also use $t$, the BDT distinguishes signal from background slightly better than optimized cuts at 10 GeV for both boson types. These results motivate further investigation of machine learning in EIC dark-boson searches through exclusive processes where $t$ can be reconstructed.&lt;/p&gt;</description>
@@ -1114,14 +1150,6 @@
       <dc:creator>Kshitish Kumar Pradhan</dc:creator>
       <dc:creator>Arghya Chatterjee</dc:creator>
       <dc:creator>Raghunath Sahoo</dc:creator>
-    </item>
-    <item>
-      <title>Photon-induced $J/ψ$ as a linearly polarized probe of collision geometry in relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.14604v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In relativistic heavy-ion collisions, the linear polarization of quasi-real photons can correlate the spin orientation of photon-induced vector mesons with the collision geometry. To explore this sensitivity, we present the first measurement of the decay angular distribution of photon-induced $J/ψ$ with respect to the event plane in heavy-ion collisions with hadronic overlap. The analysis uses Ru+Ru and Zr+Zr collisions at a nucleon--nucleon center-of-mass energy of $\sqrt{s_{\mathrm{NN}}}=200$ GeV recorded by STAR. After correcting for the finite event-plane resolution and subtracting the residual hadronic contribution, we extract a negative second-order modulation, $A_2^{\rm phot} = -0.39 \pm 0.11~(\mathrm{stat.}) \pm 0.04~(\mathrm{sys.})$, for $|y^{ee}|&lt;0.8$, $p_{\mathrm T}^{ee}&lt;0.2~\mathrm{GeV}/c$, and 30--80% centrality. This modulation provides evidence that the $J/ψ$ polarization is correlated with the event plane, as expected for linearly polarized photons. The observed modulation establishes polarized $J/ψ$ photoproduction as a direct probe of the transverse orientation of the initial collision geometry.&lt;/p&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 15:34:45 GMT</pubDate>
-      <guid isPermaLink="false">2609.14604v1</guid>
-      <dc:creator>STAR Collaboration</dc:creator>
     </item>
   </channel>
 </rss>
