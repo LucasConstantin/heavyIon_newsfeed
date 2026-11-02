@@ -5,9 +5,74 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:34:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Complex potential and the thermal width of quarkonium in quark-gluon plasma</title>
+      <link>http://arxiv.org/abs/2610.40220v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rasmus Normann Larsen, Peter Petreczky, Jorge Luis Dasilva Golan, Johannes H. Weber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 13:28:17 GMT</pubDate>
+      <guid isPermaLink="false">2610.40220v2</guid>
+      <dc:creator>Rasmus Normann Larsen</dc:creator>
+      <dc:creator>Peter Petreczky</dc:creator>
+      <dc:creator>Jorge Luis Dasilva Golan</dc:creator>
+      <dc:creator>Johannes H. Weber</dc:creator>
+    </item>
+    <item>
+      <title>Characterizing $\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model</title>
+      <link>http://arxiv.org/abs/2610.41607v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanchari Thakur, Partha Pratim Bhaduri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the first predictions of the transverse-momentum ($\pT$)-differential radial-flow fluctuation observable, $\vzpT$, in Au+Au collisions at the top SIS100 energy, $\snn=4.9$~GeV, which will be available at the FAIR accelerator complex. Radial flow and its fluctuations are studied for different centrality intervals and reference-$\pT$ selections to investigate the properties and robustness of the calculated long-range correlation. $\vzpT$ displays a characteristic evolution from negative values at low $\pT$ to positive values at higher $\pT$. The integrated $v_0$, obtained with different reference-$\pT$ intervals, follows a common trend, with an approximately inverse-square-root dependence on the inclusive charged-particle multiplicity ($\nch$). The $\vzpT$ signal changes little when the pseudorapidity gap is varied between 0.2 and 0.8, or when the edges of the reference-$\pT$ interval are varied, in the bulk region. For identified particles, the pion and proton $\vzpT$ are ordered at low $\pT$, qualitatively similar to the mass ordering seen at higher energies. However, unlike at higher collision energies, $\vzpT$ does not exhibit constituent-quark scaling, so the results do not support an interpretation in terms of partonic collectivity. These results provide constraints on the evolution of radial correlations toward lower collision energies and motivate comparisons with complementary observables to clarify their connection to collective dynamics.&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 11:43:11 GMT</pubDate>
+      <guid isPermaLink="false">2610.41607v1</guid>
+      <dc:creator>Sanchari Thakur</dc:creator>
+      <dc:creator>Partha Pratim Bhaduri</dc:creator>
+    </item>
+    <item>
+      <title>The role of spin polarization in event-by-event fluctuations</title>
+      <link>http://arxiv.org/abs/2610.41386v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-Ying He, Li-Juan Zhou, Li-Xin Yang, Qian-Qian Du, De-Xian Wei&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The event-by-event initial state fluctuations constitute a critical physical quantity for understanding the dynamics of high-energy heavy-ion collisions. Due to the extremely limited available experimental data of such fluctuations, it is difficult to constrain or direct the characterization of the underlying initial state properties. This work constrains the correlation function between the initial eccentricity and the asymmetry by employing a parton distribution function that incorporates spin polarization induced by thermal vorticity and thermal shear. Based on the kinetic theory calculations, we found that the asymmetry fluctuations considering spin polarization have a significant splitting effect compared to those without spin polarization. These splitting exhibit pronounced system size and energy dependence. Moreover, the ratios of correlation function display similar system size and energy dependence--particularly in the low-temperature regime ($T \lesssim$ 0.12 GeV). These results suggest that spin polarization may serve as a useful constraint method for the event-by-event initial state fluctuations of heavy-ion collisions.&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 07:51:43 GMT</pubDate>
+      <guid isPermaLink="false">2610.41386v1</guid>
+      <dc:creator>Xiao-Ying He</dc:creator>
+      <dc:creator>Li-Juan Zhou</dc:creator>
+      <dc:creator>Li-Xin Yang</dc:creator>
+      <dc:creator>Qian-Qian Du</dc:creator>
+      <dc:creator>De-Xian Wei</dc:creator>
+    </item>
+    <item>
+      <title>Two gluon fusion into a $π^0$, $η$, or $η'$ in a relatively weak magnetic field</title>
+      <link>http://arxiv.org/abs/2610.41020v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fabio L. Braghin, Enrique Muñoz&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this article, we investigate gluon fusion as a mechanism for neutral meson production ($π^0$, $η$, and $η'$), in the phenomenological context of heavy-ion collisions prior to thermalization, in which a large gluon multiplicity is expected, and when an intense background magnetic field is expected to arise. For this purpose, we computed the ratios of the emission probability rates in the presence of the background magnetic field as compared to vacuum (zero-field), as a function of transverse momenta $p_T$ and energy $\sqrt{s}$, close to midrapidity. Our theoretical results suggest a catalytic effect from the presence of the background magnetic field, that may enhance the neutral pion production by several orders of magnitude at very small energies $s \lesssim 1~\text{GeV}^2$, while the effect is negligible at larger energies $s\gtrsim 10~\text{GeV}^2$. In contrast, the $η$ and $η'$ production rates are nearly insensitive to the magnetic field presence
+  (as compared to vacuum).&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 22:02:20 GMT</pubDate>
+      <guid isPermaLink="false">2610.41020v1</guid>
+      <dc:creator>Fabio L. Braghin</dc:creator>
+      <dc:creator>Enrique Muñoz</dc:creator>
+    </item>
+    <item>
+      <title>Relativistic viscous hydrodynamics in the Density Frame for heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2610.40909v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jean-François Paquet, Mayank Singh, Derek Teaney&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a numerical study of relativistic viscous hydrodynamics in the Density Frame for boost-invariant flows in 2+1 dimensions. The Density Frame is a formulation of relativistic viscous hydrodynamics that is first order in time, requires no auxiliary fields, and has no non-hydrodynamic modes; the only parameters are the shear and bulk viscosities and the equation of state. We formulate the numerical method in terms of a discrete analog of the dissipative function, which guarantees that the discrete equations produce entropy on all length scales and leads to a remarkably robust algorithm. We test the method against the exact solution of kinetic theory in the relaxation time approximation with Gubser symmetry. In making this comparison, we clarify how the kinetic solution matches onto hydrodynamics: we organize the solution by the opacity and show how the Bjorken attractor passes onto the Gubser solution order by order in gradients. We then replace the hydrodynamic engine of the MUSIC code with the Density Frame, and compare the two for IP-Glasma initial conditions in Pb-Pb collisions at $\sqrt{s_{NN}} = 5.02$ TeV. The Density Frame smooths sharp gradients more rapidly. The largest differences arise in the bulk-viscous sector, where the bulk pressure in the Density Frame responds instantaneously to the flow, while in the Müller-Israel-Stewart-based MUSIC it relaxes over a finite time. With shear viscosity alone, the multiplicity, mean transverse momentum, and elliptic flow of final-state hadrons from the two codes are very similar. The Density Frame is now ready for a complete Bayesian analysis of heavy-ion data.&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 19:28:31 GMT</pubDate>
+      <guid isPermaLink="false">2610.40909v1</guid>
+      <dc:creator>Jean-François Paquet</dc:creator>
+      <dc:creator>Mayank Singh</dc:creator>
+      <dc:creator>Derek Teaney</dc:creator>
+    </item>
+    <item>
+      <title>A systematic study of hydrodynamic attractors in periodically driven systems at weak and strong couplings</title>
+      <link>http://arxiv.org/abs/2610.40877v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aleksas Mazeliauskas, Toshali Mitra, Sören Schlichting, Simon Schneider, Louis Nwakile Onwuka, Martin Vrdoljak&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study equilibration and hydrodynamic response in conformal systems undergoing periodic expansion and contraction along one spatial direction. Using strongly coupled holography (AdS/CFT), weakly coupled kinetic theories (relaxation-time approximation, scalar $φ^4$ theory and the Yang--Mills sector of QCD effective kinetic theory) and hydrodynamics (Navier--Stokes, Müller--Israel--Stewart (MIS) and rBRSSS), we investigate the shear response to a periodic drive of varying amplitude $A$ and frequency $ω$, both analytically in linear response and numerically. We find that, at the linear level, $A\ll 1$, periodically driven systems approach a cyclic attractor that in general differs from Navier--Stokes behaviour. This attractor is universal among kinetic theories and accurately described by MIS theory: for slow driving, $ωτ_π\ll 1$, where $τ_π$ is the shear relaxation time, it approaches the Navier--Stokes limit, whereas for fast driving the shear stress saturates at its non-interacting (free-streaming) value. In strongly coupled holographic systems, the periodic drive excites non-hydrodynamic quasinormal modes, which produce a characteristic ringing in the approach to the cyclic attractor, in contrast to the purely exponential approach found in kinetic theories. This difference is a direct consequence of the distinct non-hydrodynamic spectra of the two classes of theories. Moreover, unlike in kinetic theory, the holographic response is sensitive to the curvature terms of second-order hydrodynamics. Over longer times, non-linear viscous heating, which is quadratic in the drive amplitude, raises the temperature and thereby lowers $ωτ_π$, since $τ_π\sim 1/T$. This induces a slow drift of the cyclic attractor, which eventually converges towards Navier--Stokes hydrodynamics at asymptotically late times.&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 18:59:41 GMT</pubDate>
+      <guid isPermaLink="false">2610.40877v1</guid>
+      <dc:creator>Aleksas Mazeliauskas</dc:creator>
+      <dc:creator>Toshali Mitra</dc:creator>
+      <dc:creator>Sören Schlichting</dc:creator>
+      <dc:creator>Simon Schneider</dc:creator>
+      <dc:creator>Louis Nwakile Onwuka</dc:creator>
+      <dc:creator>Martin Vrdoljak</dc:creator>
+    </item>
     <item>
       <title>Exact holographic superfluid at the Bogomolny point: transport, large charge, and Rényi entropies</title>
       <link>http://arxiv.org/abs/2610.40371v1</link>
@@ -15,17 +80,6 @@
       <pubDate>Thu, 29 Oct 2026 16:20:26 GMT</pubDate>
       <guid isPermaLink="false">2610.40371v1</guid>
       <dc:creator>Siqing Yu</dc:creator>
-    </item>
-    <item>
-      <title>Complex potential and the thermal width of quarkonium in quark-gluon plasma</title>
-      <link>http://arxiv.org/abs/2610.40220v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rasmus Normann Larsen, Peter Petreczky, Jorge Luis Dasilva Golan, Johannes H. Weber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 15:02:37 GMT</pubDate>
-      <guid isPermaLink="false">2610.40220v1</guid>
-      <dc:creator>Rasmus Normann Larsen</dc:creator>
-      <dc:creator>Peter Petreczky</dc:creator>
-      <dc:creator>Jorge Luis Dasilva Golan</dc:creator>
-      <dc:creator>Johannes H. Weber</dc:creator>
     </item>
     <item>
       <title>Learning nuclear mass systematics with hybrid quantum-classical mixtures of experts</title>
@@ -58,6 +112,15 @@
       <dc:creator>Kristof Csiki</dc:creator>
       <dc:creator>Mate Csanad</dc:creator>
       <dc:creator>Barnabas Porfy</dc:creator>
+    </item>
+    <item>
+      <title>Nuclear-geometry-tagging events in high-energy Ne--Ne collisions</title>
+      <link>http://arxiv.org/abs/2610.40724v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Joachim Carlo Kristian Bjerg Hansen, Emil Gorm Dahlbæk Nielsen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nucleon-nucleon interactions within atomic nuclei give rise to collective properties such as deformation and nuclear clustering. Ultrarelativistic nucleon-nucleon collisions offer a novel way to probe the many-body correlations of the incoming nuclei, as the nuclear structure is reflected in the initial geometry of the produced system. State-of-the-art low-energy nuclear theory calculations predict highly deformed $^{20}$Ne nuclei with a characteristic $α$+$^{16}$O bowling-pin-like shape. Since such nuclei have recently been collided at the LHC, investigating methods to maximise the sensitivity to the nuclear structure is pertinent. In this paper, we investigate whether body--body and tip--tip configurations of $^{20}$Ne nuclei can be identified in Monte--Carlo Glauber simulations using geometry-sensitive observables: the eccentricity, $\varepsilon_2$, and the transverse compactness, $d_\perp$. The nuclear configurations are obtained from nuclear lattice effective field theory calculations within the framework of Nuclear Lattice Effective Field Theory (NLEFT) and $\textit{ab initio}$ Projected Generator Coordinate Method (PGCM). We utilise a Fisher linear discriminant to select body--body and tip--tip configurations based on the $\varepsilon_2$-$d_\perp$ correlation. With classifier thresholds chosen to retain $30\%$ of the target class in a validation sample, the two-variable Fisher selection obtains purities in NLEFT (PGCM) of $0.201$ ($0.156$) and $0.573$ ($0.540$) for body--body and tip--tip events, respectively.&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 07:12:45 GMT</pubDate>
+      <guid isPermaLink="false">2610.40724v1</guid>
+      <dc:creator>Joachim Carlo Kristian Bjerg Hansen</dc:creator>
+      <dc:creator>Emil Gorm Dahlbæk Nielsen</dc:creator>
     </item>
     <item>
       <title>Absorption of bound supernova axion-like particles by the neutron star weakens the heating limits on their photon coupling</title>
@@ -289,15 +352,6 @@
       <pubDate>Fri, 23 Oct 2026 23:24:12 GMT</pubDate>
       <guid isPermaLink="false">2610.33365v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Spin-Induced Coordinate Noncommutativity of the Covariant Centroid</title>
-      <link>http://arxiv.org/abs/2610.33236v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Daniel Guimaraes Tedesco, Luiz Paulo Colatto&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Tulczyjew-Dixon centroid of a massive spinning particle, built as a composite of canonical Poincaré variables, carries the exact coordinate algebra $\{X^μ,X^ν\}=-S^{μν}/p^2$, whose noncommutativity bivector is the transverse spin tensor of the particle itself rather than an external background. That bracket and its Compton-scale magnitude are already known, and we recover them here as the starting point of the analysis, not as a result. What the composite realization settles is the domain on which the algebra may be used. Closure of the Jacobi identity requires $p^{-2}$ to remain operator valued, and the exactness domain is the convex timelike interior $Ω_μ$, on which states supported on a single mass shell are distributional. We show that freezing $p^2$ to its shell value inside the centroid leaves every two-operator commutator unchanged on shell, so that the projected position dictionary, the Berry cancellation and the endpoint transversality identity are untouched, while the same substitution fails from three insertions onward, with residue the truncated Jacobiator $2ε^{μνρσ}W_σ/(p^2)^2$. This two-versus-three criterion replaces the qualitative restriction to shell-preserving matrix elements and states which constructions built on a fixed-shell bivector $Θ_m$ remain valid. We then follow the algebra through positive-energy projection, packet-conditioned Moyal fibers, Compton routing holonomy and projected nonassociative products, recording for each layer whether it falls on the safe side of the criterion. No prediction beyond QED follows. In the geometric branch the physical amplitude reduces to the QED amplitude, and the transverse matching coefficients remain uncomputed.&lt;/p&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 19:38:46 GMT</pubDate>
-      <guid isPermaLink="false">2610.33236v1</guid>
-      <dc:creator>Daniel Guimaraes Tedesco</dc:creator>
-      <dc:creator>Luiz Paulo Colatto</dc:creator>
     </item>
     <item>
       <title>Muon Tridents at FASER and NA64$μ$: Motivation, Predictions, and Prospects for Precision Measurements</title>
@@ -1139,33 +1193,6 @@
       <guid isPermaLink="false">2609.18754v1</guid>
       <dc:creator>João Barata</dc:creator>
       <dc:creator>Giuliano Giacalone</dc:creator>
-    </item>
-    <item>
-      <title>Constraining the $f_0(980)$ Structure and Formation Dynamics via Anisotropy-Response Scaling</title>
-      <link>http://arxiv.org/abs/2609.17765v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Roy A. Lacey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A species-resolved anisotropy-response scaling framework is used to investigate the structure and formation dynamics of the $f_0(980)$ in relativistic nuclear collisions. Published measurements in high-multiplicity p+Pb collisions at $\sqrt{s_{NN}}=8.16$~TeV exhibit broad scaling closure under a single-meson response construction, with a small effective final-state response, $ζ_{f_0}\simeq0.04$, whereas a symmetric ${\rm K\bar K}$ constituent-response construction gives substantially poorer closure. An explicitly molecular ${\rm K\bar K}$ calculation also exhibits single-meson-like scaling but gives a substantially larger effective final-state response, $ζ_{f_0}\simeq0.16$. Thus, single-meson scaling alone is not a unique structural discriminator. The combined response construction and $ζ_{f_0}$ constraints characterize the measured $f_0(980)$ by a single-meson-like anisotropy response with weak final-state sensitivity, distinctly different from the molecular benchmark. These results establish anisotropy-response scaling as a new experimental probe of $f_0(980)$ formation dynamics and motivate systematic tests across collision systems and beam energies.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 19:13:44 GMT</pubDate>
-      <guid isPermaLink="false">2609.17765v1</guid>
-      <dc:creator>Roy A. Lacey</dc:creator>
-    </item>
-    <item>
-      <title>Comment on &quot;Non-Monotonicity of Transverse-Momentum Correlations in Au+Au Collisions at RHIC&quot;</title>
-      <link>http://arxiv.org/abs/2609.17279v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Roy A. Lacey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent measurements of two-particle transverse-momentum correlations, $C_{p_T}$, in Au+Au collisions have revealed a statistically significant non-monotonic beam-energy dependence over the range $\sqrt{s_{NN}}=3.0$--$7.7$~GeV that has been interpreted as potentially indicative of critical phenomena associated with a critical end point (CEP) in the QCD phase diagram. This interpretation is assessed in light of the absence of a controlled framework establishing $C_{p_T}$ as a quantitative proxy for the underlying critical response. The implications of this limitation are examined by considering the expected finite-size and finite-time modification of critical fluctuations, substantial non-critical dynamical contributions, the lack of demonstrated critical scaling, and the sizeable discrepancy between the CEP region inferred from the observed $C_{p_T}$ non-monotonicity and that constrained by susceptibility-based measurements and finite-size scaling analyses. Taken together, these considerations indicate that the observed $C_{p_T}$ non-monotonicity does not, by itself, establish a critical origin nor provide reliable quantitative constraints on the existence or location of a possible CEP.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 14:53:10 GMT</pubDate>
-      <guid isPermaLink="false">2609.17279v1</guid>
-      <dc:creator>Roy A. Lacey</dc:creator>
-    </item>
-    <item>
-      <title>The Interplay Between Electromagnetic Fields and Baryon Stopping in a Hydrodynamic Model for Charged Flow</title>
-      <link>http://arxiv.org/abs/2609.17228v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tuna Demircik, Dmitri E. Kharzeev, Krishna Rajagopal, Raimond Snellings&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-15&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Charge-dependent directed flow provides a sensitive probe of early electromagnetic fields and baryon stopping in relativistic heavy-ion collisions. Recent STAR measurements show a centrality-dependent sign change in the directed flow splitting (the difference between the directed flow of protons and antiprotons), indicating that electromagnetic effects alone are not sufficient to describe this observable and that the baryon stopping $-$ in particular the component of the stopped proton distribution that is odd in rapidity and odd under reflection in the impact parameter direction $-$ must also be included. We develop a semi-analytic hydrodynamic framework that combines spectator-induced electromagnetic fields with a Glauber-based description of baryon stopping, built upon an analytic solution for the background hydrodynamic flow due to Gubser together with the simplifying assumption of a constant electrical conductivity. For Au+Au collisions at $\sqrt{s_{NN}}=200$ GeV, we find that baryon stopping gives a positive contribution to the directed flow splitting that decreases for more peripheral collisions, while electromagnetic fields give a negative contribution that is larger for more peripheral collisions. The competition between these two effects naturally reproduces the observed sign change in Au+Au collisions as a function of centrality, describes the observed rapidity dependence in the $50$--$80\%$ centrality interval, and reproduces trends seen in U+U collisions. Although the simplifying assumptions that we have made regarding the analytic background and constant conductivity limit our ability to make quantitative comparisons, our model provides a transparent explanation of how transported baryon number and spectator-induced electromagnetic fields jointly shape charge-dependent directed flow.&lt;/p&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 14:11:36 GMT</pubDate>
-      <guid isPermaLink="false">2609.17228v1</guid>
-      <dc:creator>Tuna Demircik</dc:creator>
-      <dc:creator>Dmitri E. Kharzeev</dc:creator>
-      <dc:creator>Krishna Rajagopal</dc:creator>
-      <dc:creator>Raimond Snellings</dc:creator>
     </item>
   </channel>
 </rss>
