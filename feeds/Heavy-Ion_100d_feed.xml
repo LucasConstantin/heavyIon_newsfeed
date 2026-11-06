@@ -5,9 +5,35 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:15:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Striped phases of N=4 SYM at finite density</title>
+      <link>http://arxiv.org/abs/2611.06421v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alex Buchel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct spatially modulated phases of strongly coupled $\mathcal N=4$ supersymmetric Yang--Mills theory at finite $R$-charge density. Compactification on a three-torus and unequal background charges isolate an unstable charge-density mode. Its static threshold seeds a nonlinear branch of striped black branes in the STU model. The striped states have higher entropy than homogeneous states with the same energy and conserved charges. They connect continuously to the homogeneous branch, with an entropy excess that begins at fourth order in the modulation amplitude. These solutions provide a candidate endpoint of the charge-transport instability.&lt;/p&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 12:22:50 GMT</pubDate>
+      <guid isPermaLink="false">2611.06421v1</guid>
+      <dc:creator>Alex Buchel</dc:creator>
+    </item>
+    <item>
+      <title>Characterizing $\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model</title>
+      <link>http://arxiv.org/abs/2610.41607v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanchari Thakur, Partha Pratim Bhaduri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the first predictions of the transverse-momentum ($\pT$)-differential radial-flow fluctuation observable, $\vzpT$, in Au+Au collisions at the top SIS100 energy, $\snn=4.9$~GeV, which will be available at the FAIR accelerator complex. Radial flow and its fluctuations are studied for different centrality intervals and reference-$\pT$ selections to investigate the properties and robustness of the calculated long-range correlation. $\vzpT$ displays a characteristic evolution from negative values at low $\pT$ to positive values at higher $\pT$. The integrated $v_0$, obtained with different reference-$\pT$ intervals, follows a common trend, with an approximately inverse-square-root dependence on the inclusive charged-particle multiplicity ($\nch$). The $\vzpT$ signal changes little when the pseudorapidity gap is varied between 0.2 and 0.8, or when the edges of the reference-$\pT$ interval are varied, in the bulk region. For identified particles, the pion and proton $\vzpT$ are ordered at low $\pT$, qualitatively similar to the mass ordering seen at higher energies. However, unlike at higher collision energies, $\vzpT$ does not exhibit constituent-quark number scaling, so the results do not support an interpretation in terms of partonic collectivity. The results are also in partial contradiction with the behavior of hadronic elliptic flow in these low-energy collisions. These results provide constraints on the evolution of radial correlations toward lower collision energies and motivate comparisons with complementary observables to clarify their connection to collective dynamics.&lt;/p&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 10:05:31 GMT</pubDate>
+      <guid isPermaLink="false">2610.41607v2</guid>
+      <dc:creator>Sanchari Thakur</dc:creator>
+      <dc:creator>Partha Pratim Bhaduri</dc:creator>
+    </item>
+    <item>
+      <title>Goldstone theory of gluon saturation in high energy QCD: From color glass to color superfluid condensate</title>
+      <link>http://arxiv.org/abs/2611.05498v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; V. P. Nair, Raju Venugopalan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In the high energy Regge asymptotics of QCD, the rapid overpopulation of gluons leads to gluon saturation, characterized by nonperturbative semi-classical lumpy configurations of size $1/Q_S$, where $Q_S\gg Λ_{\rm QCD}$ is a dynamical semi-hard saturation scale. We discuss here a generalization of the Color Glass Condensate (CGC) framework describing this phenomenon that is obtained by carefully treating the breaking of global symmetries by the condensate. In particular, we show that the breaking of a global subgroup of color results in a Goldstone effective field theory (EFT) whose dynamics is characterized by a Goldstone decay constant $f_G = \sqrt{N} Q_S$, where $N=O(1/α_S)$ is the phase space occupancy of the condensate, which is large for $α_S(Q_S)\ll 1$. Further, the coupling of these colored Goldstones to collinear gluon modes leads to a depletion of the condensate, thereby modifying the static shockwave scattering framework of the CGC on timescales controlled by $f_G$. The CGC EFT on these longer time scales is a novel color superfluid. Low frequency modes with $ω\leq α_S Q_S$ in an external probe of the CGC are sensitive to superfluid dynamics, with interesting physical consequences for deeply inelastic scattering and ultrarelativistic nuclear collisions.&lt;/p&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 19:01:01 GMT</pubDate>
+      <guid isPermaLink="false">2611.05498v1</guid>
+      <dc:creator>V. P. Nair</dc:creator>
+      <dc:creator>Raju Venugopalan</dc:creator>
+    </item>
     <item>
       <title>Elliptic and triangular flow responses in O+O and Ne+Ne collisions from hydrodynamics and kinetic theory</title>
       <link>http://arxiv.org/abs/2611.05239v1</link>
@@ -18,15 +44,6 @@
       <dc:creator>Giuliano Giacalone</dc:creator>
       <dc:creator>Clemens Werthmann</dc:creator>
       <dc:creator>Fabian Zhou</dc:creator>
-    </item>
-    <item>
-      <title>Accessing zero-point fluctuations in high-energy nuclear collisions</title>
-      <link>http://arxiv.org/abs/2609.24977v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jean-Paul Blaizot, Jean-Yves Ollitrault&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultracentral high-energy collisions between identical nuclei are very sensitive to the size and shape of the frozen configuration of nucleons at the instant of the collision, an information that is encoded in the ground state wave functions of the colliding nuclei. The relative standard deviation of the size of the colliding system soon after the collision has recently been inferred from event-by-event fluctuations of the momentum per particle in collisions of $^{208}$Pb nuclei at the LHC, and since a single collision event produces thousands of particles, this information is very precise. We connect this extracted value to the magnitude of the zero-point fluctuations of the radius of the lead nucleus. The value that is extracted from the data is compatible with estimates based on nuclear sum rules, but is overestimated by classical Glauber-type modeling of high-energy collisions. The role of the Pauli principle in suppressing the fluctuations in closed-shell nuclei is underlined. It leads to a distinctive $A$ dependence that could be checked in collisions of smaller systems.&lt;/p&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 15:09:41 GMT</pubDate>
-      <guid isPermaLink="false">2609.24977v2</guid>
-      <dc:creator>Jean-Paul Blaizot</dc:creator>
-      <dc:creator>Jean-Yves Ollitrault</dc:creator>
     </item>
     <item>
       <title>Observation of Scaling of Higher-Order Flow in a Unitary Fermi Gas</title>
@@ -94,14 +111,6 @@
       <pubDate>Mon, 02 Nov 2026 14:50:05 GMT</pubDate>
       <guid isPermaLink="false">2611.03237v1</guid>
       <dc:creator>The STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Exact holographic superfluid at the Bogomolny point: transport, large charge, and Rényi entropies</title>
-      <link>http://arxiv.org/abs/2610.40371v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Siqing Yu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Abelian Higgs model in AdS$_5$, in the probe limit, is a standard holographic model of a strongly coupled superfluid, usually solved numerically. When the scalar mass saturates the Breitenlohner-Freedman bound and the quartic coupling takes the Bogomolny value, its condensed phase can be found in closed form on every static, uncharged AdS$_5$ background with maximally symmetric spatial sections. We prove that it is linearly stable, as is any nodeless probe-limit condensate in the standard quantization with a nonnegative quartic coupling and no superflow. On each slicing it answers a different question about the dual conformal field theory. On the planar black brane it is the superfluid at all temperatures below $T_c$: the superfluid fraction follows the Gorter-Casimir two-fluid law exactly, and the speed and the attenuation of sound are found in closed form. In global AdS$_5$ it describes a state of charge $Q$ on $\mathbb{R}\times S^3$, arguably the lowest-energy one, and gives its scaling dimension in closed form at all $Q$, classically in the bulk. Its excitations include towers that the superfluid effective theory does not describe; they come from an infrared fixed point of the probe sector. The hyperbolic slicing gives in closed form a homogeneous hairy phase of the black holes that compute the charged Rényi entropies of a ball. Its condensate does not vanish at the entangling surface. When sourced by operators inserted there, the phase sets in at Rényi index exactly one at zero chemical potential, as found for a neutral scalar.&lt;/p&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 14:10:56 GMT</pubDate>
-      <guid isPermaLink="false">2610.40371v2</guid>
-      <dc:creator>Siqing Yu</dc:creator>
     </item>
     <item>
       <title>Thermofractal Dynamics in the Multisource Thermal Model: A Unified Approach to Multiparticle Production</title>
@@ -314,15 +323,6 @@
       <dc:creator>Peter Petreczky</dc:creator>
       <dc:creator>Jorge Luis Dasilva Golan</dc:creator>
       <dc:creator>Johannes H. Weber</dc:creator>
-    </item>
-    <item>
-      <title>Characterizing $\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model</title>
-      <link>http://arxiv.org/abs/2610.41607v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanchari Thakur, Partha Pratim Bhaduri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the first predictions of the transverse-momentum ($\pT$)-differential radial-flow fluctuation observable, $\vzpT$, in Au+Au collisions at the top SIS100 energy, $\snn=4.9$~GeV, which will be available at the FAIR accelerator complex. Radial flow and its fluctuations are studied for different centrality intervals and reference-$\pT$ selections to investigate the properties and robustness of the calculated long-range correlation. $\vzpT$ displays a characteristic evolution from negative values at low $\pT$ to positive values at higher $\pT$. The integrated $v_0$, obtained with different reference-$\pT$ intervals, follows a common trend, with an approximately inverse-square-root dependence on the inclusive charged-particle multiplicity ($\nch$). The $\vzpT$ signal changes little when the pseudorapidity gap is varied between 0.2 and 0.8, or when the edges of the reference-$\pT$ interval are varied, in the bulk region. For identified particles, the pion and proton $\vzpT$ are ordered at low $\pT$, qualitatively similar to the mass ordering seen at higher energies. However, unlike at higher collision energies, $\vzpT$ does not exhibit constituent-quark scaling, so the results do not support an interpretation in terms of partonic collectivity. These results provide constraints on the evolution of radial correlations toward lower collision energies and motivate comparisons with complementary observables to clarify their connection to collective dynamics.&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 11:43:11 GMT</pubDate>
-      <guid isPermaLink="false">2610.41607v1</guid>
-      <dc:creator>Sanchari Thakur</dc:creator>
-      <dc:creator>Partha Pratim Bhaduri</dc:creator>
     </item>
     <item>
       <title>The role of spin polarization in event-by-event fluctuations</title>
@@ -761,16 +761,6 @@
       <dc:creator>Hongxi Xing</dc:creator>
     </item>
     <item>
-      <title>Linear Structure, Convergence and Resurgence of Hydrodynamic Transseries</title>
-      <link>http://arxiv.org/abs/2610.26958v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qi Zhou, Enke Wang, Hui Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We construct an exact formulation for the solution of Bjorken expanding relativistic viscous hydrodynamics with a constant relaxation time and derive its late time transseries structure. The two fundamental modes of the linear auxiliary equation separate the hydrodynamic contribution from the exponentially suppressed transient mode. We show that this single transient mode generates the entire hierarchy of nonperturbative sectors through nonlinear mode mixing, while its decay explains the loss of initial condition dependence and the emergence of late time hydrodynamic attractor behavior. The hydrodynamic gradient expansion is factorially divergent for generic values of the transport parameter but converges at the discrete values $a=N^2$, where the auxiliary asymptotic expansions terminate. We further determine the exact Stokes constant of the auxiliary linear equation and establish its relation to the logarithmic Borel singularity coefficient. The vanishing of the Stokes constant at these exceptional values establishes a direct connection between auxiliary series termination, hydrodynamic convergence, and Stokes decoupling between the hydrodynamic and the nonhydrodynamic transient sector.&lt;/p&gt;</description>
-      <pubDate>Sun, 18 Oct 2026 11:58:57 GMT</pubDate>
-      <guid isPermaLink="false">2610.26958v1</guid>
-      <dc:creator>Qi Zhou</dc:creator>
-      <dc:creator>Enke Wang</dc:creator>
-      <dc:creator>Hui Zhang</dc:creator>
-    </item>
-    <item>
       <title>BeAGLE++: A modern modular framework for eA physics at the EIC</title>
       <link>http://arxiv.org/abs/2610.24095v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arjun Kumar, Abhay Deshpande, Zhoudunming Tu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the Benchmark eA Generator for LEptoproduction (BeAGLE++), a next-generation, general-purpose Monte Carlo event generator for high-energy lepton-nucleus collisions and the successor to BeAGLE. The framework incorporates a formation-zone intranuclear cascade to describe hadronic final-state interactions (FSIs), followed by statistical de-excitation of the residual nucleus. Compared with the legacy implementation, the BeAGLE++ cascade introduces a discrete time-ordered treatment of hadronic interactions and light-cluster production during intranuclear transport. Comparisons with E665 measurements and legacy BeAGLE calculations show broad agreement for selected observables, while revealing differences in final states sensitive to FSIs. These differences provide opportunities to assess the model dependence of nuclear-breakup predictions and constrain the underlying cascade dynamics. With its modular architecture, BeAGLE++ provides a flexible simulation framework for the Electron-Ion Collider (EIC) and a platform for developing and testing new physics models against existing data and future EIC measurements.&lt;/p&gt;</description>
@@ -1202,29 +1192,6 @@
       <pubDate>Tue, 22 Sep 2026 14:07:20 GMT</pubDate>
       <guid isPermaLink="false">2609.26449v1</guid>
       <dc:creator>Rutik Manikandhan</dc:creator>
-    </item>
-    <item>
-      <title>Ruling out nucleonic direct Urca cooling in low-mass neutron stars using nuclear data</title>
-      <link>http://arxiv.org/abs/2609.24940v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Gabriele Montefusco, Pietro Klausner, Marco Antonelli, Caterina Ciampi, Diego Gruyer, Francesca Gulminelli&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Connecting nuclear experiments to neutron star composition requires controlling the extrapolation of experimental information beyond the densities probed in the laboratory. We combine a broad set of nuclear structure observables and INDRA-FAZIA isospin-transport data within a Bayesian inference of the dense matter equation of state (EoS). To limit uncontrolled extrapolation to high density, we employ a flexible asymptotically causal metamodel whose neutron star posteriors are comparable to those obtained with agnostic EoS models. The nuclear structure information is propagated through its full multidimensional distribution of correlated nuclear matter parameters, while the density-dependent INDRA-FAZIA likelihood is evaluated directly along each sampled metamodel symmetry energy curve. These two sources of laboratory information give compatible constraints on the symmetry energy, and their combination preserves agreement with finite nuclear observables. When combined with ab initio chiral effective field theory calculations and astrophysical observations, all these constraints substantially improve the determination of central proton fractions in low-mass neutron stars, while leaving larger uncertainties for massive stars. Within the adopted nucleonic metamodel, the reduced probability of large proton fractions strongly disfavors electronic direct-Urca onset at or below $1.4\,M_\odot$: its posterior probability falls from $\sim20\%$ with chiral and astrophysical constraints alone to below $1\%$ when the laboratory information is included.&lt;/p&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 17:39:18 GMT</pubDate>
-      <guid isPermaLink="false">2609.24940v1</guid>
-      <dc:creator>Gabriele Montefusco</dc:creator>
-      <dc:creator>Pietro Klausner</dc:creator>
-      <dc:creator>Marco Antonelli</dc:creator>
-      <dc:creator>Caterina Ciampi</dc:creator>
-      <dc:creator>Diego Gruyer</dc:creator>
-      <dc:creator>Francesca Gulminelli</dc:creator>
-    </item>
-    <item>
-      <title>Comparative Study of Color Glass Condensate and Collinear Frameworks for Large-Transverse-Momentum Semi-Inclusive Deep Inelastic Scattering</title>
-      <link>http://arxiv.org/abs/2609.24783v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Swagato Mukherjee, Björn Schenke, Shaswat Tiwari&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the Semi-Inclusive Deep Inelastic Scattering (SIDIS) cross-section at large values of hadron transverse momentum $P_t \gtrsim Q$, with $Q^2$ being the photon virtuality. This kinematic regime of SIDIS allows for a collinear factorization in terms of parton distribution functions (PDFs) and collinear fragmentation functions (FFs). On the other hand, at high energies, i.e., at small Bjorken $x$, the same SIDIS process can also be factorized within the Color Glass Condensate (CGC) framework in terms of eikonal dipole amplitudes. In this work, we perform a systematic comparison of the leading-order (LO) and next-to-leading-order (NLO) collinear and the LO CGC factorizations of this process based on the COMPASS and HERA data. We further provide comparisons of these two factorization frameworks for nucleon and nuclear large-$P_t$ SIDIS in the expected Electron Ion Collider (EIC) kinematics. We find, within the present theoretical uncertainties, that it might be difficult to distinguish between these two factorization schemes for nuclear SIDIS at the EIC. We also observe a significant dependence of the LO eikonal CGC predictions on the choice of longitudinal momentum fraction $x_g$, suggesting significant beyond-eikonal corrections for the EIC kinematics.&lt;/p&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 15:48:58 GMT</pubDate>
-      <guid isPermaLink="false">2609.24783v1</guid>
-      <dc:creator>Swagato Mukherjee</dc:creator>
-      <dc:creator>Björn Schenke</dc:creator>
-      <dc:creator>Shaswat Tiwari</dc:creator>
     </item>
   </channel>
 </rss>
