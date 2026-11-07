@@ -5,9 +5,82 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:13:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Hypersurface covariance in relativistic local equilibrium</title>
+      <link>http://arxiv.org/abs/2611.08482v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; You-yu Li, Shuai Y. F. Liu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Defining equilibrium typically requires specifying a three-dimensional spacelike hypersurface. While global equilibrium is hypersurface covariant, calculations involving local equilibrium can exhibit hypersurface dependence. In this work, we use polarization in heavy-ion collisions within the Zubarev response approach as an example to show that the hypersurface dependence arising from the local-equilibrium part of the density operator is canceled by an overlooked nondissipative contribution from its so-called ``dissipative part&quot;. We establish a hypersurface-covariant Zubarev framework for general geometries by consistently including both nondissipative and dissipative parts, eliminating dependence on the arbitrary hypersurface vector. The remaining frame dependence is physical: it arises from the medium rest frame entering the particle distribution and the time direction of the dissipative process, which usually coincide. This resolves, in principle, the longstanding and widely discussed conceptual disagreement over hypersurface dependence between two influential studies addressing the sign puzzles of $Λ$-hyperon polarization in heavy-ion collisions&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 18:59:25 GMT</pubDate>
+      <guid isPermaLink="false">2611.08482v1</guid>
+      <dc:creator>You-yu Li</dc:creator>
+      <dc:creator>Shuai Y. F. Liu</dc:creator>
+    </item>
+    <item>
+      <title>Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC</title>
+      <link>http://arxiv.org/abs/2611.08473v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Measurements of anisotropic flow provide some of the strongest constraints on the collective expansion and transport properties of the quark-gluon plasma produced in ultra-relativistic heavy-ion collisions. In this paper, correlations and fluctuations of the anisotropic flow coefficients $v_{2}$, $v_{3}$, and $v_{4}$ are measured in Pb-Pb and Xe-Xe collisions at $\sqrt{s_{\rm{NN}}} = 5.02$ and $5.44$ TeV, respectively, with the ALICE detector. The Event Shape Engineering technique, based on the reduced flow vector $q_{n}$, is used to study flow correlations for different initial-state geometries. A strong anticorrelation between $v_2$ and $v_3$ and a positive correlation between $v_2$ and $v_4$ are observed. A small anticorrelation is seen between $v_3$ and $v_4$. From the $v_2$-$v_4$ correlation, the linear and nonlinear components of $v_4$ are extracted and compared to those extracted using multiparticle correlations. The linear and nonlinear components of $v_{4}$ are also measured directly as a function of $q_2$ for the first time in Pb-Pb and Xe-Xe, revealing a strong coupling of the nonlinear term to the initial-state ellipticity $\varepsilon_2$, while the linear component shows little dependence on initial-state geometry. Additionally, the coupling coefficient $χ_{4,22}$, which measures the nonlinear contribution of $v_2^2$ to $v_4$, is extracted and shows little dependence on $q_2$, except in very central collisions. The effects of flow fluctuations for constrained initial-state geometries are studied for the first time using Event Shape Engineering with the ratio of $v_2\{2\}$ and $v_2\{4\}$; the results show that collisions with the lowest $q_2$ exhibit more significant $v_2$ fluctuations compared to the unbiased ratio.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 18:56:11 GMT</pubDate>
+      <guid isPermaLink="false">2611.08473v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Exploring the limit of partonic collectivity in small collision systems at the LHC</title>
+      <link>http://arxiv.org/abs/2611.08327v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The existence of a partonic phase in small collision systems has been investigated previously through measurements of the elliptic flow ($v_{2}$) of mesons ($π^{\pm}$, K$^{\pm}$, and K$_{S}^{0}$) and baryons ($\rm{p}(\overline{\rm{p}})$, $Λ(\overlineΛ)$) in high-multiplicity p-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV and pp collisions at $\sqrt{s} = 13$ TeV recorded by ALICE. The results have revealed a grouping and splitting behavior of $v_{2}$ for baryons and mesons at intermediate transverse momentum ($p_{\rm{T}}$), establishing that partonic collectivity, as observed in heavy-ion collisions, is also present in these systems. In this Letter, the $p_{\rm{T}}$-differential $v_{2}$ of various hadronic species is investigated in p-Pb collisions for the multiplicity intervals $N_{\rm ch} \geq 50$, $25 \leq N_{\rm ch} &lt; 50$, and $15 \leq N_{\rm ch} &lt; 25$, as well as in pp collisions for $25 \leq N_{\rm ch} &lt; 50$ and $15 \leq N_{\rm ch} &lt; 25$. Here, $N_{\rm ch}$ is the efficiency-corrected number of charged particles produced in the kinematic region of $|η|&lt; 0.8$ and $0.2 &lt; p_{\rm T} &lt; 3.0$ GeV/$c$. The characteristic mass dependence of $v_{2}$, as well as the grouping and splitting patterns among identified particles, are examined. The results in both p-Pb and pp collisions with $N_{\rm ch} \geq 25$ are consistent with the development of partonic collectivity. In the low-multiplicity region, $15 \leq N_{\rm ch} &lt; 25$, the baryon-to-meson $v_{2}$ splitting, as quantified by the baryon-to-meson $v_2$ ratios, remains broadly consistent with that at higher multiplicities. However, its significance decreases to $\sim2σ$ in p-Pb collisions and to less than $1σ$ in pp collisions owing to the sizable experimental uncertainties. These measurements constitute the first steps towards identifying the limits of partonic flow in small collision systems at the LHC.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 17:19:41 GMT</pubDate>
+      <guid isPermaLink="false">2611.08327v1</guid>
+      <dc:creator>ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Linking chiral nuclear forces to light-ion collisions: a global sensitivity analysis</title>
+      <link>http://arxiv.org/abs/2611.08122v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Thomas Duguet, Andreas Ekström, Giuliano Giacalone, Gaute Hagen, Takayuki Miyagi, Alexander Tichai&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultrarelativistic $^{16}$O+$^{16}$O and $^{20}$Ne+$^{20}$Ne collisions recently performed at the Large Hadron Collider have imaged quadrupole and octupole correlations between nucleons through the collective flow of emitted hadrons. We establish a quantitative link between these correlations and the low-energy constants (LECs) that enter chiral inter-nucleon interactions. Emulators built using the subspace-projected coupled-cluster method enable a global sensitivity analysis of the ground-state quadrupole mean-square eccentricity, revealing that quadrupole correlations respond linearly and additively to all 16 LECs at next-to-next-to-leading order in the chiral expansion. The sensitivities differ markedly in $^{16}$O and $^{20}$Ne, and are complementary to those of the binding energy and charge radius, the bulk observables to which nuclear interactions are typically calibrated. In particular, $^{20}$Ne collisions dominantly probe the spin-orbit part of two-nucleon interactions. Soft-particle correlations in light-ion collisions thus constitute a new type of data to study nuclear forces and their emergence from quantum chromodynamics.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 14:56:01 GMT</pubDate>
+      <guid isPermaLink="false">2611.08122v1</guid>
+      <dc:creator>Thomas Duguet</dc:creator>
+      <dc:creator>Andreas Ekström</dc:creator>
+      <dc:creator>Giuliano Giacalone</dc:creator>
+      <dc:creator>Gaute Hagen</dc:creator>
+      <dc:creator>Takayuki Miyagi</dc:creator>
+      <dc:creator>Alexander Tichai</dc:creator>
+    </item>
+    <item>
+      <title>Comparison of Methods for Extracting Three-Dimensional Lévy Source Parameters in $\sqrt{s_{\text{NN}}} = 200\text{ GeV}$ Au+Au Collisions with EPOS3</title>
+      <link>http://arxiv.org/abs/2611.08069v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Máté Szilágyi, Máté Csanád, Dániel Kincses&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bose--Einstein femtoscopy probes the spatiotemporal geometry of the particle-emitting source in heavy-ion collisions, where experimental data favor a Lévy-stable source description. We compare four approaches for extracting 3D Lévy source parameters using $π^+π^+$ pairs from EPOS3-simulated Au+Au collisions at $\sqrt{s_{\text{NN}}} = 200\text{ GeV}$: direct fits to the pair-source distribution $D(\boldsymbolρ)$, and fits to the two-particle correlation function $C(\boldsymbol{q})$ obtained via (i) the CRAB package, (ii) direct numerical integration of $D(\boldsymbolρ)$, and (iii) fast Fourier transformation (FFT). On an identical momentum grid, numerical integration and FFT are analytically identical and numerically equivalent ($\text{RMSE} &lt; 10^{-14}$), while FFT reduces the computation time from hours to seconds.
+  We extract the transverse-mass dependence of the Lévy radii, Lévy index $α$, and correlation strength $λ$ in $0\text{--}10\,\%$ central collisions. All methods reproduce the same physical trends, but CRAB results fluctuate due to event pooling, and correlation-function fits deviate systematically from direct source fits, e.g., with $\sim 7\text{--}9\,\%$ lower $α$. These deviations may reflect residual non-Lévy features of the source, probed differently in coordinate and momentum space, and the comparison of event-averaged parameters with fits to the ensemble-accumulated source, a mixture of Lévy distributions with lower effective $α$.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 14:21:44 GMT</pubDate>
+      <guid isPermaLink="false">2611.08069v1</guid>
+      <dc:creator>Máté Szilágyi</dc:creator>
+      <dc:creator>Máté Csanád</dc:creator>
+      <dc:creator>Dániel Kincses</dc:creator>
+    </item>
+    <item>
+      <title>Primordial non-Gaussianity in warm $k$-inflation with nonminimal derivative coupling</title>
+      <link>http://arxiv.org/abs/2611.07492v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-Min Zhang, Zi-Xin Bai, Qing-Ze Shi, Run-Qing Zhao, Peng-Cheng Chu, Yun-Cai Feng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This paper derives the finite-inertia intrinsic thermal bispectrum in potential-free warm $k$-inflation with nonminimal derivative coupling (NMDC). On a fixed Friedmann--Lemaître--Robertson--Walker geometry, the complete cubic inflaton action determines the nonlinear stochastic source, encompassing temporal, spatial-gradient, and field-dependent kinetic interactions. The retarded solution captures the full momentum-triangle dependence while retaining unequal-time correlations, whereas its equilateral limit yields the intrinsic nonlinearity parameter. The power spectrum is computed with the same response and Gaussian initial state, thereby fixing the statistical normalization. A complementary local freeze-out reduction makes the interaction coefficients and two geometric shape contributions explicit. Comparison along an evolving near-attractor trajectory indicates that unequal-time finite-inertia propagation is crucial for quantitatively predicting the intrinsic bispectrum. The analysis also derives the slow-roll-suppressed nonlinear $δN$ conversion, together with the Arnowitt--Deser--Misner constraints and cubic vertices that characterize the direct gravitational effects of NMDC. These results clarify the respective roles of local freeze-out estimates and finite-inertia stochastic evolution in the nonlinear prediction.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 05:55:27 GMT</pubDate>
+      <guid isPermaLink="false">2611.07492v1</guid>
+      <dc:creator>Xiao-Min Zhang</dc:creator>
+      <dc:creator>Zi-Xin Bai</dc:creator>
+      <dc:creator>Qing-Ze Shi</dc:creator>
+      <dc:creator>Run-Qing Zhao</dc:creator>
+      <dc:creator>Peng-Cheng Chu</dc:creator>
+      <dc:creator>Yun-Cai Feng</dc:creator>
+    </item>
+    <item>
+      <title>General-relativistic neutrino-radiation hydrodynamics of crust ejection in magnetar giant flares</title>
+      <link>http://arxiv.org/abs/2611.07022v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tetyana Pitik, David Radice, Jacob Fields, Yi Qiu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Magnetar giant flares are thought to eject $\gtrsim 10^{-9}\,M_\odot$ of baryons, as inferred from the radio afterglow of the 2004 flare of SGR 1806-20. One proposed mechanism is a shock driven into the neutron-star crust by the hot, high-pressure layer that the flare creates above the surface. The unbound crust could undergo $r$-process nucleosynthesis and power a short-lived &quot;nova brevis&quot;. We study this crust ejection with general-relativistic neutrino-radiation hydrodynamics simulations performed with AthenaK, using a tabulated nuclear equation of state and two-moment neutrino transport, for flare pressures corresponding to magnetic fields $B = 10^{15}$-$10^{16.5}$ G, and compute the nucleosynthesis of the ejecta with a nuclear reaction network. We find that such flares unbind $10^{-10}$ to $5\times10^{-8}\,M_\odot$ of crust. The ejecta keep the electron fraction of the crust to within a few hundredths, and weak interactions affect it mainly in the most energetic flares. The fast, high-entropy ejecta freeze out mostly as $α$ particles and free neutrons. In the stronger flares nuclei up to the third $r$-process peak do form, but those with $A \geq 90$ make up at most $\approx 8\times10^{-4}$ of the ejected mass, or $\approx 3.5\times10^{-11}\,M_\odot$ per flare, and less than $10^{-5}$ for $B \leq 10^{15.5}$ G. A nova brevis from these ejecta would be powered mainly by the decay of free neutrons. Like earlier work, our models assume spherical symmetry, a flare that covers the whole star, and no magnetic field. A field tangential to the surface would hold the crust down and weaken the shock, and a flare confined to part of the surface should eject proportionally less mass. We therefore regard our ejecta masses as upper limits for a given flare pressure, and expect realistic magnetar flares to produce negligible amounts of $r$-process material.&lt;/p&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 19:00:06 GMT</pubDate>
+      <guid isPermaLink="false">2611.07022v1</guid>
+      <dc:creator>Tetyana Pitik</dc:creator>
+      <dc:creator>David Radice</dc:creator>
+      <dc:creator>Jacob Fields</dc:creator>
+      <dc:creator>Yi Qiu</dc:creator>
+    </item>
     <item>
       <title>Striped phases of N=4 SYM at finite density</title>
       <link>http://arxiv.org/abs/2611.06421v1</link>
@@ -255,16 +328,6 @@
       <dc:creator>J. Lubian</dc:creator>
     </item>
     <item>
-      <title>Interacting scalar-fermion two-component dark matter in a gauged $\boldsymbol{U(1)_{B-L}}$ model</title>
-      <link>http://arxiv.org/abs/2611.00232v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jacinto P. Neto, Farinaldo S. Queiroz, Carlos E. Yaguna&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose an interacting two-component dark matter model based on a gauged $U(1)_{B-L}$ extension of the Standard Model, which also accommodates neutrino masses through the type-I seesaw mechanism. The dark sector consists of a Dirac fermion $χ$ and a complex scalar $S$, which can both be stable without imposing an additional discrete symmetry and are directly coupled by a gauge-invariant Yukawa interaction. The resulting conversion, semi-conversion, and semi-annihilation processes lead to a genuinely coupled freeze-out. After imposing collider and dark matter constraints, we identify viable solutions away from the $Z'$ resonance for both mass hierarchies, $m_S &gt; m_χ$ and $m_S &lt; m_χ$. Despite the strong direct-detection constraints, part of the surviving parameter space remains within the reach of next-generation experiments.&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:15:09 GMT</pubDate>
-      <guid isPermaLink="false">2611.00232v1</guid>
-      <dc:creator>Jacinto P. Neto</dc:creator>
-      <dc:creator>Farinaldo S. Queiroz</dc:creator>
-      <dc:creator>Carlos E. Yaguna</dc:creator>
-    </item>
-    <item>
       <title>Quantum Simulation of Hadronization: From String Breaking to Event Generation</title>
       <link>http://arxiv.org/abs/2611.00214v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Christian W. Bauer, Anthony N. Ciavarella, Jad C. Halimeh, Yannick Meurice, Stephen Mrenna, Martin J. Savage, Giovanni Cataldi, Henry Froland, Dorota M. Grabowska, Sebastian Grieninger, Kenneth Heitritter, Michael Hite, Marc Illa, Saurabh V. Kadam, Henry Lamm, Zhiyao Li, Zane Ozzello, Vincent R. Pascuzzi, Blake Senseman, Kaidi Xu, Xiaojun Yao, Nikita A. Zemlevskiy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;High-energy collisions produce large numbers of quarks and gluons that are bound into hadrons by the confining interactions of quantum chromodynamics (QCD). This hadronization process is intrinsically real-time and non-perturbative. Event generators describe hadronization using phenomenological models with parameters fitted to data rather than calculated from QCD. Uncertainties in these models limit the precision of certain measurements at the Large Hadron Collider. Quantum computers could enable first-principles simulations of these dynamics. Existing quantum simulations of gauge theories have demonstrated string-breaking dynamics. This white paper summarizes the conclusions of the InQubator for Quantum Simulation workshop \textit{From String Dynamics to Event Generation with Quantum Simulation}. We develop a roadmap for extending these simulations to inform phenomenological models of hadronization. A sequence of toy models is proposed for connecting current quantum simulations to QCD. The observables that should be extracted are listed, and the challenges that separate present simulations from quantitative predictions are identified. We propose a staged program in which quantum simulations first provide qualitative modifications to event generators and later provide quantitative input.&lt;/p&gt;</description>
@@ -292,15 +355,6 @@
       <dc:creator>Kaidi Xu</dc:creator>
       <dc:creator>Xiaojun Yao</dc:creator>
       <dc:creator>Nikita A. Zemlevskiy</dc:creator>
-    </item>
-    <item>
-      <title>The pinning-field line defect at finite temperature</title>
-      <link>http://arxiv.org/abs/2611.00210v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Julien Barrat, Simone Giombi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the pinning-field line defect in the critical $\mathrm{O}(N)$ model at finite temperature, describing a static symmetry-breaking impurity at a quantum critical point. Using the operator product expansion (OPE), analyticity, and thermal periodicity, we construct a manifestly periodic expansion relating heavy-operator asymptotics to low-lying thermal OPE data. We determine thermal correlators and one-point coefficients in the $\varepsilon$-expansion and, combining these results with the two-dimensional Ising endpoint, obtain the Padé estimate $\langle \hatφ \rangle \sim 1.701/β^{\smash{\hatΔ_{\smash{\hatφ}}}}$ for the lowest defect operator in the three-dimensional Ising model. We conjecture that truncating the periodic OPE to a few low-lying operators accurately approximates defect correlators. To test this, we numerically solve the large-$N$ thermal saddle and extract defect one-point coefficients across $2&lt;d&lt;4$. In three dimensions, we compute the tilt and longitudinal singlet two-point functions, finding very good agreement with the periodic OPE truncated to the identity and lowest singlet. Finally, we extend the analysis to finite spatial volume using antipodal defects on the sphere.&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 18:00:04 GMT</pubDate>
-      <guid isPermaLink="false">2611.00210v1</guid>
-      <dc:creator>Julien Barrat</dc:creator>
-      <dc:creator>Simone Giombi</dc:creator>
     </item>
     <item>
       <title>Heavy quarkonium dynamics beyond the binding energy over temperature expansion</title>
@@ -704,18 +758,6 @@
       <dc:creator>Zhiyao Li</dc:creator>
     </item>
     <item>
-      <title>Heavy-quark thermalization in the quark-gluon plasma via a fractional Langevin equation</title>
-      <link>http://arxiv.org/abs/2610.26086v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jai Prakash, Mohammad Yousuf Jamal, Shanshan Cao, Guang-You Qin, Yifeng Sun&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The dynamics of heavy quarks in the quark-gluon plasma is commonly described within a standard Langevin equation framework. In this work, we extend the conventional framework by using a fractional Langevin equation based on the Caputo derivative of order $α$ with $1&lt;α\leq 2$. We solve the fractional Langevin equation and derive the corresponding {\textit {fractional fluctuation-dissipation theorem}} for the heavy quark thermalization in the quark-gluon plasma medium. We calculate the time evolution of the mean-squared momentum, mean-squared displacement, momentum distribution, energy loss, longitudinal momentum loss, transverse momentum broadening, and the nuclear suppression factor of the heavy quarks. The mean-squared momentum thermalizes to the same value for all $α$ at late times, in agreement with the fractional fluctuation-dissipation theorem, and the nuclear suppression factor shows a systematic $α$-dependence. The energy loss of an energetic heavy quark grows strongly with $α$. The time evolution of the heavy quark momentum distribution provides additional sensitivity to the fractional dynamics of the heavy quarks in the QGP medium.&lt;/p&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 11:55:57 GMT</pubDate>
-      <guid isPermaLink="false">2610.26086v2</guid>
-      <dc:creator>Jai Prakash</dc:creator>
-      <dc:creator>Mohammad Yousuf Jamal</dc:creator>
-      <dc:creator>Shanshan Cao</dc:creator>
-      <dc:creator>Guang-You Qin</dc:creator>
-      <dc:creator>Yifeng Sun</dc:creator>
-    </item>
-    <item>
       <title>Measurements of local polarization of $Λ$ hyperons with event shape engineering in Au+Au collisions at RHIC-STAR</title>
       <link>http://arxiv.org/abs/2610.25989v2</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Taiki Kondo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Anisotropic flow is expected to generate local vorticities along the beam direction, which in turn lead to local polarization of produced particles. Although the local polarization of hyperons has already been observed at RHIC and the LHC, its mechanism is not yet understood: model calculations indicate that the shear-induced and vorticity-induced contributions can have opposite signs and may substantially cancel, so that the resulting polarization depends sensitively on the theoretical implementation. Since both are driven by the anisotropic flow, we employ the Event Shape Engineering (ESE) method, which selects events with different flow magnitudes within a narrow centrality range, to measure the local polarization as a function of the elliptic flow at a fixed multiplicity. We report the measurements of the elliptic flow ($v_2$) and the local polarization ($P_{z,2}$) of $Λ$ and $\barΛ$ as a function of the reduced flow vector magnitude $q_2$ used for the ESE event selection, in Au+Au collisions at $\sqrt{s_{\rm NN}} = 19.6~{\rm GeV}$ from the STAR experiment. The $v_2$ shows a clear positive dependence on $q_2$, while $P_{z,2}$ indicates a weak positive dependence on $q_2$ and $v_2$. This is the first measurement to directly investigate the relation between anisotropic flow and local polarization, providing new insight into the origin of local polarization.&lt;/p&gt;</description>
@@ -732,33 +774,6 @@
       <pubDate>Mon, 19 Oct 2026 19:17:42 GMT</pubDate>
       <guid isPermaLink="false">2610.27182v1</guid>
       <dc:creator>João M. Silva</dc:creator>
-    </item>
-    <item>
-      <title>Fluctuations of $v_2$ versus fluctuations of $\varepsilon_2$: Beyond linear and cubic response</title>
-      <link>http://arxiv.org/abs/2610.26621v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Andreas Kirchner, Mubarak Alqahtani, Jean-Yves Ollitrault&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Elliptic flow ($v_2$) is the most prominent signature of collective flow in heavy-ion collisions. Its event-by-event fluctuations are accurately measured in Pb+Pb collisions at the LHC. They originate from the early stages of the collision, and are usually understood in terms of linear response to the initial anisotropy $\varepsilon_2$, with a small cubic correction. We reveal deviations from this scenario on the basis of extensive event-by-event hydrodynamic simulations. We analyze the hydrodynamic response order by order in the cumulant expansion of $\varepsilon_2$ and $v_2$ fluctuations. We carry out this expansion in the &quot;intrinsic frame&quot; where the magnitude and direction of the impact parameter are fixed. We find that the asymmetry of $v_2$ fluctuations is opposite to that of $\varepsilon_2$ fluctuations. We also find that the response to $\varepsilon_2$ fluctuations is larger by $\approx 10-20\%$ than the response to the average geometry. This effect, which is not explained by the cubic response, increases the splitting between $v_2\{2\}$ and $v_2\{4\}$.&lt;/p&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 15:54:40 GMT</pubDate>
-      <guid isPermaLink="false">2610.26621v1</guid>
-      <dc:creator>Andreas Kirchner</dc:creator>
-      <dc:creator>Mubarak Alqahtani</dc:creator>
-      <dc:creator>Jean-Yves Ollitrault</dc:creator>
-    </item>
-    <item>
-      <title>Transverse momentum dependent parton distributions at small $x$</title>
-      <link>http://arxiv.org/abs/2610.26004v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Caucal, Farid Salazar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Transverse-momentum-dependent (TMD) parton distributions provide a three-dimensional description of the momentum structure of hadrons. They are probed in proton-proton and proton-nucleus collisions at the LHC and RHIC, and are a central part of the physics program of the future Electron-Ion Collider (EIC). While TMD factorization is well established at moderate Bjorken $x$, the small-$x$ regime requires a different treatment, since large logarithms of $1/x$ must be resummed and non-linear effects due to high gluon densities become important. The Color Glass Condensate (CGC) effective theory provides a natural framework to describe TMDs in this saturation regime and to connect them with standard TMD factorization. This chapter reviews quark and gluon TMDs at small $x$, covering operator definitions, gauge-link structures, and Wilson-line correlators in the CGC for unpolarized and polarized distributions. We discuss factorization for inclusive and diffractive observables, highlighting the role of process dependence and the emergence of a limited set of Wilson-line operators. We then summarize the evolution of these distributions, namely the resummation of logarithms of $1/x$ by the Balitsky-Kovchegov and JIMWLK equations, and of Sudakov logarithms of the hard scale through Collins-Soper-Sterman evolution. We also review TMDs beyond the eikonal approximation, including the sub-eikonal Wilson-line operators that give access to helicity and other spin-dependent distributions, their double-logarithmic small-$x$ evolution and the resulting asymptotics, and the sub-eikonal corrections to the eikonal distributions, which provide a first step toward the moderate-$x$ regime. Finally, we discuss phenomenological implications for present and future experiments, with emphasis on the EIC, and outline the theoretical challenges toward a unified description of TMDs.&lt;/p&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 08:30:31 GMT</pubDate>
-      <guid isPermaLink="false">2610.26004v1</guid>
-      <dc:creator>Paul Caucal</dc:creator>
-      <dc:creator>Farid Salazar</dc:creator>
-    </item>
-    <item>
-      <title>Parton Fragmentation Functions</title>
-      <link>http://arxiv.org/abs/2610.25607v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hongxi Xing&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;This chapter provides a pedagogical and comprehensive introduction to parton fragmentation functions (FFs), the essential non-perturbative quantities in Quantum Chromodynamics (QCD) that describe the universal process of hadronization, the transition of quarks and gluons into observable hadrons. Formally defined as gauge-invariant matrix elements, the determination of FFs is achieved through global QCD analyses that synthesize world data from three primary processes: electron-positron annihilation, semi-inclusive deep inelastic scattering, and proton-proton collisions. This chapter covers the theoretical foundations of FFs, including their operator definitions and properties, the experimental probes used to constrain them, and the methodologies of modern global analyses. The discussion is extended to more advanced topics, including dihadron FFs, the three-dimensional picture of hadronization provided by spin- and transverse-momentum-dependent FFs, and the modification of fragmentation in a nuclear medium, which is key to probe their fundamental properties.&lt;/p&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 00:24:54 GMT</pubDate>
-      <guid isPermaLink="false">2610.25607v1</guid>
-      <dc:creator>Hongxi Xing</dc:creator>
     </item>
     <item>
       <title>BeAGLE++: A modern modular framework for eA physics at the EIC</title>
@@ -1184,14 +1199,6 @@
       <dc:creator>Victor Riabov</dc:creator>
       <dc:creator>Yonghong Wang</dc:creator>
       <dc:creator>Chi Yang</dc:creator>
-    </item>
-    <item>
-      <title>Non-Monotonicity of $p_{\rm T}$ Correlations in Au + Au Collisions at RHIC</title>
-      <link>http://arxiv.org/abs/2609.26449v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rutik Manikandhan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the first measurements of two-particle transverse momentum correlations for mid-rapidity charged particles in Au+Au collisions at $\sqrt{s_{\rm NN}} =$ 3.0, 3.2, 3.5, 3.9, 4.5, 5.2 and 7.7 GeV recorded by the STAR experiment. The results are compared with previous STAR measurements from the Beam Energy Scan Phase I (BES-I) and with transport model calculations. The measured two-particle $p_{\rm T}$ correlators exhibit an approximate power-law scaling with the number of participating nucleons ($N_{\rm part}$), consistent with expectations from an independent-source scenario. This scaling is least well described at the lowest collision energy, $\sqrt{s_{\rm NN}} = 3.0$~GeV. Furthermore, a non-monotonic energy dependence of the $p_{\rm T}$ correlations is observed in central collisions, representing the first systematic observation of such behavior as a function of collision energy.&lt;/p&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 14:07:20 GMT</pubDate>
-      <guid isPermaLink="false">2609.26449v1</guid>
-      <dc:creator>Rutik Manikandhan</dc:creator>
     </item>
   </channel>
 </rss>
