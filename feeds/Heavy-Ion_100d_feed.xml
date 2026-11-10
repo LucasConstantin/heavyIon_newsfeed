@@ -5,9 +5,78 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:13:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>On the collective flow puzzle in ultra-central heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2611.09643v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Chen-Xi Liang, Li Yan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Using UCC-DiffHIC, an AI-accelerated event-by-event hydrodynamic model validated against hybrid simula- tions, we study flow in ultracentral Pb-Pb collisions. For suitable initial conditions, the calculated v2{2}/v3{2} approaches unity in the most central collisions, consistent with experiment. An exact response decomposition shows that residual fluctuations suppress the ratio through P3/P2 &lt; 1, where P2 and P3 are Pearson response correlations for elliptic and triangular flow, respectively. This resolves the apparent flow hierarchy without requiring a breakdown of linear response or additional effects such as nuclear deformation.&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 15:56:43 GMT</pubDate>
+      <guid isPermaLink="false">2611.09643v1</guid>
+      <dc:creator>Chen-Xi Liang</dc:creator>
+      <dc:creator>Li Yan</dc:creator>
+    </item>
+    <item>
+      <title>Dynamical gluon mass generation, the Schwinger mechanism, spontaneous symmetry breaking, and color confinement in the linear covariant gauges of QCD</title>
+      <link>http://arxiv.org/abs/2611.09631v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Giorgio Comitini&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We critically re-examine the Kugo-Ojima (KO) scenario for color confinement and identify several inconsistencies and a crucial error in its derivation. Within the KO framework, under customary assumptions, we show that the BRST quartet structure incorporates a unique mechanism for dynamical gluon mass generation -- namely, the Schwinger mechanism, in the formulation developed by Aguilar, Binosi, Ferreira, and Papavassiliou (ABFP). We show that the Schwinger mechanism is a Higgs mechanism, in that it occurs together with the spontaneous breaking of the global gauge charge, as it should. The ABFP bound state is the associated (unphysical) composite Goldstone boson. The zero-momentum value of the gluon propagator evaluated in the Pinch Technique--Background-Field Method (PT-BFM) naturally emerges in the derivation, setting a Renormalization-Group invariant scale for mass generation and suggesting a new nonperturbative interpretation of the PT-BFM. BRST symmetry takes over the role of the broken symmetry, while the color symmetry of the spectrum remains unbroken. We obtain a unique, well-defined, unbroken, BRST-exact asymptotic color charge operator that realizes the confinement of color in the sense of the absence of colored asymptotic states from the BRST cohomology. Still within the KO framework, we take the first fundamental step towards a proof of the nonperturbative unitarity of the linear covariant gauges of QCD, and we discuss the experimental evidence in favor of the Schwinger mechanism. We lay down the foundations for a unified theory of gauge-boson mass generation in the linear covariant gauges of Yang-Mills theories.&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 15:49:02 GMT</pubDate>
+      <guid isPermaLink="false">2611.09631v1</guid>
+      <dc:creator>Giorgio Comitini</dc:creator>
+    </item>
+    <item>
+      <title>Mathematical foundations and numerical simulations of BDNK hydrodynamics: from heavy-ion collisions to astrophysics</title>
+      <link>http://arxiv.org/abs/2611.09582v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Teerthal Patel, Henry V. Hirvonen, Fábio S. Bemfica, Marcelo M. Disconzi, Jorge Noronha, Jean-François Paquet&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present new developments in the mathematical foundations and numerical simulations of the causal and stable first-order relativistic viscous hydrodynamic theory by Bemfica, Disconzi, Noronha, and Kovtun (BDNK) in general spacetimes. We develop two independent flux-conservative algorithms for arbitrary 3+1-dimensional spacetime metrics. Both are hyperbolic, causal, and well-posed, pass convergence tests, and reproduce known results. The first uses a new first-order reduction with mathematically preserved constraints, whose numerical violations can be handled with cleaning fields (the resulting coupled system is proven hyperbolic and well-posed). The second uses a new mixed-order formulation, whose solutions are proven strictly equivalent to the original BDNK system, without cleaning fields. Our proofs rely on a new general theorem providing sufficient conditions for transforming a mixed-order system with arbitrary-order equations into a strictly hyperbolic system, strengthening a classical result by Choquet Bruhat for weak hyperbolicity. We introduce a new practical prescription for selecting admissible hydrodynamic frames for a broad class of equations of state, including nonconformal ones relevant to heavy-ion collisions and astrophysics. Our simulations capture viscous shock broadening and suppression of Kelvin--Helmholtz vortices, reproduce Bjorken and Gubser flows, and study departures from stationary ideal-fluid configurations in Michel accretion and rotating tori on fixed Schwarzschild and Kerr backgrounds. For heavy-ion collisions, we perform boost invariant simulations with a lattice-QCD-based equation of state and fluctuating TRENTo initial conditions, comparing BDNK with a minimal Israel--Stewart theory. The descriptions agree at small shear viscosity but can differ substantially at larger viscosities, particularly for early initialization with rapid longitudinal expansion.&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 15:19:04 GMT</pubDate>
+      <guid isPermaLink="false">2611.09582v1</guid>
+      <dc:creator>Teerthal Patel</dc:creator>
+      <dc:creator>Henry V. Hirvonen</dc:creator>
+      <dc:creator>Fábio S. Bemfica</dc:creator>
+      <dc:creator>Marcelo M. Disconzi</dc:creator>
+      <dc:creator>Jorge Noronha</dc:creator>
+      <dc:creator>Jean-François Paquet</dc:creator>
+    </item>
+    <item>
+      <title>Effect of collective nuclear vibrations on initial anisotropies in central Pb+Pb collisions: A comparative study in Glauber and Trento models</title>
+      <link>http://arxiv.org/abs/2611.09404v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; B. G. Zakharov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a comparison of the Glauber and Trento model predictions for the initial state azimuthal anisotropies $ε_{2,3}\{2\}$ in central Pb+Pb collisions at the LHC energies. We incorporate the quantum collective effects in $^{208}$Pb by sampling nucleon positions with filterings in the quadrupole and octupole moments. We use the data-driven filters adjusted to reproduce the mean squared quadrupole and octupole moments extracted from the experimental strength functions. We find that the collective effects reduce considerably the $ε_2\{2\}/ε_3\{2\}$ ratio. The reduction is more pronounced in the Trento model. We obtain $ε_2\{2\}/ε_3\{2\}\approx 0.75÷0.79(0.68÷0.71)$ in the Glauber(Trento) models. These values allow to resolve the $v_2$-to-$v_3$ puzzle.&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 12:37:31 GMT</pubDate>
+      <guid isPermaLink="false">2611.09404v1</guid>
+      <dc:creator>B. G. Zakharov</dc:creator>
+    </item>
+    <item>
+      <title>Probing the initial geometry and the onset of collectivity with anisotropic flow in light-ion collisions with ALICE at the LHC</title>
+      <link>http://arxiv.org/abs/2611.08725v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alexian Marc Lejeune, for the ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Collective behavior, traditionally associated with heavy-ion collisions, has been observed in small collision systems at the LHC. The recent oxygen-oxygen and neon-neon collisions allow to bridge the gap between small and large collision systems and to study the collectivity in well-constrained initial states. Measurements of azimuthal anisotropies are sensitive to the initial-state geometry and enable detailed investigations of the nuclear structure of $^{16}$O and $^{20}$Ne, highlighting the interplay between nuclear structure and collective dynamics in ultrarelativistic collisions.
+  This contribution presents recent anisotropic flow measurements performed by the ALICE Collaboration in OO and Ne-Ne collisions at $\sqrt{s_{\mathrm{NN}}}$ = 5.36 TeV using two- and multiparticle correlation methods. The results are compared to hydrodynamic calculations incorporating the possible nuclear structures of these light nuclei, providing stringent constraints on the modeling of the initial state. In addition, prospects for measuring long-range correlations with the forward ALICE detectors are discussed, with the aim of studying the longitudinal dependence of anisotropic flow and thereby constraining the longitudinal structure of the initial state.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 21:18:30 GMT</pubDate>
+      <guid isPermaLink="false">2611.08725v1</guid>
+      <dc:creator>Alexian Marc Lejeune</dc:creator>
+      <dc:creator>for the ALICE Collaboration</dc:creator>
+    </item>
+    <item>
+      <title>Conley index theory for asymptotically autonomous systems and UV-to-IR connections</title>
+      <link>http://arxiv.org/abs/2611.08591v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alireza Behtash, Syo Kamata, Mauricio M. Martinez&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Many non-equilibrium systems, such as expanding plasmas, evolve by equations that depend explicitly on time and interpolate between autonomous early-time (UV) and late-time (IR) limits. After time is compactified, fixed points lie on invariant boundary fibers, where the Conley index is one-sided and blind to the UV. For time dependence that admits a $C^1$ compactification, we reflect the extended phase space across these fibers. Both sheets of the double run from the UV to the IR, and the UV index reappears, suspended by one degree. Extending one sheet slightly beyond both fibers gives an explicit UV-to-IR transport map between the Conley indices of the limit systems, and its non-vanishing forces connecting solutions. If one block with a fixed strict entrance/exit decomposition serves every frozen system, this map is an isomorphism at every admissible rate. If the block also has nonzero relative homology, the isolated invariant sets of the two limits are connected at every rate. In the Gubser flow of Israel-Stewart theory, the separatrix between two classes of initial data is a transversal connection at every finite relaxation scale $c$, with splitting $Δ(c)\propto1/c$. In the Bjorken flow at the lowest moment truncation, we prove existence and uniqueness of the attractor solution without regularization. For the three-dimensional Gubser system we construct the global Morse decomposition. In the one-loop flow of the $(4+ε)$-dimensional $O(N)$ model with cubic anisotropy, a shift of $N$ through $N=4$ has vanishing transport map, but a driven connection and a nonzero connecting homomorphism detect it at every rate.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 19:00:04 GMT</pubDate>
+      <guid isPermaLink="false">2611.08591v1</guid>
+      <dc:creator>Alireza Behtash</dc:creator>
+      <dc:creator>Syo Kamata</dc:creator>
+      <dc:creator>Mauricio M. Martinez</dc:creator>
+    </item>
+    <item>
+      <title>Observing Transverse Momentum Broadening from TEECs in Heavy Ion Collisions</title>
+      <link>http://arxiv.org/abs/2611.08579v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Hai Tao Li, Andrey V. Sadofyev, João M. Silva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the azimuthal dependence of transverse energy-energy correlators (TEECs) in dijet events in heavy-ion collisions. In the back-to-back region this observable resolves the energy flow around $φ=π$ and is sensitive to medium-induced momentum broadening and the response of the medium. To isolate final-state effects, we consider a quark-antiquark pair produced in a colour-singlet hard process and propagating through a homogeneous background medium. Starting from the vacuum TMD factorization formula, we combine NLL$'$ resummation with medium modifications at first order in the strong coupling. For the parameters studied, (classical) momentum broadening lowers the back-to-back peak and leaves the distribution elsewhere nearly unchanged, while radiative corrections significantly suppress the peak further and enhance larger angular decorrelations. We additionally include the medium response sourced by each jet, as a mean energy flow. This spreads the deposited energy over the whole azimuth, so that the contribution to the TEEC varies slowly across the back-to-back region, is small at the peak and grows toward larger angles.&lt;/p&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 19:00:01 GMT</pubDate>
+      <guid isPermaLink="false">2611.08579v1</guid>
+      <dc:creator>João Barata</dc:creator>
+      <dc:creator>Hai Tao Li</dc:creator>
+      <dc:creator>Andrey V. Sadofyev</dc:creator>
+      <dc:creator>João M. Silva</dc:creator>
+    </item>
     <item>
       <title>Hypersurface covariance in relativistic local equilibrium</title>
       <link>http://arxiv.org/abs/2611.08482v1</link>
@@ -165,19 +234,6 @@
       <dc:creator>Igor Pshenichnov</dc:creator>
     </item>
     <item>
-      <title>Geometric duality between effective field theories. Part II. Exact classical solutions</title>
-      <link>http://arxiv.org/abs/2611.03383v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tomáš Brauner, Diederik Roest, Tianzhi Wang, Zhihao Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Geometric duality reveals a novel bridge between a series of well-known scalar effective field theories: the Yang-Mills theory coupled to a specific scalar sector (aka the Yang-Mills-scalar theory), the nonlinear sigma model on a symmetric coset space, the Dirac-Born-Infeld theory, and the special Galileon theory. In our previous work, we used the geometric duality to map scattering amplitudes in the various theories to one another. In this sequel, we show that the duality makes it also possible to transport exact classical solutions. Thus, exact solutions of the nonlinear sigma model are mapped to a subset of solutions of the Yang-Mills-scalar theory. Likewise, solutions of the special Galileon theory map to solutions of the Dirac-Born-Infeld theory, which in turn map to solutions of the nonlinear sigma model coupled to dynamical gravity.
-  For all these duality maps, we provide explicit examples of exact solutions of the source theory and their corresponding image in the target theory. While the duality maps are manifest at the level of certain geometric building blocks of the theories, we show that with a suitable choice of parametrisation, it is also possible to map directly the elementary scalar fields of the various theories to one another. This offers a practically convenient tool for constructing new exact solutions of the target theories.
-  Finally, the duality sequence including the nonlinear sigma model and the Yang-Mills-scalar theory can be extended by uplifting the solutions of the latter to a higher-dimensional spacetime. One thus arrives at a class of exact solutions of pure Yang-Mills theory in higher dimensions. In a similar vein, it is possible to obtain exact solutions of higher-dimensional pure gravity by uplifting solutions of the nonlinear sigma model, coupled to dynamical gravity, obtained via a duality map from solutions of the special Galileon theory.&lt;/p&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 16:24:10 GMT</pubDate>
-      <guid isPermaLink="false">2611.03383v1</guid>
-      <dc:creator>Tomáš Brauner</dc:creator>
-      <dc:creator>Diederik Roest</dc:creator>
-      <dc:creator>Tianzhi Wang</dc:creator>
-      <dc:creator>Zhihao Zhang</dc:creator>
-    </item>
-    <item>
       <title>Differential measurement of global polarization of $Λ$, $Ξ$, and $Ω$ hyperons in Au+Au collisions at $\sqrt{s_{\mathrm{NN}}}=7.7$--$27~\mathrm{GeV}$ from the RHIC Beam Energy Scan-II</title>
       <link>http://arxiv.org/abs/2611.03237v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; The STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present high-precision differential measurements of the global polarization of $Λ$, $Ξ$, and $Ω$ hyperons in Au+Au collisions at $\sqrt{s_{\mathrm{NN}}}=7.7$, $9.2$, $11.5$, $14.6$, $17.3$, $19.6$, and $27~\mathrm{GeV}$ from the RHIC Beam Energy Scan Phase II (BES-II) using the STAR detector. The results show a clear centrality dependence, with polarization increasing toward more peripheral collisions. Within the present experimental precision, no significant dependence on transverse momentum is observed for $Λ$ and $Ξ$, and no significant rapidity dependence is observed for the $Ξ$. The polarization of $Ξ$ hyperons is comparable at the current precision to that of $Λ$ hyperons, consistent with a picture in which all hyperons acquire polarization from the same global angular momentum source, with differences arising from quark content and hadronization dynamics. These high-precision, differential measurements across centrality and $p_T$ over the measured energy ranges provide a unique test of spin--vorticity coupling and sensitivity to spin--spin correlations among hyperons with different quark content (uds, dss, and sss). The results are consistent, within current precision and under the stated spin-transfer assumptions, with a common vorticity-driven polarization mechanism across strange and multistrange hyperons. Consequently, they constrain the interplay of vorticity, magnetic fields, and quark-flavor dynamics in the produced medium.&lt;/p&gt;</description>
@@ -243,16 +299,6 @@
       <dc:creator>H. Zbroszczyk</dc:creator>
     </item>
     <item>
-      <title>A simple flux criterion for trapped surface formation by short pulses of gravitational radiation and matter</title>
-      <link>http://arxiv.org/abs/2611.02569v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tetsuya Shiromizu, Keisuke Izumi, Daisuke Yoshida&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; gr-qc&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We discuss the formation of trapped surfaces induced by short pulses of incoming gravitational radiation and matter fields, in a double-null formulation. We identify a hierarchy of orders in the pulse width for the geometric and matter quantities consistent with the evolution equations. Under the assumption that this hierarchy holds throughout the region considered, the incoming fluxes undergo approximately conservative inward transport and are thereby amplified. The Raychaudhuri equation then gives an initial flux criterion for trapped surface formation. The conditions on the matter are expressed through the Ricci components and their derivatives, which allows the argument to be developed without specifying a particular matter model.&lt;/p&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:54:35 GMT</pubDate>
-      <guid isPermaLink="false">2611.02569v1</guid>
-      <dc:creator>Tetsuya Shiromizu</dc:creator>
-      <dc:creator>Keisuke Izumi</dc:creator>
-      <dc:creator>Daisuke Yoshida</dc:creator>
-    </item>
-    <item>
       <title>Impact on Final-State Bulk Observables in Heavy-Ion Collisions from an Extended MC Glauber Model of Quantum Rotors</title>
       <link>http://arxiv.org/abs/2611.02507v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yanru Bao, Weiyao Ke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nuclear structure is closely connected to anisotropic flow in central heavy-ion collisions (HICs), so flow observables provide important probes for constraining nuclear deformation. Conventional Monte Carlo (MC) models typically describe deformed nuclei as classical rotors with definite orientations, whereas the ground states of even--even nuclei with $J=0$ are rotationally invariant. Motivated by the importance of rotational symmetry restoration, we systematically investigate symmetric collisions involving the representative even--even nuclei $^{20}\mathrm{Ne}$, $^{28}\mathrm{Si}$, $^{96}\mathrm{Ru}$, and $^{238}\mathrm{U}$ using an extended MC Glauber model that incorporates quantum superposition of nuclear orientations. In the final state, the quantum treatment suppresses elliptic flow $v_2\{2\}$, with the strongest effect observed in ultra-central Ne+Ne collisions. Quantum superposition further induces system-dependent changes in normalized symmetric cumulants and shifts the Pearson correlation between $v_2^2$ and $[p_T]$ toward the corresponding near-spherical reference values. Moreover, the quantum treatment modifies cross-system flow ratios and the U+U/Au+Au covariance ratio used experimentally to constrain nuclear deformation parameters. Our results suggest that the quantum-rotor treatment may affect the interpretation of nuclear structure information inffered from heavy-ion collision final-state observables.&lt;/p&gt;</description>
@@ -279,14 +325,6 @@
       <dc:creator>Dong Xiang</dc:creator>
       <dc:creator>Lei Yang</dc:creator>
       <dc:creator>Weiping Liu</dc:creator>
-    </item>
-    <item>
-      <title>A Clifford-index approach connecting boundary Dirac fermions to sigma-model topological terms in the periodic table of topological insulators and superconductors</title>
-      <link>http://arxiv.org/abs/2611.01619v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Y. X. Zhao&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.dis-nn&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The periodic table of topological insulators and superconductors emerges from two distinct approaches: boundary Anderson localization and momentum-space K-theory. Connecting these approaches physically requires deriving the boundary sigma-model topological terms from the underlying fermion theories. We develop an index-theoretic framework for minimal massless boundary Dirac models in the eight real Altland--Zirnbauer classes. Its central ingredients are an elliptic cylinder operator interpolating between two sigma-field textures, a quotient index defined by the cylinder's graded Clifford symmetry algebra, and an index theorem identifying its protected zero-mode index with the relative homotopy class of the endpoint textures. To establish this correspondence, we deform the cylinder texture while preserving the kernel's index class and localize the obstruction to a Clifford defect. An exact oscillator-kernel calculation fixes the generator normalization. A field-independent congruence and a common regularization provide a real antisymmetric Pfaffian representative whose sign transport is related to the cylinder mod-two index by Witten's spectral-flow argument. This yields the nontrivial $\mathbb{Z}_2$ theta weight for one minimal physical module. Combining complex-parent anomalies with physical Clifford multiplicities and real-target periods also gives the real-class Wess--Zumino terms with unit spherical level. The framework thus provides an operator-level connection between boundary Dirac theories and the sigma-model topological terms associated with the periodic table.&lt;/p&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 06:12:15 GMT</pubDate>
-      <guid isPermaLink="false">2611.01619v1</guid>
-      <dc:creator>Y. X. Zhao</dc:creator>
     </item>
     <item>
       <title>Quantum Correlations Between Two Giant Dipole Resonances in Ultra-Peripheral Collisions</title>
@@ -766,16 +804,6 @@
       <dc:creator>Taiki Kondo</dc:creator>
     </item>
     <item>
-      <title>Jets as differential probes of hot QCD matter</title>
-      <link>http://arxiv.org/abs/2610.27182v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João M. Silva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ultra-relativistic heavy-ion collisions create short-lived droplets of deconfined, hot QCD matter whose evolution connects far-from-equilibrium early dynamics to the hydrodynamic quark-gluon plasma. High-energy jets, produced in early hard scatterings and modified by this evolving medium, provide multi-scale probes of its microscopic properties. This thesis develops perturbative QCD tools to extract information about hot QCD matter from its imprint on differential jet substructure observables.
-  Our framework is the BDMPS-Z description of high-energy partons propagating through stochastic colour fields. We first study anisotropic QCD matter by replacing the usual scalar broadening parameter with direction-dependent transverse momentum broadening. This relates anisotropic corrections to medium-induced splittings to spin information and azimuthal patterns in final-state energy flow. Energy correlators are then used as observables sensitive to these effects, including heavy-flavour EECs, azimuthally differential EECs and clover projections designed to isolate leading anisotropy-induced harmonics.
-  We also examine how energy loss affects the interpretation of jet substructure modifications. Quantile matching defines reconstructed energy loss as a population-level shift between vacuum and medium-modified jet spectra. We further develop energy-loss functions, which encode the distribution of energy retained by jet-originated hadrons, and show how their moments enter multi-point projected energy correlators. Finally, we go beyond single $1\to2$ medium-induced splittings by studying spin-induced correlations between successive emissions and higher-point energy correlators including contributions from medium response. The results show that differential jet substructure can probe directional properties of QCD matter and multi-point dynamics of jets propagating through it.&lt;/p&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 19:17:42 GMT</pubDate>
-      <guid isPermaLink="false">2610.27182v1</guid>
-      <dc:creator>João M. Silva</dc:creator>
-    </item>
-    <item>
       <title>BeAGLE++: A modern modular framework for eA physics at the EIC</title>
       <link>http://arxiv.org/abs/2610.24095v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Arjun Kumar, Abhay Deshpande, Zhoudunming Tu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the Benchmark eA Generator for LEptoproduction (BeAGLE++), a next-generation, general-purpose Monte Carlo event generator for high-energy lepton-nucleus collisions and the successor to BeAGLE. The framework incorporates a formation-zone intranuclear cascade to describe hadronic final-state interactions (FSIs), followed by statistical de-excitation of the residual nucleus. Compared with the legacy implementation, the BeAGLE++ cascade introduces a discrete time-ordered treatment of hadronic interactions and light-cluster production during intranuclear transport. Comparisons with E665 measurements and legacy BeAGLE calculations show broad agreement for selected observables, while revealing differences in final states sensitive to FSIs. These differences provide opportunities to assess the model dependence of nuclear-breakup predictions and constrain the underlying cascade dynamics. With its modular architecture, BeAGLE++ provides a flexible simulation framework for the Electron-Ion Collider (EIC) and a platform for developing and testing new physics models against existing data and future EIC measurements.&lt;/p&gt;</description>
@@ -1175,30 +1203,6 @@
       <dc:creator>Angel Reina Ramírez</dc:creator>
       <dc:creator>Volodymyr Magas</dc:creator>
       <dc:creator>Juan M. Torres-Rincon</dc:creator>
-    </item>
-    <item>
-      <title>Mean-$p_T$ fluctuations in Au+Au collisions at $\sqrt{s_{\rm NN}}=3.0$--$19.6$ GeV within JAM2</title>
-      <link>http://arxiv.org/abs/2609.28074v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yaqi Liu, Liuyao Zhang, Chunjian Zhang, Jinhui Chen, Chunwang Ma&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Event-by-event mean-$p_T$ fluctuations probe initial-state fluctuations and their evolution through the dynamics of heavy-ion collisions. We study second-order mean-$p_T$ fluctuations in Au+Au collisions at $\sqrt{s_{\rm NN}}=3.0$--$19.6$ GeV using JAM2 in the RQMDv mean-field mode with the MH2 parameterization. The model qualitatively reproduces the measured identified-particle $p_T$ spectra, providing a single-particle baseline for the fluctuation analysis. The scaled fluctuation $k_2$ decreases with increasing $\langle N_{\rm part}\rangle$ and shows broad agreement with the available measurements at 7.7--19.6 GeV, whereas its calculated centrality dependence is stronger than that in the data at 3.0--4.5 GeV. For the combined proton-plus-antiproton sample, the unnormalized correlator $\langle c_2\rangle$ is positive and larger than that for charged pions. The charged-pion correlator $\langle c_2\rangle$ is negative or consistent with zero over most centrality intervals at 3.0 and 3.5 GeV, becomes weakly positive at 4.5 GeV, and remains positive at higher energies. Its energy evolution resembles the change in the reaction-plane elliptic flow, but this comparison does not establish a common microscopic origin. These calculations provide species-dependent predictions within a transport model without an explicit partonic stage. Isolating the contributions of mean fields, rescattering, and spectator interactions requires controlled variations of the transport dynamics.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 13:19:01 GMT</pubDate>
-      <guid isPermaLink="false">2609.28074v1</guid>
-      <dc:creator>Yaqi Liu</dc:creator>
-      <dc:creator>Liuyao Zhang</dc:creator>
-      <dc:creator>Chunjian Zhang</dc:creator>
-      <dc:creator>Jinhui Chen</dc:creator>
-      <dc:creator>Chunwang Ma</dc:creator>
-    </item>
-    <item>
-      <title>Performance of the MPD experiment in dielectron measurements at NICA</title>
-      <link>http://arxiv.org/abs/2609.35829v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sudhir Pandurang Rode, Itzhak Tserruya, Victor Riabov, Yonghong Wang, Chi Yang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Multi-Purpose Detector (MPD) experiment at NICA is designed to investigate strongly interacting matter at high net-baryon density through a broad program of heavy-ion measurements. Dielectrons constitute one of the key probes in this program, with contributions emitted throughout the entire space-time evolution of the collision. Their experimental measurement is, however, challenged by a large combinatorial background arising primarily from incompletely reconstructed photon conversions and Dalitz decays of light neutral mesons. In this work, we study the performance and capabilities of the MPD experiment for dielectron measurements using simulated minimum-bias $^{209}$Bi+$^{209}$Bi collisions at $\sqrt{s_{NN}}$ = 9.2 GeV. Electron identification is performed using the combined information from the TPC, the TOF detector and the ECal. A multilayer-perceptron classifier is used to optimize electron identification, leading to a substantial increase in electron detection efficiency relative to sequential one-dimensional selections while preserving an electron-sample purity close to unity over a broad momentum range. To address the dominant sources of combinatorial background, a pair-analysis strategy is developed that exploits partially reconstructed electron tracks. The method combines the pair opening angle, the TPC dE/dx signal, and an approximate reconstruction of the pair invariant mass to tag tracks from photon conversions and $π^0$ Dalitz decays at the pair level. In the mass interval 0.2 $&lt; m_{ee}&lt;0.7 $ GeV/$c^2$, the method improves the signal-to-background ratio by a factor of about 3.5 with the current track reconstruction algorithm. The study demonstrates the strong potential of the MPD experiment for dielectron measurements at NICA energies and highlights the importance of further improvements in low-$p_{\rm T}$ track reconstruction.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 09:00:09 GMT</pubDate>
-      <guid isPermaLink="false">2609.35829v1</guid>
-      <dc:creator>Sudhir Pandurang Rode</dc:creator>
-      <dc:creator>Itzhak Tserruya</dc:creator>
-      <dc:creator>Victor Riabov</dc:creator>
-      <dc:creator>Yonghong Wang</dc:creator>
-      <dc:creator>Chi Yang</dc:creator>
     </item>
   </channel>
 </rss>
