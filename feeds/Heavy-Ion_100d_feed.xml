@@ -5,9 +5,94 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:14:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Gravitational waves and the exit from de Sitter in Inflation without an Inflaton</title>
+      <link>http://arxiv.org/abs/2611.12772v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Daniele Bertacca, Raul Jimenez, Sabino Matarrese, Mariam Abdelaziz, Marisol Traforetti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.CO&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In Inflation without an Inflaton (IWI), second-order de Sitter (dS) gravitons generate primordial curvature as the Coulomb-type potential of their gradient stress. Each pair contributes $(p/k)^2$, yielding exponential enhancement over the contributing e-folds. With exact Bunch-Davies evolution, this solution satisfies all four scalar second-order Einstein equations in pure dS. The retarded transverse-traceless solution instead has a UV kernel of order unity, $(k/p)^2$ below the scalar kernel, and a one-loop correction $Δ^2_{h,2}/Δ^2_h\simeq0.04\,Δ^2_h$. Its source acts before internal freeze-out, but oscillatory cancellations prevent tensor enhancement.
+  We evolve the curvature through a smooth exit into radiation domination. Conserved curvature resides on the vacuum-decay hypersurface. A global depletion clock holds each scale on zero-shear time for $N_{\rm w}$ e-folds after horizon exit before local release, giving all scales equal enhancement. Energy-momentum conservation feeds the depleted vacuum energy into a non-vacuum sector, modeled as radiation. Deep in radiation domination, $Δ^2_ζ=c_wΔ_h^4e^{N_{\rm w}}/20$, with clock-dependent $c_w$, $n_s-1=-4ε$, and $n_T=-2ε$. The spectrum is adiabatic and Gaussian; super-horizon $ζ$ is conserved to better than $10^{-4}$, and changing the adiabatic exit fluid alters it by less than $0.2\%$. A direct radiation exit requires $31\lesssim N_{\rm w}\lesssim50$, or $3\times10^{-6}\lesssim r\lesssim0.036$.
+  At interferometer frequencies, $Ω_{\rm GW}h^2\simeq2\times10^{-21}$--$3\times10^{-17}$, accessible to BBO for $r\gtrsim0.01$ and ultimate DECIGO for $r\gtrsim10^{-5}$; CMB B-mode searches probe $r\gtrsim10^{-3}$. Above $k_{\rm end}e^{-N_{\rm w}}$, the scalar spectrum steepens to $k^{-1}$, suppressing $μ$-distortions for sharp release when $N_{\rm w}\gtrsim45$.&lt;/p&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 17:46:07 GMT</pubDate>
+      <guid isPermaLink="false">2611.12772v1</guid>
+      <dc:creator>Daniele Bertacca</dc:creator>
+      <dc:creator>Raul Jimenez</dc:creator>
+      <dc:creator>Sabino Matarrese</dc:creator>
+      <dc:creator>Mariam Abdelaziz</dc:creator>
+      <dc:creator>Marisol Traforetti</dc:creator>
+    </item>
+    <item>
+      <title>From oxygen to lead: testing a common QGP description with high-$p_\perp$ probes</title>
+      <link>http://arxiv.org/abs/2611.12404v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Bithika Karmakar, Dusan Zigic, Magdalena Djordjevic&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The observation of suppression and finite high-$p_\perp$ elliptic anisotropy in O+O and Ne+Ne raises the question of whether a common quark--gluon plasma (QGP) description can simultaneously account for both observables across systems from oxygen to lead. We present predictions using event-by-event bulk evolution constrained by soft-sector observables and coupled to DREENA radiative and collisional energy loss, with the same microscopic parameter set for O+O, Ne+Ne, Xe+Xe, and Pb+Pb. The calculation reproduces the observed ordering of suppression and predicts elliptic anisotropies of comparable magnitude across the four systems in 10--20$\%$ collisions. We predict a modest centrality dependence of $v_2^{\mathrm{SP}}$ and a more pronounced decrease of $v_3^{\mathrm{SP}}$ toward peripheral light-ion collisions, in contrast to the corresponding trends in larger systems. In light ions, we predict that $v_2^{\mathrm{SP}}/(1-R_{AA})$ is nearly independent of momentum at high $p_\perp$. We further predict that the differential ratio $v_2\{4\}/v_2\{2\}$ depends only weakly on momentum at high $p_\perp$, with magnitudes and centrality trends broadly comparable to those of the measured soft-sector ratios, suggesting that the soft-sector fluctuation pattern persists in hard--soft correlations. Predictions for D and B mesons extend the comparison to probes of different flavors. Taken together, these system-size, harmonic, fluctuation, and flavor dependences provide experimental tests of how far a common QGP description extends.&lt;/p&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 13:38:16 GMT</pubDate>
+      <guid isPermaLink="false">2611.12404v1</guid>
+      <dc:creator>Bithika Karmakar</dc:creator>
+      <dc:creator>Dusan Zigic</dc:creator>
+      <dc:creator>Magdalena Djordjevic</dc:creator>
+    </item>
+    <item>
+      <title>Proton Number Fluctuations in Au+Au and Ag+Ag Collisions at $\sqrt{s_{\mathrm{NN}}}=2.4\ \mathrm{GeV}$: A JAM Model Study</title>
+      <link>http://arxiv.org/abs/2611.12086v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yongcong Xu, Zhaohui Wang, Yu Zhang, Xiaofeng Luo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Proton number fluctuations in low-energy heavy-ion collisions are sensitive to nuclear interactions, baryon-number conservation, and fluctuations of the collision volume, all of which can complicate searches for critical phenomena. We investigate proton-number cumulants and factorial cumulants up to fourth order in Au+Au and Ag+Ag collisions at $\sqrt{s_{\mathrm{NN}}}=2.4\ \mathrm{GeV}$ using the JAM hadronic transport model in cascade and mean-field modes. We employ the Centrality-Independent Genuine Cumulant Analysis fRamework (CIGAR) to suppress the initial-volume fluctuations and compare its results with those obtained using conventional centrality-bin-width corrections. CIGAR closely reproduces the participant-number-based reference, whereas the multiplicity-based analysis exhibits substantial deviations. In both collision systems, the ratios $C_{2}/C_{1}$, $C_{3}/C_{1}$, and $C_{4}/C_{2}$ generally decrease toward more central collisions and with increasing rapidity acceptance, while the mean field modifies their magnitudes. A simplified treatment of light-nucleus formation through probabilistic proton removal shifts $C_{4}/C_{2}$ toward less negative values. These results establish a hadronic-transport reference without an explicit QCD critical contribution and highlight the importance of controlling centrality fluctuations, acceptance, and light-nucleus formation when interpreting experimental measurements at high baryon density.&lt;/p&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 09:04:40 GMT</pubDate>
+      <guid isPermaLink="false">2611.12086v1</guid>
+      <dc:creator>Yongcong Xu</dc:creator>
+      <dc:creator>Zhaohui Wang</dc:creator>
+      <dc:creator>Yu Zhang</dc:creator>
+      <dc:creator>Xiaofeng Luo</dc:creator>
+    </item>
+    <item>
+      <title>HEART: a resonance-cascade model of soft hadron production in p+p collisions at 158 GeV/c</title>
+      <link>http://arxiv.org/abs/2611.11570v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ondrej Chvala&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Fischer and co-workers interpret the NA49 identified-hadron spectra in p+p collisions at 158 GeV/c as the sum of a target and a projectile component, each the decay of an excited hadronic system. This paper supplies an event-level realization of that picture, the HEART model (Hadronic Excitations And Resonance Transitions), and tests it on the published NA49 data. Single diffraction, double diffraction, and non-diffractive exchange produce color-singlet excited systems. Each system is a catalogued resonance below a duality boundary of 1.7 to 2.2 GeV or a member of a resonant continuum above it. It de-excites by successive two-body transitions with exact conservation laws, and one-pion exchange produces the leading neutrons. Fourteen parameters are fitted to 1,254 points of the $π^\pm$, $K^\pm$, $p$, and $\bar{p}$ double-differential cross sections and eight neutron points. Under an error model that profiles the correlated systematic uncertainties, with a declared 5% model floor, the fit yields $χ^2 = 2263$ on 1248 degrees of freedom. On the same points, EPOS-LHC, UrQMD, and PYTHIA 8 at their published tunes give $χ^2$ values 4.2 to 14.4 times higher. The model needs no central source. The forward $K^+$ deficit, the forward $K^*(892)^0$ excess, and the flat $Λ$ $x_F$ distribution point to the momentum sharing at the vertex where the leading baryon turns into a hyperon. The $Ξ^-$ reaches 0.61 of the NA61/SHINE yield. The charged multiplicity of a heavy excited system grows linearly with its mass, faster than in $e^+e^-$ annihilation. The observables that distinguish a cascade from string and fireball models lie in the fragmentation region, where wide-acceptance fixed-target spectrometers can measure them.&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:33:06 GMT</pubDate>
+      <guid isPermaLink="false">2611.11570v1</guid>
+      <dc:creator>Ondrej Chvala</dc:creator>
+    </item>
+    <item>
+      <title>Hadronic final-state effects on open-charm production at LHC energies</title>
+      <link>http://arxiv.org/abs/2611.11569v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Taesoo Song, Elena Bratkovskaya, Krzysztof Redlich&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the influence of hadronic final-state interactions on open-charm observables in pp and Pb+Pb collisions at LHC energies within the microscopic Parton-Hadron-String Dynamics (PHSD) transport approach. Calculations with and without charm-hadron rescattering are compared with ALICE measurements and predictions of the Statistical Hadronization Model for charm. The relative integrated $D$-meson multiplicities are essentially insensitive to hadronic interactions. PHSD reproduces the weak system dependence of the nonstrange $D$-meson ratios and the increase of $D_s^+/D^0$ from pp to Pb+Pb collisions, consistent with the statistical-model trend from strangeness undersaturation towards equilibrium. In contrast, hadronic rescattering redistributes the transverse momentum spectra at low and intermediate momenta and enhances the elliptic flow. These results demonstrate the importance of accounting for the hadronic evolution when extracting QGP properties from differential open-charm observables.&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 19:31:28 GMT</pubDate>
+      <guid isPermaLink="false">2611.11569v1</guid>
+      <dc:creator>Taesoo Song</dc:creator>
+      <dc:creator>Elena Bratkovskaya</dc:creator>
+      <dc:creator>Krzysztof Redlich</dc:creator>
+    </item>
+    <item>
+      <title>How to isolate charm production mechanisms using charm-anticharm rapidity and azimuthal angle differences</title>
+      <link>http://arxiv.org/abs/2611.11422v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Marcus O'Riordan, Peter Christiansen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Charm production in hadronic collisions proceeds via many different processes, which makes it hard to calculate from first principles. Using PYTHIA simulations, we study correlations between charm and anticharm hadrons and show that hard-process charm, final-state splitting charm, and initial-state-shower charm populate markedly different regions of rapidity and azimuthal-angle difference. In particular, selections on the pair rapidity separation, $Δy$, can strongly enrich or suppress the near-side final-state splitting contribution and thereby provide experimental sensitivity to the different production processes. A comparison with existing LHCb $D^0\bar{D}^0$ correlation measurements from Run 1 motivates more differential studies using the substantially larger LHC data sets now available. Extending such measurements to heavy-ion collisions could further distinguish medium modifications of charm produced directly in the hard scattering from charm originating from a parent gluon, providing a new handle on the different interactions of heavy quarks and gluons with the quark-gluon plasma.&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 14:35:01 GMT</pubDate>
+      <guid isPermaLink="false">2611.11422v1</guid>
+      <dc:creator>Marcus O'Riordan</dc:creator>
+      <dc:creator>Peter Christiansen</dc:creator>
+    </item>
+    <item>
+      <title>Elliptic flow of $φ$ and $Ω$ via quark recombination mechanism in relativistic heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2611.11347v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhidong Yang, Lie-Wen Chen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Multi-strange hadrons, such as the $φ$ meson and $Ω$ baryon, serve as unique probes for the properties of the quark-gluon plasma in relativistic heavy-ion collisions. Using a quark recombination model with the quark phase-space information parameterized in a viscous blastwave, we show that the elliptic flow $v_2$ of $φ$ and $Ω$ can be describled by quark recombination in a wide energy range from $\sqrt{s_{NN}}$ = 7.7 GeV to 5.02 TeV. We check the scaling properties of $v_2$ of $φ$ and $Ω$ and find the number-of-constituent-quark (NCQ) scaled $v_2$ of $φ$ and $Ω$ are approximately equal. We further present the $v_2$ of strange quarks at hadronization extracted from $φ$ and $Ω$ data. We find the $v_2$ of strange quarks is close to the NCQ-scaled $v_2$ of $φ$ and $Ω$ at $\sqrt{s_{NN}}$ = 7.7-200 GeV, but significant larger than the latter at $\sqrt{s_{NN}}$ = 2.76-5.02 TeV, suggesting that the $v_2$ of strange quarks cannot be simply equated to the NCQ-scaled $v_2$ of $φ$ and $Ω$. Our results demonstrate that the quark recombination mechanism is valid for $φ$ and $Ω$ production in heavy-ion collisions at $\sqrt{s_{NN}}$ = 7.7 GeV to 5.02 TeV, indicating the existence of constituent quark degree of freedom at these energies.&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 12:49:19 GMT</pubDate>
+      <guid isPermaLink="false">2611.11347v1</guid>
+      <dc:creator>Zhidong Yang</dc:creator>
+      <dc:creator>Lie-Wen Chen</dc:creator>
+    </item>
+    <item>
+      <title>A universal probe of QCD spin physics from fragmentation energy correlator</title>
+      <link>http://arxiv.org/abs/2610.32715v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qing-Hong Cao, Xiaohui Liu, Zhite Yu, C. -P. Yuan, Feng Yuan, Shu-Tao Zhang, Hua Xing Zhu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the fragmentation energy correlator (FEC), which combines the nonperturbative fragmentation function with the infrared-safe energy correlator, as a new probe of the three-dimensional dynamics of QCD hadronization. We demonstrate, both theoretically and numerically, that FEC applies universally to inclusive hadron production in lepton-lepton, lepton-hadron, and hadron-hadron collisions, without requiring jet algorithms or simultaneous measurements of other heavy objects. Through the nontrivial transverse-spin dependence, FEC provides a sensitive probe of the chiral-symmetry-breaking scale in QCD via its variation with the energy-correlator scale.&lt;/p&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 03:22:56 GMT</pubDate>
+      <guid isPermaLink="false">2610.32715v2</guid>
+      <dc:creator>Qing-Hong Cao</dc:creator>
+      <dc:creator>Xiaohui Liu</dc:creator>
+      <dc:creator>Zhite Yu</dc:creator>
+      <dc:creator>C. -P. Yuan</dc:creator>
+      <dc:creator>Feng Yuan</dc:creator>
+      <dc:creator>Shu-Tao Zhang</dc:creator>
+      <dc:creator>Hua Xing Zhu</dc:creator>
+    </item>
     <item>
       <title>On the collective flow puzzle in ultra-central heavy-ion collisions</title>
       <link>http://arxiv.org/abs/2611.09643v1</link>
@@ -37,6 +122,14 @@
       <dc:creator>Marcelo M. Disconzi</dc:creator>
       <dc:creator>Jorge Noronha</dc:creator>
       <dc:creator>Jean-François Paquet</dc:creator>
+    </item>
+    <item>
+      <title>Twisted Compactification, Quotient Quantum Codes and Logical Gates</title>
+      <link>http://arxiv.org/abs/2611.09538v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Po-Shen Hsin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-06&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Many quantum codes, including balanced-product, bivariate-bicycle and genon codes and the five-qubit code, are quotient codes: a larger code folded onto itself by identifying each check with its image under a deck transformation composed with a symmetry. We show that this is the lattice form of twisted compactification, in which a theory on $X\times F$ carries a symmetry background along $F$, and we use the correspondence in both directions. For monomial quotients of Pauli stabilizer codes, a transfer theorem gives the logical qudits, logical operators and distance bounds from those of the parent, with a Tate cohomology group counting the logical operators that are new. For higher-form and cup-product symmetries the twist is an entangling diagonal circuit; when a finite cover trivializes the background, the code is a dressed quotient, so abelian Pauli codes give non-abelian topological order such as $D(D_4)$. The dressings have Clifford level at most one less than the degree of the twist, and for cubic twists the code dimension is a count of solutions of quadratic equations in cup products, which certifies that the code is not a Pauli stabilizer code when it is not a power of two; on tori and slabs the distance is linear in the size. Twists also create logical gates: three toric codes on $S^3$ have no logical qubits, but on $\mathbb{RP}^3$ the same circuit is a logical $CCZ$. A quarter-turn twist of the 3D fermionic toric code gives codes of linear distance, from $[[768,2,9]]$ up, whose $p+ip$ pump is an explicit finite-time quasi-local evolution that preserves the code space exactly; using the spin-topological response formula of Barkeshli, Hsin and Kobayashi, we identify its logical action as $T$ up to Clifford factors. Finally, twisting abelian gauge theories reach only the quantum doubles $D(G)$ with $[G,G]$ central.&lt;/p&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 14:51:04 GMT</pubDate>
+      <guid isPermaLink="false">2611.09538v1</guid>
+      <dc:creator>Po-Shen Hsin</dc:creator>
     </item>
     <item>
       <title>Effect of collective nuclear vibrations on initial anisotropies in central Pb+Pb collisions: A comparative study in Glauber and Trento models</title>
@@ -211,17 +304,6 @@
       <dc:creator>Sanchari Thakur</dc:creator>
       <dc:creator>Pingal Dasgupta</dc:creator>
       <dc:creator>Rupa Chatterjee</dc:creator>
-    </item>
-    <item>
-      <title>Probing the Spatial Coherence of Chiral-Imbalance Fluctuations with Hyperon Spin Correlations</title>
-      <link>http://arxiv.org/abs/2611.04970v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Guangyu Zheng, Zilin Yuan, Mei Huang, Guannan Xie&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-03&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Topological fluctuations in the quark-gluon plasma can generate local chiral imbalances whose spatial coherence remains difficult to access with conventional charge-separation measurements. We propose differential hyperon-pair spin correlations as a probe of both the strength and spatial organization of these fluctuations. Fluctuations of the axial chemical potential $μ_5$ can induce pair correlations even when the mean helicity polarization vanishes. Using the AMPT model, we find that the magnitude of the hyperon spin correlation probes the magnitude and spatial coherence scale of $μ_5$, while the ratio of short- and long-range correlations varies strongly with the spatial coherence scale, but only weakly with $μ_{5}$ over the range of explored parameters. These observables provide an experimentally testable strategy for constraining the spatial structure of chiral-imbalance fluctuations.&lt;/p&gt;</description>
-      <pubDate>Tue, 03 Nov 2026 14:28:18 GMT</pubDate>
-      <guid isPermaLink="false">2611.04970v1</guid>
-      <dc:creator>Guangyu Zheng</dc:creator>
-      <dc:creator>Zilin Yuan</dc:creator>
-      <dc:creator>Mei Huang</dc:creator>
-      <dc:creator>Guannan Xie</dc:creator>
     </item>
     <item>
       <title>Modeling fragmentation of $^{20}$Ne nuclei at the LHC</title>
@@ -701,20 +783,6 @@
       <dc:creator>Gabriel Rabelo-Soares</dc:creator>
     </item>
     <item>
-      <title>A universal probe of QCD spin physics from fragmentation energy correlator</title>
-      <link>http://arxiv.org/abs/2610.32715v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qing-Hong Cao, Xiaohui Liu, Zhite Yu, C. -P. Yuan, Feng Yuan, Shu-Tao Zhang, Hua Xing Zhu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the fragmentation energy correlator (FEC), which combines the nonperturbative fragmentation function with the infrared-safe energy correlator, as a new probe of the three-dimensional dynamics of QCD hadronization. We demonstrate, both theoretically and numerically, that FEC applies universally to inclusive hadron production in lepton-lepton, lepton-hadron, and hadron-hadron collisions, without requiring jet algorithms or simultaneous measurements of other heavy objects. Through the nontrivial transverse-spin dependence, FEC provides a sensitive probe of the chiral-symmetry-breaking scale in QCD via its variation with the energy-correlator scale.&lt;/p&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 14:35:32 GMT</pubDate>
-      <guid isPermaLink="false">2610.32715v1</guid>
-      <dc:creator>Qing-Hong Cao</dc:creator>
-      <dc:creator>Xiaohui Liu</dc:creator>
-      <dc:creator>Zhite Yu</dc:creator>
-      <dc:creator>C. -P. Yuan</dc:creator>
-      <dc:creator>Feng Yuan</dc:creator>
-      <dc:creator>Shu-Tao Zhang</dc:creator>
-      <dc:creator>Hua Xing Zhu</dc:creator>
-    </item>
-    <item>
       <title>Anisotropic flow measurements in OO and Ne-Ne collisions with ALICE</title>
       <link>http://arxiv.org/abs/2610.32667v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Vojtěch Macháček, for the ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The LHC results have demonstrated that small collision systems can exhibit collective behavior reminiscent of that~observed in heavy-ion collisions, opening a new frontier for exploring the connection between nuclear structure and collective dynamics at ultra-relativistic energies. However, the interpretation of collectivity in small collision systems is limited by understanding the proton subnucleonic structure. The ${}^{16}$O and ${}^{20}$Ne collisions delivered by the LHC offer an opportunity to study the influence of nuclear geometry on anisotropic flow in systems where the nuclear structure is well-constrained. In this proceeding, measurements of the anisotropic flow of charged particles, $v_n$, in OO and Ne-Ne collisions involving up to eight-particle correlations are presented, using the multi-particle cumulant method. Furthermore, the first reconstruction of the probability distribution function of elliptic flow $P(v_2)$, and the first measurement of the ratio $v_3\{4\}/v_3\{2\}$ in light-ion collision systems are reported. These measurements provide deeper insight into the role of nuclear geometry-driven flow in light-ion collisions.&lt;/p&gt;</description>
@@ -752,48 +820,12 @@
       <dc:creator>Hisham Anwer</dc:creator>
     </item>
     <item>
-      <title>Nonconformal kinetic theory with transverse dynamics and event-by-event simulations using CoMBolt-RTA</title>
-      <link>http://arxiv.org/abs/2610.31611v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Seyed Farid Taghavi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-22&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A new version of CoMBolt, called CoMBolt-RTA, is introduced to solve the Boltzmann equation for massive quasiparticles in the relaxation time approximation (RTA). The inclusion of a constant quasiparticle mass allows one to obtain an equation of state (EOS) closer to that of lattice QCD. The nonequilibrium dynamics of a boost-invariant, nonconformal system with transverse spatial extension are studied, with particular emphasis on the effects of quasiparticle mass on the evolution toward equilibrium. Using the hybrid version, which includes TrENTo for the initial state and UrQMD as an afterburner, the model parameters are manually tuned to describe recent anisotropic-flow and charged-multiplicity measurements in OO collisions by the ALICE Collaboration. The resulting predictions for the $p_T$-spectrum and $\langle p_T\rangle$ are also compared with ATLAS measurements. Based on the preferred parameter tuning, the collective response as a function of opacity is investigated. The results suggest that central OO collisions remain in the fluid-like regime, while smaller systems, namely ${}^3$He-${}^3$He and ${}^4$He-${}^4$He collisions, could provide a better opportunity to investigate the transition from fluid-like to particle-like collective dynamics.&lt;/p&gt;</description>
-      <pubDate>Thu, 22 Oct 2026 17:39:29 GMT</pubDate>
-      <guid isPermaLink="false">2610.31611v1</guid>
-      <dc:creator>Seyed Farid Taghavi</dc:creator>
-    </item>
-    <item>
       <title>Heavy-Quark Dynamics from $D^{0}$-Meson Anisotropy-Response Scaling Violations</title>
       <link>http://arxiv.org/abs/2610.30085v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Roy A. Lacey&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A species-resolved anisotropy-response scaling framework is used to investigate heavy-quark dynamics through the elliptic ($v_2$) and triangular ($v_3$) azimuthal anisotropies of $D^0$ mesons. The independently constrained light-flavor response provides a direct null test: the transformed $D^0$ harmonics exhibit approximate inter-harmonic closure but remain systematically displaced from the kaon-anchored scaling function, revealing a charm scaling violation. The common response is recovered through a charm-specific attenuation rescaling, $k_c$, together with a small low-$p_T$ hadronic-rescattering correction, $ζ_{\rm hs}\simeq0.06$, while retaining the established light-flavor prescription. In Pb+Pb collisions at $\sqrt{s_{NN}}=5.02$~TeV, $k_c$ decreases from approximately $2.0$ in central and mid-central collisions to $1.27$ in the 30--50\% interval. For $D^0$ $v_2$, ultra-central p+Pb collisions at $\sqrt{s_{NN}}=8.16$~TeV require $k_c\simeq1.5$, whereas Au+Au collisions at $\sqrt{s_{NN}}=200$~GeV are consistent with $k_c\simeq1$. The transition momentum exhibits a distinct system dependence: $D^0$ and light mesons show comparable $p_{T,\rm tr}\simeq4.5$--$5.0$~GeV/$c$ in Pb+Pb, consistent with the common large-system prescription also used in Au+Au, whereas p+Pb $D^0$ measurements are consistent with the lower light-meson scale of approximately $1.6$~GeV/$c$. These complementary constraints on attenuation strength and transition momentum provide a differential benchmark for heavy-quark transport and medium evolution.&lt;/p&gt;</description>
       <pubDate>Wed, 21 Oct 2026 17:33:40 GMT</pubDate>
       <guid isPermaLink="false">2610.30085v1</guid>
       <dc:creator>Roy A. Lacey</dc:creator>
-    </item>
-    <item>
-      <title>Nuclear Geometry-Driven Femtoscopic Correlations in Light-Ion Collisions</title>
-      <link>http://arxiv.org/abs/2610.29760v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dániel Kincses, Bithika Karmakar, Iurii Karpenko, Boris Tomášik&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Recent anisotropic flow measurements in $^{16}\rm O{+}^{16}\rm O$ and $^{20}\rm Ne{+}^{20}\rm Ne$ collisions at a center-of-mass energy per nucleon pair of 5.36~TeV provide evidence for nuclear geometry-driven collectivity. In this Letter, we investigate the femtoscopic signatures of nuclear geometry in these light-ion collision systems, using a hybrid simulation framework that couples \textit{ab initio} nuclear configurations to viscous hydrodynamics and hadronic transport. We show that the $\rm Ne{+}Ne/O{+}O$ ratio of the freeze-out eccentricity, extracted from azimuthally sensitive femtoscopy, reaches 1.5-1.8 in central collisions for deformed nuclear configurations, compared with about unity for a spherical baseline. This enhancement is significantly larger than that of elliptic flow in the same simulations, and remains stable when pre-equilibrium free streaming is omitted, even though the absolute source radii change considerably. Confronting these predictions with future data will provide new, complementary constraints on nuclear structure and initial-condition modeling.&lt;/p&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 13:59:10 GMT</pubDate>
-      <guid isPermaLink="false">2610.29760v1</guid>
-      <dc:creator>Dániel Kincses</dc:creator>
-      <dc:creator>Bithika Karmakar</dc:creator>
-      <dc:creator>Iurii Karpenko</dc:creator>
-      <dc:creator>Boris Tomášik</dc:creator>
-    </item>
-    <item>
-      <title>UrQMD-Agent: An LLM-Assisted Framework for Microscopic Tracing of Proton Azimuthal Correlations</title>
-      <link>http://arxiv.org/abs/2610.30198v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Fu-Peng Li, Yige Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present an LLM-assisted framework for microscopic transport studies that connects a general-purpose large language model (LLM) to the UrQMD transport model through a model-specific Skill and a deterministic scientific tool layer. The LLM supports literature-guided scientific planning and interpretation, while numerical calculations, event-history reconstruction, and statistical analyses are performed by deterministic tools. As a demonstration, the framework is applied to proton azimuthal-partition fluctuations in Au+Au collisions at $\sqrt{s_{NN}}=3.0$--39~GeV. In the 0--5\% centrality class, the fluctuations are statistically resolved below zero from 3 to 27~GeV and consistent with zero at 39~GeV. An exact pair-kernel decomposition shows that the negative signal is carried mainly by proton pairs containing at least one decay-fed proton. A random-label null test further distinguishes the observed pair contributions from expectations based on pair abundance alone. Reaction-history tracing shows that, for pairs of two decay-fed protons, the negative pair-kernel contribution is already present in the parent momenta evaluated at their respective formation vertices. The modular architecture is designed to accommodate different general-purpose LLMs and can be extended to other microscopic transport models through dedicated Skills and tool interfaces. This provides a pathway toward systematic microscopic analyses and comparisons across transport models within a common LLM-assisted framework.&lt;/p&gt;</description>
-      <pubDate>Wed, 21 Oct 2026 07:12:31 GMT</pubDate>
-      <guid isPermaLink="false">2610.30198v1</guid>
-      <dc:creator>Fu-Peng Li</dc:creator>
-      <dc:creator>Yige Huang</dc:creator>
-    </item>
-    <item>
-      <title>Digital Quantum Simulation of Dynamics in Interacting Fields</title>
-      <link>http://arxiv.org/abs/2610.28993v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zhiyao Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; quant-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Matter under extreme conditions behaves as a non-equilibrium, strongly-interacting quantum system. Such systems are in the non-perturbative regime of quantum chromodynamics (QCD), where their time evolution is classically intractable. Quantum computing offers a promising alternative, but present-day devices are limited in qubit count and circuit depth, so efficient formulations and algorithms are key to scaling toward experimentally relevant QCD simulations. A scalable framework is established for simulating energy loss and hadronization in 1+1-dimensional SU(2) lattice gauge theory, in which a heavy quark traverses a lattice of light quarks. Classical lattice QCD methods are translated into physics-informed circuits to prepare the interacting ground state. The evolution is run on IBM's quantum processor ibm_pittsburgh, where the charge distribution and energy loss are measured. A further study develops the quantum simulation of the fully gauge-fixed SU(2) Hamiltonian in a mixed basis, a formulation that is expected to remain efficient at all gauge couplings. Digitizing the continuous gauge fields with as few as three qubits per plaquette reproduces low-energy observables with $10^{-3}$ precision. Scaling to larger systems is limited by resource overhead, which motivates truncations that preserve the relevant observables. Sequency Hierarchy Truncation (SeqHT) exploits the hierarchy in basis-operator contributions. Demonstrated on the adiabatic preparation of the $λφ^4$ ground state on ibm_sherbrooke, SeqHT reduces circuit depth by ~30%, suppressing hardware noise in the extracted observables. All simulations in this dissertation are validated on quantum hardware against classical benchmarks. These studies advance quantum simulations of real-time QCD dynamics.&lt;/p&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 23:47:40 GMT</pubDate>
-      <guid isPermaLink="false">2610.28993v1</guid>
-      <dc:creator>Zhiyao Li</dc:creator>
     </item>
     <item>
       <title>Measurements of local polarization of $Λ$ hyperons with event shape engineering in Au+Au collisions at RHIC-STAR</title>
@@ -1167,42 +1199,6 @@
       <dc:creator>H. P. Zbroszczyk</dc:creator>
       <dc:creator>M. Zieliński</dc:creator>
       <dc:creator>P. Zumbruch</dc:creator>
-    </item>
-    <item>
-      <title>Strangeness Production at GlueX</title>
-      <link>http://arxiv.org/abs/2609.30850v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Hao Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The GlueX experiment at Jefferson Lab is well suited for exclusive studies of strangeness production, combining a linearly polarized photon beam at $8.0 &lt; E_γ&lt; 8.8$ GeV with a large-acceptance detector that reconstructs weakly decaying hyperons. We outline a research program built on three aspects: (i) spectroscopy of strange mesons, where many excited $K^*$ states remain unestablished and crypto-exotic strange hybrids must be identified from combined spectrum and decay information, anchored by the $K^*(892)$ as a standard candle; (ii) spin dynamics, where the first precise measurements of the complete spin-density matrix elements in the photoproduced $K^*(892)Λ$ system beyond the Schilling formalism constrain the $t$-channel strange production mechanism; and (iii) hadronization, probed through the newly published $p\bar{p}$, $Λ\barΛ$, and $p\barΛ$ photoproduction cross sections and emerging $Λ\barΛ$ spin-correlation measurements. We place these efforts in the context of the broader GlueX strangeness program and give an outlook toward the high-statistics GlueX-II era.&lt;/p&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 05:55:42 GMT</pubDate>
-      <guid isPermaLink="false">2609.30850v1</guid>
-      <dc:creator>Hao Li</dc:creator>
-    </item>
-    <item>
-      <title>Quarkonium production in light-ion collisions with the ALICE experiment</title>
-      <link>http://arxiv.org/abs/2609.29970v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rebecca Cerri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Quarkonium production has long been considered as one of the golden probes to study the quark-gluon plasma (QGP). In fact, the early production of heavy quarks (ccbar) and (bbbar) makes quarkonia an ideal tool to investigate the evolution of the hot and dense medium produced in ultra-relativistic heavy-ion collisions. In such a medium, quarkonium production is expected to be suppressed due to the screening of the binding potential between the heavy quark and antiquark and/or through in-medium interactions. Moreover, at LHC energies the recombination of uncorrelated charm quarks pairs, namely regeneration, was found to significantly affect charmonium observables, in contraposition to the suppression mechanism. In addition, measurements in smaller collision systems as p-Pb have highlighted the possibility to observe QGP-like effects. In this context, the study of charmonium production in intermediate collision systems, as light-ion collisions, becomes more and more interesting, representing an ideal test ground for the state-of-the art theoretical models. In this contribution the new measurements of charmonium production will be shown using the light-ion collisions data collected for the first time at the LHC in 2025 (oxygen-oxygen (OO), proton-oxygen (pO)). The results will be shown exploiting the forward ALICE rapidity coverage (2.5 &lt; y &lt; 4). Finally, the measurements will be compared with the existing theoretical models.&lt;/p&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 15:22:18 GMT</pubDate>
-      <guid isPermaLink="false">2609.29970v1</guid>
-      <dc:creator>Rebecca Cerri</dc:creator>
-    </item>
-    <item>
-      <title>Measuring short-range correlations using relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.29237v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lu-Meng Liu, Jun Xu, Xu-Guang Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We propose a novel method to measure the strength and isospin dependence of short-range correlations (SRCs) in nuclei with their collisions at relativistic energies. Since nucleons in the high-momentum tail (HMT) induced by SRCs have large transverse velocities, we find that measuring the yield ratio of free spectator neutrons at large to small transverse distances detected by Zero-Degree Calorimeter (ZDC) array may probe the fraction of nucleons in the HMT. In addition, measuring the yield ratio of ZDC neutrons in central $^{96}$Zr+$^{96}$Zr to $^{96}$Ru+$^{96}$Ru collisions at large transverse distances may probe the isospin dependence of the HMT and SRCs. Compared to traditional scattering experiments, our study illustrates that relativistic heavy-ion collisions may serve as an alternative way of measuring SRCs in colliding nuclei with less final-state interactions.&lt;/p&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 08:43:31 GMT</pubDate>
-      <guid isPermaLink="false">2609.29237v1</guid>
-      <dc:creator>Lu-Meng Liu</dc:creator>
-      <dc:creator>Jun Xu</dc:creator>
-      <dc:creator>Xu-Guang Huang</dc:creator>
-    </item>
-    <item>
-      <title>Simulating the emission source function in very peripheral relativistic heavy-ion collisions</title>
-      <link>http://arxiv.org/abs/2609.28394v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Angel Reina Ramírez, Volodymyr Magas, Juan M. Torres-Rincon&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present a microscopic femtoscopic investigation of the space-time emission source in low-multiplicity (80--90\% centrality) $\text{Pb}-\text{Pb}$ collisions at $\sqrt{s_{NN}} = 5.02~\text{TeV}$, using a hybrid transport framework coupling SMASH initial conditions, 3+1D viscous hydrodynamics (vHLLE), and a SMASH hadronic cascade afterburner. Access to the full space-time evolution of the produced particles allows for the direct reconstruction of emission source functions in both the Longitudinally Comoving System and the Pair Rest Frame. We study identical pairs of mesons ($ππ$, $KK$) and baryons ($pp$), as well as cross-species combinations, while explicitly isolating the contributions from primordial particles, hadronic rescattering, and long-lived resonance decays. Our analysis shows that simple Gaussian fits are inadequate for precision source analyses, whereas a combined Gaussian plus exponential parametrization better captures the compact core and the extended tail. Finally, the extracted Gaussian core radii, $R_{\text{core}}$, for our very peripheral collisions demonstrate an approximate $m_T$-scaling behavior rather similar to the one observed in pp reactions.&lt;/p&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 17:02:32 GMT</pubDate>
-      <guid isPermaLink="false">2609.28394v1</guid>
-      <dc:creator>Angel Reina Ramírez</dc:creator>
-      <dc:creator>Volodymyr Magas</dc:creator>
-      <dc:creator>Juan M. Torres-Rincon</dc:creator>
     </item>
   </channel>
 </rss>
