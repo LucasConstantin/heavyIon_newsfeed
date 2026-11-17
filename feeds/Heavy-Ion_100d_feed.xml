@@ -5,9 +5,57 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:20:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>LHC Based Antimuon-Nucleus Collider LH$μ$C: Nucleus Options</title>
+      <link>http://arxiv.org/abs/2611.17849v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ali Can Canbay, Burak Dagli, Arda Goroglu, Yigitali Karaca, Umit Kaya, Bora Ketenoglu, Saleh Sultansoy, Frank Zimmermann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nucleus options of the LH$μ$C, an antimuon-hadron collider based on the LHC, are presented. Ultra-cold $μ^+$ beams, based on the technology of the J-PARC muon $g-2$/EDM experiment as proposed for $μ$TRISTAN, are accelerated to 1 TeV in either a $μ$TRISTAN-type booster or a booster housed in the LH$e$C energy-recovery-linac tunnel, and collide with LHC nucleus beams in a 3 km main ring tangential to the LHC. Collisions with Pb, Xe, O and Ne beams provide centre-of-mass energies from 13.1 to 47.9 TeV, i.e. about 3.3 TeV per nucleon. Luminosities and beam-beam tune shifts are evaluated with the AloHEP software. For $μ$-Pb collisions, the luminosity reaches $2.7\times10^{30}$ ($2.2\times10^{30}$) cm$^{-2}$s$^{-1}$ with the $μ$TRISTAN-type (ERL-based) booster, i.e. $5.6\times10^{32}$ ($4.5\times10^{32}$) cm$^{-2}$s$^{-1}$ per nucleon, which a Brinkmann-Dohlus dynamic focusing scheme could increase by a factor of 2-3. The physics potential is discussed, including an extension of the kinematic reach by a factor of about 20 with respect to the LH$e$C, access to parton saturation at perturbative scales, nuclear parton distributions, photon-induced processes and charged-current flavour separation.&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 07:31:06 GMT</pubDate>
+      <guid isPermaLink="false">2611.17849v1</guid>
+      <dc:creator>Ali Can Canbay</dc:creator>
+      <dc:creator>Burak Dagli</dc:creator>
+      <dc:creator>Arda Goroglu</dc:creator>
+      <dc:creator>Yigitali Karaca</dc:creator>
+      <dc:creator>Umit Kaya</dc:creator>
+      <dc:creator>Bora Ketenoglu</dc:creator>
+      <dc:creator>Saleh Sultansoy</dc:creator>
+      <dc:creator>Frank Zimmermann</dc:creator>
+    </item>
+    <item>
+      <title>Novel observables for exploring jet quenching effects in individual jets</title>
+      <link>http://arxiv.org/abs/2611.17801v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jin-Wen Kang, Sa Wang, Meng-Quan Yang, Ben-Wei Zhang, Enke Wang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We introduce event-shape observables in the jet frame to characterize intra-jet shapes and study medium modifications in heavy-ion collisions. Using the JEWEL model, we investigate jet constituent angular and transverse momentum distributions, together with two representative event-shape observables, transverse thrust $τ_\perp$ and transverse sphericity $S_\perp$, in $p$+$p$ and 0--10% central Pb+Pb collisions at $\sqrt{s_{\mathrm{NN}}} = 5.02\,\mathrm{TeV}$. These observables are evaluated after transforming the jet constituent momenta into the jet frame. The intra-jet shape distributions in Pb+Pb collisions shift toward larger values relative to those in $p$+$p$ collisions, indicating more isotropic distributions of constituent transverse momenta. Comparisons between calculations with and without recoil, along with the dependence on the constituent transverse momentum threshold, indicate that medium response plays an important role in these modifications. These results suggest that jet-frame event-shape observables provide sensitive probes of medium response in jet quenching, complementary to single-particle angular and transverse momentum distributions.&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 06:27:31 GMT</pubDate>
+      <guid isPermaLink="false">2611.17801v1</guid>
+      <dc:creator>Jin-Wen Kang</dc:creator>
+      <dc:creator>Sa Wang</dc:creator>
+      <dc:creator>Meng-Quan Yang</dc:creator>
+      <dc:creator>Ben-Wei Zhang</dc:creator>
+      <dc:creator>Enke Wang</dc:creator>
+    </item>
+    <item>
+      <title>Searching for signatures of criticality in heavy-ion collisions using two-pion correlation functions</title>
+      <link>http://arxiv.org/abs/2611.17717v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Alejandro Ayala, Santiago Bernal-Langarica, Máté Csanád, Isabel Domínguez, Irving I. Gaspar, Luis A. Hernández, Johannes Jahan, Micheal Kahangirwe, Jamie M. Karthein, Dániel Kincses, Grégoire Pihan, Tomáš Poledníček, María Elena Tejeda-Yeomans, Boris Tomášik&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study possible signatures of the existence of a Quantum Chromodynamics (QCD) critical end-point in low-energy relativistic heavy-ion collisions using two-pion femtoscopy. We simulate central $^{209}\mathrm{Bi}+^{209}\mathrm{Bi}$ collisions at center-of-mass energies ranging from $\sqrt{s_{NN}}=5.8$ to 11 GeV using the EPOS 4.0.3 framework, incorporating an equation of state that explicitly includes a critical end-point and is compatible with lattice QCD results at small baryon chemical potentials. We analyze the pion pair-distance distribution and the corresponding two-pion correlation function by fitting them with Lévy distributions in configuration and momentum spaces, respectively. We find a weak dependence of the source parameters on the collision energy below $\sqrt{s_{NN}}=9.2$ GeV, followed by a change in trend at higher energies, particularly in the intercept parameter $λ$. This behavior may be associated with a decreasing fraction of pions coming from the core and an increasing contribution from long-lived resonance decays. Within the present analysis, we do not identify an unambiguous signal attributable to the critical end-point. A comparison with simulations employing different equation of state parameters to vary the strength of the critical point, as well as with simulations without a critical end-point, is necessary to establish the sensitivity of these observables to critical phenomena.&lt;/p&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 03:53:10 GMT</pubDate>
+      <guid isPermaLink="false">2611.17717v1</guid>
+      <dc:creator>Alejandro Ayala</dc:creator>
+      <dc:creator>Santiago Bernal-Langarica</dc:creator>
+      <dc:creator>Máté Csanád</dc:creator>
+      <dc:creator>Isabel Domínguez</dc:creator>
+      <dc:creator>Irving I. Gaspar</dc:creator>
+      <dc:creator>Luis A. Hernández</dc:creator>
+      <dc:creator>Johannes Jahan</dc:creator>
+      <dc:creator>Micheal Kahangirwe</dc:creator>
+      <dc:creator>Jamie M. Karthein</dc:creator>
+      <dc:creator>Dániel Kincses</dc:creator>
+      <dc:creator>Grégoire Pihan</dc:creator>
+      <dc:creator>Tomáš Poledníček</dc:creator>
+      <dc:creator>María Elena Tejeda-Yeomans</dc:creator>
+      <dc:creator>Boris Tomášik</dc:creator>
+    </item>
     <item>
       <title>Covariant Wigner--Weyl calculus, non-dissipative transport and the chiral anomaly in inhomogeneous systems with nontrivial momentum-space topology</title>
       <link>http://arxiv.org/abs/2611.17178v1</link>
@@ -130,16 +178,6 @@
       <guid isPermaLink="false">2611.15696v1</guid>
       <dc:creator>Wu-yen Chuang</dc:creator>
       <dc:creator>Yi-Jing Tseng</dc:creator>
-    </item>
-    <item>
-      <title>Covariant Wigner function and spin polarization of the Rarita-Schwinger field</title>
-      <link>http://arxiv.org/abs/2610.37382v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Matteo Buzzegoli, Aleksandar Gecic, Rajeev Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the covariant Wigner function for the spin-$3/2$ Rarita-Schwinger field and its relation to the spin density matrix and the mean spin polarization vector. We obtain a formula relating the covariant Wigner function to the mean spin vector for a weakly interacting field. We then calculate the mean spin vector induced by thermal vorticity, thermal shear, and spin potential at local thermal equilibrium in the Belinfante, canonical and GLW pseudo-gauges. The resulting formula can be used to predict the spin polarization of spin-$3/2$ hadrons, such as the $Ω^-$, in heavy-ion collisions. Differences in the thermal-shear induced polarization in the canonical and Belinfante pseudo-gauges make it possible to use local spin polarization measurements of the $Ω^-$ to discriminate between the two pseudo-gauges. Lastly, we obtain the axial vortical effect conductivity for the free massive spin-$3/2$ Rarita-Schwinger field.&lt;/p&gt;</description>
-      <pubDate>Wed, 11 Nov 2026 15:39:04 GMT</pubDate>
-      <guid isPermaLink="false">2610.37382v2</guid>
-      <dc:creator>Matteo Buzzegoli</dc:creator>
-      <dc:creator>Aleksandar Gecic</dc:creator>
-      <dc:creator>Rajeev Singh</dc:creator>
     </item>
     <item>
       <title>Formation of superheavy elements 119 and 120 in the $^{50}$Ti+$^{249}$Bk and $^{50}$Ti+$^{249}$Cf reactions: dinuclear system dynamics, survival probability, and decay chains of the evaporation residues</title>
@@ -727,15 +765,6 @@
       <dc:creator>Xin-Nian Wang</dc:creator>
     </item>
     <item>
-      <title>Orientation effects of deformed nuclei in intermediate-energy nuclear scattering</title>
-      <link>http://arxiv.org/abs/2610.38132v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; W. Horiuchi, K. Hagino&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-28&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate the effects of nuclear deformation on intermediate-energy nuclear scattering within the Glauber theory. A formalism that explicitly incorporates the orientation dependence of deformed intrinsic states is derived, in which reaction observables are first computed with a fixed orientation and then the angle average of the reaction observables is taken afterwards. This formalism is applied to elastic scattering and total reaction cross sections. In addition, a new expansion scheme of the optical-limit approximation is proposed and shown to include contributions from a class of nuclear excitations, allowing a simple estimate of part of the total inelastic scattering cross section. The orientation dependence is generally weak for both proton- and carbon-target scattering and supports the validity of conventional treatments with an angle averaged density for light and medium-heavy nuclei. However, noticeable deviations emerge for strongly deformed heavy nuclei. The present analysis further demonstrates that the summed inelastic scattering cross section to rotationally excited states can be interpreted as a manifestation of fluctuations of the nuclear surface density associated with deformation. The present study provides a quantum-mechanical interpretation of deformation effects in intermediate-energy nuclear reactions and suggests a pathway toward a more reliable theoretical description of interaction cross section measurements. Brief comments on the role of nuclear deformation in low-energy heavy-ion reactions and ultra-relativistic heavy-ion collisions are also made.&lt;/p&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 01:12:29 GMT</pubDate>
-      <guid isPermaLink="false">2610.38132v1</guid>
-      <dc:creator>W. Horiuchi</dc:creator>
-      <dc:creator>K. Hagino</dc:creator>
-    </item>
-    <item>
       <title>Testing thermal equilibrium in heavy-ion collisions with electric-charge fluctuations</title>
       <link>http://arxiv.org/abs/2610.37829v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Peter Christiansen&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic heavy-ion collisions exhibit several phenomena commonly associated with the formation of a thermalized quark--gluon plasma. However, the observation of similar phenomena in small systems, and their non-thermal microscopic descriptions there, raises questions about this assumption.
@@ -744,15 +773,6 @@
       <pubDate>Tue, 27 Oct 2026 18:42:59 GMT</pubDate>
       <guid isPermaLink="false">2610.37829v1</guid>
       <dc:creator>Peter Christiansen</dc:creator>
-    </item>
-    <item>
-      <title>Effects of Short-Range Correlations on Quarkyonic Matter</title>
-      <link>http://arxiv.org/abs/2610.37502v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; K. Folias, Ch. C. Moustakidis&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-27&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;In this work, we focus on investigating the impact of the short-range correlations on the properties of quarkyonic matter. These correlations induce the scattering of nucleons to momenta exceeding the Fermi momentum, thereby altering the momentum-space occupation distribution that underlies the quarkyonic framework. In particular, we examine to what extent the emergence of a high-momentum tail, due to the short-range nucleon-nucleon correlations, in the momentum distribution, for momenta exceeding the Fermi momentum, affects the fundamental properties of quarkyonic matter, such as the energy density, pressure, and speed of sound, among others. In fact, at high densities, the behavior of the momentum distribution has been established, both experimentally and theoretically, to follow a characteristic $\sim 1/k^4$ dependence at large momenta. To the best of our knowledge, this effect on quarkyonic matter has not yet been systematically investigated. Moreover, this experimentally confirmed feature of the momentum distribution suggests that heavy-ion collisions may probe quarkyonic matter, underscoring the importance of incorporating short-range correlations into a complete quarkyonic model.&lt;/p&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 16:24:49 GMT</pubDate>
-      <guid isPermaLink="false">2610.37502v1</guid>
-      <dc:creator>K. Folias</dc:creator>
-      <dc:creator>Ch. C. Moustakidis</dc:creator>
     </item>
     <item>
       <title>Measurement of spectator fragment pseudorapidity distributions with the STAR Event Plane Detector</title>
@@ -956,6 +976,15 @@
       <dc:creator>Raghunath Sahoo</dc:creator>
     </item>
     <item>
+      <title>Demonstrating CBM Capabilities through $Λ$ Reconstruction with mCBM</title>
+      <link>http://arxiv.org/abs/2611.17353v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yue Hang Leung&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; physics.ins-det&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Compressed Baryonic Matter (CBM) experiment at the upcoming Facility for Antiproton and Ion Research (FAIR) is a high-rate fixed-target experiment designed to investigate nuclear matter at extreme baryon densities in relativistic nucleus-nucleus collisions. To enable high-statistics measurements of rare probes, CBM is designed to operate at event rates up to 10 MHz. This necessitates the development of fast and radiation-tolerant detectors, self-triggered front-end electronics, a free-streaming data acquisition architecture, and real-time event reconstruction capabilities. Prototype versions and pre-series productions of the CBM detector systems have been deployed in the mini-CBM demonstrator setup mCBM - an experimental precursor comprising sub-components of all major CBM systems, installed at the SIS18 facility of GSI/FAIR within the FAIR Phase-0 program.
+  In 2024, Ni+Ni collisions at a kinetic beam energy of 1.93 AGeV and an average interaction rate of about 500 kHz were successfully recorded. This dataset enables a detailed evaluation of the operational performance of the detector systems as well as the complete CBM data chain, while the reconstruction of $Λ$ baryons, which constitute a relatively rare signal within the limited geometrical acceptance of mCBM, serves as a natural benchmark. This paper presents the first results on $Λ$ baryon reconstruction with the mCBM experiment, demonstrating the functionality of the detector technologies and the data chain for the upcoming full-scale CBM experiment.&lt;/p&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 03:03:23 GMT</pubDate>
+      <guid isPermaLink="false">2611.17353v1</guid>
+      <dc:creator>Yue Hang Leung</dc:creator>
+    </item>
+    <item>
       <title>Deconfinement and the Charge Susceptibility Matrix of QCD</title>
       <link>http://arxiv.org/abs/2610.14386v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Christopher Grace, Brady Mowbray, Christopher Plumberg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;At sufficiently high temperatures, lattice Quantum Chromodynamics (QCD) calculations predict that nuclear matter undergoes a rapid crossover to a novel, deconfined state known as the quark-gluon plasma (QGP), in which quark flavors essentially behave like independent particles. Here we explore the nature of this transition by introducing two new thermodynamic observables which we refer to as the diagonality and the rescaled curvature of the QCD equation of state (EoS). By comparing these observables in the case of lattice QCD calculations with those of simple toy models and more sophisticated hadronic resonance models, we show that both the diagonality and the rescaled curvature provide complementary insights into the degree of independence between different quark flavors and the underlying degrees of freedom in the system as functions of temperature. We propose that these observables may help to clarify the nature of the transition region and the onset of deconfinement in nuclear matter.&lt;/p&gt;</description>
@@ -1054,27 +1083,6 @@
       <guid isPermaLink="false">2610.02313v1</guid>
       <dc:creator>Nora Brambilla</dc:creator>
       <dc:creator>Tom Magorsch</dc:creator>
-    </item>
-    <item>
-      <title>Measurement of prompt and non-prompt ${\rm D}^{\rm *+}$-meson spin alignment in pp collisions at $\sqrt{s}$ = 13.6 TeV$</title>
-      <link>http://arxiv.org/abs/2609.39713v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A precise measurement of prompt and non-prompt ${\rm D}^{\rm *+}$-meson spin alignment with respect to the helicity and production axes in proton-proton (pp) collisions at $\sqrt{s} = 13.6$ TeV is presented, using data collected with the ALICE experiment at the LHC. The spin alignment is quantified by measuring the diagonal spin density matrix element $ρ_{\rm 00}$ for ${\rm D}^{\rm *+}$ mesons at midrapidity ($|y|&lt;0.8$). The measurement is performed in the transverse-momentum ($p_{\rm T}$) range $3&lt;p_{\rm T}&lt;100$ GeV/$c$ for prompt ${\rm D}^{\rm *+}$ mesons and $3&lt;p_{\rm T}&lt;30$ GeV/$c$ for non-prompt ${\rm D}^{\rm *+}$ mesons, respectively. The measured $ρ_{\rm 00}$ values for prompt ${\rm D}^{\rm *+}$ mesons are consistent with the unpolarised expectation of $1/3$ over the entire $p_{\rm T}$ range, indicating no evidence of spin alignment. In contrast, $ρ_{\rm 00}$ of non-prompt ${\rm D}^{\rm *+}$ mesons exhibit a deviation from $1/3$, consistent with expectations from weak beauty-hadron decays and well described by PYTHIA 8 simulations coupled with the EvtGen decay package. These results confirm and extend previous measurements, providing a precise baseline for future studies of ${\rm D}^{\rm *+}$ spin alignment in heavy-ion collisions.&lt;/p&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 13:27:58 GMT</pubDate>
-      <guid isPermaLink="false">2609.39713v1</guid>
-      <dc:creator>ALICE Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Advancing Nuclear Physics with Machine Learning and Artificial Intelligence</title>
-      <link>http://arxiv.org/abs/2609.38711v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Wanbing He, Qingfeng Li, Yugang Ma, Zhongming Niu, Junchen Pei, Yingxun Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-09-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Machine learning (ML) and artificial intelligence (AI) are becoming powerful tools in scientific research across various disciplines. In this review, we summarize recent progress in AI-assisted studies of nuclear structure and reaction observables, heavy-ion collisions and dense nuclear matter properties, many-body wave functions, experimental facilities and data analysis. This review focus on new progress since the last review in 2023, and machine learning in nuclear physics is evolving from purely data inferences to physics informed learning. Future directions on the integration of physical knowledge with modern learning architectures, large foundation models and other emerging methods are also reviewed. These developments suggest that AI is enabling and advancing new approaches towards most challenging nuclear physics problems.&lt;/p&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 00:48:56 GMT</pubDate>
-      <guid isPermaLink="false">2609.38711v1</guid>
-      <dc:creator>Wanbing He</dc:creator>
-      <dc:creator>Qingfeng Li</dc:creator>
-      <dc:creator>Yugang Ma</dc:creator>
-      <dc:creator>Zhongming Niu</dc:creator>
-      <dc:creator>Junchen Pei</dc:creator>
-      <dc:creator>Yingxun Zhang</dc:creator>
     </item>
   </channel>
 </rss>
