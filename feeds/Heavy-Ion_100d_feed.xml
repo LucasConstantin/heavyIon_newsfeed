@@ -5,9 +5,48 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:15:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Strangeness-to-entropy ratio across the QCD crossover</title>
+      <link>http://arxiv.org/abs/2611.22986v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Artemiy Lysenko, Mark I. Gorenstein, Marek Gazdzicki, Roman Poberezhniuk, Volodymyr Vovchenko&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the absolute open-strangeness density $n_{|S|}$ of strongly interacting matter at vanishing conserved-charge chemical potentials. Unlike the net-strangeness susceptibility $χ_2^S$, this quantity is not a derivative of the QCD partition function and requires a microscopic specification of the strangeness carriers. We use an equation of state that interpolates between an interacting hadron resonance gas and a quark-gluon plasma, with parameters fixed previously by lattice-QCD bulk thermodynamics. The ratio of $n_{|S|}$ to the entropy density $s$ follows the hadron-gas behavior below $T\simeq120$ MeV, rises above the ideal massless $2+1$-flavor limit of approximately $0.053$ across the crossover, and approaches this limit from above at high temperature. The same equation of state, minimally extended to finite $μ_S$, captures the temperature dependence of the lattice-QCD $χ_2^S$. For uncorrelated singly-strange Boltzmann particles, the strangeness fluctuation factor $F_S=χ_2^S/(n_{|S|}/T^3)$ equals unity. Within the constructed equation of state, it deviates from unity by less than $10\%$. This allows us to estimate $n_{|S|}/s$ from lattice-QCD data on $χ_2^S$ and $s$. The lattice-based estimate reaches a maximum of $n_{|S|}/s\simeq0.063$ at $T\simeq220$ MeV, followed by a $20\%$ decrease towards the high-temperature limit.&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 16:03:43 GMT</pubDate>
+      <guid isPermaLink="false">2611.22986v1</guid>
+      <dc:creator>Artemiy Lysenko</dc:creator>
+      <dc:creator>Mark I. Gorenstein</dc:creator>
+      <dc:creator>Marek Gazdzicki</dc:creator>
+      <dc:creator>Roman Poberezhniuk</dc:creator>
+      <dc:creator>Volodymyr Vovchenko</dc:creator>
+    </item>
+    <item>
+      <title>Strange-Metal Magnetotransport without a Strange-Metal Ground State</title>
+      <link>http://arxiv.org/abs/2611.22985v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yongjun Ahn, Matteo Baggioli, Hyun-Sik Jeong, Keun-Young Kim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Strange metals display a linear-in-temperature resistivity, $ρ_{xx}\sim T$, and a quadratic inverse Hall angle, $\cotΘ_H\sim T^2$. These seemingly universal laws are often attributed to quantum criticality, yet no controlled theory realizes both at an asymptotic zero-temperature fixed point, and experimentally they persist only over finite temperature windows. Here, we show that these properties can arise from an intermediate critical regime that does not govern the ground state. Using a minimal class of holographic models, we construct a fully backreacted realization of both scalings, which appear within a finite temperature window controlled by an emergent intermediate scaling geometry. The window is bounded by relevant deformations of the corresponding fixed point: momentum relaxation sets the upper edge, while the magnetic field $B$ closes it from below at $T_{\min}\sim B^{2/3}$, up to logarithmic corrections. At $T_{\min}$, strange-metal transport, the scaling geometry, and critical thermodynamics break down together. Our results point to intermediate criticality as a distinct route to strange-metal transport, and suggest that it can be identified by the simultaneous breakdown of transport and thermodynamic scaling under a magnetic field.&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 16:02:50 GMT</pubDate>
+      <guid isPermaLink="false">2611.22985v1</guid>
+      <dc:creator>Yongjun Ahn</dc:creator>
+      <dc:creator>Matteo Baggioli</dc:creator>
+      <dc:creator>Hyun-Sik Jeong</dc:creator>
+      <dc:creator>Keun-Young Kim</dc:creator>
+    </item>
+    <item>
+      <title>Observation of Strong Directed Flow for $φ$ Mesons in the High Baryon Density Region at RHIC</title>
+      <link>http://arxiv.org/abs/2611.20400v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Guangyu Zheng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report measurements of the rapidity-odd directed flow ($v_{1}$) of $φ$ mesons in 10--40\% Au+Au collisions at $\sqrt{sNN}=3.0$--4.5 GeV from the STAR fixed-target program at RHIC, together with the collider-energy measurement at $\sqrt{sNN}=7.7$ GeV. Despite its mesonic nature, the $φ$-meson $v_{1}$ exhibits a magnitude comparable to that of protons and $Λ$ baryons and is significantly larger than that of $K^{0}_{S}$ mesons in the high-baryon-density region. Comparisons with UrQMD calculations indicate that the observed $φ$-meson directed flow is consistent with production through high-mass baryon resonances and the collective motion of baryons influenced by baryonic mean-field interactions. These results provide new experimental constraints on baryon-resonance production and strange-hadron transport dynamics in dense QCD matter.&lt;/p&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 08:42:19 GMT</pubDate>
+      <guid isPermaLink="false">2611.20400v2</guid>
+      <dc:creator>Guangyu Zheng</dc:creator>
+    </item>
+    <item>
+      <title>Covariant Wigner--Weyl calculus, non-dissipative transport and the chiral anomaly in inhomogeneous systems with nontrivial momentum-space topology</title>
+      <link>http://arxiv.org/abs/2611.17178v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; M. A. Zubkov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We review, systematize and extend the covariant Wigner--Weyl calculus for fermions in non-Abelian gauge fields and its applications to systems inhomogeneous in coordinate space with nontrivial momentum-space topology: the non-Abelian chiral separation and quantum Hall effects, their stability under interactions, the Fermi-surface invariant of inhomogeneous systems and the non-elliptic models that carry it, the factorization of the chiral anomaly into the instanton number and the momentum-space invariant $N_3$, and the noncommutative-geometric form of the invariants.&lt;/p&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 21:44:19 GMT</pubDate>
+      <guid isPermaLink="false">2611.17178v2</guid>
+      <dc:creator>M. A. Zubkov</dc:creator>
+    </item>
     <item>
       <title>Open Heavy Flavor in Nuclear Collisions: From Lattice QCD to Observables</title>
       <link>http://arxiv.org/abs/2611.21601v1</link>
@@ -76,14 +115,6 @@
       <dc:creator>Z. Y. Meng</dc:creator>
       <dc:creator>J. C. Pei</dc:creator>
       <dc:creator>F. R. Xu</dc:creator>
-    </item>
-    <item>
-      <title>Observation of Strong Directed Flow for $φ$ Mesons in the High Baryon Density Region at RHIC</title>
-      <link>http://arxiv.org/abs/2611.20400v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Guangyu Zheng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-16&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report measurements of the rapidity-odd directed flow ($v_{1}$) of $φ$ mesons in 10--40\% Au+Au collisions at $\sqrt{sNN}=3.0$--4.5 GeV from the STAR fixed-target program at RHIC, together with the collider-energy measurement at $\sqrt{sNN}=7.7$ GeV. Despite its mesonic nature, the $φ$-meson $v_{1}$ exhibits a magnitude comparable to that of protons and $Λ$ baryons and is significantly larger than that of $K^{0}_{S}$ mesons in the high-baryon-density region. Comparisons with UrQMD calculations indicate that the observed $φ$-meson directed flow is consistent with production through high-mass baryon resonances and the collective motion of baryons influenced by baryonic mean-field interactions. These results provide new experimental constraints on baryon-resonance production and strange-hadron transport dynamics in dense QCD matter.&lt;/p&gt;</description>
-      <pubDate>Mon, 16 Nov 2026 01:59:31 GMT</pubDate>
-      <guid isPermaLink="false">2611.20400v1</guid>
-      <dc:creator>Guangyu Zheng</dc:creator>
     </item>
     <item>
       <title>Study on net-proton number fluctuations in Au+Au collisions at $\sqrt{\textit{s}_{\text{NN}}}$ = 7.7-27 GeV with the SMASH model</title>
@@ -192,14 +223,6 @@
       <dc:creator>Boris Tomášik</dc:creator>
     </item>
     <item>
-      <title>Covariant Wigner--Weyl calculus, non-dissipative transport and the chiral anomaly in inhomogeneous systems with nontrivial momentum-space topology</title>
-      <link>http://arxiv.org/abs/2611.17178v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; M. A. Zubkov&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We review, systematize and extend the covariant Wigner--Weyl calculus for fermions in non-Abelian gauge fields and its applications to systems inhomogeneous in coordinate space with nontrivial momentum-space topology: the non-Abelian chiral separation and quantum Hall effects, their stability under interactions, the Fermi-surface invariant of inhomogeneous systems and the non-elliptic models that carry it, with their equilibrium chiral magnetic effect, the factorization of the chiral anomaly into the instanton number and the momentum-space invariant $N_3$, and the noncommutative-geometric form of the invariants. Previous results are brought to common conventions, with hypotheses stated and notions defined. New results: the characterization of the operators whose covariant symbol is gauge-field independent and the ordering independence of the integrated anomaly; the anomaly factorization on a closed four-manifold without the homotopy hypothesis, the factorization into instanton number and $N_3$ holding exactly when the untwisted index vanishes; the Luttinger--Ward identity behind the renormalized-velocity current and the continuum conditions replacing the compactness of the Brillouin zone in the non-renormalization theorems; the identification of the Moyal $N_3$ of the chiral separation effect with the fibre degree of the principal symbol; the residue evaluation of the Fermi-surface invariant of the non-elliptic models, in the continuum and on a lattice, and the equilibrium current of the conserved charge along the magnetic field that it implies -- a chiral magnetic effect permitted by the non-Hamiltonian form of these models -- which the model with spherical Fermi surfaces trades for a chiral separation effect and a single-Weyl anomaly, and a modification of it restores at the price of the anomaly; and the index-pairing form of the chiral separation invariant.&lt;/p&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 17:48:29 GMT</pubDate>
-      <guid isPermaLink="false">2611.17178v1</guid>
-      <dc:creator>M. A. Zubkov</dc:creator>
-    </item>
-    <item>
       <title>Observation of the $Λ(1520)$ suppression in Pb-Pb collisions at $\sqrt{s_{\rm NN}} = 5.02$ TeV</title>
       <link>http://arxiv.org/abs/2611.17010v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A suppression of the baryonic $Λ(1520)$ resonance yield relative to the $Λ$ ground state by $0.589 \pm 0.015^{\rm stat} \pm 0.086^{\rm syst}$ is observed in central relative to peripheral Pb-Pb collisions, with a significance of $6.8σ$. The $Λ(1520)$ production at midrapidity is measured in six centrality classes in Pb-Pb collisions for the first time at $\sqrt{s_{\rm NN}} = 5.02$ TeV with ALICE. The $Λ(1520)$ is a sensitive probe of late-stage hadronic interactions since its lifetime is comparable to that of the hadronic phase in heavy-ion collisions at the LHC. Statistical hadronization model calculations, predicting yields at chemical freeze-out, overestimate the measured ratio. The transverse-momentum spectra and the centrality dependence of the suppression are reproduced by the MUSIC hydrodynamic model only when coupled to the SMASH hadronic transport afterburner, which implements rescattering and regeneration in the late hadronic stage. The measurement, which represents the first observation of resonance suppression within a single collision system, provides a stringent test of the late-stage dynamics and evidence that hadronic interactions substantially modify reconstructible resonance yield.&lt;/p&gt;</description>
@@ -235,15 +258,6 @@
       <guid isPermaLink="false">2611.16904v1</guid>
       <dc:creator>Stanislaw Mrowczynski</dc:creator>
       <dc:creator>Maciej Pylak</dc:creator>
-    </item>
-    <item>
-      <title>Is Spin Slow in Hot QCD?</title>
-      <link>http://arxiv.org/abs/2611.16684v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Zi-Hao Liu, Mei Huang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Promoting spin to a hydrodynamic variable requires slow relaxation, as mass-suppressed helicity flips in hot QCD suggest. Using the full leading-order collision operator, we show instead that light-quark spin damps at the transport rate $g^4T\ln(1/g)$, nearly as fast as vector currents. Since spatial spin locks to momentum, helicity-conserving soft, small-angle scatterings readily rotate it. Damping involves multiple kinetic modes beyond a single relaxation time, global rotation adds only reversible precession, and stronger coupling further disfavors a slow spin mode in quark-gluon plasma.&lt;/p&gt;</description>
-      <pubDate>Thu, 12 Nov 2026 11:59:08 GMT</pubDate>
-      <guid isPermaLink="false">2611.16684v1</guid>
-      <dc:creator>Zi-Hao Liu</dc:creator>
-      <dc:creator>Mei Huang</dc:creator>
     </item>
     <item>
       <title>Particle diffusion in magnetized QCD matter with a realistic equation of state</title>
@@ -284,17 +298,6 @@
       <dc:creator>Wenbin Zhao</dc:creator>
     </item>
     <item>
-      <title>U(1)-Symmetric Spin SYK Models: Ordering, Chaos, and Transport</title>
-      <link>http://arxiv.org/abs/2611.15896v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shiyong Guo, Enrico Rinaldi, Jad C. Halimeh, Brian Swingle&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; cond-mat.stat-mech&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The Sachdev--Ye--Kitaev (SYK) model provides an analytically controlled setting for strongly interacting quantum dynamics and holography, but its fermionic formulation leads to nonlocal encoding overheads on qubit-based quantum processors. We study a U(1)-symmetric spin analogue of the complex SYK model, constructed from random charge-conserving $q$-spin interactions that are native to a qubit Hilbert space. In the large-$N$, large-$q$ limit, the model reproduces the leading saddle-point structure of complex fermionic SYK under the identification of chemical potential with magnetic field and charge density with magnetization. We investigate the finite-$N$, finite-$q$ regime using exact diagonalization. A U(1)-invariant ordering susceptibility increases with system size for $q = 2, 4$ but decreases for $q = 6$, while bulk-spectrum level statistics are consistent with the Gaussian orthogonal ensemble at half filling and the Gaussian unitary ensemble in the adjacent magnetization sector. We further construct coupled-cluster chains and obtain domain-wall dynamics consistent with diffusive magnetization transport in a small-cluster regime accessible to matrix-product-state simulations. These results establish analytical benchmarks and finite-size signatures of ordering, quantum chaos, and magnetization transport in U(1)-symmetric spin-SYK models, and they motivate quantum simulation of the low-temperature, large-system regime, which remains difficult for classical methods.&lt;/p&gt;</description>
-      <pubDate>Wed, 11 Nov 2026 19:01:55 GMT</pubDate>
-      <guid isPermaLink="false">2611.15896v1</guid>
-      <dc:creator>Shiyong Guo</dc:creator>
-      <dc:creator>Enrico Rinaldi</dc:creator>
-      <dc:creator>Jad C. Halimeh</dc:creator>
-      <dc:creator>Brian Swingle</dc:creator>
-    </item>
-    <item>
       <title>Accelerating exact solutions of relativistic hydrodynamics and Levy-shaped freeze-out sources</title>
       <link>http://arxiv.org/abs/2611.15727v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Máté Csanád, Ágoston Benyó, Márton Nagy, Bence Szentkuti&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Femtoscopic measurements in heavy-ion collisions indicate that the pion source is Lévy-stable rather than Gaussian, while the source radii still follow the hydrodynamic scaling $R^2\propto 1/m_T$. We call this coexistence the Lévy hydro puzzle. For a perfect fluid with $\varepsilon=κp$ and $p=nT$, flow and pressure form a closed system, and density and temperature can be ``dressed'' by an arbitrary comoving function, generalising a freedom known from Hubble-type solutions to arbitrary flows. We show that, at nonzero pair momentum, the source is bounded by the pressure on the freeze-out hypersurface, so its tail can never be heavier than the pressure tail. This yields a criterion for power-law source tails with two routes: either the outer flow is ultra-relativistic and the temperature grows at least linearly (Hubble-type solutions), or the flow is slow, the temperature uniform, and the proper acceleration falls off as $1/r$. We present a new family of relativistic, accelerating, self-similar potential flows ($λ$-PF) and a new dressing of Gubser's flow. The acceleration of $λ$-PF generates no power-law tail, but with a Hubble-type dressing its source tail is Lévy-stable in a range of parameters, generalising the Hubble-type Lévy source to accelerating cores. The isothermally dressed Gubser flow realises the $1/r$ route: its tail exponent lies outside the Lévy-stable range, but over the measured range it gives Lévy-like sources with $1/R^2$ linear in $m_T$. Thus Lévy-like sources and the hydrodynamic $m_T$ scaling are compatible in perfect-fluid hydrodynamics, but hydrodynamics does not create the power-law tail: it is either inherited from a power-law pressure, requiring a $1/r$ acceleration, or put in through the dressing. We outline extensions towards non-spherical geometries and elliptic flow.&lt;/p&gt;</description>
@@ -304,15 +307,6 @@
       <dc:creator>Ágoston Benyó</dc:creator>
       <dc:creator>Márton Nagy</dc:creator>
       <dc:creator>Bence Szentkuti</dc:creator>
-    </item>
-    <item>
-      <title>Critical L-values and genus-zero Gromov--Witten invariants</title>
-      <link>http://arxiv.org/abs/2611.15696v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Wu-yen Chuang, Yi-Jing Tseng&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-11&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; math.AG&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We establish a period comparison for a two-dimensional rational Hodge summand of type $(3,0)+(0,3)$ in a smooth projective threefold over $\mathbb Q$ with $h^{3,0}=1$. Given an algebraic projector onto the summand and a correspondence whose action on the motive of a rational weight-four newform is nonzero after projection to the summand, restriction to the holomorphic de Rham lines identifies motivic morphisms with maps between these lines. Fixing rational generators of the holomorphic de Rham lines determines a unique isomorphism of homological motives. Its Betti realization then yields an exact relation between geometric periods and two critical modular $L$-values. For the Fermat sextic, we construct the correspondence over $\mathbb Q$ and compute its Betti and de Rham actions, determining the scale from algebraic traces and cup-product pairings. Critical-value evaluations and, under mirror comparison and explicit continuation hypotheses, a continued genus-zero Gromov--Witten partition identity follow as corollaries.&lt;/p&gt;</description>
-      <pubDate>Wed, 11 Nov 2026 16:36:16 GMT</pubDate>
-      <guid isPermaLink="false">2611.15696v1</guid>
-      <dc:creator>Wu-yen Chuang</dc:creator>
-      <dc:creator>Yi-Jing Tseng</dc:creator>
     </item>
     <item>
       <title>Formation of superheavy elements 119 and 120 in the $^{50}$Ti+$^{249}$Bk and $^{50}$Ti+$^{249}$Cf reactions: dinuclear system dynamics, survival probability, and decay chains of the evaporation residues</title>
@@ -761,17 +755,6 @@
       <dc:creator>Antonio Vairo</dc:creator>
     </item>
     <item>
-      <title>Complex potential and the thermal width of quarkonium in quark-gluon plasma</title>
-      <link>http://arxiv.org/abs/2610.40220v2</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rasmus Normann Larsen, Peter Petreczky, Jorge Luis Dasilva Golan, Johannes H. Weber&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-lat&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the complex heavy quark anti-quark potential in lattice 2+1 flavor QCD at non-zero temperature. We point out a close relation between the imaginary part of the potential and the thermal quarkonium width. Using this relation, we estimate the thermal width of charmonia and bottomonia at high temperatures, which are not yet accessible with direct lattice QCD calculations of the quarkonium correlation functions and compare these to the results of the T-matrix analysis. For some of the excited quarkonia states, our estimates of the thermal width are smaller than the ones obtained in the T-matrix analysis.&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 13:28:17 GMT</pubDate>
-      <guid isPermaLink="false">2610.40220v2</guid>
-      <dc:creator>Rasmus Normann Larsen</dc:creator>
-      <dc:creator>Peter Petreczky</dc:creator>
-      <dc:creator>Jorge Luis Dasilva Golan</dc:creator>
-      <dc:creator>Johannes H. Weber</dc:creator>
-    </item>
-    <item>
       <title>The role of spin polarization in event-by-event fluctuations</title>
       <link>http://arxiv.org/abs/2610.41386v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiao-Ying He, Li-Juan Zhou, Li-Xin Yang, Qian-Qian Du, De-Xian Wei&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The event-by-event initial state fluctuations constitute a critical physical quantity for understanding the dynamics of high-energy heavy-ion collisions. Due to the extremely limited available experimental data of such fluctuations, it is difficult to constrain or direct the characterization of the underlying initial state properties. This work constrains the correlation function between the initial eccentricity and the asymmetry by employing a parton distribution function that incorporates spin polarization induced by thermal vorticity and thermal shear. Based on the kinetic theory calculations, we found that the asymmetry fluctuations considering spin polarization have a significant splitting effect compared to those without spin polarization. These splitting exhibit pronounced system size and energy dependence. Moreover, the ratios of correlation function display similar system size and energy dependence--particularly in the low-temperature regime ($T \lesssim$ 0.12 GeV). These results suggest that spin polarization may serve as a useful constraint method for the event-by-event initial state fluctuations of heavy-ion collisions.&lt;/p&gt;</description>
@@ -802,32 +785,6 @@
       <dc:creator>Jean-François Paquet</dc:creator>
       <dc:creator>Mayank Singh</dc:creator>
       <dc:creator>Derek Teaney</dc:creator>
-    </item>
-    <item>
-      <title>A systematic study of hydrodynamic attractors in periodically driven systems at weak and strong couplings</title>
-      <link>http://arxiv.org/abs/2610.40877v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aleksas Mazeliauskas, Toshali Mitra, Sören Schlichting, Simon Schneider, Louis Nwakile Onwuka, Martin Vrdoljak&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study equilibration and hydrodynamic response in conformal systems undergoing periodic expansion and contraction along one spatial direction. Using strongly coupled holography (AdS/CFT), weakly coupled kinetic theories (relaxation-time approximation, scalar $φ^4$ theory and the Yang--Mills sector of QCD effective kinetic theory) and hydrodynamics (Navier--Stokes, Müller--Israel--Stewart (MIS) and rBRSSS), we investigate the shear response to a periodic drive of varying amplitude $A$ and frequency $ω$, both analytically in linear response and numerically. We find that, at the linear level, $A\ll 1$, periodically driven systems approach a cyclic attractor that in general differs from Navier--Stokes behaviour. This attractor is universal among kinetic theories and accurately described by MIS theory: for slow driving, $ωτ_π\ll 1$, where $τ_π$ is the shear relaxation time, it approaches the Navier--Stokes limit, whereas for fast driving the shear stress saturates at its non-interacting (free-streaming) value. In strongly coupled holographic systems, the periodic drive excites non-hydrodynamic quasinormal modes, which produce a characteristic ringing in the approach to the cyclic attractor, in contrast to the purely exponential approach found in kinetic theories. This difference is a direct consequence of the distinct non-hydrodynamic spectra of the two classes of theories. Moreover, unlike in kinetic theory, the holographic response is sensitive to the curvature terms of second-order hydrodynamics. Over longer times, non-linear viscous heating, which is quadratic in the drive amplitude, raises the temperature and thereby lowers $ωτ_π$, since $τ_π\sim 1/T$. This induces a slow drift of the cyclic attractor, which eventually converges towards Navier--Stokes hydrodynamics at asymptotically late times.&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 18:59:41 GMT</pubDate>
-      <guid isPermaLink="false">2610.40877v1</guid>
-      <dc:creator>Aleksas Mazeliauskas</dc:creator>
-      <dc:creator>Toshali Mitra</dc:creator>
-      <dc:creator>Sören Schlichting</dc:creator>
-      <dc:creator>Simon Schneider</dc:creator>
-      <dc:creator>Louis Nwakile Onwuka</dc:creator>
-      <dc:creator>Martin Vrdoljak</dc:creator>
-    </item>
-    <item>
-      <title>Learning nuclear mass systematics with hybrid quantum-classical mixtures of experts</title>
-      <link>http://arxiv.org/abs/2610.40022v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Shijiang Ji, Heyi Yang, Zu-Xing Yang, Xiao-Hua Fan, Zhi-Pan Li, Haozhao Liang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-29&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We introduce a mixture-of-experts framework combining sixteen hybrid quantum-classical neural networks with nucleus-dependent classical gating to learn residual corrections to the WS4 nuclear mass model. On a fixed AME2020 test set, the framework reduces the root-mean-square error from 456.22 to 179.83 keV and outperforms a parameter-matched classical counterpart. The learned corrections improve shell-gap systematics near the Sn and Pb shell closures, while analysis of the gating networks identifies shell-related descriptors as the leading inputs. For 66Ca, the model predicts Sn = 0.577 MeV and S2n = -0.252 MeV, allowing two-neutron emission while the one-neutron channel remains closed.&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 13:31:50 GMT</pubDate>
-      <guid isPermaLink="false">2610.40022v1</guid>
-      <dc:creator>Shijiang Ji</dc:creator>
-      <dc:creator>Heyi Yang</dc:creator>
-      <dc:creator>Zu-Xing Yang</dc:creator>
-      <dc:creator>Xiao-Hua Fan</dc:creator>
-      <dc:creator>Zhi-Pan Li</dc:creator>
-      <dc:creator>Haozhao Liang</dc:creator>
     </item>
     <item>
       <title>Search for $^4\overline{\mathrm{Li}}$ from $\overline{\mathrm{p}}+{}^3\overline{\mathrm{He}}$ femtoscopy in Pb-Pb collisions at $\sqrt{s_\mathrm{NN}} =5.36$ TeV with ALICE</title>
