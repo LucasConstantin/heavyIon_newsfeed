@@ -5,9 +5,94 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:13:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Soft--hard Bayesian inference in heavy-ion collisions</title>
+      <link>http://arxiv.org/abs/2611.27971v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; L. Du, S. A. Bass, M. Chartier, Y. Chen, Y. -C. Chen, R. Datta, R. Dolan, R. Ehlers, H. Elfner, R. J. Fries, C. Gale, D. A. Hangal, B. V. Jacak, P. M. Jacobs, S. Jaiswal, S. Jeon, Y. Ji, S. A. Kirchner, E. Kolbusz, M. Kordell, A. Kumar, R. Kunnawalkam-Elayavalli, J. Latessa, Y. -J. Lee, M. Luzum, A. Majumder, S. Mak, A. Mankolli, C. Martin, H. Mehryar, C. Nattrass, J. Norman, M. Ockleton, J. -F. Paquet, C. Parker, J. H. Putschke, H. Roch, G. Roland, B. Schenke, L. Schwiebert, A. Sengupta, C. Shen, M. Singh, C. Sirimanna, R. A. Soltz, I. Soudi, Y. Tachibana, J. Velkovska, G. Vujanovic, X. Wu, J. Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bayesian analyses of jet quenching commonly constrain jet--medium interaction parameters using a fixed quark-gluon plasma (QGP) background obtained from a soft-sector calibration. This approach neglects uncertainty in the medium and prevents hard observables from providing additional constraints on its properties. We investigate these effects in Pb--Pb collisions at $\sqrt{s_{NN}}=2.76$ TeV using sequential Bayesian inference in a reduced three-parameter space. We vary the initial normalization and nucleon width of the medium together with the jet--medium coupling, combining JETSCAPE medium evolution with MATTER+LBT calculations of high-$p_T$ hadron and inclusive-jet suppression. We first constrain all three parameters using the hard observables alone, then incorporate a projected soft-sector posterior through sequential inference. We find that the hard observables are sensitive to the medium properties and reveal substantial correlations with the jet--medium coupling, reflecting their compensating effects on jet quenching. Propagating the soft-sector information shifts the preferred coupling relative to a fixed-medium extraction, with the update driven primarily by hadron-suppression measurements. Despite substantial differences in the medium parameters and coupling favored by hard-observable-only and sequential inference, their suppression predictions remain similar over much of the measured range. These findings highlight the difficulty of distinguishing changes in the QGP medium from changes in microscopic jet--medium interaction strength using inclusive suppression measurements alone.&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:51:11 GMT</pubDate>
+      <guid isPermaLink="false">2611.27971v1</guid>
+      <dc:creator>L. Du</dc:creator>
+      <dc:creator>S. A. Bass</dc:creator>
+      <dc:creator>M. Chartier</dc:creator>
+      <dc:creator>Y. Chen</dc:creator>
+      <dc:creator>Y. -C. Chen</dc:creator>
+      <dc:creator>R. Datta</dc:creator>
+      <dc:creator>R. Dolan</dc:creator>
+      <dc:creator>R. Ehlers</dc:creator>
+      <dc:creator>H. Elfner</dc:creator>
+      <dc:creator>R. J. Fries</dc:creator>
+      <dc:creator>C. Gale</dc:creator>
+      <dc:creator>D. A. Hangal</dc:creator>
+      <dc:creator>B. V. Jacak</dc:creator>
+      <dc:creator>P. M. Jacobs</dc:creator>
+      <dc:creator>S. Jaiswal</dc:creator>
+      <dc:creator>S. Jeon</dc:creator>
+      <dc:creator>Y. Ji</dc:creator>
+      <dc:creator>S. A. Kirchner</dc:creator>
+      <dc:creator>E. Kolbusz</dc:creator>
+      <dc:creator>M. Kordell</dc:creator>
+      <dc:creator>A. Kumar</dc:creator>
+      <dc:creator>R. Kunnawalkam-Elayavalli</dc:creator>
+      <dc:creator>J. Latessa</dc:creator>
+      <dc:creator>Y. -J. Lee</dc:creator>
+      <dc:creator>M. Luzum</dc:creator>
+      <dc:creator>A. Majumder</dc:creator>
+      <dc:creator>S. Mak</dc:creator>
+      <dc:creator>A. Mankolli</dc:creator>
+      <dc:creator>C. Martin</dc:creator>
+      <dc:creator>H. Mehryar</dc:creator>
+      <dc:creator>C. Nattrass</dc:creator>
+      <dc:creator>J. Norman</dc:creator>
+      <dc:creator>M. Ockleton</dc:creator>
+      <dc:creator>J. -F. Paquet</dc:creator>
+      <dc:creator>C. Parker</dc:creator>
+      <dc:creator>J. H. Putschke</dc:creator>
+      <dc:creator>H. Roch</dc:creator>
+      <dc:creator>G. Roland</dc:creator>
+      <dc:creator>B. Schenke</dc:creator>
+      <dc:creator>L. Schwiebert</dc:creator>
+      <dc:creator>A. Sengupta</dc:creator>
+      <dc:creator>C. Shen</dc:creator>
+      <dc:creator>M. Singh</dc:creator>
+      <dc:creator>C. Sirimanna</dc:creator>
+      <dc:creator>R. A. Soltz</dc:creator>
+      <dc:creator>I. Soudi</dc:creator>
+      <dc:creator>Y. Tachibana</dc:creator>
+      <dc:creator>J. Velkovska</dc:creator>
+      <dc:creator>G. Vujanovic</dc:creator>
+      <dc:creator>X. Wu</dc:creator>
+      <dc:creator>J. Zhang</dc:creator>
+    </item>
+    <item>
+      <title>Probing grand unification in the dark dimension: proton decay and collider signatures</title>
+      <link>http://arxiv.org/abs/2611.27602v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Waqas Ahmed, George K. Leontaris&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the geometric connection between a stretched grand-unified state, proton decay, and electroweak Kaluza--Klein (KK) resonances in a dark-dimension-inspired interval model. The gravitational length sets the five-dimensional Planck scale, while a shorter gauge interval controls the KK spectrum and the stretched-state mass. We construct normalized fermion and Higgs profiles, diagonalize the neutral-vector sector, and determine its fermionic widths. Proton partial lifetimes are evaluated using a two-operator, SU(5)-inspired effective matching prescription. One-loop four-dimensional MSSM and split-supersymmetric reference running determines electroweak coupling-crossing scales and the residual strong-coupling mismatch. A selected common-threshold benchmark gives a heavy-state mass of $1.137\times10^{16}$ GeV, a reference crossing of $1.139\times10^{16}$ GeV, and a conditional proton partial lifetime of $8.72\times10^{35}$ years. At a micron-scale gravitational length, suppressed baryon-violating matching amplitudes can satisfy proton limits, although the high-scale mass-matching condition selects a distinct region of the scanned geometry. Independently, a $5$ TeV neutral-vector benchmark yields an inclusive leading-order dielectron cross section of $0.183$ fb over $4.5$--$5.5$ TeV at a collider energy of $13.6$ TeV, before detector selection. The analysis provides quantitative effective-model benchmarks and identifies the remaining high-scale matching and experimental tests.&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 13:31:48 GMT</pubDate>
+      <guid isPermaLink="false">2611.27602v1</guid>
+      <dc:creator>Waqas Ahmed</dc:creator>
+      <dc:creator>George K. Leontaris</dc:creator>
+    </item>
+    <item>
+      <title>Thermal photon production in massless boost-invariant gases: hydrodynamization without thermalization</title>
+      <link>http://arxiv.org/abs/2611.27332v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Caio V. P. de Brito, Gabriel S. Denicol&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-20&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study hydrodynamization and thermalization in ultrarelativistic heavy-ion collisions using relativistic kinetic theory. Modelling the quark-gluon plasma as a classical gas of massless particles undergoing a boost-invariant longitudinal expansion, we solve the Boltzmann equation in the relaxation-time approximation via a semi-analytical method based on the method of moments. We show that the energy-momentum tensor is well described by relativistic fluid dynamics even when the system is far from local equilibrium. The single-particle distribution function, on the other hand, is not well approximated by a hydrodynamic truncation, suggesting that the onset of hydrodynamic behaviour does not require thermalization. We then quantify how the departure from equilibrium affects the emission rate of thermal photons in the forward scattering approximation, and show that non-equilibrium corrections beyond the hydrodynamic limit can have a significant impact on this observable.&lt;/p&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 09:11:17 GMT</pubDate>
+      <guid isPermaLink="false">2611.27332v1</guid>
+      <dc:creator>Caio V. P. de Brito</dc:creator>
+      <dc:creator>Gabriel S. Denicol</dc:creator>
+    </item>
+    <item>
+      <title>A relativistic von Kármán relation for assessing applicability of hydrodynamics</title>
+      <link>http://arxiv.org/abs/2611.26791v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yuuka Kanakubo, Volker Koch&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-19&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Relativistic viscous hydrodynamics is a widely used theoretical framework for simulating quark-gluon plasma (QGP) dynamics in relativistic heavy-ion collisions. One open question is how to quantitatively assess the validity of a hydrodynamic description of such a system. In this work, we extract the poles of linear response functions from numerical simulations of hydrodynamics and Boltzmann transport. By comparing these responses as a function of the rescaled wavenumber $\bar{k}$, we identify the wavenumber range over which hydrodynamics captures the underlying microscopic dynamics. We show that the averaged Knudsen number, $\langle\mathrm{Kn}^{*}\rangle$, which we define using the von Kármán relation, serves as a measure of $\bar{k}$. We find that $\langle\mathrm{Kn}^{*}\rangle_{\rm max}\sim 1$ marks the approximate upper limit of agreement between the linear responses of second-order viscous hydrodynamics and Boltzmann transport.&lt;/p&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 20:26:50 GMT</pubDate>
+      <guid isPermaLink="false">2611.26791v1</guid>
+      <dc:creator>Yuuka Kanakubo</dc:creator>
+      <dc:creator>Volker Koch</dc:creator>
+    </item>
     <item>
       <title>Probing the structure of the two proton Borromean nucleus $^{17}\rm{Ne}$ through inclusive breakup data</title>
       <link>http://arxiv.org/abs/2611.26481v1</link>
@@ -635,18 +720,6 @@
       <dc:creator>The STAR Collaboration</dc:creator>
     </item>
     <item>
-      <title>Thermofractal Dynamics in the Multisource Thermal Model: A Unified Approach to Multiparticle Production</title>
-      <link>http://arxiv.org/abs/2611.03757v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Airton Deppman, Trambak Bhattacharyya, Maciej Rybczyński, Grzegorz Wilk, Zbigniew Wlodarczyk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The empirical success of non-extensive Tsallis statistics and multisource thermal models in describing transverse-momentum (pT ) spectra and rapidity distributions in high-energy relativistic collisions highlights a deep connection between expansion geometry, non-extensive thermodynamics, and QCD dynamics. In this work, we establish a theoretical framework showing that the thermofractal structure of QCD phase space provides a direct microscopic foundation for the multisource thermal model. By exploiting the Euler integral representation of non-extensive statistical factors, we demonstrate that a single thermofractal emission source generating q-exponential distributions is mathematically equivalent to a continuous superposition of local Boltzmann thermal sources whose temperature fluctuations follow an inverse-Gamma distribution. Furthermore, we prove that multi- component phenomenological fits with discrete source temperatures represent the exact, optimal Gauss-Laguerre quadrature discretisation of this underlying continuous thermofractal field. We show how this continuous field constrains the temperature parameter space in multisource formulations, matches pQCD hard-scattering power-law asymptotics, and provides a robust vacuum baseline for medium-induced jet quenching and nuclear modification factor (RAA ) calculations.&lt;/p&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 12:45:49 GMT</pubDate>
-      <guid isPermaLink="false">2611.03757v1</guid>
-      <dc:creator>Airton Deppman</dc:creator>
-      <dc:creator>Trambak Bhattacharyya</dc:creator>
-      <dc:creator>Maciej Rybczyński</dc:creator>
-      <dc:creator>Grzegorz Wilk</dc:creator>
-      <dc:creator>Zbigniew Wlodarczyk</dc:creator>
-    </item>
-    <item>
       <title>Global polarization of $Λ$, $Ξ$, and $Ω$ hyperons in Au+Au collisions from the RHIC Beam Energy Scan-II</title>
       <link>http://arxiv.org/abs/2611.03044v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Global polarization of $Λ$, $Ξ$, and $Ω$ hyperons is measured in Au+Au collisions at $\sqrt{s_{\mathrm{NN}}}=7.7$, 9.2, 11.5, 14.6, 17.3, 19.6, and 27~GeV using high-statistics data from the second phase of the RHIC Beam Energy Scan. No significant difference between the $Λ$ and $\barΛ$ polarizations is observed over the measured collision-energy range, providing improved constraints on magnetic-field-induced contributions. The $Λ$ polarization increases with the magnitude of rapidity, with the slope of the linear fit differing from zero by 4.8 standard deviations, providing the first evidence for a nonzero rapidity dependence of global polarization in this energy range. Global polarization of $Ξ^{-}+\barΞ^{+}$ is observed for the first time at these energies at a significance exceeding 5 standard deviations, with a magnitude comparable to that of $Λ+\barΛ$ and an increase toward lower collision energies. Measurements of $Ω^{-}+\barΩ^{+}$ are compatible with a similar energy dependence and favor the decay parameter $γ_Ω= +1$ with high probability under the assumption of the global polarization picture. These measurements provide new constraints on the energy evolution, rapidity dependence, and species dependence of global polarization in heavy-ion collisions.&lt;/p&gt;</description>
@@ -690,34 +763,6 @@
       <dc:creator>V. Vovchenko</dc:creator>
       <dc:creator>Z. Xu</dc:creator>
       <dc:creator>H. Zbroszczyk</dc:creator>
-    </item>
-    <item>
-      <title>Impact on Final-State Bulk Observables in Heavy-Ion Collisions from an Extended MC Glauber Model of Quantum Rotors</title>
-      <link>http://arxiv.org/abs/2611.02507v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yanru Bao, Weiyao Ke&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-02&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nuclear structure is closely connected to anisotropic flow in central heavy-ion collisions (HICs), so flow observables provide important probes for constraining nuclear deformation. Conventional Monte Carlo (MC) models typically describe deformed nuclei as classical rotors with definite orientations, whereas the ground states of even--even nuclei with $J=0$ are rotationally invariant. Motivated by the importance of rotational symmetry restoration, we systematically investigate symmetric collisions involving the representative even--even nuclei $^{20}\mathrm{Ne}$, $^{28}\mathrm{Si}$, $^{96}\mathrm{Ru}$, and $^{238}\mathrm{U}$ using an extended MC Glauber model that incorporates quantum superposition of nuclear orientations. In the final state, the quantum treatment suppresses elliptic flow $v_2\{2\}$, with the strongest effect observed in ultra-central Ne+Ne collisions. Quantum superposition further induces system-dependent changes in normalized symmetric cumulants and shifts the Pearson correlation between $v_2^2$ and $[p_T]$ toward the corresponding near-spherical reference values. Moreover, the quantum treatment modifies cross-system flow ratios and the U+U/Au+Au covariance ratio used experimentally to constrain nuclear deformation parameters. Our results suggest that the quantum-rotor treatment may affect the interpretation of nuclear structure information inffered from heavy-ion collision final-state observables.&lt;/p&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 04:29:18 GMT</pubDate>
-      <guid isPermaLink="false">2611.02507v1</guid>
-      <dc:creator>Yanru Bao</dc:creator>
-      <dc:creator>Weiyao Ke</dc:creator>
-    </item>
-    <item>
-      <title>Effects of Competing Reactions on $^{59}\mathrm{Cu}$ and $^{63}\mathrm{Ga}$ on Abundance Distributions in Type I X-Ray Bursts</title>
-      <link>http://arxiv.org/abs/2611.02064v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yinwen Guan, Ertao Li, Zhihong Li, Youbao Wang, Bing Guo, Yunju Li, Jun Su, Shipeng Hu, Yu Liu, Dong Xiang, Lei Yang, Weiping Liu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The composition of X-ray burst ashes affects the thermal transport properties of the neutron star crust, as well as heating and cooling through weak interaction processes. Reaction-rate uncertainties can produce secondary peaks separated from the main peak in final abundance distributions. Using STARLIB reaction rates and their temperature-dependent uncertainties in the K04 one-zone post-processing model, we combine four sets of Monte Carlo calculations with XGBoost classification, SHAP analysis, and reaction-flow analysis to investigate the origins of these secondary peaks. We find that the competing $(p,α)$ and $(p,γ)$ reaction pairs on $^{59}\mathrm{Cu}$ and $^{63}\mathrm{Ga}$ are primarily responsible for secondary peaks outside the central 68\% confidence interval in all 44 isotopes examined. Fixing both pairs at their median rates reduces the fractions of samples in the secondary-peak regions by 96\%--100\%, while the bounds of the central 68\% interval remain largely unchanged for most mass numbers. The $^{59}\mathrm{Cu}$ pair has the larger effect. Enhanced recycling limits the supply of material to heavier isotopes and accelerates proton consumption, while earlier proton exhaustion further suppresses subsequent proton captures. These changes alter the balance between isotope production and destruction, leading to high- or low-abundance secondary peaks over a broad mass range beyond the Ni--Cu and Zn--Ga cycles. These results identify $^{59}\mathrm{Cu}(p,γ)^{60}\mathrm{Zn}$ and the two competing channels on $^{63}\mathrm{Ga}$ as priorities for further nuclear-physics constraints to improve XRB abundance predictions.&lt;/p&gt;</description>
-      <pubDate>Sun, 01 Nov 2026 17:09:38 GMT</pubDate>
-      <guid isPermaLink="false">2611.02064v1</guid>
-      <dc:creator>Yinwen Guan</dc:creator>
-      <dc:creator>Ertao Li</dc:creator>
-      <dc:creator>Zhihong Li</dc:creator>
-      <dc:creator>Youbao Wang</dc:creator>
-      <dc:creator>Bing Guo</dc:creator>
-      <dc:creator>Yunju Li</dc:creator>
-      <dc:creator>Jun Su</dc:creator>
-      <dc:creator>Shipeng Hu</dc:creator>
-      <dc:creator>Yu Liu</dc:creator>
-      <dc:creator>Dong Xiang</dc:creator>
-      <dc:creator>Lei Yang</dc:creator>
-      <dc:creator>Weiping Liu</dc:creator>
     </item>
     <item>
       <title>Quantum Correlations Between Two Giant Dipole Resonances in Ultra-Peripheral Collisions</title>
@@ -1006,15 +1051,6 @@
       <dc:creator>Christopher Grace</dc:creator>
       <dc:creator>Brady Mowbray</dc:creator>
       <dc:creator>Christopher Plumberg</dc:creator>
-    </item>
-    <item>
-      <title>Final-state centrality in relativistic heavy-ion simulations from neural networks</title>
-      <link>http://arxiv.org/abs/2610.13828v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Anibal Bezerra, Fernando G. Gardim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-09&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Experiments in relativistic heavy-ion collisions determine centrality from final-state quantities, usually the charged-particle multiplicity. Performing the same in hydrodynamic simulations requires millions of events, which is impractical for state-of-the-art hybrid models, and centrality is therefore commonly approximated by the initial entropy or energy. We show that neural networks trained on a few hundred hybrid events predict the event-by-event multiplicity and mean transverse momentum $[p_T]$ with relative errors of 1--2\%, which makes it possible to generate millions of collisions at a small fraction of the cost of the full simulation. For Pb--Pb collisions at $2.76$~TeV and Au--Au collisions at $200$~GeV, the initial-state and final-state definitions select nearly the same events in 10\%-wide classes, but up to 20\% of the events change class when the classes are 1\% wide. We then compute the fluctuations of $[p_T]$ and its Pearson correlations with a proxy of the elliptic flow, estimated from the initial eccentricity, and with multiplicity. The first correlation is insensitive to how centrality is defined, while the second changes substantially. The approach can be applied at every design point of Bayesian analyses at modest additional cost.&lt;/p&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 16:37:27 GMT</pubDate>
-      <guid isPermaLink="false">2610.13828v1</guid>
-      <dc:creator>Anibal Bezerra</dc:creator>
-      <dc:creator>Fernando G. Gardim</dc:creator>
     </item>
   </channel>
 </rss>
