@@ -5,9 +5,45 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:14:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Z-Boson Production in Proton-Lead Collisions with MRW Nuclear TMDs</title>
+      <link>http://arxiv.org/abs/2611.33021v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Rezaie, K. Azizi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The production of dileptons in proton-lead collisions probes the transverse-momentum structure of partons in a nuclear environment. We summarize a $k_t$-factorization study of $Z$ boson production at $\sqrt{s_{\mathrm{NN}}}=8.16\,\mathrm{TeV}$, comparing transverse-momentum-dependent (TMD) distributions constructed with leading-order and Next-to-leading-order Martin-Ryskin-Watt (LO-MRW and NLO-MRW) prescriptions. Parton-level predictions obtained with \textsc{KaTie} are confronted with the CMS measurements in two invariant-mass regions, using the dilepton transverse momentum, $φ^*_η$ and center-of-mass rapidity. The models describe the overall trends near the $Z$ resonance, while the virtuality constraint in NLO-MRW changes the high-transverse-momentum behavior. At lower dilepton masses, both prescriptions underestimate parts of the data, particularly the NLO-MRW result. These comparisons illustrate both the potential and the limitations of last-step-evolution nuclear TMD models for $Z$ boson production in proton-nucleus collisions.&lt;/p&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 17:37:01 GMT</pubDate>
+      <guid isPermaLink="false">2611.33021v1</guid>
+      <dc:creator>S. Rezaie</dc:creator>
+      <dc:creator>K. Azizi</dc:creator>
+    </item>
+    <item>
+      <title>Z boson production in lead-lead collisions: An investigation Utilizing MRW nuclear TMDs</title>
+      <link>http://arxiv.org/abs/2611.32843v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; S. Rezaie, R. Kord Valeshabadi, K. Azizi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We investigate $Z$-boson production in Pb--Pb collisions at $\sqrt{s_{NN}}=5.02~\mathrm{TeV}$ within the $k_t$-factorization framework, using four nuclear transverse-momentum-dependent parton distribution (TMD) prescriptions, namely LO-MRW, VO-MRW, MVO-MRW, and MKMRW. The aim of this study is to examine how different ordering conditions and normalization treatments influence the theoretical description of this process. We calculate the rapidity and transverse-momentum distributions using the parton-level KaTie event generator and compare the predictions with CMS measurements and collinear NLO calculations. This comparison allows us to assess the sensitivity of the predicted distributions to the choice of UPDF prescription.&lt;/p&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 15:53:23 GMT</pubDate>
+      <guid isPermaLink="false">2611.32843v1</guid>
+      <dc:creator>S. Rezaie</dc:creator>
+      <dc:creator>R. Kord Valeshabadi</dc:creator>
+      <dc:creator>K. Azizi</dc:creator>
+    </item>
+    <item>
+      <title>The impact of phase transitions on dilepton production</title>
+      <link>http://arxiv.org/abs/2611.32712v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Renan Góes-Hirayama, Hannah Elfner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We calculate dielectron yields at beam energies relevant for the CBM experiment at FAIR and the STAR Beam Energy Scan. The production of intermediate mass dielectrons is expected to increase in presence of a phase transition due to the latent heat. In this work, we use the SMASH+vHLLE hybrid model to quantify this enhancement in two scenarios: with a toy equation of state consisting of the Bag Model and Hadron Resonance Gas, separated by a Maxwell-constructed transition; and with a more realistic equation of state containing a critical endpoint, based on the 3D Ising universality class. We confirm that the dilepton yield increases when the system passes through a first-order phase transition, by about 7% in the realistic scenario.&lt;/p&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 14:36:41 GMT</pubDate>
+      <guid isPermaLink="false">2611.32712v1</guid>
+      <dc:creator>Renan Góes-Hirayama</dc:creator>
+      <dc:creator>Hannah Elfner</dc:creator>
+    </item>
+    <item>
+      <title>Softer charged-hadron spectra in Ne+Ne than in O+O collisions at the same multiplicity at $\sqrt{s_{\rm NN}} = 5.36$ TeV</title>
+      <link>http://arxiv.org/abs/2611.32516v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Kishora Nayak&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Charged-hadron spectra measured by the ATLAS Collaboration in O+O and Ne+Ne collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV are compared at the same charged-particle multiplicity instead of at the same centrality, to test whether the shape of the transverse-momentum spectrum at a given multiplicity depends on the size of the colliding system. At equal multiplicity, Ne+Ne collisions have a lower mean transverse momentum $\langle p_{\rm T}\rangle$ than O+O collisions. Without any spectral fit, the published $\langle p_{\rm T}\rangle$ values give a Ne+Ne/O+O ratio of 0.9822 at 3-4% centrality, 6.6 standard deviations below unity even if the O+O systematic uncertainties are taken as uncorrelated between centrality classes. At $0.4 &lt; p_{\rm T} &lt; 2$ GeV the Ne+Ne spectrum is described by the O+O spectrum with the transverse-momentum axis compressed by a single stretch factor, $λ_{\rm Ne/O} = 0.969$ in the 3-4% class. It lies 9.5 or 3.3 standard deviations below unity, depending on whether the common part of the O+O systematic uncertainties cancels between centrality classes. This ordering is expected if Ne+Ne collisions have a larger transverse area at the same multiplicity and a larger area gives a softer spectrum. The softening decreases towards peripheral collisions and is the same at forward pseudorapidity. In central collisions the spectral shape follows the centrality class more closely than the multiplicity. The same procedure is tested in Xe+Xe and Pb+Pb collisions.&lt;/p&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 12:42:25 GMT</pubDate>
+      <guid isPermaLink="false">2611.32516v1</guid>
+      <dc:creator>Kishora Nayak</dc:creator>
+    </item>
     <item>
       <title>Probing radial flow via the differential flow coefficient $v_0(p_T)$ using CMS open data</title>
       <link>http://arxiv.org/abs/2611.30904v1</link>
@@ -202,17 +238,6 @@
       <guid isPermaLink="false">2611.24303v1</guid>
       <dc:creator>Sungtae Cho</dc:creator>
       <dc:creator>Su Houng Lee</dc:creator>
-    </item>
-    <item>
-      <title>Grade Restriction Rule For D-Brane Transport In Non-Abelian Gauged Linear Sigma Models</title>
-      <link>http://arxiv.org/abs/2611.24250v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Richard Eager, Kentaro Hori, Johanna Knapp, Mauricio Romo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-18&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the low energy behaviour of B-type D-branes in non-Abelian gauged linear sigma models. The main problem is to determine the grade restriction rule for D-brane transport from one phase to another along paths. We analyze the convergence condition of the integral for the hemisphere partition function. We perform a thorough analysis in a particular model with two phases, one weakly coupled and one strongly coupled, both corresponding to Calabi-Yau threefolds. General methods are developed in this study and are applied to other models successfully. The integrals for a set of special Chan-Paton representations exhibit critical behaviour around each singular point on the phase boundary. From each of these points emanate ``no entry zones'' where a convergent contour is lost or is forced to traverse Gamma function poles. Knowledge of the special representations and no entry zones is strong enough to uniquely determine the grade restriction rule. In the course of this study, we encounter a problem in Weyl invariance of convergent contours, which forces us to modify the grade restriction criterion. The special representations play an important rôle in the monodromy around the singular point. We also obtain exact results on boundary conditions in supersymmetric QCDs and apply them to understand the low energy behaviour of D-branes in the strong coupling phase.&lt;/p&gt;</description>
-      <pubDate>Wed, 18 Nov 2026 11:28:14 GMT</pubDate>
-      <guid isPermaLink="false">2611.24250v1</guid>
-      <dc:creator>Richard Eager</dc:creator>
-      <dc:creator>Kentaro Hori</dc:creator>
-      <dc:creator>Johanna Knapp</dc:creator>
-      <dc:creator>Mauricio Romo</dc:creator>
     </item>
     <item>
       <title>The production of lepton pairs in heavy-ion collisions at SPS and RHIC energies</title>
@@ -689,28 +714,6 @@
       <dc:creator>Alexander Tichai</dc:creator>
     </item>
     <item>
-      <title>Comparison of Methods for Extracting Three-Dimensional Lévy Source Parameters in $\sqrt{s_{\text{NN}}} = 200\text{ GeV}$ Au+Au Collisions with EPOS3</title>
-      <link>http://arxiv.org/abs/2611.08069v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Máté Szilágyi, Máté Csanád, Dániel Kincses&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bose--Einstein femtoscopy probes the spatiotemporal geometry of the particle-emitting source in heavy-ion collisions, where experimental data favor a Lévy-stable source description. We compare four approaches for extracting 3D Lévy source parameters using $π^+π^+$ pairs from EPOS3-simulated Au+Au collisions at $\sqrt{s_{\text{NN}}} = 200\text{ GeV}$: direct fits to the pair-source distribution $D(\boldsymbolρ)$, and fits to the two-particle correlation function $C(\boldsymbol{q})$ obtained via (i) the CRAB package, (ii) direct numerical integration of $D(\boldsymbolρ)$, and (iii) fast Fourier transformation (FFT). On an identical momentum grid, numerical integration and FFT are analytically identical and numerically equivalent ($\text{RMSE} &lt; 10^{-14}$), while FFT reduces the computation time from hours to seconds.
-  We extract the transverse-mass dependence of the Lévy radii, Lévy index $α$, and correlation strength $λ$ in $0\text{--}10\,\%$ central collisions. All methods reproduce the same physical trends, but CRAB results fluctuate due to event pooling, and correlation-function fits deviate systematically from direct source fits, e.g., with $\sim 7\text{--}9\,\%$ lower $α$. These deviations may reflect residual non-Lévy features of the source, probed differently in coordinate and momentum space, and the comparison of event-averaged parameters with fits to the ensemble-accumulated source, a mixture of Lévy distributions with lower effective $α$.&lt;/p&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 14:21:44 GMT</pubDate>
-      <guid isPermaLink="false">2611.08069v1</guid>
-      <dc:creator>Máté Szilágyi</dc:creator>
-      <dc:creator>Máté Csanád</dc:creator>
-      <dc:creator>Dániel Kincses</dc:creator>
-    </item>
-    <item>
-      <title>General-relativistic neutrino-radiation hydrodynamics of crust ejection in magnetar giant flares</title>
-      <link>http://arxiv.org/abs/2611.07022v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Tetyana Pitik, David Radice, Jacob Fields, Yi Qiu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; astro-ph.HE&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Magnetar giant flares are thought to eject $\gtrsim 10^{-9}\,M_\odot$ of baryons, as inferred from the radio afterglow of the 2004 flare of SGR 1806-20. One proposed mechanism is a shock driven into the neutron-star crust by the hot, high-pressure layer that the flare creates above the surface. The unbound crust could undergo $r$-process nucleosynthesis and power a short-lived &quot;nova brevis&quot;. We study this crust ejection with general-relativistic neutrino-radiation hydrodynamics simulations performed with AthenaK, using a tabulated nuclear equation of state and two-moment neutrino transport, for flare pressures corresponding to magnetic fields $B = 10^{15}$-$10^{16.5}$ G, and compute the nucleosynthesis of the ejecta with a nuclear reaction network. We find that such flares unbind $10^{-10}$ to $5\times10^{-8}\,M_\odot$ of crust. The ejecta keep the electron fraction of the crust to within a few hundredths, and weak interactions affect it mainly in the most energetic flares. The fast, high-entropy ejecta freeze out mostly as $α$ particles and free neutrons. In the stronger flares nuclei up to the third $r$-process peak do form, but those with $A \geq 90$ make up at most $\approx 8\times10^{-4}$ of the ejected mass, or $\approx 3.5\times10^{-11}\,M_\odot$ per flare, and less than $10^{-5}$ for $B \leq 10^{15.5}$ G. A nova brevis from these ejecta would be powered mainly by the decay of free neutrons. Like earlier work, our models assume spherical symmetry, a flare that covers the whole star, and no magnetic field. A field tangential to the surface would hold the crust down and weaken the shock, and a flare confined to part of the surface should eject proportionally less mass. We therefore regard our ejecta masses as upper limits for a given flare pressure, and expect realistic magnetar flares to produce negligible amounts of $r$-process material.&lt;/p&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 19:00:06 GMT</pubDate>
-      <guid isPermaLink="false">2611.07022v1</guid>
-      <dc:creator>Tetyana Pitik</dc:creator>
-      <dc:creator>David Radice</dc:creator>
-      <dc:creator>Jacob Fields</dc:creator>
-      <dc:creator>Yi Qiu</dc:creator>
-    </item>
-    <item>
       <title>Characterizing $\pT$-differential Radial-Flow Fluctuations in Au+Au Collisions at FAIR with a Multi-Phase Transport Model</title>
       <link>http://arxiv.org/abs/2610.41607v2</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sanchari Thakur, Partha Pratim Bhaduri&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-04&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the first predictions of the transverse-momentum ($\pT$)-differential radial-flow fluctuation observable, $\vzpT$, in Au+Au collisions at the top SIS100 energy, $\snn=4.9$~GeV, which will be available at the FAIR accelerator complex. Radial flow and its fluctuations are studied for different centrality intervals and reference-$\pT$ selections to investigate the properties and robustness of the calculated long-range correlation. $\vzpT$ displays a characteristic evolution from negative values at low $\pT$ to positive values at higher $\pT$. The integrated $v_0$, obtained with different reference-$\pT$ intervals, follows a common trend, with an approximately inverse-square-root dependence on the inclusive charged-particle multiplicity ($\nch$). The $\vzpT$ signal changes little when the pseudorapidity gap is varied between 0.2 and 0.8, or when the edges of the reference-$\pT$ interval are varied, in the bulk region. For identified particles, the pion and proton $\vzpT$ are ordered at low $\pT$, qualitatively similar to the mass ordering seen at higher energies. However, unlike at higher collision energies, $\vzpT$ does not exhibit constituent-quark number scaling, so the results do not support an interpretation in terms of partonic collectivity. The results are also in partial contradiction with the behavior of hadronic elliptic flow in these low-energy collisions. These results provide constraints on the evolution of radial correlations toward lower collision energies and motivate comparisons with complementary observables to clarify their connection to collective dynamics.&lt;/p&gt;</description>
@@ -1033,28 +1036,6 @@
       <pubDate>Wed, 14 Oct 2026 07:04:03 GMT</pubDate>
       <guid isPermaLink="false">2610.19680v1</guid>
       <dc:creator>STAR Collaboration</dc:creator>
-    </item>
-    <item>
-      <title>Collective-flow signatures of bubble nuclei in intermediate-energy projectile fragmentation reactions</title>
-      <link>http://arxiv.org/abs/2610.19632v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ge Ren, Chun-Wang Ma, Xi-Guang Cao, Kai-Xuan Cheng, Jie Pu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Characterized by central density depletion, bubble nuclei represent an important class of exotic nuclear structures. Collective flow in the $^{40}$Ca+$^{9}$Be projectile fragmentation reaction at 140 MeV/u is investigated using the extended quantum molecular dynamics (EQMD) model with a parameter on of the isoscalar monopole excitation strength $\varepsilon$. The projectile $^{40}Ca$ is initialized as a relaxed ten-$α$ cluster configuration exhibiting a bubble-like density distribution. The results reveal that increasing $\varepsilon$ modifies the density distribution and the size of the depleted central region of bubble, producing pronounced changes in fragment yields and collective flow around $\varepsilon\approx0.5$. Below this value, heavy-fragment production plays a significant role, while the directed flow $v_1$ of protons and neutrons remains predominantly negative, indicating preferential emission toward the target side. Above $\varepsilon\approx0.5$, enhanced expansion of the central low-density region suppresses heavy residues and drives $v_1$ toward positive values. In contrast, preformed $α$ clusters show different responses, reflecting their origin in the initial cluster configuration rather than solely in secondary decay. At low excitation, the cluster flow exhibits a pronounced impact-parameter dependence, whereas stronger excitation weakens cluster binding and suppresses directional anisotropy, driving the flow close to zero. The rapidity slopes of the flow coefficients also vary systematically with $\varepsilon$, tracing changes in emission anisotropy during expansion. These findings extend traditional static descriptions by probing the dynamical evolution of exotic structures in heavy-ion reactions and the contrasting collective-flow behavior of preformed clusters and single nucleons constitutes a sensitive dynamical probe of bubble-like structures.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 06:01:00 GMT</pubDate>
-      <guid isPermaLink="false">2610.19632v1</guid>
-      <dc:creator>Ge Ren</dc:creator>
-      <dc:creator>Chun-Wang Ma</dc:creator>
-      <dc:creator>Xi-Guang Cao</dc:creator>
-      <dc:creator>Kai-Xuan Cheng</dc:creator>
-      <dc:creator>Jie Pu</dc:creator>
-    </item>
-    <item>
-      <title>Strange-quark-number-dependent response to partonic dynamics in baryon-rich Au+Au collisions</title>
-      <link>http://arxiv.org/abs/2610.19392v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Di Zhao, Xun Zhu, Gao-Chan Yong&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We identify a strange-quark-number-dependent hierarchy in the response to explicit partonic dynamics by comparing PHSD5.2 with its hadron--string limit in baryon-rich Au+Au collisions at $\snn=3.0$--$7.2$~GeV. Crossing the local conversion threshold alone does not ensure a visible final-state signal: abundant-hadron flow changes little at 3--4.5~GeV, whereas the fractional yield response becomes ordered at 6.2--7.2~GeV, reaching $S_{|s|=1}\simeq0.2$--$0.3$, $S_{|s|=2}\simeq0.65$, and $S_{|s|=3}\simeq0.93$ at 7.2~GeV. The hierarchy is consistent with an enlarged recombination phase space for strange constituents released from different pre-hadronic sources, but does not by itself establish an increase in the total $s+\bar s$ abundance or stronger strange-quark clustering. Since $S_X$ is a model-defined response rather than a direct observable, matched excitation functions of $Ξ^-/Λ$ and $Ω^-/Λ$, together with high-$m_T$ proton elliptic flow, provide experimentally accessible discriminants between the predicted PHSD and HSD dynamics.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 01:37:51 GMT</pubDate>
-      <guid isPermaLink="false">2610.19392v1</guid>
-      <dc:creator>Di Zhao</dc:creator>
-      <dc:creator>Xun Zhu</dc:creator>
-      <dc:creator>Gao-Chan Yong</dc:creator>
     </item>
   </channel>
 </rss>
