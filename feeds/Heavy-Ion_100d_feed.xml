@@ -5,9 +5,59 @@
     <link>https://arxiv.org</link>
     <description>arXiv papers from search configuration: Heavy-Ion (100d)</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:14:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>The production of lepton pairs in heavy-ion collisions at SPS and RHIC energies</title>
+      <link>http://arxiv.org/abs/2611.23506v2</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiang-Yu Wu, Han Gao, Charles Gale, Sangyong Jeon, Ralf Rapp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a quantitative study of dilepton production and elliptic flow in In+In collisions at $\sqrt{s_{\rm NN}}=17.3$ GeV and isobar collisions at $\sqrt{s_{\rm NN}}=200$ GeV, concentrating on the low and intermediate invariant mass regions. The medium evolution is simulated event-by-event with the multistage iEBE-MUSIC framework, and the electromagnetic emission combines for the first time quark-gluon plasma (QGP) emission calculated at next-to-leading order (NLO) in the strong coupling with in-medium radiation calculated with hadronic many-body theory. Freeze-out and surviving primordial $ρ$ decays are also included. The calculations are compared with the high-precision dimuon spectra measured by the NA60 Collaboration, and with STAR preliminary measurements of dielectron spectra and elliptic flow. We obtain effective temperatures extracted from the transverse-mass spectra, and we calculate the elliptic flow of the different dilepton sources. Our results suggest that dilepton measurements in the low-mass and high $p_T$ region can provide insight into higher-order corrections to the QGP emission rate.&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 16:11:18 GMT</pubDate>
+      <guid isPermaLink="false">2611.23506v2</guid>
+      <dc:creator>Xiang-Yu Wu</dc:creator>
+      <dc:creator>Han Gao</dc:creator>
+      <dc:creator>Charles Gale</dc:creator>
+      <dc:creator>Sangyong Jeon</dc:creator>
+      <dc:creator>Ralf Rapp</dc:creator>
+    </item>
+    <item>
+      <title>Equilibrium baseline for transverse-momentum correlations in Au+Au collisions at $\sqrt{s_{NN}} = 3$-$39$ GeV: Conservation laws, resonance decays, quantum statistics, and collective flow</title>
+      <link>http://arxiv.org/abs/2611.34562v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Oleh Savchuk&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Event-by-event transverse-momentum correlations measured by STAR in Au+Au collisions exhibit a nonmonotonic energy dependence with a minimum near $\sqrt{s_{NN}} \approx 5$-$8$ GeV and a steep rise toward $3$ GeV. Before interpreting these features in terms of a softened equation of state or a QCD critical point, the baseline from an equilibrated hadron resonance gas must be established. Here we compute the two-particle correlator $\langle Δp_{T,i}Δp_{T,j} \rangle$ in thermal and chemical equilibrium from $\sqrt{s_{NN}} = 3$ to $39$ GeV for 0-5% and 30-40% collisions, incorporating resonance decays, Bose-Einstein statistics, Bjorken longitudinal and transverse radial flow, and global conservation of energy, baryon number, electric charge, strangeness, and transverse momentum. Imposing conservation laws via a saddle-point expansion of the microcanonical ensemble yields the variance of any additive observable as a Schur complement of grand-canonical covariances. Although the equilibrium gas undergoes the transition from baryon- to meson-dominated matter, composition fluctuations cancel the large negative &quot;mixing&quot; term that arises when species multiplicities are fixed event by event, leaving only a much smaller negative conservation residual. Across $\sqrt{s_{NN}} = 11.5$-$39$ GeV, the equilibrium baseline with strong flow underpredicts the data by a factor of $3$-$4$ in 0-5% and $\approx 6.5$ in 30-40% collisions; at fixed-target energies ($3$-$5.2$ GeV), where the data are largest and positive, the baseline turns negative. Accounting for the data via radial-flow fluctuations at fixed energy requires $σ_β/β_s \approx 6$-$10\%$ in central and $\approx 22\%$ in 30-40% collider-energy collisions, growing faster with decreasing centrality than independent-source scaling.&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 15:33:02 GMT</pubDate>
+      <guid isPermaLink="false">2611.34562v1</guid>
+      <dc:creator>Oleh Savchuk</dc:creator>
+    </item>
+    <item>
+      <title>Nuclear Modification of $π^0$ Production in pO and OO Collisions with ALICE</title>
+      <link>http://arxiv.org/abs/2611.34503v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Nicolas Strangmann&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Energy loss of high-momentum partons is one of the key signatures of the quark--gluon plasma formed in heavy-ion collisions. Through measurements of the nuclear modification factor, $R_{\rm AA}$, where a strong suppression of high-$p_{\rm T}$ particle yields is observed, parton energy loss has been confirmed in Pb--Pb collisions at the LHC. However, in small collision systems, like pp and p--Pb, energy loss has not yet been confirmed.
+  In this contribution, a measurement of the $π^0$ $R_{\rm AA}$ in OO and pO collisions at $\sqrt{s_{\rm NN}} = 5.36$ TeV and $\sqrt{s_{\rm NN}} = 9.62$ TeV, respectively, is presented. These results are based on the measured $π^0$ $p_{\rm T}$ spectra in OO, pO, and pp collisions using the ALICE electromagnetic calorimeter. The measurement of the $R_{\rm pO}$ allows for precise constraints on cold-nuclear matter effects. In combination with the $R_{\rm OO}$, this allows for a separation of cold and hot nuclear matter contributions and enables a quantitative determination of partonic energy loss in OO collisions. The measurements are compared to theoretical model calculations that include both cold and hot nuclear matter effects.&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 14:55:18 GMT</pubDate>
+      <guid isPermaLink="false">2611.34503v1</guid>
+      <dc:creator>Nicolas Strangmann</dc:creator>
+    </item>
+    <item>
+      <title>Introducing Parton-Level Fluctuations in the TRENTo-Sea Model</title>
+      <link>http://arxiv.org/abs/2611.33662v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jacob Reinach, Andreas Kirchner&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A variety of experimental and theoretical data suggest that initial condition models for heavy-ion collisions contain a degree of sub-nucleonic fluctuations. While current models fit the number and size of these fluctuations to data, we use nuclear parton distribution functions to constrain sub-nucleonic structure and fluctuations in TRENTo-Sea, an extension of TRENTo. Sampling the momentum fraction distributions of quarks and gluons in heavy ions, we use perturbative quantum chromodynamics to collide nuclei at the parton level, and we introduce an infrared center-of-momentum damping scale which is tuned to proton-proton cross sections. We find that our model successfully reproduces the $\varepsilon_2\{2\}$ of data-calibrated models except in central collisions, and an analysis of the power spectrum and granularity of the pre-equilibrium fireball shows that the number of low-$x$ partons in a nucleon has a significant effect on the local transverse geometry. Our model is largely insensitive to variations of the infrared parameters, as such changes are absorbed into the calibration of the infrared regulator. We expect that this work will aid future research on soft-hard correlations and constraining different nPDF sets.&lt;/p&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 02:25:43 GMT</pubDate>
+      <guid isPermaLink="false">2611.33662v1</guid>
+      <dc:creator>Jacob Reinach</dc:creator>
+      <dc:creator>Andreas Kirchner</dc:creator>
+    </item>
+    <item>
+      <title>RMT${}_2$: Random Spectral Correlations for CFT${}_2$ and AdS${}_3$ Gravity</title>
+      <link>http://arxiv.org/abs/2611.33291v1</link>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jan Boruch, Gabriele Di Ubaldo, Felix M. Haehl, Eric Perlmutter, Moshe Rozali&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We present the full framework of RMT${}_2$, a consistent unification of random matrix theory and modular invariance. The systematic prescription, which augments the existing construction by incorporating spin, lifts random matrix correlators to $\text{SL}(2,\mathbb{Z})$ Poincaré sums of their Mellin transforms, in a manner which enforces random matrix correlations near extremality in every spinning primary sector. The resulting RMT${}_2$ correlators are further expressible in terms of an orthogonal basis of Eisenstein series and Maass cusp forms. We demonstrate the construction by lifting the two-point correlators at arbitrary genus of the Airy model, in both unitary and orthogonal symmetry classes, exhibiting the modular-invariant topological expansion of RMT${}_2$; a resummation of the genus expansion shows that the modular-invariant spectral form factor preserves the ramp-plateau structure. Holographically, RMT${}_2$ provides a concrete benchmark and explicit candidate expressions for comparison with off-shell wormhole amplitudes in AdS${}_3$ gravity, with any number of torus boundaries. We explicitly compute the universal RMT${}_2$ three-point correlator, corresponding to the putative three-boundary wormhole.&lt;/p&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 19:00:07 GMT</pubDate>
+      <guid isPermaLink="false">2611.33291v1</guid>
+      <dc:creator>Jan Boruch</dc:creator>
+      <dc:creator>Gabriele Di Ubaldo</dc:creator>
+      <dc:creator>Felix M. Haehl</dc:creator>
+      <dc:creator>Eric Perlmutter</dc:creator>
+      <dc:creator>Moshe Rozali</dc:creator>
+    </item>
     <item>
       <title>Z-Boson Production in Proton-Lead Collisions with MRW Nuclear TMDs</title>
       <link>http://arxiv.org/abs/2611.33021v1</link>
@@ -238,18 +288,6 @@
       <guid isPermaLink="false">2611.24303v1</guid>
       <dc:creator>Sungtae Cho</dc:creator>
       <dc:creator>Su Houng Lee</dc:creator>
-    </item>
-    <item>
-      <title>The production of lepton pairs in heavy-ion collisions at SPS and RHIC energies</title>
-      <link>http://arxiv.org/abs/2611.23506v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xiang-Yu Wu, Han Gao, Charles Gale, Sangyong Jeon, Ralf Rapp&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-17&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We perform a quantitative study of dilepton production and elliptic flow in In+In collisions at $\sqrt{s_{\rm NN}}=17.3$ GeV and isobar collisions at $\sqrt{s_{\rm NN}}=200$ GeV, concentrating on the low and intermediate invariant mass regions. The medium evolution is simulated event-by-event with the multistage iEBE-MUSIC framework, and the electromagnetic emission combines for the first time quark-gluon plasma (QGP) emission calculated at next-to-leading order (NLO) in the strong coupling with in-medium radiation calculated with hadronic many-body theory. Freeze-out and surviving primordial $ρ$ decays are also included. The calculations are compared with the high-precision dimuon spectra measured by the NA60 Collaboration, and with STAR preliminary measurements of dielectron spectra and elliptic flow. We obtain effective temperatures extracted from the transverse-mass spectra, and we calculate the elliptic flow of the different dilepton sources. Our results suggest that dilepton measurements in the low-mass and high $p_T$ region can provide insight into higher-order corrections to the QGP emission rate.&lt;/p&gt;</description>
-      <pubDate>Tue, 17 Nov 2026 20:53:55 GMT</pubDate>
-      <guid isPermaLink="false">2611.23506v1</guid>
-      <dc:creator>Xiang-Yu Wu</dc:creator>
-      <dc:creator>Han Gao</dc:creator>
-      <dc:creator>Charles Gale</dc:creator>
-      <dc:creator>Sangyong Jeon</dc:creator>
-      <dc:creator>Ralf Rapp</dc:creator>
     </item>
     <item>
       <title>Strangeness-to-entropy ratio across the QCD crossover</title>
@@ -665,26 +703,6 @@
       <dc:creator>for the ALICE Collaboration</dc:creator>
     </item>
     <item>
-      <title>Observing Transverse Momentum Broadening from TEECs in Heavy Ion Collisions</title>
-      <link>http://arxiv.org/abs/2611.08579v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; João Barata, Hai Tao Li, Andrey V. Sadofyev, João M. Silva&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; hep-ph&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We study the azimuthal dependence of transverse energy-energy correlators (TEECs) in dijet events in heavy-ion collisions. In the back-to-back region this observable resolves the energy flow around $φ=π$ and is sensitive to medium-induced momentum broadening and the response of the medium. To isolate final-state effects, we consider a quark-antiquark pair produced in a colour-singlet hard process and propagating through a homogeneous background medium. Starting from the vacuum TMD factorization formula, we combine NLL$'$ resummation with medium modifications at first order in the strong coupling. For the parameters studied, (classical) momentum broadening lowers the back-to-back peak and leaves the distribution elsewhere nearly unchanged, while radiative corrections significantly suppress the peak further and enhance larger angular decorrelations. We additionally include the medium response sourced by each jet, as a mean energy flow. This spreads the deposited energy over the whole azimuth, so that the contribution to the TEEC varies slowly across the back-to-back region, is small at the peak and grows toward larger angles.&lt;/p&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 19:00:01 GMT</pubDate>
-      <guid isPermaLink="false">2611.08579v1</guid>
-      <dc:creator>João Barata</dc:creator>
-      <dc:creator>Hai Tao Li</dc:creator>
-      <dc:creator>Andrey V. Sadofyev</dc:creator>
-      <dc:creator>João M. Silva</dc:creator>
-    </item>
-    <item>
-      <title>Hypersurface covariance in relativistic local equilibrium</title>
-      <link>http://arxiv.org/abs/2611.08482v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; You-yu Li, Shuai Y. F. Liu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-th&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Defining equilibrium typically requires specifying a three-dimensional spacelike hypersurface. While global equilibrium is hypersurface covariant, calculations involving local equilibrium can exhibit hypersurface dependence. In this work, we use polarization in heavy-ion collisions within the Zubarev response approach as an example to show that the hypersurface dependence arising from the local-equilibrium part of the density operator is canceled by an overlooked nondissipative contribution from its so-called ``dissipative part&quot;. We establish a hypersurface-covariant Zubarev framework for general geometries by consistently including both nondissipative and dissipative parts, eliminating dependence on the arbitrary hypersurface vector. The remaining frame dependence is physical: it arises from the medium rest frame entering the particle distribution and the time direction of the dissipative process, which usually coincide. This resolves, in principle, the longstanding and widely discussed conceptual disagreement over hypersurface dependence between two influential studies addressing the sign puzzles of $Λ$-hyperon polarization in heavy-ion collisions&lt;/p&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 18:59:25 GMT</pubDate>
-      <guid isPermaLink="false">2611.08482v1</guid>
-      <dc:creator>You-yu Li</dc:creator>
-      <dc:creator>Shuai Y. F. Liu</dc:creator>
-    </item>
-    <item>
       <title>Correlations and fluctuations of flow with event shape engineering in Pb-Pb and Xe-Xe collisions at the LHC</title>
       <link>http://arxiv.org/abs/2611.08473v1</link>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; ALICE Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Measurements of anisotropic flow provide some of the strongest constraints on the collective expansion and transport properties of the quark-gluon plasma produced in ultra-relativistic heavy-ion collisions. In this paper, correlations and fluctuations of the anisotropic flow coefficients $v_{2}$, $v_{3}$, and $v_{4}$ are measured in Pb-Pb and Xe-Xe collisions at $\sqrt{s_{\rm{NN}}} = 5.02$ and $5.44$ TeV, respectively, with the ALICE detector. The Event Shape Engineering technique, based on the reduced flow vector $q_{n}$, is used to study flow correlations for different initial-state geometries. A strong anticorrelation between $v_2$ and $v_3$ and a positive correlation between $v_2$ and $v_4$ are observed. A small anticorrelation is seen between $v_3$ and $v_4$. From the $v_2$-$v_4$ correlation, the linear and nonlinear components of $v_4$ are extracted and compared to those extracted using multiparticle correlations. The linear and nonlinear components of $v_{4}$ are also measured directly as a function of $q_2$ for the first time in Pb-Pb and Xe-Xe, revealing a strong coupling of the nonlinear term to the initial-state ellipticity $\varepsilon_2$, while the linear component shows little dependence on initial-state geometry. Additionally, the coupling coefficient $χ_{4,22}$, which measures the nonlinear contribution of $v_2^2$ to $v_4$, is extracted and shows little dependence on $q_2$, except in very central collisions. The effects of flow fluctuations for constrained initial-state geometries are studied for the first time using Event Shape Engineering with the ratio of $v_2\{2\}$ and $v_2\{4\}$; the results show that collisions with the lowest $q_2$ exhibit more significant $v_2$ fluctuations compared to the unbiased ratio.&lt;/p&gt;</description>
@@ -1028,14 +1046,6 @@
       <pubDate>Thu, 15 Oct 2026 14:18:28 GMT</pubDate>
       <guid isPermaLink="false">2610.21947v1</guid>
       <dc:creator>Takafumi Niida</dc:creator>
-    </item>
-    <item>
-      <title>Probing the production mechanisms of virtual photons at RHIC</title>
-      <link>http://arxiv.org/abs/2610.19680v1</link>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; STAR Collaboration&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Updated:&lt;/strong&gt; 2026-10-14&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Category:&lt;/strong&gt; nucl-ex&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;We report the measurement of direct virtual photon ($γ^*_\text{dir} \rightarrow e^+e^-$) in four Au+Au collision energies at $\sqrt{s_\text{NN}}$ = 14.6--54.4 GeV. The $γ^*_\text{dir}$ yields scale with charged-particle multiplicity ($(dN_{\mathrm{ch}}/dη)^α$) as $α=1.43 \pm 0.04 \text{(stat.)} \pm 0.03\text{(sys.)}$, independent of collision energies and centralities, exceeding hadronic expectations and indicating notable contribution from QGP phase. At $\sqrt{s_{\rm NN}}=$ 54.4 GeV, the direct virtual photon mass distributions are further studied over $0.1 &lt; M_{ee} &lt; 1.1$ GeV/$c^2$, and are found to evolve from exponential to power-law form with increasing $p_\text{T}$, signaling a shift from &quot;blackbody&quot; radiation to emission governed by Kroll-Wada formalism.&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 07:04:03 GMT</pubDate>
-      <guid isPermaLink="false">2610.19680v1</guid>
-      <dc:creator>STAR Collaboration</dc:creator>
     </item>
   </channel>
 </rss>
